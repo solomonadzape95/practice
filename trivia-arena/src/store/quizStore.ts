@@ -14,7 +14,7 @@ export interface QuizStore {
 
   addMode: (mode: Mode) => void
   selectMode: (mode: Mode) => void
-  startQuiz: (count: 5 | 10 | 20 | 'all') => void
+  startQuiz: (count: number | 'all') => void
   answerQuestion: (optionIndex: number) => void
   nextQuestion: () => void
   finishQuiz: () => void

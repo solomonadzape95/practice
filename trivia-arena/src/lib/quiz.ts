@@ -1,6 +1,6 @@
 import type { Question } from './types'
 
-export type QuestionCount = 5 | 10 | 20 | 'all'
+export type QuestionCount = number | 'all'
 
 export function shuffle<T>(items: T[]): T[] {
   const arr = [...items]
