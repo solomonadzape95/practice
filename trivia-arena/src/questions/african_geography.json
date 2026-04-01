@@ -1,0 +1,1209 @@
+{
+  "mode": "african_geography",
+  "label": "African Geography",
+  "icon": "🗺️",
+  "color": "#F5C542",
+  "questions": [
+    {
+      "id": "afr_geo_001",
+      "question": "What is the capital city of Nigeria?",
+      "options": ["Lagos", "Kano", "Abuja", "Ibadan"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_002",
+      "question": "Which is the longest river in Africa?",
+      "options": ["Congo River", "Niger River", "Zambezi River", "Nile River"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_003",
+      "question": "What is the capital city of South Africa (administrative capital)?",
+      "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_004",
+      "question": "Which African country has the largest oil reserves?",
+      "options": ["Nigeria", "Angola", "Libya", "Algeria"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_005",
+      "question": "Lake Victoria is shared by which three countries?",
+      "options": ["Kenya, Tanzania, Uganda", "Ethiopia, Kenya, Sudan", "Tanzania, Rwanda, Burundi", "Uganda, DRC, Rwanda"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_006",
+      "question": "What is the capital city of Egypt?",
+      "options": ["Alexandria", "Cairo", "Luxor", "Giza"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_007",
+      "question": "The Sahara Desert is the world's largest hot desert. On which continent does it lie entirely?",
+      "options": ["Asia", "Middle East", "Africa", "Europe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_008",
+      "question": "Which African country is the world's largest producer of cocoa?",
+      "options": ["Ghana", "Ivory Coast", "Nigeria", "Cameroon"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_009",
+      "question": "What is the capital city of Kenya?",
+      "options": ["Mombasa", "Kisumu", "Nakuru", "Nairobi"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_010",
+      "question": "Which African lake is the deepest in the world?",
+      "options": ["Lake Victoria", "Lake Malawi", "Lake Tanganyika", "Lake Turkana"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_011",
+      "question": "The Congo River is the world's deepest river. Which country does it NOT flow through?",
+      "options": ["Democratic Republic of Congo", "Republic of Congo", "Angola", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_012",
+      "question": "What is the capital city of Ethiopia?",
+      "options": ["Dire Dawa", "Gondar", "Addis Ababa", "Hawassa"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_013",
+      "question": "Which African mountain range runs through Morocco, Algeria, and Tunisia?",
+      "options": ["Drakensberg Mountains", "Atlas Mountains", "Ethiopian Highlands", "Rwenzori Mountains"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_014",
+      "question": "What mineral is South Africa the world's largest producer of?",
+      "options": ["Gold", "Diamonds", "Platinum", "Coal"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_015",
+      "question": "What is the capital city of Ghana?",
+      "options": ["Kumasi", "Tamale", "Accra", "Cape Coast"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_016",
+      "question": "Which is the largest lake in Africa by surface area?",
+      "options": ["Lake Tanganyika", "Lake Malawi", "Lake Chad", "Lake Victoria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_017",
+      "question": "What is the capital city of Tanzania?",
+      "options": ["Zanzibar", "Mwanza", "Dodoma", "Dar es Salaam"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_018",
+      "question": "Victoria Falls on the Zambezi River borders which two countries?",
+      "options": ["Mozambique and Zimbabwe", "Zambia and Zimbabwe", "Zimbabwe and Botswana", "Zambia and Angola"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_019",
+      "question": "What is the capital city of Morocco?",
+      "options": ["Casablanca", "Marrakech", "Fez", "Rabat"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_020",
+      "question": "Which African country is the leading producer of gold?",
+      "options": ["South Africa", "Ghana", "Mali", "Sudan"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_021",
+      "question": "The Nile River flows into which body of water?",
+      "options": ["Red Sea", "Indian Ocean", "Mediterranean Sea", "Arabian Sea"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_022",
+      "question": "What is the capital city of Algeria?",
+      "options": ["Oran", "Constantine", "Annaba", "Algiers"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_023",
+      "question": "Which ocean borders Africa to the west?",
+      "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_024",
+      "question": "What is the capital city of Cameroon?",
+      "options": ["Douala", "Bamenda", "Yaoundé", "Garoua"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_025",
+      "question": "The Kalahari Desert spans primarily which countries?",
+      "options": ["Namibia and Angola", "Botswana, Namibia, and South Africa", "Zimbabwe and Mozambique", "South Africa and Lesotho"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_026",
+      "question": "What is the capital city of Angola?",
+      "options": ["Lubango", "Benguela", "Luanda", "Huambo"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_027",
+      "question": "Which African country has the most oil production?",
+      "options": ["Angola", "Libya", "Algeria", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_028",
+      "question": "What is the capital city of Senegal?",
+      "options": ["Thiès", "Ziguinchor", "Saint-Louis", "Dakar"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_029",
+      "question": "The Niger River delta is located in which country?",
+      "options": ["Mali", "Niger", "Nigeria", "Guinea"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_030",
+      "question": "What is the capital city of Mozambique?",
+      "options": ["Beira", "Nampula", "Maputo", "Tete"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_031",
+      "question": "Which African country contains the source of the Blue Nile?",
+      "options": ["Uganda", "Sudan", "Ethiopia", "Rwanda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_032",
+      "question": "What is the capital city of Zambia?",
+      "options": ["Livingstone", "Ndola", "Lusaka", "Kitwe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_033",
+      "question": "The Drakensberg Mountain range is located primarily in which country?",
+      "options": ["Zimbabwe", "Zambia", "South Africa", "Lesotho"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_034",
+      "question": "What is the capital city of Zimbabwe?",
+      "options": ["Bulawayo", "Mutare", "Harare", "Gweru"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_035",
+      "question": "Which African country is the world's largest producer of diamonds?",
+      "options": ["South Africa", "Angola", "Botswana", "Democratic Republic of Congo"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_036",
+      "question": "What is the capital city of Uganda?",
+      "options": ["Gulu", "Mbarara", "Kampala", "Jinja"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_037",
+      "question": "Lake Chad borders which four countries?",
+      "options": ["Mali, Niger, Nigeria, Cameroon", "Chad, Niger, Nigeria, Cameroon", "Chad, Niger, Sudan, Nigeria", "Chad, Mali, Niger, Cameroon"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_038",
+      "question": "What is the capital city of Rwanda?",
+      "options": ["Butare", "Ruhengeri", "Gitarama", "Kigali"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_039",
+      "question": "The Great Rift Valley stretches from which country in the south to which in the north?",
+      "options": ["Mozambique to Ethiopia", "South Africa to Djibouti", "Mozambique to Jordan (extending into Africa)", "Zimbabwe to Syria"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_040",
+      "question": "What is the capital city of Madagascar?",
+      "options": ["Toamasina", "Mahajanga", "Antananarivo", "Fianarantsoa"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_041",
+      "question": "Which African country is the largest by land area?",
+      "options": ["Democratic Republic of Congo", "Sudan", "Libya", "Algeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_042",
+      "question": "What is the capital city of Mali?",
+      "options": ["Timbuktu", "Gao", "Bamako", "Mopti"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_043",
+      "question": "The Okavango Delta, one of Africa's largest wetlands, is located in which country?",
+      "options": ["Zambia", "Zimbabwe", "Botswana", "Namibia"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_044",
+      "question": "What is the capital city of Tunisia?",
+      "options": ["Sfax", "Sousse", "Kairouan", "Tunis"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_045",
+      "question": "Which country does the Orange River form a natural border with South Africa?",
+      "options": ["Botswana", "Zimbabwe", "Namibia", "Lesotho"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_046",
+      "question": "What is the capital city of Libya?",
+      "options": ["Benghazi", "Misrata", "Tripoli", "Tobruk"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_047",
+      "question": "Which African country is the world's largest producer of coffee?",
+      "options": ["Uganda", "Kenya", "Ethiopia", "Ivory Coast"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_048",
+      "question": "What is the capital city of Ivory Coast (Côte d'Ivoire)?",
+      "options": ["Abidjan", "Bouaké", "Yamoussoukro", "San Pedro"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_049",
+      "question": "Mount Kilimanjaro is the highest peak in Africa. What is its approximate elevation?",
+      "options": ["4,895 m", "5,895 m", "6,895 m", "7,895 m"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_050",
+      "question": "What is the capital city of Sudan?",
+      "options": ["Omdurman", "Port Sudan", "Khartoum", "Kassala"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_051",
+      "question": "Which African country is the world's largest producer of coltan (columbite-tantalite)?",
+      "options": ["Rwanda", "Democratic Republic of Congo", "Burundi", "Uganda"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_052",
+      "question": "What is the capital city of Namibia?",
+      "options": ["Swakopmund", "Walvis Bay", "Windhoek", "Lüderitz"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_053",
+      "question": "The Limpopo River forms a border between South Africa and which country?",
+      "options": ["Namibia", "Botswana", "Zimbabwe", "Mozambique"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_054",
+      "question": "What is the capital city of Botswana?",
+      "options": ["Francistown", "Maun", "Gaborone", "Serowe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_055",
+      "question": "Which African country contains the most of the Sahara Desert?",
+      "options": ["Libya", "Algeria", "Mali", "Sudan"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_056",
+      "question": "What is the capital city of Democratic Republic of Congo?",
+      "options": ["Lubumbashi", "Kisangani", "Kinshasa", "Mbuji-Mayi"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_057",
+      "question": "Lake Malawi (Lake Nyasa) is bordered by Malawi, Tanzania, and which other country?",
+      "options": ["Zambia", "Zimbabwe", "Mozambique", "DRC"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_058",
+      "question": "What is the capital city of Somalia?",
+      "options": ["Hargeisa", "Kismayo", "Mogadishu", "Bosaso"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_059",
+      "question": "The Nile River has two major tributaries. What are they called?",
+      "options": ["White Nile and Blue Nile", "Upper Nile and Lower Nile", "East Nile and West Nile", "Great Nile and Little Nile"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_060",
+      "question": "What is the capital city of Ivory Coast's economic hub and largest city?",
+      "options": ["Yamoussoukro", "Abidjan", "Bouaké", "San-Pédro"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_061",
+      "question": "Which African country is the largest producer of uranium?",
+      "options": ["South Africa", "Namibia", "Niger", "Zimbabwe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_062",
+      "question": "What is the capital city of Burkina Faso?",
+      "options": ["Bobo-Dioulasso", "Koudougou", "Ouagadougou", "Banfora"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_063",
+      "question": "The Serengeti Plain is located in which country?",
+      "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_064",
+      "question": "What is the capital city of Guinea?",
+      "options": ["Kindia", "Labé", "Conakry", "Kankan"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_065",
+      "question": "Which African lake is known as the 'Calendar Lake' because it is approximately 365 km long and 52 km wide?",
+      "options": ["Lake Turkana", "Lake Malawi", "Lake Albert", "Lake Volta"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_066",
+      "question": "What is the capital city of Côte d'Ivoire (official legislative capital)?",
+      "options": ["Abidjan", "Bouaké", "Yamoussoukro", "Daloa"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_067",
+      "question": "Which African country has the largest natural gas reserves?",
+      "options": ["Libya", "Egypt", "Nigeria", "Algeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_068",
+      "question": "What is the capital city of Niger?",
+      "options": ["Zinder", "Maradi", "Tahoua", "Niamey"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_069",
+      "question": "The Zambezi River flows into which ocean?",
+      "options": ["Atlantic Ocean", "Red Sea", "Indian Ocean", "Mediterranean Sea"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_070",
+      "question": "What is the capital city of Chad?",
+      "options": ["Moundou", "Sarh", "N'Djamena", "Abéché"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_071",
+      "question": "Which African island nation is located off the eastern coast of the continent?",
+      "options": ["Seychelles", "Comoros", "Mauritius", "Madagascar"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_072",
+      "question": "What is the capital city of Gabon?",
+      "options": ["Franceville", "Port-Gentil", "Libreville", "Oyem"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_073",
+      "question": "Which African country is the largest producer of phosphates?",
+      "options": ["Tunisia", "Egypt", "Morocco", "Algeria"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_074",
+      "question": "What is the capital city of Eritrea?",
+      "options": ["Keren", "Massawa", "Asmara", "Mendefera"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_075",
+      "question": "Lake Turkana, the world's largest desert lake, is located in which country?",
+      "options": ["Ethiopia", "Sudan", "Kenya", "Uganda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_076",
+      "question": "What is the capital city of Malawi?",
+      "options": ["Blantyre", "Zomba", "Lilongwe", "Mzuzu"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_077",
+      "question": "The Cape of Good Hope is located at the southern tip of which country?",
+      "options": ["Namibia", "South Africa", "Mozambique", "Angola"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_078",
+      "question": "What is the capital city of Togo?",
+      "options": ["Sokodé", "Kara", "Lomé", "Atakpamé"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_079",
+      "question": "Which African country has the largest copper reserves?",
+      "options": ["South Africa", "Democratic Republic of Congo", "Zambia", "Zimbabwe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_080",
+      "question": "What is the capital city of Benin?",
+      "options": ["Cotonou", "Parakou", "Porto-Novo", "Abomey"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_081",
+      "question": "The Rwenzori Mountains (Mountains of the Moon) are located on the border of which two countries?",
+      "options": ["Ethiopia and Kenya", "Uganda and DRC", "Tanzania and Rwanda", "Burundi and Tanzania"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_082",
+      "question": "What is the capital city of Djibouti?",
+      "options": ["Ali Sabieh", "Dikhil", "Djibouti City", "Obock"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_083",
+      "question": "Which African country produces the most bauxite (aluminum ore)?",
+      "options": ["Cameroon", "Sierra Leone", "Ghana", "Guinea"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_084",
+      "question": "What is the capital city of Republic of Congo (Congo-Brazzaville)?",
+      "options": ["Pointe-Noire", "Dolisie", "Brazzaville", "Impfondo"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_085",
+      "question": "The Strait of Gibraltar connects Africa to which continent?",
+      "options": ["Asia", "Europe", "North America", "South America"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_086",
+      "question": "What is the capital city of Sierra Leone?",
+      "options": ["Bo", "Kenema", "Freetown", "Makeni"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_087",
+      "question": "Which African country has the second largest oil reserves on the continent?",
+      "options": ["Angola", "Nigeria", "Algeria", "Libya"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_088",
+      "question": "What is the capital city of Liberia?",
+      "options": ["Buchanan", "Gbarnga", "Monrovia", "Harper"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_089",
+      "question": "The Tibesti Mountains, the highest range in the Sahara, are located in which country?",
+      "options": ["Libya", "Niger", "Algeria", "Chad"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_090",
+      "question": "What is the capital city of Mauritania?",
+      "options": ["Nouadhibou", "Zouerate", "Nouakchott", "Rosso"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_091",
+      "question": "Which African country has the Aswan High Dam?",
+      "options": ["Sudan", "Ethiopia", "Egypt", "Libya"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_092",
+      "question": "What is the capital city of Lesotho?",
+      "options": ["Leribe", "Mafeteng", "Maseru", "Qacha's Nek"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_093",
+      "question": "Which African country is the world's largest producer of cobalt?",
+      "options": ["Zambia", "Democratic Republic of Congo", "Rwanda", "South Africa"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_094",
+      "question": "What is the capital city of Eswatini (Swaziland)?",
+      "options": ["Manzini", "Mbabane", "Siteki", "Piggs Peak"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_095",
+      "question": "Lake Volta, one of the world's largest man-made lakes, is located in which country?",
+      "options": ["Nigeria", "Ivory Coast", "Ghana", "Cameroon"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_096",
+      "question": "What is the capital city of South Sudan?",
+      "options": ["Wau", "Malakal", "Juba", "Yei"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_097",
+      "question": "The Nile River passes through how many countries?",
+      "options": ["7", "9", "11", "13"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_098",
+      "question": "What is the capital city of Central African Republic?",
+      "options": ["Bambari", "Bossangoa", "Bangui", "Berberati"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_099",
+      "question": "Which African country is the world's leading exporter of iron ore?",
+      "options": ["Guinea", "Sierra Leone", "Liberia", "Mauritania"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_100",
+      "question": "What is the capital city of Burundi?",
+      "options": ["Bujumbura", "Gitega", "Ngozi", "Muyinga"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_101",
+      "question": "The Sahel region of Africa lies just to which side of the Sahara Desert?",
+      "options": ["North", "East", "South", "West"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_102",
+      "question": "What is the capital city of Equatorial Guinea?",
+      "options": ["Bata", "Ebebiyin", "Malabo", "Mongomo"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_103",
+      "question": "Which African country shares a border with the most other countries?",
+      "options": ["Sudan", "Democratic Republic of Congo", "Nigeria", "Ethiopia"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_104",
+      "question": "What is the capital city of Guinea-Bissau?",
+      "options": ["Bafatá", "Gabu", "Bissau", "Farim"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_105",
+      "question": "The Virunga Mountains, home to mountain gorillas, straddle which three countries?",
+      "options": ["Uganda, Rwanda, Burundi", "DRC, Rwanda, Uganda", "DRC, Burundi, Tanzania", "Uganda, Rwanda, Tanzania"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_106",
+      "question": "What is the capital city of São Tomé and Príncipe?",
+      "options": ["Príncipe", "Neves", "São Tomé", "Santo António"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_107",
+      "question": "Which African country is the world's largest producer of manganese?",
+      "options": ["Gabon", "Ghana", "South Africa", "Cameroon"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_108",
+      "question": "What is the capital city of Gambia?",
+      "options": ["Serekunda", "Banjul", "Brikama", "Farafenni"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_109",
+      "question": "The Suez Canal connects the Mediterranean Sea to which body of water?",
+      "options": ["Arabian Sea", "Persian Gulf", "Red Sea", "Gulf of Aden"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_110",
+      "question": "What is the capital city of Cape Verde?",
+      "options": ["Mindelo", "Santa Maria", "Praia", "São Filipe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_111",
+      "question": "Which two African countries share the Victoria Falls?",
+      "options": ["Zimbabwe and Mozambique", "Zambia and Zimbabwe", "Zambia and Botswana", "Zimbabwe and Botswana"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_112",
+      "question": "What is the capital city of Comoros?",
+      "options": ["Mutsamudu", "Fomboni", "Moroni", "Domoni"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_113",
+      "question": "The Karoo is a semi-desert region located in which country?",
+      "options": ["Namibia", "South Africa", "Botswana", "Zimbabwe"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_114",
+      "question": "What is the capital city of Seychelles?",
+      "options": ["Beau Vallon", "Grand Anse", "Victoria", "Anse Royale"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_115",
+      "question": "Which African country has the world's largest reserves of chromium?",
+      "options": ["Zimbabwe", "South Africa", "Madagascar", "DRC"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_116",
+      "question": "What is the capital city of Mauritius?",
+      "options": ["Curepipe", "Vacoas-Phoenix", "Port Louis", "Beau Bassin"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_117",
+      "question": "The Ethiopian Highlands are sometimes called the 'Roof of Africa'. Which river originates there?",
+      "options": ["White Nile", "Blue Nile", "Congo River", "Niger River"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_118",
+      "question": "What is the capital city of Sao Tome and Principe?",
+      "options": ["Ribeira Grande", "Trindade", "São Tomé", "Santo António"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_119",
+      "question": "The Namib Desert, one of the world's oldest deserts, is located primarily in which country?",
+      "options": ["South Africa", "Botswana", "Namibia", "Angola"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_120",
+      "question": "What is the capital city of Cabo Verde (Cape Verde)?",
+      "options": ["Mindelo", "Sal Rei", "Praia", "São Filipe"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_121",
+      "question": "Which African country contains the source of the White Nile?",
+      "options": ["Ethiopia", "Tanzania", "Uganda", "Rwanda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_122",
+      "question": "The Gulf of Guinea is an arm of which ocean?",
+      "options": ["Indian Ocean", "Southern Ocean", "Pacific Ocean", "Atlantic Ocean"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_123",
+      "question": "Which African country is the world's largest producer of vanilla?",
+      "options": ["Comoros", "Reunion", "Mauritius", "Madagascar"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_124",
+      "question": "The Congo Basin is the world's second largest tropical rainforest. In which country is most of it located?",
+      "options": ["Republic of Congo", "Democratic Republic of Congo", "Gabon", "Cameroon"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_125",
+      "question": "Which African country does the equator pass through?",
+      "options": ["Ghana", "Senegal", "Gabon", "Angola"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_126",
+      "question": "What is the name of the southernmost point of the African continent?",
+      "options": ["Cape Agulhas", "Cape of Good Hope", "Cape Point", "Cape Peninsula"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_127",
+      "question": "Which African country is the world's largest producer of cassava?",
+      "options": ["Ghana", "Ethiopia", "Democratic Republic of Congo", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_128",
+      "question": "The Lake Assal in Djibouti is the lowest point in Africa. How far below sea level is it?",
+      "options": ["55 m", "155 m", "255 m", "355 m"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_129",
+      "question": "Which African country has the world's largest known reserves of platinum group metals?",
+      "options": ["Zimbabwe", "South Africa", "DRC", "Botswana"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_130",
+      "question": "The Niger River originates in which country?",
+      "options": ["Mali", "Niger", "Guinea", "Senegal"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_131",
+      "question": "Which African country is the most populated?",
+      "options": ["Democratic Republic of Congo", "South Africa", "Ethiopia", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_132",
+      "question": "The Red Sea separates Africa from which continent?",
+      "options": ["Europe", "Asia", "Middle East", "India"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_133",
+      "question": "Which African country has the highest percentage of forest cover?",
+      "options": ["DRC", "Congo Republic", "Gabon", "Cameroon"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_134",
+      "question": "The Volta River basin is located primarily in which country?",
+      "options": ["Togo", "Burkina Faso", "Benin", "Ghana"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_135",
+      "question": "Which African desert is located along the Atlantic coast of Namibia and Angola?",
+      "options": ["Kalahari Desert", "Sahara Desert", "Karoo Desert", "Namib Desert"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_136",
+      "question": "What is the second highest mountain in Africa?",
+      "options": ["Mount Kenya", "Mount Stanley", "Ras Dashen", "Mount Meru"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_137",
+      "question": "Which African country is landlocked and surrounded entirely by South Africa?",
+      "options": ["Eswatini", "Lesotho", "Botswana", "Zimbabwe"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_138",
+      "question": "The Senegal River forms the border between Senegal and which country?",
+      "options": ["Guinea", "Mali", "Guinea-Bissau", "Mauritania"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_139",
+      "question": "Which African country has the most freshwater resources?",
+      "options": ["Ethiopia", "Nigeria", "DRC", "Congo Republic"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_140",
+      "question": "The Maasai Mara National Reserve is located in which country?",
+      "options": ["Tanzania", "Kenya", "Uganda", "Ethiopia"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_141",
+      "question": "Which African country has Africa's highest peak outside of Tanzania and Kenya?",
+      "options": ["DRC", "Ethiopia", "Morocco", "Rwanda"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_142",
+      "question": "The Shire River connects Lake Malawi to which major river?",
+      "options": ["Zambezi River", "Congo River", "Limpopo River", "Orange River"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_143",
+      "question": "Which African country is the major producer of sisal (a natural fiber)?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "Madagascar"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_144",
+      "question": "The Sahara Desert covers approximately what percentage of Africa's land area?",
+      "options": ["15%", "25%", "35%", "45%"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_145",
+      "question": "Which African country has the largest coal reserves?",
+      "options": ["Zimbabwe", "Botswana", "South Africa", "Mozambique"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_146",
+      "question": "Which river forms the natural border between Zambia and Zimbabwe?",
+      "options": ["Limpopo River", "Congo River", "Zambezi River", "Orange River"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_147",
+      "question": "Which African island nation lies in the Indian Ocean off the coast of Somalia?",
+      "options": ["Comoros", "Mauritius", "Maldives", "Seychelles"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_148",
+      "question": "Which African country is the top producer of palm oil on the continent?",
+      "options": ["Ghana", "Cameroon", "Nigeria", "DRC"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_149",
+      "question": "Mount Stanley (Margherita Peak) is on the border of which two countries?",
+      "options": ["Ethiopia and Eritrea", "Tanzania and Kenya", "Uganda and DRC", "Rwanda and Burundi"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_150",
+      "question": "Which African country is the largest producer of tobacco?",
+      "options": ["Malawi", "Zimbabwe", "Mozambique", "Zambia"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_151",
+      "question": "The Volta Lake (Lake Volta) is created by which dam?",
+      "options": ["Aswan Dam", "Akosombo Dam", "Kariba Dam", "Cahora Bassa Dam"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_152",
+      "question": "Which African country is the world's top producer of pyrethrum (a natural insecticide)?",
+      "options": ["Uganda", "Tanzania", "Kenya", "Ethiopia"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_153",
+      "question": "Lake Albert is shared by which two countries?",
+      "options": ["Ethiopia and Sudan", "Tanzania and Rwanda", "Kenya and Uganda", "Uganda and DRC"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_154",
+      "question": "Which African country is the largest producer of cotton?",
+      "options": ["Egypt", "Sudan", "Ethiopia", "Mali"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_155",
+      "question": "The Blue Nile and White Nile meet at which city?",
+      "options": ["Cairo", "Luxor", "Khartoum", "Aswan"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_156",
+      "question": "Which African country is home to the Ngorongoro Crater, the world's largest intact volcanic caldera?",
+      "options": ["Kenya", "Ethiopia", "Tanzania", "Uganda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_157",
+      "question": "Which African country has the largest proven reserves of natural gas after Algeria?",
+      "options": ["Libya", "Egypt", "Nigeria", "Mozambique"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_158",
+      "question": "The Ahaggar (Hoggar) Mountains are located in which country?",
+      "options": ["Mali", "Libya", "Niger", "Algeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_159",
+      "question": "Which African country borders the most seas and oceans?",
+      "options": ["Egypt", "Somalia", "South Africa", "Libya"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_160",
+      "question": "The Congo River's estuary empties into which ocean?",
+      "options": ["Indian Ocean", "Atlantic Ocean", "Gulf of Guinea", "Southern Ocean"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_161",
+      "question": "Which African country is the largest producer of tea?",
+      "options": ["Uganda", "Tanzania", "Kenya", "Ethiopia"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_162",
+      "question": "The Bight of Benin and the Bight of Biafra form parts of the coastline of the Gulf of Guinea. Which African region are they most closely associated with?",
+      "options": ["East Africa", "West Africa", "Southern Africa", "North Africa"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_163",
+      "question": "Which African country is the world's second largest producer of chromium?",
+      "options": ["Zimbabwe", "Madagascar", "Mozambique", "DRC"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_164",
+      "question": "Lake Kivu is shared by which two countries?",
+      "options": ["Uganda and DRC", "Tanzania and Burundi", "DRC and Rwanda", "Rwanda and Uganda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_165",
+      "question": "Which African country has the most extensive mangrove forests?",
+      "options": ["Mozambique", "Cameroon", "Nigeria", "Guinea"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_166",
+      "question": "The Kariba Dam on the Zambezi River is shared between which two countries?",
+      "options": ["Zimbabwe and Botswana", "Zambia and Zimbabwe", "Mozambique and Zimbabwe", "Zambia and Malawi"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_167",
+      "question": "Which African country contains the majority of the Congo Rainforest?",
+      "options": ["Republic of Congo", "Democratic Republic of Congo", "Central African Republic", "Gabon"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_168",
+      "question": "Mount Meru is located in which African country?",
+      "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_169",
+      "question": "Which African country is the leading producer of titanium?",
+      "options": ["Kenya", "South Africa", "Mozambique", "Madagascar"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_170",
+      "question": "The Bale Mountains National Park, a UNESCO World Heritage Site, is located in which country?",
+      "options": ["Kenya", "Tanzania", "Ethiopia", "Uganda"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_171",
+      "question": "Which African country is the continent's leading sugar producer?",
+      "options": ["Zimbabwe", "Mozambique", "Mauritius", "South Africa"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_172",
+      "question": "Lake Edward is located on the border of which two countries?",
+      "options": ["Rwanda and DRC", "Uganda and DRC", "Uganda and Tanzania", "Kenya and Uganda"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_173",
+      "question": "Which African country is Africa's leading producer of wine?",
+      "options": ["Morocco", "Tunisia", "Zimbabwe", "South Africa"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_174",
+      "question": "The Pangani River is located in which country?",
+      "options": ["Kenya", "Uganda", "Ethiopia", "Tanzania"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_175",
+      "question": "Which African country has the most arable land?",
+      "options": ["Ethiopia", "DRC", "Sudan", "Nigeria"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_176",
+      "question": "The Cahora Bassa Dam, one of Africa's largest hydroelectric dams, is located in which country?",
+      "options": ["Zambia", "Zimbabwe", "Mozambique", "Angola"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_177",
+      "question": "Which African country is the world's largest producer of shea butter?",
+      "options": ["Ghana", "Mali", "Nigeria", "Burkina Faso"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_178",
+      "question": "Lake Bogoria, a UNESCO World Heritage Site, is located in which country?",
+      "options": ["Uganda", "Tanzania", "Ethiopia", "Kenya"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_179",
+      "question": "Which African country is the largest producer of gold on the continent as of recent years?",
+      "options": ["Mali", "South Africa", "Ghana", "Sudan"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_180",
+      "question": "The Orange River, South Africa's longest river, originates in which country?",
+      "options": ["South Africa", "Namibia", "Botswana", "Lesotho"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_181",
+      "question": "Which African country is the main producer of ilmenite (titanium ore) on the continent?",
+      "options": ["Kenya", "Mozambique", "Madagascar", "South Africa"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_182",
+      "question": "The Ruwenzori mountain range is sometimes referred to as what?",
+      "options": ["Mountains of the Moon", "Roof of Africa", "Mountains of Fire", "Mountains of the Sky"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_183",
+      "question": "Which African country has the world's third largest reserves of bauxite?",
+      "options": ["Sierra Leone", "Ghana", "Guinea", "Cameroon"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_184",
+      "question": "The Tana River, Kenya's longest, empties into which body of water?",
+      "options": ["Lake Victoria", "Red Sea", "Gulf of Aden", "Indian Ocean"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_185",
+      "question": "Which African country accounts for the largest share of Africa's hydropower potential?",
+      "options": ["Ethiopia", "Cameroon", "DRC", "Angola"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_186",
+      "question": "The Inga Falls, one of the world's most powerful waterfalls, is located on which river?",
+      "options": ["Niger River", "Zambezi River", "Nile River", "Congo River"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_187",
+      "question": "Which African country is the largest exporter of sesame seeds?",
+      "options": ["Ethiopia", "Nigeria", "Sudan", "Tanzania"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_188",
+      "question": "Mount Toubkal, the highest peak in North Africa, is located in which country?",
+      "options": ["Algeria", "Tunisia", "Libya", "Morocco"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_189",
+      "question": "Which African country produces the most fish by volume from marine and inland sources?",
+      "options": ["Egypt", "Morocco", "Nigeria", "South Africa"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_geo_190",
+      "question": "Lake Nakuru, famous for its flamingo population, is located in which country?",
+      "options": ["Tanzania", "Uganda", "Ethiopia", "Kenya"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_191",
+      "question": "Which African country has the continent's largest natural gas fields discovered offshore (Rovuma Basin)?",
+      "options": ["Tanzania", "Mozambique", "Madagascar", "Kenya"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_geo_192",
+      "question": "The Kunene River forms the border between Namibia and which country?",
+      "options": ["Botswana", "Zimbabwe", "Angola", "South Africa"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_193",
+      "question": "Which African country is the largest producer of groundnuts (peanuts)?",
+      "options": ["Senegal", "Gambia", "Mali", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_194",
+      "question": "The Benue River is a major tributary of which African river?",
+      "options": ["Congo River", "Volta River", "Niger River", "Senegal River"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_195",
+      "question": "Which African country contains the Gilf Kebir plateau and the Libyan Desert?",
+      "options": ["Libya", "Sudan", "Egypt", "Chad"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_geo_196",
+      "question": "The Bangweulu Swamps and Lake Bangweulu are located in which country?",
+      "options": ["Tanzania", "DRC", "Zimbabwe", "Zambia"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_197",
+      "question": "Which African country is the largest exporter of cut flowers?",
+      "options": ["South Africa", "Uganda", "Ethiopia", "Kenya"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_198",
+      "question": "The Cheliff River, the longest river in which North African country, flows into the Mediterranean Sea?",
+      "options": ["Morocco", "Tunisia", "Libya", "Algeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_199",
+      "question": "Which African country is the world's top exporter of phosphate rock?",
+      "options": ["Algeria", "Egypt", "Tunisia", "Morocco"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_geo_200",
+      "question": "The Olifants River, a tributary of the Limpopo, flows through which South African national park?",
+      "options": ["Table Mountain National Park", "Hluhluwe-iMfolozi Park", "Kruger National Park", "Addo Elephant Park"],
+      "correct_index": 2
+    }
+  ]
+}
+

@@ -1,0 +1,1209 @@
+{
+  "mode": "history",
+  "label": "History",
+  "icon": "🌏",
+  "color": "#FF4D6D",
+  "questions": [
+    {
+      "id": "hist_001",
+      "question": "What is the lowest layer of Earth's atmosphere, where most weather occurs?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_002",
+      "question": "Which instrument is used to measure wind speed?",
+      "options": ["Barometer", "Anemometer", "Hygrometer", "Thermometer"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_003",
+      "question": "What scale is used to measure the intensity of tornadoes?",
+      "options": ["Saffir-Simpson", "Richter", "Fujita", "Mercalli"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_004",
+      "question": "What scale is used to measure the intensity of hurricanes?",
+      "options": ["Fujita", "Richter", "Beaufort", "Saffir-Simpson"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_005",
+      "question": "The Coriolis effect, which causes wind patterns to curve, is caused by?",
+      "options": ["Earth's rotation", "Lunar gravity", "Solar radiation", "Ocean currents"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_006",
+      "question": "El Niño is characterized by the unusual warming of surface waters in which ocean?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_007",
+      "question": "Which type of clouds are wispy, feather-like, and found at high altitudes?",
+      "options": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_008",
+      "question": "Cumulonimbus clouds are most commonly associated with what kind of weather?",
+      "options": ["Clear skies", "Light drizzle", "Dense fog", "Thunderstorms"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_009",
+      "question": "In the Köppen climate classification system, what does a type 'A' climate represent?",
+      "options": ["Tropical", "Dry", "Temperate", "Polar"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_010",
+      "question": "What is the term for the average weather conditions in a region over a long period?",
+      "options": ["Meteorology", "Climate", "Atmosphere", "Front"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_011",
+      "question": "Which primary greenhouse gas is most responsible for the current global warming trend?",
+      "options": ["Methane", "Nitrous Oxide", "Carbon Dioxide", "Water Vapor"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_012",
+      "question": "The rain shadow effect typically creates what type of landscape on the leeward side of a mountain?",
+      "options": ["Rainforest", "Tundra", "Swamp", "Desert"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_013",
+      "question": "Which instrument measures atmospheric pressure?",
+      "options": ["Barometer", "Hygrometer", "Anemometer", "Altimeter"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_014",
+      "question": "Where was the highest reliably recorded air temperature on Earth?",
+      "options": ["Sahara Desert, Africa", "Death Valley, USA", "Dasht-e Lut, Iran", "Outback, Australia"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_015",
+      "question": "Which is considered the driest non-polar desert in the world?",
+      "options": ["Sahara Desert", "Gobi Desert", "Atacama Desert", "Kalahari Desert"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_016",
+      "question": "Which layer of the atmosphere contains the ozone layer?",
+      "options": ["Troposphere", "Mesosphere", "Thermosphere", "Stratosphere"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_017",
+      "question": "What is the scientific study of the atmosphere and weather called?",
+      "options": ["Meteorology", "Climatology", "Geology", "Seismology"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_018",
+      "question": "A seasonal prevailing wind in South and Southeast Asia that brings heavy rain is a?",
+      "options": ["Hurricane", "Monsoon", "Typhoon", "Cyclone"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_019",
+      "question": "What does a hygrometer measure?",
+      "options": ["Wind direction", "Air pressure", "Humidity", "Precipitation"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_020",
+      "question": "Lines on a weather map connecting points of equal atmospheric pressure are called?",
+      "options": ["Isotherms", "Contours", "Isoclines", "Isobars"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_021",
+      "question": "In climate science, 'albedo' refers to a surface's?",
+      "options": ["Reflectivity", "Temperature", "Moisture", "Altitude"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_022",
+      "question": "The 'eye' of a hurricane is characterized by what?",
+      "options": ["The strongest winds", "Calm weather", "Heavy lightning", "Tornadoes"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_023",
+      "question": "What phenomenon produces the Aurora Borealis (Northern Lights)?",
+      "options": ["Lunar reflections", "Volcanic ash in the sky", "Solar wind interacting with Earth's magnetic field", "Ozone layer depletion"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_024",
+      "question": "A boundary where a warm air mass replaces a cold air mass is called a?",
+      "options": ["Cold front", "Stationary front", "Occluded front", "Warm front"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_025",
+      "question": "What type of precipitation falls as supercooled liquid but freezes immediately upon hitting a surface?",
+      "options": ["Freezing rain", "Sleet", "Hail", "Snow"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_026",
+      "question": "Which ocean current keeps Western Europe relatively warm for its latitude?",
+      "options": ["Kuroshio Current", "Gulf Stream", "Canary Current", "California Current"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_027",
+      "question": "An extended period of unusually dry weather causing water shortages is a?",
+      "options": ["Famine", "Heatwave", "Drought", "Aridity"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_028",
+      "question": "Localized climate conditions that differ from the surrounding area are called?",
+      "options": ["Macroclimates", "Mesoclimates", "Nanoclimates", "Microclimates"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_029",
+      "question": "The boundary between the troposphere and the stratosphere is known as the?",
+      "options": ["Tropopause", "Stratopause", "Mesopause", "Thermopause"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_030",
+      "question": "Fog is essentially a cloud at ground level. What type of cloud is it?",
+      "options": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_031",
+      "question": "Alexander the Great was the king of which ancient kingdom?",
+      "options": ["Sparta", "Athens", "Macedon", "Troy"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_032",
+      "question": "Who was the famous tutor of Alexander the Great?",
+      "options": ["Socrates", "Plato", "Pythagoras", "Aristotle"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_033",
+      "question": "Napoleon Bonaparte was born on which island?",
+      "options": ["Corsica", "Elba", "Sardinia", "Sicily"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_034",
+      "question": "At which 1815 battle was Napoleon finally defeated?",
+      "options": ["Austerlitz", "Waterloo", "Trafalgar", "Leipzig"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_035",
+      "question": "Genghis Khan founded which massive empire?",
+      "options": ["Ottoman Empire", "Roman Empire", "Mongol Empire", "Persian Empire"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_036",
+      "question": "What was Genghis Khan's birth name?",
+      "options": ["Batu", "Kublai", "Ogedei", "Temüjin"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_037",
+      "question": "Which Roman leader famously declared 'the die is cast' upon crossing the Rubicon?",
+      "options": ["Julius Caesar", "Mark Antony", "Pompey", "Augustus"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_038",
+      "question": "Who was the first official Emperor of Rome?",
+      "options": ["Julius Caesar", "Augustus (Octavian)", "Nero", "Tiberius"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_039",
+      "question": "Mansa Musa, renowned for his immense wealth, was the ruler of which empire?",
+      "options": ["Songhai Empire", "Ghana Empire", "Mali Empire", "Kanem Empire"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_040",
+      "question": "Suleiman the Magnificent was the longest-reigning Sultan of which empire?",
+      "options": ["Mughal Empire", "Safavid Empire", "Byzantine Empire", "Ottoman Empire"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_041",
+      "question": "Which Mauryan emperor converted to Buddhism and promoted non-violence after the Kalinga War?",
+      "options": ["Ashoka", "Chandragupta", "Bindusara", "Harsha"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_042",
+      "question": "Who is considered the First Emperor of a unified China and builder of the Terracotta Army?",
+      "options": ["Han Wudi", "Qin Shi Huang", "Sun Yat-sen", "Kublai Khan"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_043",
+      "question": "Cyrus the Great was the founder of which empire?",
+      "options": ["Babylonian Empire", "Assyrian Empire", "Achaemenid (Persian) Empire", "Median Empire"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_044",
+      "question": "Cleopatra was the last active ruler of which kingdom?",
+      "options": ["Seleucid Empire", "Macedonian Empire", "Roman Republic", "Ptolemaic Kingdom of Egypt"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_045",
+      "question": "Queen Victoria was the monarch of the UK and was also crowned Empress of?",
+      "options": ["India", "Canada", "Australia", "South Africa"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_046",
+      "question": "Charlemagne, King of the Franks, was crowned Emperor of the Romans in what year?",
+      "options": ["476 AD", "800 AD", "1066 AD", "1492 AD"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_047",
+      "question": "Which female pharaoh is known for her successful trade expeditions and massive building projects?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Sobekneferu"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_048",
+      "question": "Shaka was a highly influential monarch and military innovator of which kingdom?",
+      "options": ["Ashanti", "Dahomey", "Xhosa", "Zulu"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_049",
+      "question": "Montezuma II was the ruler of which empire when the Spanish arrived?",
+      "options": ["Aztec Empire", "Inca Empire", "Maya Empire", "Olmec Empire"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_050",
+      "question": "Atahualpa was the last emperor of which empire before the Spanish conquest?",
+      "options": ["Aztec Empire", "Inca Empire", "Toltec Empire", "Nazca"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_051",
+      "question": "Boudica was a queen of the Iceni tribe who led a revolt against the Roman Empire in?",
+      "options": ["Gaul", "Hispania", "Britain", "Germania"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_052",
+      "question": "Hammurabi is best known for issuing a comprehensive code of laws for which empire?",
+      "options": ["Assyria", "Sumer", "Akkadia", "Babylon"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_053",
+      "question": "King Richard I of England, famous for his role in the Third Crusade, was known by what epithet?",
+      "options": ["The Lionheart", "The Conqueror", "The Great", "The Bald"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_054",
+      "question": "Saladin was the first sultan of Egypt and Syria, famously leading Islamic opposition against?",
+      "options": ["The Mongols", "The Crusaders", "The Byzantines", "The Ottomans"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_055",
+      "question": "Ivan IV, famously known as Ivan the Terrible, was the first ruler to be crowned as Tsar of?",
+      "options": ["Prussia", "Poland", "Russia", "Serbia"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_056",
+      "question": "Which Mughal Emperor commissioned the Taj Mahal in memory of his favorite wife?",
+      "options": ["Akbar", "Jahangir", "Aurangzeb", "Shah Jahan"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_057",
+      "question": "Catherine the Great was the longest-ruling female leader of which country?",
+      "options": ["Russia", "Prussia", "Austria", "France"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_058",
+      "question": "Louis XIV of France, who built the Palace of Versailles, was known as the?",
+      "options": ["Iron King", "Sun King", "Mad King", "Spider King"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_059",
+      "question": "Which English monarch is famous for having six wives and initiating the English Reformation?",
+      "options": ["Edward I", "Richard III", "Henry VIII", "Charles I"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_060",
+      "question": "Elizabeth I, the 'Virgin Queen', was the last monarch of which royal house?",
+      "options": ["Plantagenet", "Lancaster", "York", "Tudor"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_061",
+      "question": "Gilgamesh, the subject of a famous epic, was the historical king of which Sumerian city-state?",
+      "options": ["Uruk", "Ur", "Eridu", "Nippur"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_062",
+      "question": "Who founded the Maurya Empire in ancient India?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chanakya"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_063",
+      "question": "The Byzantine Empire reached its greatest territorial extent under which emperor?",
+      "options": ["Constantine the Great", "Heraclius", "Justinian I", "Basil II"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_064",
+      "question": "Emperor Meiji presided over the rapid modernization and industrialization of which country?",
+      "options": ["China", "Korea", "Thailand", "Japan"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_065",
+      "question": "Which ruler was feared by the Romans and known as the 'Scourge of God'?",
+      "options": ["Attila the Hun", "Alaric the Goth", "Genseric the Vandal", "Odoacer"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_066",
+      "question": "King Tutankhamun belonged to which Egyptian dynasty?",
+      "options": ["4th Dynasty", "18th Dynasty", "25th Dynasty", "Ptolemaic Dynasty"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_067",
+      "question": "William the Conqueror successfully invaded England in what year?",
+      "options": ["1014", "1042", "1066", "1086"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_068",
+      "question": "Queen Zenobia led a famous revolt against the Roman Empire as the ruler of which empire?",
+      "options": ["Sassanid Empire", "Carthaginian Empire", "Macedonian Empire", "Palmyrene Empire"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_069",
+      "question": "The great ancient city of Alexandria in Egypt was founded by?",
+      "options": ["Alexander the Great", "Ptolemy I Soter", "Julius Caesar", "Cleopatra"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_070",
+      "question": "Napoleon's comprehensive legal reform, which heavily influenced modern civil law, is known as the?",
+      "options": ["Justinian Code", "Napoleonic Code", "Magna Carta", "Rights of Man"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_071",
+      "question": "Who succeeded Genghis Khan as the Khagan of the Mongol Empire?",
+      "options": ["Kublai Khan", "Batu Khan", "Ögedei Khan", "Tolui"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_072",
+      "question": "Kublai Khan, grandson of Genghis Khan, founded which dynasty in China?",
+      "options": ["Song Dynasty", "Ming Dynasty", "Qing Dynasty", "Yuan Dynasty"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_073",
+      "question": "Which Emperor is famously, but likely apocryphally, said to have fiddled while Rome burned?",
+      "options": ["Nero", "Caligula", "Commodus", "Domitian"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_074",
+      "question": "Who was the longest-reigning French monarch, ruling for over 72 years?",
+      "options": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_075",
+      "question": "The Habsburgs were one of the most prominent and powerful royal houses of?",
+      "options": ["Asia", "Africa", "Europe", "South America"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_076",
+      "question": "Pachacuti was a transformative ruler who vastly expanded which empire?",
+      "options": ["Aztec", "Maya", "Olmec", "Inca"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_077",
+      "question": "Akbar the Great was the third emperor of which empire?",
+      "options": ["Mughal Empire", "Maratha Empire", "Gupta Empire", "Mauryan Empire"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_078",
+      "question": "The Rosetta Stone was discovered during the military campaign of which leader in Egypt?",
+      "options": ["Alexander the Great", "Napoleon Bonaparte", "Julius Caesar", "Richard the Lionheart"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_079",
+      "question": "Which famous Carthaginian general and leader famously marched war elephants across the Alps?",
+      "options": ["Scipio Africanus", "Hasdrubal", "Hannibal", "Hamilcar"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_080",
+      "question": "Ramesses II is often considered the greatest and most celebrated pharaoh of the?",
+      "options": ["Old Kingdom", "Middle Kingdom", "Ptolemaic Period", "New Kingdom"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_081",
+      "question": "Which empress ruled the Byzantine Empire as a powerful co-regent with Justinian I?",
+      "options": ["Theodora", "Irene", "Zoe", "Eudoxia"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_082",
+      "question": "Who was the last Tsar of Russia, executed along with his family in 1918?",
+      "options": ["Alexander III", "Nicholas II", "Peter the Great", "Ivan IV"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_083",
+      "question": "In British legend, King Arthur's court was located at the castle of?",
+      "options": ["Tintagel", "Avalon", "Camelot", "Glastonbury"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_084",
+      "question": "Which French heroine helped Charles VII to the throne during the Hundred Years' War before being burned at the stake?",
+      "options": ["Eleanor of Aquitaine", "Marie Antoinette", "Catherine de' Medici", "Joan of Arc"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_085",
+      "question": "Which Macedonian king conquered Greece and was the father of Alexander the Great?",
+      "options": ["Philip II", "Ptolemy I", "Antigonus I", "Cassander"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_086",
+      "question": "Who was Socrates' most famous student, and the author of the philosophical dialogues featuring him?",
+      "options": ["Aristotle", "Plato", "Xenophon", "Epicurus"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_087",
+      "question": "The famous phrase 'I think, therefore I am' (Cogito, ergo sum) was coined by?",
+      "options": ["Immanuel Kant", "John Locke", "René Descartes", "David Hume"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_088",
+      "question": "Which philosopher wrote 'The Republic' and described the 'Allegory of the Cave'?",
+      "options": ["Socrates", "Aristotle", "Pythagoras", "Plato"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_089",
+      "question": "Aristotle founded which school of philosophy in Athens?",
+      "options": ["The Lyceum", "The Academy", "The Stoa", "The Garden"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_090",
+      "question": "'God is dead' is a famous statement made by which German philosopher?",
+      "options": ["Arthur Schopenhauer", "Friedrich Nietzsche", "Georg Wilhelm Friedrich Hegel", "Karl Marx"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_091",
+      "question": "Who wrote 'The Prince', a foundational text of modern political philosophy regarding the use of power?",
+      "options": ["Thomas Hobbes", "Jean-Jacques Rousseau", "Niccolò Machiavelli", "John Locke"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_092",
+      "question": "The teachings of the ancient Chinese philosopher Confucius are compiled in a work known as?",
+      "options": ["Tao Te Ching", "I Ching", "The Art of War", "The Analects"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_093",
+      "question": "Who is considered the traditional founder of Daoism and the author of the Tao Te Ching?",
+      "options": ["Laozi", "Zhuangzi", "Sun Tzu", "Han Feizi"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_094",
+      "question": "The 'Categorical Imperative' is a central concept in the moral philosophy of?",
+      "options": ["John Stuart Mill", "Immanuel Kant", "Jeremy Bentham", "David Hume"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_095",
+      "question": "John Locke argued that at birth, the human mind is a 'blank slate', known by what Latin term?",
+      "options": ["A priori", "Cogito", "Tabula rasa", "Sine qua non"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_096",
+      "question": "Thomas Hobbes described the state of nature as 'nasty, brutish, and short' in which famous book?",
+      "options": ["Two Treatises of Government", "The Social Contract", "The Wealth of Nations", "Leviathan"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_097",
+      "question": "Which philosopher famously wrote 'Man is born free, and everywhere he is in chains'?",
+      "options": ["Jean-Jacques Rousseau", "Voltaire", "Montesquieu", "Denis Diderot"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_098",
+      "question": "Who co-authored 'The Communist Manifesto' alongside Friedrich Engels?",
+      "options": ["Vladimir Lenin", "Karl Marx", "Leon Trotsky", "Mikhail Bakunin"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_099",
+      "question": "Jean-Paul Sartre was a leading figure in which 20th-century philosophical movement?",
+      "options": ["Structuralism", "Phenomenology", "Existentialism", "Pragmatism"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_100",
+      "question": "Albert Camus wrote about the absurdity of life using which figure from Greek mythology?",
+      "options": ["Prometheus", "Hercules", "Icarus", "Sisyphus"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_101",
+      "question": "Baruch Spinoza is best known for a philosophy that effectively equated God with what?",
+      "options": ["Nature / The Universe", "The Human Mind", "Love", "Nothingness"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_102",
+      "question": "Marcus Aurelius, Epictetus, and Seneca are key figures in which Hellenistic school of philosophy?",
+      "options": ["Epicureanism", "Stoicism", "Cynicism", "Skepticism"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_103",
+      "question": "David Hume is a central figure in the philosophical tradition of?",
+      "options": ["Rationalism", "Idealism", "Empiricism", "Romanticism"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_104",
+      "question": "Sun Tzu is traditionally credited as the author of which famous Chinese military treatise?",
+      "options": ["Thirty-Six Stratagems", "Wuzi", "Zuo Zhuan", "The Art of War"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_105",
+      "question": "The concept of the 'Übermensch' (Superman or Overman) was introduced by?",
+      "options": ["Friedrich Nietzsche", "Søren Kierkegaard", "Martin Heidegger", "Karl Jaspers"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_106",
+      "question": "Jeremy Bentham and John Stuart Mill are the primary founders of which ethical theory?",
+      "options": ["Deontology", "Utilitarianism", "Virtue Ethics", "Nihilism"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_107",
+      "question": "Which philosopher is most heavily associated with the dialectic method of thesis, antithesis, and synthesis?",
+      "options": ["Immanuel Kant", "David Hume", "G.W.F. Hegel", "Arthur Schopenhauer"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_108",
+      "question": "Diogenes of Sinope, who famously lived in a ceramic jar, was a controversial figure of which philosophical school?",
+      "options": ["Stoicism", "Epicureanism", "Platonism", "Cynicism"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_109",
+      "question": "Plato's 'Allegory of the Cave' primarily explores the difference between?",
+      "options": ["Appearance and Reality", "Good and Evil", "Mind and Body", "God and Man"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_110",
+      "question": "Which classical Greek philosopher famously died by drinking a cup of poisonous hemlock?",
+      "options": ["Aristotle", "Socrates", "Epicurus", "Zeno"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_111",
+      "question": "Arthur Schopenhauer is famously known for his philosophical?",
+      "options": ["Optimism", "Pragmatism", "Pessimism", "Materialism"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_112",
+      "question": "Which female Neoplatonist philosopher and mathematician was murdered by a Christian mob in Alexandria in 415 AD?",
+      "options": ["Diotima", "Arete", "Aspasia", "Hypatia"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_113",
+      "question": "The 'Trolley Problem' is a famous thought experiment in which branch of philosophy?",
+      "options": ["Ethics", "Epistemology", "Metaphysics", "Aesthetics"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_114",
+      "question": "St. Thomas Aquinas famously integrated the philosophy of which ancient Greek thinker with Christian theology?",
+      "options": ["Plato", "Aristotle", "Socrates", "Heraclitus"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_115",
+      "question": "The 'Will to Power' is a prominent concept in the philosophy of?",
+      "options": ["Immanuel Kant", "Karl Marx", "Friedrich Nietzsche", "Michel Foucault"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_116",
+      "question": "Which planet is the largest in our solar system?",
+      "options": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_117",
+      "question": "As of recent astronomical discoveries, which planet currently has the most confirmed moons?",
+      "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_118",
+      "question": "What are the four largest moons of Jupiter collectively called?",
+      "options": ["Jovian Moons", "Galilean Moons", "Keplerian Moons", "Cassini Moons"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_119",
+      "question": "Which is the largest moon in the solar system, even larger than the planet Mercury?",
+      "options": ["Titan", "Callisto", "Ganymede", "Europa"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_120",
+      "question": "What is the largest moon of Saturn, known for its dense, planet-like atmosphere?",
+      "options": ["Enceladus", "Rhea", "Iapetus", "Titan"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_121",
+      "question": "Mars has two small, irregularly shaped moons named Phobos and?",
+      "options": ["Deimos", "Triton", "Charon", "Dione"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_122",
+      "question": "Earth's moon is officially referred to by what name in international astronomical terms?",
+      "options": ["Selene", "Luna", "Artemis", "Cynthia"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_123",
+      "question": "What is the name of Pluto's largest moon, which is so large they are often considered a double system?",
+      "options": ["Nix", "Hydra", "Charon", "Styx"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_124",
+      "question": "Which massive moon of Neptune orbits in a retrograde direction (opposite to the planet's rotation)?",
+      "options": ["Nereid", "Proteus", "Larissa", "Triton"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_125",
+      "question": "The moons of Uranus are uniquely named after characters from the works of Alexander Pope and?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Homer"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_126",
+      "question": "Which planet is the hottest in our solar system due to a runaway greenhouse effect?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_127",
+      "question": "Which planet is famously known as the 'Red Planet' due to iron oxide on its surface?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_128",
+      "question": "Uranus and Neptune are categorized by astronomers as?",
+      "options": ["Gas Giants", "Terrestrial Planets", "Dwarf Planets", "Ice Giants"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_129",
+      "question": "The Great Red Spot is a massive, long-lasting storm on which planet?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Venus"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_130",
+      "question": "Which star is closest to Earth?",
+      "options": ["Sirius", "The Sun", "Proxima Centauri", "Alpha Centauri A"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_131",
+      "question": "What is the name of the heavily cratered, innermost planet of our solar system?",
+      "options": ["Venus", "Mars", "Mercury", "Pluto"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_132",
+      "question": "The main asteroid belt is located between the orbits of Mars and?",
+      "options": ["Earth", "Saturn", "Uranus", "Jupiter"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_133",
+      "question": "Which Galilean moon of Jupiter is considered one of the best places to look for extraterrestrial life due to its subsurface ocean?",
+      "options": ["Europa", "Io", "Ganymede", "Callisto"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_134",
+      "question": "Io, a moon of Jupiter, is the most volcanically active body in the solar system. What causes this extreme heat?",
+      "options": ["Solar radiation", "Tidal heating from Jupiter", "Radioactive decay", "Asteroid impacts"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_135",
+      "question": "Enceladus, known for its dramatic water-ice geysers erupting from its south pole, is a moon of?",
+      "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_136",
+      "question": "Which planet essentially rolls on its side as it orbits the sun, having an axial tilt of about 98 degrees?",
+      "options": ["Saturn", "Neptune", "Venus", "Uranus"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_137",
+      "question": "Which of the inner terrestrial planets has the thickest, densest atmosphere?",
+      "options": ["Venus", "Earth", "Mars", "Mercury"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_138",
+      "question": "Olympus Mons, the largest known volcano in the solar system, is located on which planet?",
+      "options": ["Venus", "Mars", "Earth", "Mercury"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_139",
+      "question": "What is the name of the only dwarf planet located in the inner solar system's asteroid belt?",
+      "options": ["Pluto", "Eris", "Ceres", "Haumea"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_140",
+      "question": "Which of these is NOT one of the four Galilean moons of Jupiter?",
+      "options": ["Io", "Europa", "Ganymede", "Titan"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_141",
+      "question": "What region divides the inner rocky planets from the outer gas giants?",
+      "options": ["The Asteroid Belt", "The Kuiper Belt", "The Oort Cloud", "The Heliosphere"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_142",
+      "question": "How many planets in our solar system have ring systems?",
+      "options": ["One", "Four", "Two", "Three"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_143",
+      "question": "A 'Shooting Star' burning up in Earth's atmosphere is scientifically known as a?",
+      "options": ["Comet", "Asteroid", "Meteor", "Meteorite"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_144",
+      "question": "The Oort Cloud, a theoretical shell surrounding the solar system, is believed to be the source of what?",
+      "options": ["Near-Earth Asteroids", "Short-period comets", "Dwarf planets", "Long-period comets"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_145",
+      "question": "Which planet rotates so slowly that a single 'day' on its surface is longer than its 'year' (orbit around the sun)?",
+      "options": ["Venus", "Mercury", "Uranus", "Neptune"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_146",
+      "question": "In the Star Wars universe, who is the original creator of the franchise?",
+      "options": ["Steven Spielberg", "George Lucas", "J.J. Abrams", "Gene Roddenberry"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_147",
+      "question": "Which desert planet in Star Wars is famous for having twin suns?",
+      "options": ["Hoth", "Endor", "Tatooine", "Jakku"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_148",
+      "question": "Who is the author of the 'Lord of the Rings' fantasy series?",
+      "options": ["C.S. Lewis", "George R.R. Martin", "J.K. Rowling", "J.R.R. Tolkien"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_149",
+      "question": "In Lord of the Rings, what is the name of the volcano where the One Ring was forged and must be destroyed?",
+      "options": ["Mount Doom", "Lonely Mountain", "Mount Gundabad", "Caradhras"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_150",
+      "question": "In the Harry Potter universe, which Hogwarts house is known for valuing bravery, daring, and chivalry?",
+      "options": ["Slytherin", "Gryffindor", "Ravenclaw", "Hufflepuff"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_151",
+      "question": "What is Lord Voldemort's real, original name in Harry Potter?",
+      "options": ["Lucius Malfoy", "Severus Snape", "Tom Marvolo Riddle", "Gellert Grindelwald"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_152",
+      "question": "In the Marvel Cinematic Universe, what is Iron Man's real name?",
+      "options": ["Steve Rogers", "Bruce Banner", "Peter Parker", "Tony Stark"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_153",
+      "question": "What fictional, technologically advanced African nation is the home of Black Panther and vibranium?",
+      "options": ["Wakanda", "Zamunda", "Genosha", "Latveria"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_154",
+      "question": "Who wrote the 'A Song of Ice and Fire' book series, which was adapted into Game of Thrones?",
+      "options": ["Brandon Sanderson", "George R.R. Martin", "Robert Jordan", "Patrick Rothfuss"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_155",
+      "question": "In Game of Thrones, what is the name of the primary continent where the Seven Kingdoms are located?",
+      "options": ["Essos", "Sothoryos", "Westeros", "Ulthos"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_156",
+      "question": "In Frank Herbert's 'Dune' universe, what is the highly valuable substance found exclusively on the planet Arrakis?",
+      "options": ["Dilithium", "Kyber", "Unobtainium", "Spice Melange"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_157",
+      "question": "Who is the iconic captain of the USS Enterprise in the original Star Trek television series?",
+      "options": ["James T. Kirk", "Jean-Luc Picard", "Kathryn Janeway", "Benjamin Sisko"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_158",
+      "question": "What logical, emotion-suppressing alien species does Mr. Spock from Star Trek belong to?",
+      "options": ["Klingon", "Vulcan", "Romulan", "Borg"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_159",
+      "question": "In Doctor Who, what is the name of the Doctor's time machine and spacecraft?",
+      "options": ["DeLorean", "Millennium Falcon", "TARDIS", "Heart of Gold"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_160",
+      "question": "What fictional universe features a popular sport played on flying broomsticks called Quidditch?",
+      "options": ["Percy Jackson", "The Magicians", "The Chronicles of Narnia", "Harry Potter"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_161",
+      "question": "The 'Infinity Stones' are six powerful gems central to the overarching plot of which cinematic universe?",
+      "options": ["Marvel Cinematic Universe", "DC Extended Universe", "MonsterVerse", "Dark Universe"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_162",
+      "question": "What is the name of the magical elven realm ruled by Galadriel in Middle-earth?",
+      "options": ["Rivendell", "Lothlórien", "Mirkwood", "Gondolin"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_163",
+      "question": "In Star Wars, what is the invisible, ubiquitous energy field created by all living things?",
+      "options": ["The Source", "The Magic", "The Force", "The Weave"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_164",
+      "question": "In DC Comics, what is the name of the crime-ridden fictional city that Batman protects?",
+      "options": ["Metropolis", "Central City", "Star City", "Gotham City"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_165",
+      "question": "Superman was sent to Earth as a baby from his dying home planet called?",
+      "options": ["Krypton", "Daxam", "Czarnia", "Tamaran"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_166",
+      "question": "In the film 'The Matrix', what color pill does Neo take to wake up from the simulation and see reality?",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_167",
+      "question": "In 'Avatar: The Last Airbender', which nation initiated the Hundred Year War?",
+      "options": ["Earth Kingdom", "Water Tribe", "Fire Nation", "Air Nomads"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_168",
+      "question": "What is the name of the sci-fi video game universe featuring the Spartan super-soldier Master Chief?",
+      "options": ["Mass Effect", "Gears of War", "Destiny", "Halo"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_169",
+      "question": "In 'The Hunger Games' series, what impoverished district does Katniss Everdeen come from?",
+      "options": ["District 12", "District 11", "District 1", "District 13"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_170",
+      "question": "Which constructed language was famously created by J.R.R. Tolkien for the Elves in his books?",
+      "options": ["Klingon", "Sindarin (and Quenya)", "Dothraki", "Valyrian"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_171",
+      "question": "In 'The Witcher' universe, what is the primary profession of Geralt of Rivia?",
+      "options": ["King", "Sorcerer", "Monster Hunter", "Assassin"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_172",
+      "question": "In the 'Percy Jackson' series, Camp Half-Blood is a secret summer training facility for?",
+      "options": ["Wizards", "Mutants", "Vampires", "Demigods"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_173",
+      "question": "In the video game universe of 'The Legend of Zelda', what is the name of the princess you must often rescue?",
+      "options": ["Zelda", "Peach", "Daisy", "Rosalina"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_174",
+      "question": "What is the name of the versatile, handheld tool frequently used by the Doctor in Doctor Who?",
+      "options": ["Proton Pack", "Sonic Screwdriver", "Tricorder", "Lightsaber"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_175",
+      "question": "In 'Dune', what are the massive, spice-producing sandworms of Arrakis called by the native Fremen?",
+      "options": ["Graboids", "Krayt Dragons", "Shai-Hulud", "Sarlacc"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_176",
+      "question": "What is traditionally considered the longest river in the world?",
+      "options": ["Amazon River", "Yangtze River", "Mississippi River", "The Nile River"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_177",
+      "question": "What is the tallest mountain on Earth measured from sea level to summit?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Mount Kilimanjaro"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_178",
+      "question": "Which is the largest and deepest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_179",
+      "question": "What is the chemical symbol for Gold on the periodic table?",
+      "options": ["Go", "Ag", "Au", "Gd"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_180",
+      "question": "Who is historically credited with inventing the first practical telephone?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Guglielmo Marconi", "Alexander Graham Bell"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_181",
+      "question": "Which inventor is best known for his contributions to the design of the modern alternating current (AC) electricity supply system?",
+      "options": ["Nikola Tesla", "Thomas Edison", "Benjamin Franklin", "Alessandro Volta"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_182",
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_183",
+      "question": "What is the capital city of Japan?",
+      "options": ["Kyoto", "Osaka", "Tokyo", "Sapporo"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_184",
+      "question": "In cellular biology, which organelle is commonly referred to as the 'powerhouse of the cell'?",
+      "options": ["Nucleus", "Ribosome", "Endoplasmic Reticulum", "Mitochondria"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_185",
+      "question": "What is the hardest naturally occurring substance found on Earth?",
+      "options": ["Diamond", "Graphene", "Titanium", "Quartz"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_186",
+      "question": "According to the most widely accepted model, how many continents are there on Earth?",
+      "options": ["Five", "Seven", "Six", "Eight"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_187",
+      "question": "Which Italian Renaissance polymath painted the 'Mona Lisa'?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_188",
+      "question": "What is the largest living mammal (and largest known animal) in the world?",
+      "options": ["African Elephant", "Colossal Squid", "Sperm Whale", "Blue Whale"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_189",
+      "question": "What gas do plants absorb from the atmosphere during the process of photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_190",
+      "question": "Who wrote the famous tragedy play 'Romeo and Juliet'?",
+      "options": ["Christopher Marlowe", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_191",
+      "question": "What is the smallest fully independent nation-state in the world by land area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_192",
+      "question": "In what year did the RMS Titanic famously sink in the North Atlantic Ocean?",
+      "options": ["1905", "1908", "1910", "1912"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_193",
+      "question": "What is the largest organ of the human body by surface area and weight?",
+      "options": ["The Skin", "The Liver", "The Lungs", "The Brain"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_194",
+      "question": "Who was the first human being to walk on the moon in 1969?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_195",
+      "question": "What is the primary fruit ingredient used to make guacamole?",
+      "options": ["Tomato", "Mango", "Avocado", "Lime"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_196",
+      "question": "Which planet is commonly referred to as the 'Morning Star' or 'Evening Star' because it is often the brightest natural object in the sky after the Moon?",
+      "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+      "correct_index": 3
+    },
+    {
+      "id": "hist_197",
+      "question": "How many bones are there in a typical adult human body?",
+      "options": ["206", "198", "215", "230"],
+      "correct_index": 0
+    },
+    {
+      "id": "hist_198",
+      "question": "Which common element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Oganesson", "Ozone"],
+      "correct_index": 1
+    },
+    {
+      "id": "hist_199",
+      "question": "Which renowned physicist developed the theory of relativity and the equation E=mc^2?",
+      "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Stephen Hawking"],
+      "correct_index": 2
+    },
+    {
+      "id": "hist_200",
+      "question": "What is the official currency used in the United Kingdom?",
+      "options": ["Euro", "Dollar", "Franc", "Pound Sterling"],
+      "correct_index": 3
+    }
+  ]
+}
+

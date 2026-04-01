@@ -1,0 +1,1473 @@
+{
+  "mode": "mixed_gk",
+  "label": "Mixed GK",
+  "icon": "💫",
+  "color": "#FB923C",
+  "questions": [
+    {
+      "id": "mix_001",
+      "question": "What is the astrological symbol for Aries?",
+      "options": ["The Bull", "The Ram", "The Twins", "The Crab"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_002",
+      "question": "Which zodiac sign is represented by the Scales?",
+      "options": ["Virgo", "Libra", "Scorpio", "Sagittarius"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_003",
+      "question": "Which of the following is a Water sign?",
+      "options": ["Aries", "Taurus", "Cancer", "Gemini"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_004",
+      "question": "What is the ruling planet of Leo?",
+      "options": ["Mars", "Venus", "The Sun", "Jupiter"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_005",
+      "question": "People born on October 31 fall under which zodiac sign?",
+      "options": ["Libra", "Scorpio", "Sagittarius", "Virgo"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_006",
+      "question": "Which zodiac sign is symbolized by the Archer?",
+      "options": ["Capricorn", "Sagittarius", "Aquarius", "Pisces"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_007",
+      "question": "What element is associated with Taurus, Virgo, and Capricorn?",
+      "options": ["Fire", "Water", "Air", "Earth"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_008",
+      "question": "Which planet rules the sign of Gemini?",
+      "options": ["Mercury", "Venus", "Saturn", "Uranus"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_009",
+      "question": "What is the astrological symbol for Pisces?",
+      "options": [
+        "The Water Bearer",
+        "The Sea-Goat",
+        "The Fish",
+        "The Scorpion"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_010",
+      "question": "Which of these is considered a Mutable sign?",
+      "options": ["Taurus", "Leo", "Scorpio", "Gemini"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_011",
+      "question": "Aquarius is represented by which symbol?",
+      "options": ["The Water Bearer", "The Twin", "The Crab", "The Lion"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_012",
+      "question": "Which zodiac sign starts the astrological new year in March?",
+      "options": ["Capricorn", "Aquarius", "Pisces", "Aries"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_013",
+      "question": "What element is associated with Aries, Leo, and Sagittarius?",
+      "options": ["Air", "Fire", "Earth", "Water"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_014",
+      "question": "Which planet is considered the ruler of Taurus?",
+      "options": ["Mars", "Venus", "Jupiter", "Neptune"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_015",
+      "question": "The symbol of the Twins belongs to which sign?",
+      "options": ["Gemini", "Libra", "Pisces", "Cancer"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_016",
+      "question": "Which of these signs is ruled by Mars (traditionally)?",
+      "options": ["Taurus", "Cancer", "Aries", "Libra"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_017",
+      "question": "What is the symbol for the zodiac sign Cancer?",
+      "options": ["The Scorpion", "The Crab", "The Virgin", "The Ram"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_018",
+      "question": "Which sign spans from roughly August 23 to September 22?",
+      "options": ["Leo", "Virgo", "Libra", "Scorpio"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_019",
+      "question": "Saturn is the ruling planet of which earth sign?",
+      "options": ["Taurus", "Virgo", "Capricorn", "Gemini"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_020",
+      "question": "Which element do Gemini, Libra, and Aquarius share?",
+      "options": ["Earth", "Fire", "Water", "Air"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_021",
+      "question": "What astrological symbol represents Capricorn?",
+      "options": ["The Sea-Goat", "The Ram", "The Bull", "The Scales"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_022",
+      "question": "Which zodiac sign is considered the opposite of Aries?",
+      "options": ["Libra", "Cancer", "Capricorn", "Scorpio"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_023",
+      "question": "Who painted the iconic 'Mona Lisa'?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_024",
+      "question": "Which artist is famous for 'The Starry Night'?",
+      "options": [
+        "Edvard Munch",
+        "Vincent van Gogh",
+        "Salvador Dalí",
+        "Rembrandt"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_025",
+      "question": "The melting clocks painting, 'The Persistence of Memory', was created by?",
+      "options": [
+        "Pablo Picasso",
+        "Rene Magritte",
+        "Salvador Dalí",
+        "Frida Kahlo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_026",
+      "question": "Who painted 'Guernica', a powerful anti-war statement?",
+      "options": [
+        "Francisco Goya",
+        "Diego Rivera",
+        "Pablo Picasso",
+        "Joan Miró"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_027",
+      "question": "Which Renaissance master sculpted 'David'?",
+      "options": ["Donatello", "Michelangelo", "Raphael", "Bernini"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_028",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_029",
+      "question": "Which artist is known for his 'Campbell's Soup Cans'?",
+      "options": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Jackson Pollock",
+        "Mark Rothko"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_030",
+      "question": "Who painted 'The Scream'?",
+      "options": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Paul Cézanne"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_031",
+      "question": "Which Dutch artist painted 'Girl with a Pearl Earring'?",
+      "options": ["Rembrandt", "Johannes Vermeer", "Frans Hals", "Jan Steen"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_032",
+      "question": "Which artist is famous for a series of 'Water Lilies' paintings?",
+      "options": [
+        "Edouard Manet",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_033",
+      "question": "Who painted 'The Two Fridas'?",
+      "options": [
+        "Georgia O'Keeffe",
+        "Leonora Carrington",
+        "Frida Kahlo",
+        "Mary Cassatt"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_034",
+      "question": "Which artist created the pointillist masterpiece 'A Sunday on La Grande Jatte'?",
+      "options": [
+        "Georges Seurat",
+        "Paul Signac",
+        "Camille Pissarro",
+        "Henri Matisse"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_035",
+      "question": "Who painted 'The Birth of Venus'?",
+      "options": ["Titian", "Sandro Botticelli", "Caravaggio", "Giotto"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_036",
+      "question": "Which American artist is known for extreme close-ups of flowers?",
+      "options": [
+        "Mary Cassatt",
+        "Georgia O'Keeffe",
+        "Helen Frankenthaler",
+        "Joan Mitchell"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_037",
+      "question": "Who created the bronze sculpture 'The Thinker'?",
+      "options": [
+        "Auguste Rodin",
+        "Constantin Brancusi",
+        "Alberto Giacometti",
+        "Henry Moore"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_038",
+      "question": "Which artist is famous for his drip painting technique?",
+      "options": [
+        "Willem de Kooning",
+        "Jackson Pollock",
+        "Mark Rothko",
+        "Franz Kline"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_039",
+      "question": "Who painted 'The Night Watch'?",
+      "options": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Peter Paul Rubens",
+        "Anthony van Dyck"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_040",
+      "question": "Which artist painted 'American Gothic'?",
+      "options": [
+        "Edward Hopper",
+        "Grant Wood",
+        "Andrew Wyeth",
+        "Norman Rockwell"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_041",
+      "question": "Who painted 'The Kiss' using gold leaf?",
+      "options": [
+        "Egon Schiele",
+        "Gustav Klimt",
+        "Alphonse Mucha",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_042",
+      "question": "Which street artist is known for 'Girl with Balloon'?",
+      "options": [
+        "Shepard Fairey",
+        "Banksy",
+        "Jean-Michel Basquiat",
+        "Keith Haring"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_043",
+      "question": "Where is the 'Mona Lisa' permanently displayed?",
+      "options": ["The Met", "The Prado", "The Louvre", "The Uffizi"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_044",
+      "question": "Who painted 'Impression, Sunrise', giving the Impressionist movement its name?",
+      "options": [
+        "Claude Monet",
+        "Edouard Manet",
+        "Edgar Degas",
+        "Alfred Sisley"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_045",
+      "question": "Which artist famously cut off part of his own ear?",
+      "options": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec",
+        "Henri Matisse"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_046",
+      "question": "Who created the giant spider sculpture titled 'Maman'?",
+      "options": [
+        "Louise Bourgeois",
+        "Barbara Hepworth",
+        "Yayoi Kusama",
+        "Niki de Saint Phalle"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_047",
+      "question": "Which artist is known for his colorful, dancing figures and cut-outs in his later years?",
+      "options": [
+        "Pablo Picasso",
+        "Henri Matisse",
+        "Marc Chagall",
+        "Raoul Dufy"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_048",
+      "question": "Who painted 'Las Meninas'?",
+      "options": [
+        "Francisco Goya",
+        "El Greco",
+        "Diego Velázquez",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_049",
+      "question": "Which artist is famous for covering rooms and objects in polka dots?",
+      "options": [
+        "Yayoi Kusama",
+        "Marina Abramović",
+        "Yoko Ono",
+        "Bridget Riley"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_050",
+      "question": "Who painted 'The Garden of Earthly Delights'?",
+      "options": [
+        "Pieter Bruegel the Elder",
+        "Hieronymus Bosch",
+        "Jan van Eyck",
+        "Hans Holbein the Younger"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_051",
+      "question": "How many players are on the field for one team in a standard soccer match?",
+      "options": ["9", "10", "11", "12"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_052",
+      "question": "In basketball, how many players per team are on the court at a time?",
+      "options": ["4", "5", "6", "7"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_053",
+      "question": "How many Grand Slam tournaments are there in tennis each year?",
+      "options": ["3", "4", "5", "6"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_054",
+      "question": "Which tennis Grand Slam is played on a clay court?",
+      "options": ["Australian Open", "Wimbledon", "US Open", "French Open"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_055",
+      "question": "Which country did the martial art of Judo originate in?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_056",
+      "question": "In which sport would you use a 'shuttlecock'?",
+      "options": ["Table Tennis", "Squash", "Badminton", "Lacrosse"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_057",
+      "question": "How many holes are played in a standard round of golf?",
+      "options": ["9", "18", "21", "24"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_058",
+      "question": "Which cycling race is considered the most prestigious in the world?",
+      "options": [
+        "Giro d'Italia",
+        "Vuelta a España",
+        "Tour de France",
+        "Paris-Roubaix"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_059",
+      "question": "How many points is a touchdown worth in American Football (before the extra point)?",
+      "options": ["3", "5", "6", "7"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_060",
+      "question": "In which sport do teams compete for the Stanley Cup?",
+      "options": ["Baseball", "Basketball", "Ice Hockey", "Soccer"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_061",
+      "question": "How many players are on a standard indoor volleyball team on the court?",
+      "options": ["5", "6", "7", "8"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_062",
+      "question": "Which country is considered the birthplace of modern Cricket?",
+      "options": ["India", "Australia", "South Africa", "England"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_063",
+      "question": "In Rugby Union, how many players are on the field for one team?",
+      "options": ["11", "13", "15", "18"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_064",
+      "question": "What is the diameter of a standard basketball hoop in inches?",
+      "options": ["16", "18", "20", "22"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_065",
+      "question": "Which sport features a 'scrum'?",
+      "options": ["Soccer", "American Football", "Rugby", "Water Polo"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_066",
+      "question": "What color jacket is traditionally awarded to the winner of the Masters Golf Tournament?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_067",
+      "question": "Which country has won the most FIFA Men's World Cups?",
+      "options": ["Germany", "Italy", "Argentina", "Brazil"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_068",
+      "question": "In baseball, how many outs does a team get per inning?",
+      "options": ["2", "3", "4", "5"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_069",
+      "question": "What is the national sport of Canada (summer)?",
+      "options": ["Ice Hockey", "Curling", "Lacrosse", "Baseball"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_070",
+      "question": "How long is a standard marathon?",
+      "options": ["13.1 miles", "26.2 miles", "30.5 miles", "42.5 miles"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_071",
+      "question": "Which sport is known as 'The Sweet Science'?",
+      "options": ["Wrestling", "Fencing", "Boxing", "Judo"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_072",
+      "question": "What is the maximum score you can achieve in a single game of ten-pin bowling?",
+      "options": ["200", "250", "300", "350"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_073",
+      "question": "Which country originated the martial art of Taekwondo?",
+      "options": ["Japan", "China", "South Korea", "Vietnam"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_074",
+      "question": "In which sport do you perform an 'Ollie'?",
+      "options": ["Surfing", "Snowboarding", "Skateboarding", "BMX"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_075",
+      "question": "What is the lightest weight class in professional men's boxing?",
+      "options": ["Bantamweight", "Flyweight", "Strawweight", "Featherweight"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_076",
+      "question": "How many players are on a water polo team in the water?",
+      "options": ["5", "6", "7", "8"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_077",
+      "question": "Which sport features apparatuses like the pommel horse and uneven bars?",
+      "options": ["Track and Field", "Gymnastics", "Diving", "Weightlifting"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_078",
+      "question": "What is the standard weight of a men's shot put?",
+      "options": ["12 lbs", "14 lbs", "16 lbs", "18 lbs"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_079",
+      "question": "Which grand slam tennis tournament is played on grass?",
+      "options": ["US Open", "Australian Open", "French Open", "Wimbledon"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_080",
+      "question": "How many events make up a Decathlon?",
+      "options": ["7", "8", "9", "10"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_081",
+      "question": "What shape is a standard Australian Rules Football field?",
+      "options": ["Rectangular", "Square", "Oval", "Circular"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_082",
+      "question": "In fencing, which of these is NOT a valid weapon?",
+      "options": ["Foil", "Épée", "Sabre", "Rapier"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_083",
+      "question": "How many periods are in a standard professional ice hockey game?",
+      "options": ["2", "3", "4", "5"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_084",
+      "question": "What is the object hit in the sport of curling called?",
+      "options": ["Puck", "Stone", "Ball", "Disk"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_085",
+      "question": "Which sport uses a 'peloton'?",
+      "options": ["Sailing", "Rowing", "Cycling", "Horse Racing"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_086",
+      "question": "Where is the cloth known as Kente originally from?",
+      "options": ["Nigeria", "Ghana", "Senegal", "Kenya"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_087",
+      "question": "Traditionally, Kente cloth was exclusively worn by whom?",
+      "options": [
+        "Warriors",
+        "Unmarried women",
+        "Royalty and chiefs",
+        "Priests"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_088",
+      "question": "What is the colorful, loose-fitting pullover shirt common in West Africa called?",
+      "options": ["Dashiki", "Shuka", "Isiagu", "Kanga"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_089",
+      "question": "Which East African ethnic group is known for wearing the red checked 'Shuka'?",
+      "options": ["Zulu", "Maasai", "Igbo", "Amhara"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_090",
+      "question": "The grand, flowing wide-sleeved robe worn by men in West Africa, especially Nigeria, is called?",
+      "options": ["Boubou", "Agbada", "Kaftan", "Djellaba"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_091",
+      "question": "What symbol is prominently featured on the traditional Igbo 'Isiagu' shirt?",
+      "options": ["Elephant", "Eagle", "Lion's head", "Sun"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_092",
+      "question": "Which garment indicates chieftaincy or high status among the Igbo people?",
+      "options": ["Isiagu", "Kanga", "Shweshwe", "Gomesi"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_093",
+      "question": "The 'Kanga' is a colorful garment worn in East Africa that typically features what?",
+      "options": [
+        "A map of Africa",
+        "A traditional proverb",
+        "Leopard spots",
+        "Cowrie shells"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_094",
+      "question": "Bògòlanfini, a handmade cotton fabric dyed with fermented mud, originates from which country?",
+      "options": ["Mali", "Ethiopia", "South Africa", "Morocco"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_095",
+      "question": "In Mali, mudcloth was traditionally worn by hunters for camouflage and by women for what?",
+      "options": [
+        "Marriage ceremonies",
+        "Protection after childbirth",
+        "Harvest festivals",
+        "Mourning"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_096",
+      "question": "What is the traditional white dress worn by Ethiopian and Eritrean women called?",
+      "options": ["Diraco", "Habesha Kemis", "Gomesi", "Boubou"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_097",
+      "question": "The 'Djellaba', a long, loose-fitting unisex outer robe with a hood, is native to?",
+      "options": [
+        "West Africa",
+        "East Africa",
+        "North Africa",
+        "Southern Africa"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_098",
+      "question": "What is the wide, flared hat worn by married Zulu women to show respect called?",
+      "options": ["Isicholo", "Gele", "Fez", "Kufi"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_099",
+      "question": "The 'Gele' is an elaborate traditional head tie worn by women from which country?",
+      "options": ["Kenya", "Egypt", "Nigeria", "Senegal"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_100",
+      "question": "What is the traditional printed cotton fabric widely worn in South Africa called?",
+      "options": ["Shweshwe", "Kente", "Aso-oke", "Faso Dan Fani"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_101",
+      "question": "Which Ugandan dress features a square neckline and a sash tied below the waist?",
+      "options": ["Habesha Kemis", "Gomesi", "Kikoi", "Dashiki"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_102",
+      "question": "Aso-oke is a hand-loomed cloth created by which Nigerian ethnic group?",
+      "options": ["Hausa", "Igbo", "Yoruba", "Fulani"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_103",
+      "question": "The 'Kikoi' is a traditional woven cloth commonly worn by men on the coast of?",
+      "options": [
+        "West Africa",
+        "North Africa",
+        "East Africa",
+        "Central Africa"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_104",
+      "question": "Which North African headwear is a brimless felt hat, usually red with a tassel?",
+      "options": ["Gele", "Fez", "Kufi", "Tagelmust"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_105",
+      "question": "What is the indigo-dyed cotton garment worn as a veil by Tuareg men called?",
+      "options": ["Tagelmust", "Djellaba", "Boubou", "Kente"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_106",
+      "question": "The 'Boubou' is a flowing wide-sleeved robe commonly worn in which region?",
+      "options": [
+        "Southern Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_107",
+      "question": "Which iconic African tree is known as the 'Tree of Life' due to its ability to store water?",
+      "options": ["Acacia", "Baobab", "Mahogany", "Marula"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_108",
+      "question": "What succulent plant has been used for centuries by the San people to suppress hunger and thirst?",
+      "options": ["Aloe Vera", "Hoodia Gordonii", "Agave", "Lithops"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_109",
+      "question": "Which plant, native to South Africa's Cederberg region, is used to make a popular caffeine-free red tea?",
+      "options": ["Honeybush", "Rooibos", "Khat", "Buchu"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_110",
+      "question": "The fruit of which African tree is loved by elephants and used to make the Amarula liqueur?",
+      "options": ["Baobab", "Mango", "Marula", "Tamarind"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_111",
+      "question": "Which desert plant is traditionally used in Southern Africa to treat joint pain and arthritis?",
+      "options": ["Devil's Claw", "African Potato", "Moringa", "Artemisia"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_112",
+      "question": "What fat is extracted from the nut of the Vitellaria paradoxa tree and widely used in cosmetics?",
+      "options": ["Cocoa Butter", "Shea Butter", "Palm Oil", "Argan Oil"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_113",
+      "question": "Which fast-growing tree is often called the 'miracle tree' because its leaves are highly nutritious?",
+      "options": ["Neem", "Moringa", "Eucalyptus", "Baobab"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_114",
+      "question": "Which plant is heavily used in Nigerian cuisine for soups and has medicinal properties for digestion?",
+      "options": ["Bitter Leaf", "Scent Leaf", "Waterleaf", "Uziza"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_115",
+      "question": "Which plant, native to Madagascar, provided the compounds used in groundbreaking leukemia drugs?",
+      "options": [
+        "Madagascar Palm",
+        "Rosy Periwinkle",
+        "Traveler's Tree",
+        "Baobab"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_116",
+      "question": "Which South African aloe species is highly valued for its wound-healing and laxative properties?",
+      "options": [
+        "Aloe Vera",
+        "Aloe Ferox",
+        "Aloe Arborescens",
+        "Aloe Dichotoma"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_117",
+      "question": "What is the African Potato (Hypoxis hemerocallidea) primarily used for in traditional medicine?",
+      "options": [
+        "Eye infections",
+        "Immune system boosting",
+        "Bone healing",
+        "Appetite stimulant"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_118",
+      "question": "Which plant is chewed in the Horn of Africa for its mild stimulant effects?",
+      "options": ["Khat", "Cola Nut", "Iboga", "Guarana"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_119",
+      "question": "Which West African nut is naturally caffeinated and historically used as a gesture of hospitality?",
+      "options": ["Macadamia Nut", "Cola Nut", "Shea Nut", "Cashew"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_120",
+      "question": "Which central African shrub root is used in traditional spiritual ceremonies and contains the psychedelic ibogaine?",
+      "options": ["Iboga", "Ayahuasca", "Peyote", "Kava"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_121",
+      "question": "Which aromatic herb is traditionally used by the Khoisan people as a smudge to cleanse energy?",
+      "options": ["Sage", "Imphepho", "Frankincense", "Myrrh"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_122",
+      "question": "Oil from which Moroccan tree is highly prized globally for hair and skin care?",
+      "options": ["Olive Tree", "Argan Tree", "Shea Tree", "Jojoba Plant"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_123",
+      "question": "Which plant's bark is historically used in Africa to treat malaria fevers before modern quinine?",
+      "options": ["Cinchona", "Baobab", "Artemisia afra", "Willow"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_124",
+      "question": "Which tree produces pods that contain a sweet-sour pulp used in African drinks and global cuisines?",
+      "options": ["Tamarind", "Marula", "Jackfruit", "Guava"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_125",
+      "question": "What fiber plant is native to Egypt and was historically used to make ancient paper?",
+      "options": ["Flax", "Hemp", "Papyrus", "Cotton"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_126",
+      "question": "Which tree's wood is famously dark, dense, and historically used for fine carvings in East Africa?",
+      "options": ["African Blackwood", "Mahogany", "Teak", "Ebony"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_127",
+      "question": "Who painted 'The Son of Man', featuring a man in a bowler hat with an apple obscuring his face?",
+      "options": ["Salvador Dalí", "René Magritte", "Joan Miró", "Max Ernst"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_128",
+      "question": "Which Mexican muralist was married to Frida Kahlo?",
+      "options": [
+        "David Alfaro Siqueiros",
+        "José Clemente Orozco",
+        "Rufino Tamayo",
+        "Diego Rivera"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_129",
+      "question": "Who created the sculpture 'Bird in Space'?",
+      "options": [
+        "Constantin Brancusi",
+        "Alexander Calder",
+        "Henry Moore",
+        "Jean Arp"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_130",
+      "question": "Which artist is famous for his 'mobile' sculptures?",
+      "options": [
+        "Marcel Duchamp",
+        "Alexander Calder",
+        "David Smith",
+        "Isamu Noguchi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_131",
+      "question": "Who painted 'Nighthawks', showing people in a late-night downtown diner?",
+      "options": [
+        "Edward Hopper",
+        "Norman Rockwell",
+        "Andrew Wyeth",
+        "Grant Wood"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_132",
+      "question": "Which artist used a urinal for his artwork titled 'Fountain'?",
+      "options": [
+        "Pablo Picasso",
+        "Man Ray",
+        "Marcel Duchamp",
+        "Francis Picabia"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_133",
+      "question": "Who is known for painting large, colorful portraits of Barack and Michelle Obama?",
+      "options": [
+        "Kerry James Marshall",
+        "Kehinde Wiley and Amy Sherald",
+        "Jean-Michel Basquiat",
+        "Kara Walker"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_134",
+      "question": "Which French post-Impressionist painter famously moved to Tahiti?",
+      "options": [
+        "Paul Cézanne",
+        "Henri de Toulouse-Lautrec",
+        "Paul Gauguin",
+        "Georges Seurat"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_135",
+      "question": "Who painted 'Wanderer above the Sea of Fog'?",
+      "options": [
+        "Caspar David Friedrich",
+        "J.M.W. Turner",
+        "John Constable",
+        "Francisco Goya"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_136",
+      "question": "Which pop artist used comic strip techniques with Ben-Day dots?",
+      "options": [
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Robert Rauschenberg"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_137",
+      "question": "Who painted the surrealist piece 'The Treachery of Images' (This is not a pipe)?",
+      "options": ["Salvador Dalí", "René Magritte", "Max Ernst", "Yves Tanguy"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_138",
+      "question": "Which artist is known for wrapping large buildings and landscapes in fabric?",
+      "options": [
+        "Christo and Jeanne-Claude",
+        "Richard Serra",
+        "Robert Smithson",
+        "Anish Kapoor"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_139",
+      "question": "Who created the 'Balloon Dog' sculptures?",
+      "options": ["Damien Hirst", "Jeff Koons", "Takashi Murakami", "Kaws"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_140",
+      "question": "Which artist preserved a shark in formaldehyde in 'The Physical Impossibility of Death in the Mind of Someone Living'?",
+      "options": ["Tracey Emin", "Damien Hirst", "Marc Quinn", "Sarah Lucas"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_141",
+      "question": "What is the length of a standard Olympic swimming pool?",
+      "options": ["25 meters", "50 meters", "75 meters", "100 meters"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_142",
+      "question": "In bowling, what is it called when you knock down all pins on the first roll?",
+      "options": ["Spare", "Strike", "Split", "Turkey"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_143",
+      "question": "Which sport is played at Wimbledon?",
+      "options": ["Croquet", "Cricket", "Tennis", "Badminton"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_144",
+      "question": "How many players are on a team in field hockey?",
+      "options": ["9", "10", "11", "12"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_145",
+      "question": "Which country is the origin of the martial art Muay Thai?",
+      "options": ["Vietnam", "Thailand", "Cambodia", "Laos"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_146",
+      "question": "What is the maximum number of clubs a golfer is allowed to carry in their bag during a round?",
+      "options": ["12", "14", "16", "18"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_147",
+      "question": "In which sport do competitors use a 'foil'?",
+      "options": ["Javelin", "Archery", "Fencing", "Pole Vault"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_148",
+      "question": "What is the term for a zero score in tennis?",
+      "options": ["Nil", "Zero", "Duck", "Love"],
+      "correct_index": 3
+    },
+    {
+      "id": "mix_149",
+      "question": "Which sport features a 'libero'?",
+      "options": ["Soccer", "Volleyball", "Basketball", "Water Polo"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_150",
+      "question": "How many bases are there on a baseball field (including home plate)?",
+      "options": ["3", "4", "5", "6"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_151",
+      "question": "What African clothing item is a small, round skullcap worn by men in many West African countries?",
+      "options": ["Fez", "Kufi", "Gele", "Taqiyah"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_152",
+      "question": "Which North African ethnic group is known for wearing indigo-dyed clothing that stains their skin?",
+      "options": ["Berbers", "Tuareg", "Bedouins", "Nubians"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_153",
+      "question": "The 'Agbada' is traditionally associated with which Nigerian ethnic group?",
+      "options": ["Igbo", "Hausa", "Yoruba", "Kanuri"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_154",
+      "question": "What is the traditional Southern African loincloth or apron worn by men called?",
+      "options": ["Shuka", "Beshu", "Kikoi", "Dashiki"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_155",
+      "question": "Which garment is a two-piece outfit consisting of a tunic and pants, popular in West Africa?",
+      "options": ["Buba and Sokoto", "Agbada", "Kente", "Boubou"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_156",
+      "question": "What material was traditionally used to make the African Zulu shield (Ihlangu)?",
+      "options": ["Wood", "Woven grass", "Cowhide", "Metal"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_157",
+      "question": "The Herero women of Namibia are known for wearing dresses inspired by which era?",
+      "options": ["Victorian", "Renaissance", "Ancient Egypt", "1920s Flapper"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_158",
+      "question": "Which West African fabric uses a resist-dyeing technique often with indigo?",
+      "options": ["Kente", "Adire", "Mudcloth", "Kanga"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_159",
+      "question": "What is the traditional wrap skirt worn by women in Central and West Africa called?",
+      "options": ["Pagne", "Shuka", "Gomesi", "Habesha"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_160",
+      "question": "What do the colors in Kente cloth symbolize? (e.g., Gold)",
+      "options": ["Death", "Royalty and wealth", "War", "Harvest"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_161",
+      "question": "Which African plant's seeds are historically used in the game Mancala?",
+      "options": [
+        "Marula",
+        "Baobab",
+        "Caesalpinia bonduc (Nickernut)",
+        "Cola Nut"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_162",
+      "question": "What toxic plant is traditionally used by African hunters to poison arrow tips?",
+      "options": ["Acokanthera", "Moringa", "Baobab", "Rooibos"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_163",
+      "question": "Which African fruit tree is often planted near graves and used in ancestral ceremonies by the Shona?",
+      "options": ["Mobola Plum", "Marula", "Baobab", "Sausage Tree"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_164",
+      "question": "The Kigelia africana is commonly known by what name due to its large, hanging fruits?",
+      "options": [
+        "Sausage Tree",
+        "Bread Tree",
+        "Banana Tree",
+        "Cannonball Tree"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_165",
+      "question": "Which plant is used by the Maasai to create a reddish dye for their hair and body?",
+      "options": ["Ochre (Mineral)", "Henna", "Red Sorghum", "Madder root"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_166",
+      "question": "Which Ethiopian grain is the smallest in the world and used to make injera?",
+      "options": ["Sorghum", "Millet", "Teff", "Fonio"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_167",
+      "question": "Which resilient West African grain is known as the 'seed of the universe' by the Dogon people?",
+      "options": ["Teff", "Fonio", "Millet", "Sorghum"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_168",
+      "question": "What popular houseplant, known for filtering air, is native to West Africa and called 'Mother-in-Law's Tongue'?",
+      "options": ["Spider Plant", "Snake Plant", "Pothos", "Peace Lily"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_169",
+      "question": "Which African flower is the national flower of South Africa?",
+      "options": [
+        "Bird of Paradise",
+        "King Protea",
+        "Calla Lily",
+        "African Violet"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_170",
+      "question": "Which tree's resin is tapped in the Horn of Africa to produce Frankincense?",
+      "options": ["Boswellia", "Commiphora", "Acacia", "Baobab"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_171",
+      "question": "What astrological sign is represented by the Virgin?",
+      "options": ["Gemini", "Virgo", "Libra", "Pisces"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_172",
+      "question": "What element is the sign of Cancer?",
+      "options": ["Earth", "Air", "Water", "Fire"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_173",
+      "question": "Who painted the mural 'The Last Supper'?",
+      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Titian"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_174",
+      "question": "Which Dutch artist painted 'Sunflowers'?",
+      "options": [
+        "Johannes Vermeer",
+        "Rembrandt",
+        "Vincent van Gogh",
+        "Piet Mondrian"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_175",
+      "question": "How many periods are there in a standard basketball game (NBA)?",
+      "options": ["2", "3", "4", "5"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_176",
+      "question": "In which sport is the 'Ryder Cup' contested?",
+      "options": ["Tennis", "Golf", "Polo", "Sailing"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_177",
+      "question": "What African clothing piece means 'shirt' in Yoruba and is a popular loose pullover?",
+      "options": ["Dashiki", "Buba", "Agbada", "Kente"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_178",
+      "question": "What is the traditional symbol of the Ashanti kingdom often woven into Kente?",
+      "options": ["Golden Stool", "Lion", "Eagle", "Spear"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_179",
+      "question": "Which African tree provides a bark that is used to make a potent traditional male aphrodisiac?",
+      "options": ["Yohimbe", "Moringa", "Baobab", "Acacia"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_180",
+      "question": "Which plant is known as 'African Wormwood' and used for respiratory ailments?",
+      "options": ["Artemisia afra", "Devil's Claw", "Hoodia", "Buchu"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_181",
+      "question": "What is the ruling planet of Pisces (in modern astrology)?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_182",
+      "question": "Which sign is known as the Scorpion?",
+      "options": ["Cancer", "Scorpio", "Capricorn", "Aries"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_183",
+      "question": "Which artist created the abstract geometric painting 'Composition with Red, Blue, and Yellow'?",
+      "options": [
+        "Kazimir Malevich",
+        "Wassily Kandinsky",
+        "Piet Mondrian",
+        "Joan Miró"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_184",
+      "question": "Who sculpted the ancient Greek statue 'Venus de Milo'?",
+      "options": [
+        "Phidias",
+        "Praxiteles",
+        "Alexandros of Antioch",
+        "Polykleitos"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_185",
+      "question": "What sport uses a 'shuttlecock'?",
+      "options": ["Tennis", "Badminton", "Squash", "Pickleball"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_186",
+      "question": "In cricket, how many runs are scored for hitting the ball over the boundary without bouncing?",
+      "options": ["4", "5", "6", "10"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_187",
+      "question": "What color is the traditional wedding dress (Kanga or Shweshwe often) in South Africa?",
+      "options": ["White", "Black", "Varies, highly colorful", "Only Red"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_188",
+      "question": "The 'Kofia' is a brimless cylindrical cap worn by men primarily in which region?",
+      "options": [
+        "Swahili Coast (East Africa)",
+        "Sahara Desert",
+        "Southern Africa",
+        "West African Coast"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_189",
+      "question": "Which medicinal leaf is commonly used in West Africa to wrap foods like Moi Moi?",
+      "options": ["Banana Leaf", "Uma Leaf", "Bitter Leaf", "Palm Leaf"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_190",
+      "question": "Which African plant's seeds are crushed to make a traditional black soap?",
+      "options": [
+        "Shea",
+        "Cocoa pod ash and Plantain skin",
+        "Baobab",
+        "Marula"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_191",
+      "question": "Which zodiac sign is symbolized by the Scorpion?",
+      "options": ["Cancer", "Scorpio", "Capricorn", "Sagittarius"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_192",
+      "question": "What is the ruling planet of Aquarius (modern)?",
+      "options": ["Saturn", "Uranus", "Neptune", "Pluto"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_193",
+      "question": "Who painted 'The Starry Night'?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Georges Seurat"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_194",
+      "question": "Who sculpted the 'Pieta'?",
+      "options": ["Donatello", "Michelangelo", "Bernini", "Rodin"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_195",
+      "question": "How many players are on a rugby league team?",
+      "options": ["11", "13", "15", "18"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_196",
+      "question": "Which country invented table tennis?",
+      "options": ["China", "Japan", "England", "USA"],
+      "correct_index": 2
+    },
+    {
+      "id": "mix_197",
+      "question": "What is the traditional striped fabric from Burkina Faso called?",
+      "options": ["Faso Dan Fani", "Kente", "Adire", "Bogolan"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_198",
+      "question": "Which West African fabric features elaborate stamped adinkra symbols?",
+      "options": ["Adinkra Cloth", "Shweshwe", "Isiagu", "Kanga"],
+      "correct_index": 0
+    },
+    {
+      "id": "mix_199",
+      "question": "What resin is tapped from the Commiphora tree, famously used as incense and medicine?",
+      "options": ["Frankincense", "Myrrh", "Copal", "Amber"],
+      "correct_index": 1
+    },
+    {
+      "id": "mix_200",
+      "question": "Which African fruit is famously known as 'Monkey Bread'?",
+      "options": ["Marula", "Baobab fruit", "Tamarind", "Jackfruit"],
+      "correct_index": 1
+    }
+  ]
+}
