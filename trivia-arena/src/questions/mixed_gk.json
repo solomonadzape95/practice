@@ -1468,6 +1468,1596 @@
       "question": "Which African fruit is famously known as 'Monkey Bread'?",
       "options": ["Marula", "Baobab fruit", "Tamarind", "Jackfruit"],
       "correct_index": 1
+    },
+    {
+      "id": "car_001",
+      "question": "Which country is the origin of the car manufacturer Volvo?",
+      "options": ["Germany", "Sweden", "Switzerland", "Norway"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_002",
+      "question": "Which large automotive group owns the brands Audi, Bentley, Bugatti, and Lamborghini?",
+      "options": [
+        "Stellantis",
+        "Toyota Motor Corp",
+        "BMW Group",
+        "Volkswagen Group"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "car_003",
+      "question": "Who is the parent company of the luxury car brand Lexus?",
+      "options": ["Honda", "Toyota", "Nissan", "Hyundai"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_004",
+      "question": "Which American car company was founded by Henry Ford in 1903?",
+      "options": [
+        "General Motors",
+        "Chrysler",
+        "Ford Motor Company",
+        "Chevrolet"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "car_005",
+      "question": "The brands Jaguar and Land Rover are currently owned by which Indian multinational?",
+      "options": [
+        "Mahindra & Mahindra",
+        "Maruti Suzuki",
+        "Tata Motors",
+        "Ashok Leyland"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "car_006",
+      "question": "Which Italian sports car manufacturer features a 'Prancing Horse' on its logo?",
+      "options": ["Maserati", "Lamborghini", "Alfa Romeo", "Ferrari"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_007",
+      "question": "What does the acronym BMW stand for in English?",
+      "options": [
+        "British Motor Works",
+        "Bavarian Motor Works",
+        "Berlin Motor Works",
+        "Belgian Motor Works"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "car_008",
+      "question": "Which car company produces the Mustang, a famous American muscle car?",
+      "options": ["Chevrolet", "Dodge", "Ford", "Pontiac"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_009",
+      "question": "The luxury brand Infiniti is the premium division of which Japanese automaker?",
+      "options": ["Toyota", "Nissan", "Honda", "Subaru"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_010",
+      "question": "Which South Korean car company owns a controlling stake in Kia Motors?",
+      "options": ["Daewoo", "SsangYong", "Genesis", "Hyundai"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_011",
+      "question": "What is the origin country of the car brand Škoda?",
+      "options": ["Poland", "Hungary", "Czech Republic", "Slovakia"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_012",
+      "question": "Which German automaker produces the iconic 911 sports car?",
+      "options": ["Mercedes-Benz", "Porsche", "Audi", "BMW"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_013",
+      "question": "The Mini brand is currently owned by which automotive company?",
+      "options": ["Volkswagen", "Ford", "BMW", "General Motors"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_014",
+      "question": "Which car manufacturer was founded by Enzo Ferrari in 1939?",
+      "options": ["Pagani", "Ferrari", "Maserati", "Lamborghini"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_015",
+      "question": "What company produces the electric vehicles Model S, Model 3, and Model X?",
+      "options": ["Rivian", "Lucid Motors", "Tesla", "Polestar"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_016",
+      "question": "Which brand is known for its legendary 'Quattro' all-wheel-drive system?",
+      "options": ["Subaru", "Audi", "Volvo", "Jeep"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_017",
+      "question": "Who founded the Chevrolet brand along with William C. Durant?",
+      "options": [
+        "Gaston Chevrolet",
+        "Arthur Chevrolet",
+        "Louis Chevrolet",
+        "Henry Chevrolet"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "car_018",
+      "question": "Which multinational corporation was formed by the 2021 merger of FCA and PSA Group?",
+      "options": [
+        "Stellantis",
+        "Renault-Nissan-Mitsubishi",
+        "General Motors",
+        "Volkswagen Group"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "car_019",
+      "question": "The brands Chrysler, Dodge, Jeep, and Ram are part of which current conglomerate?",
+      "options": [
+        "Ford Motor Company",
+        "Stellantis",
+        "General Motors",
+        "Toyota"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "car_020",
+      "question": "Which automaker produces the Corolla, historically the best-selling nameplate in the world?",
+      "options": ["Honda", "Ford", "Toyota", "Volkswagen"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_021",
+      "question": "Which luxury car brand is known for the 'Spirit of Ecstasy' hood ornament?",
+      "options": ["Bentley", "Maybach", "Aston Martin", "Rolls-Royce"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_022",
+      "question": "Rolls-Royce Motor Cars is a wholly owned subsidiary of which group?",
+      "options": [
+        "Volkswagen Group",
+        "Mercedes-Benz Group",
+        "BMW Group",
+        "Tata Motors"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "car_023",
+      "question": "Which Italian brand is famous for models like the Aventador and Huracán?",
+      "options": ["Ferrari", "Pagani", "Maserati", "Lamborghini"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_024",
+      "question": "Who originally founded Lamborghini to compete with Ferrari after a dispute over a clutch?",
+      "options": [
+        "Horacio Lamborghini",
+        "Ferruccio Lamborghini",
+        "Enzo Lamborghini",
+        "Luigi Lamborghini"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "car_025",
+      "question": "Which car manufacturer produces the Civic and the Accord?",
+      "options": ["Toyota", "Nissan", "Honda", "Mazda"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_026",
+      "question": "The luxury division Acura belongs to which Japanese automaker?",
+      "options": ["Toyota", "Nissan", "Honda", "Subaru"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_027",
+      "question": "Which British brand is famous for being the car of choice for James Bond?",
+      "options": ["Jaguar", "Aston Martin", "Bentley", "Lotus"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_028",
+      "question": "What is the origin country of the hypercar manufacturer Koenigsegg?",
+      "options": ["Germany", "Italy", "Sweden", "Denmark"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_029",
+      "question": "Which French hypercar brand produced the legendary Veyron and Chiron?",
+      "options": ["Bugatti", "Alpine", "Peugeot", "Renault"],
+      "correct_index": 0
+    },
+    {
+      "id": "car_030",
+      "question": "Which car brand uses a logo consisting of three overlapping red diamonds?",
+      "options": ["Subaru", "Mitsubishi", "Mazda", "Suzuki"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_031",
+      "question": "Which automaker's logo features a circle with a stylized 'H' that represents two people shaking hands?",
+      "options": ["Honda", "Holden", "Hyundai", "Haval"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_032",
+      "question": "Which car company was founded by Soichiro Honda?",
+      "options": ["Nissan", "Toyota", "Honda", "Mazda"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_033",
+      "question": "What is the premium luxury brand of the Nissan Motor Company?",
+      "options": ["Acura", "Lexus", "Genesis", "Infiniti"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_034",
+      "question": "The brand Dacia, known for affordable cars like the Duster, originates from which country?",
+      "options": ["Romania", "Bulgaria", "Czech Republic", "Poland"],
+      "correct_index": 0
+    },
+    {
+      "id": "car_035",
+      "question": "Dacia is a subsidiary of which French car manufacturer?",
+      "options": ["Peugeot", "Citroën", "Renault", "Alpine"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_036",
+      "question": "Which car brand produces the Outback, Forester, and Crosstrek models?",
+      "options": ["Volvo", "Subaru", "Mitsubishi", "Suzuki"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_037",
+      "question": "Which Swedish electric performance car brand is jointly owned by Volvo and Geely?",
+      "options": ["Koenigsegg", "Polestar", "Saab", "Lynk & Co"],
+      "correct_index": 1
+    },
+    {
+      "id": "car_038",
+      "question": "Which American startup focuses exclusively on electric adventure vehicles like the R1T pickup?",
+      "options": ["Lucid Motors", "Fisker", "Rivian", "Faraday Future"],
+      "correct_index": 2
+    },
+    {
+      "id": "car_039",
+      "question": "Which German luxury brand features a four-ring logo representing the merger of four distinct companies?",
+      "options": ["Mercedes-Benz", "BMW", "Porsche", "Audi"],
+      "correct_index": 3
+    },
+    {
+      "id": "car_040",
+      "question": "Which automaker is famous for the rotary engine historically featured in the RX-7 and RX-8?",
+      "options": ["Mazda", "Toyota", "Nissan", "Subaru"],
+      "correct_index": 0
+    },
+    {
+      "id": "spo_041",
+      "question": "Who is widely considered the greatest basketball player of all time, winning 6 NBA championships with the Chicago Bulls?",
+      "options": [
+        "Magic Johnson",
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Larry Bird"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_042",
+      "question": "Which legendary boxer was known as 'The Greatest' and 'The Louisville Lip'?",
+      "options": [
+        "Mike Tyson",
+        "Joe Frazier",
+        "George Foreman",
+        "Muhammad Ali"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_043",
+      "question": "Who holds the world record for the 100-meter dash in men's track and field?",
+      "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_044",
+      "question": "Which American swimmer holds the record for the most Olympic gold medals of all time?",
+      "options": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Ian Thorpe"],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_045",
+      "question": "Which Argentine soccer player led his country to victory in the 2022 FIFA World Cup?",
+      "options": [
+        "Diego Maradona",
+        "Gabriel Batistuta",
+        "Lionel Messi",
+        "Sergio Agüero"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_046",
+      "question": "Which Portuguese soccer star has won five Ballon d'Or awards and famously played for Real Madrid and Man United?",
+      "options": [
+        "Luís Figo",
+        "Cristiano Ronaldo",
+        "Eusébio",
+        "Bernardo Silva"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_047",
+      "question": "Which tennis player holds the record for the most weeks at No. 1 in the ATP rankings and has won 24 Grand Slam men's singles titles?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Pete Sampras",
+        "Novak Djokovic"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_048",
+      "question": "Which female tennis player has won 23 Grand Slam singles titles in the Open Era?",
+      "options": [
+        "Martina Navratilova",
+        "Serena Williams",
+        "Steffi Graf",
+        "Venus Williams"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_049",
+      "question": "Which American gymnast is the most decorated gymnast in history, known for her powerful tumbling?",
+      "options": [
+        "Gabby Douglas",
+        "Aly Raisman",
+        "Simone Biles",
+        "Shawn Johnson"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_050",
+      "question": "Who is the Canadian former ice hockey player affectionately nicknamed 'The Great One'?",
+      "options": ["Mario Lemieux", "Wayne Gretzky", "Gordie Howe", "Bobby Orr"],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_051",
+      "question": "Which golfer has won 15 major championships and famously won the 1997 Masters by a record 12 strokes?",
+      "options": [
+        "Phil Mickelson",
+        "Arnold Palmer",
+        "Rory McIlroy",
+        "Tiger Woods"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_052",
+      "question": "Who holds the record for the most major championships in professional golf with 18 titles?",
+      "options": ["Tiger Woods", "Ben Hogan", "Jack Nicklaus", "Gary Player"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_053",
+      "question": "Which Brazilian football legend won three FIFA World Cups in 1958, 1962, and 1970?",
+      "options": ["Ronaldo", "Ronaldinho", "Pelé", "Zico"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_054",
+      "question": "Which NFL quarterback won seven Super Bowl rings during his career with the Patriots and Buccaneers?",
+      "options": ["Peyton Manning", "Joe Montana", "Tom Brady", "Drew Brees"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_055",
+      "question": "Which current NFL quarterback leads the Kansas City Chiefs and has won multiple Super Bowl MVP awards?",
+      "options": [
+        "Aaron Rodgers",
+        "Patrick Mahomes",
+        "Josh Allen",
+        "Lamar Jackson"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_056",
+      "question": "Who holds the women's 100m sprint world record, set back in 1988?",
+      "options": [
+        "Shelly-Ann Fraser-Pryce",
+        "Elaine Thompson-Herah",
+        "Florence Griffith-Joyner",
+        "Marion Jones"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_057",
+      "question": "Which Formula 1 driver shares the record for the most World Championships (7) with Michael Schumacher?",
+      "options": [
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_058",
+      "question": "Which Italian motorcycle racer won 9 Grand Prix World Championships and is nicknamed 'The Doctor'?",
+      "options": [
+        "Giacomo Agostini",
+        "Marc Márquez",
+        "Valentino Rossi",
+        "Max Biaggi"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_059",
+      "question": "Which female American swimmer dominates the freestyle events and has won numerous Olympic golds since her debut in 2012?",
+      "options": [
+        "Missy Franklin",
+        "Katie Ledecky",
+        "Simone Manuel",
+        "Allison Schmitt"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_060",
+      "question": "Which Kenyan long-distance runner became the first human to run a marathon in under two hours?",
+      "options": [
+        "Kenenisa Bekele",
+        "Haile Gebrselassie",
+        "Kelvin Kiptum",
+        "Eliud Kipchoge"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_061",
+      "question": "Which African-American athlete famously defied Hitler by winning four gold medals at the 1936 Berlin Olympics?",
+      "options": [
+        "Carl Lewis",
+        "Jackie Robinson",
+        "Jesse Owens",
+        "Ralph Metcalfe"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_062",
+      "question": "Which Romanian gymnast scored the first perfect 10.0 at the 1976 Olympic Games?",
+      "options": [
+        "Mary Lou Retton",
+        "Olga Korbut",
+        "Nadia Comăneci",
+        "Svetlana Khorkina"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_063",
+      "question": "Which female tennis legend won a record 9 Wimbledon singles titles?",
+      "options": [
+        "Chris Evert",
+        "Steffi Graf",
+        "Billie Jean King",
+        "Martina Navratilova"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "spo_064",
+      "question": "Which Spanish tennis player is widely known as the 'King of Clay'?",
+      "options": [
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "David Ferrer",
+        "Juan Carlos Ferrero"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_065",
+      "question": "Which Swiss tennis maestro won 20 Grand Slam singles titles and spent 237 consecutive weeks at No. 1?",
+      "options": [
+        "Stan Wawrinka",
+        "Roger Federer",
+        "Andy Murray",
+        "Stefan Edberg"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_066",
+      "question": "Who is the all-time leading goalscorer in NBA history, surpassing Kareem Abdul-Jabbar in 2023?",
+      "options": ["Kobe Bryant", "Karl Malone", "LeBron James", "Kevin Durant"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_067",
+      "question": "Which legendary baseball player was known as 'The Bambino' and 'The Sultan of Swat'?",
+      "options": ["Lou Gehrig", "Joe DiMaggio", "Babe Ruth", "Mickey Mantle"],
+      "correct_index": 2
+    },
+    {
+      "id": "spo_068",
+      "question": "Which American boxer was the youngest heavyweight champion in history at age 20?",
+      "options": [
+        "Evander Holyfield",
+        "Mike Tyson",
+        "Lennox Lewis",
+        "Floyd Patterson"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_069",
+      "question": "Which Argentine football icon famously scored the 'Hand of God' goal in the 1986 World Cup?",
+      "options": [
+        "Lionel Messi",
+        "Diego Maradona",
+        "Mario Kempes",
+        "Alfredo Di Stéfano"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "spo_070",
+      "question": "Which Major League Baseball player broke Babe Ruth's career home run record in 1974?",
+      "options": [
+        "Barry Bonds",
+        "Willie Mays",
+        "Hank Aaron",
+        "Ken Griffey Jr."
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_071",
+      "question": "Which global sportswear brand was founded by Phil Knight and Bill Bowerman in 1964?",
+      "options": ["Adidas", "Nike", "Reebok", "Puma"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_072",
+      "question": "What was the original name of Nike before it was rebranded in 1971?",
+      "options": [
+        "Athletic Shoe Co.",
+        "Knight & Bowerman",
+        "Blue Ribbon Sports",
+        "Swoosh Athletics"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_073",
+      "question": "Which German sportswear brand was founded by Adolf Dassler?",
+      "options": ["Puma", "Adidas", "Under Armour", "Fila"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_074",
+      "question": "Rudolf Dassler, the brother of Adidas's founder, started which rival shoe company?",
+      "options": ["Diadora", "Asics", "Brooks", "Puma"],
+      "correct_index": 3
+    },
+    {
+      "id": "shoe_075",
+      "question": "Which American shoe company is famous for its canvas Chuck Taylor All-Star sneakers?",
+      "options": ["Vans", "Keds", "Converse", "PF Flyers"],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_076",
+      "question": "Converse has been a subsidiary of which major shoe brand since 2003?",
+      "options": ["Nike", "Adidas", "VF Corp", "Puma"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_077",
+      "question": "Which skateboarding shoe brand was founded in 1966 by Paul and Jim Van Doren in California?",
+      "options": ["DC Shoes", "Vans", "Etnies", "Globe"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_078",
+      "question": "Which sportswear brand was founded in Bolton, England, in 1958 by Joe and Jeff Foster?",
+      "options": ["Umbro", "Reebok", "Lonsdale", "Slazenger"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_079",
+      "question": "Which Boston-based brand was founded by William J. Riley in 1906, originally selling arch supports?",
+      "options": ["Saucony", "Brooks", "New Balance", "Converse"],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_080",
+      "question": "What Japanese athletic equipment company was founded by Kihachiro Onitsuka in 1949?",
+      "options": ["Mizuno", "ASICS", "Yonex", "Descente"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_081",
+      "question": "Which brand, known for its moisture-wicking apparel and shoes, was founded by Kevin Plank in 1996?",
+      "options": ["Under Armour", "Lululemon", "Columbia", "Patagonia"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_082",
+      "question": "Which American lifestyle footwear brand was founded by Robert Greenberg in 1992 after he left LA Gear?",
+      "options": ["Skechers", "Steve Madden", "Nine West", "Aldo"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_083",
+      "question": "Which iconic boot brand features a famous yellow waterproof work boot introduced in 1973?",
+      "options": ["Caterpillar", "Wolverine", "Red Wing", "Timberland"],
+      "correct_index": 3
+    },
+    {
+      "id": "shoe_084",
+      "question": "Which British footwear brand is famous for its air-cushioned sole boots with yellow stitching, originally designed by Klaus Märtens?",
+      "options": ["Clarks", "Dr. Martens", "Blundstone", "Hunter"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_085",
+      "question": "Which brand is known for its distinctive foam clog shoes and was founded in 2002?",
+      "options": ["Keen", "Teva", "Crocs", "Vibram"],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_086",
+      "question": "Which German shoe brand is famous for its contoured cork footbeds?",
+      "options": ["Birkenstock", "Rieker", "Meindl", "Puma"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_087",
+      "question": "Which British international shoe manufacturer was founded in 1825 by brothers Cyrus and James?",
+      "options": ["Church's", "Grenson", "Clarks", "Loake"],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_088",
+      "question": "Which American brand introduced the first mass-marketed canvas-top 'sneaker', the Champion, in 1916?",
+      "options": ["Keds", "Converse", "Vans", "PF Flyers"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_089",
+      "question": "Which Swiss running shoe brand is known for its patented CloudTec cushioning technology?",
+      "options": ["Hoka", "On Running", "Salomon", "Altra"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_090",
+      "question": "Which brand, originally founded in France and known for trail running and winter sports shoes, is now owned by Amer Sports?",
+      "options": ["Salomon", "La Sportiva", "Merrell", "Oboz"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_091",
+      "question": "Which running shoe company, known for its maximalist oversized midsoles, was founded in France but is now based in California?",
+      "options": ["Brooks", "Altra", "Hoka One One", "Newton"],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_092",
+      "question": "Which American footwear company is highly regarded for its hiking boots and outdoor shoes, founded by a man named Randy?",
+      "options": ["Merrell", "Keen", "Vasque", "Danner"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_093",
+      "question": "Which brand pioneered the 'One for One' business model, giving a pair of shoes to a child in need for every pair sold?",
+      "options": ["Warby Parker", "TOMS", "Bobs", "Sanuk"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_094",
+      "question": "Which American brand is credited with creating the first boat shoe in 1935?",
+      "options": ["Sebago", "Sperry", "Bass", "L.L.Bean"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_095",
+      "question": "Which famous luxury shoe brand is instantly recognizable by its signature red-lacquered soles?",
+      "options": [
+        "Manolo Blahnik",
+        "Jimmy Choo",
+        "Christian Louboutin",
+        "Salvatore Ferragamo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "shoe_096",
+      "question": "Which Malaysian-born fashion designer is famous for his luxury handmade women's shoes and has a brand headquartered in London?",
+      "options": ["Alexander Wang", "Jason Wu", "Vera Wang", "Jimmy Choo"],
+      "correct_index": 3
+    },
+    {
+      "id": "shoe_097",
+      "question": "Which Canadian retail shoe brand was founded by Aldo Bensadoun in Montreal in 1972?",
+      "options": ["Call It Spring", "ALDO", "Browns", "Bata"],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_098",
+      "question": "Which American fashion designer founded his eponymous shoe company in 1990, becoming known for chunky platform shoes?",
+      "options": [
+        "Kenneth Cole",
+        "Steve Madden",
+        "Stuart Weitzman",
+        "Vince Camuto"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "shoe_099",
+      "question": "Which running shoe company was founded in Pennsylvania in 1898 and is now known for models like the Kinvara?",
+      "options": ["Saucony", "Brooks", "Newton", "Karhu"],
+      "correct_index": 0
+    },
+    {
+      "id": "shoe_100",
+      "question": "Which athletic apparel and footwear company was founded in Biella, Italy, in 1911?",
+      "options": ["Kappa", "Diadora", "Lotto", "Fila"],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_101",
+      "question": "Which luxury Italian fashion house was founded by Guccio in Florence in 1921?",
+      "options": ["Prada", "Armani", "Gucci", "Versace"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_102",
+      "question": "Which luxury French fashion house was founded in 1854 and is known for its LV monogram?",
+      "options": ["Louis Vuitton", "Hermès", "Dior", "Chanel"],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_103",
+      "question": "Who founded the iconic French fashion house Chanel in 1910?",
+      "options": [
+        "Jeanne Chanel",
+        "Coco Chanel",
+        "Marie Chanel",
+        "Simone Chanel"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_104",
+      "question": "Which Italian luxury fashion house was founded by Mario Prada in 1913?",
+      "options": ["Miu Miu", "Prada", "Fendi", "Bottega Veneta"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_105",
+      "question": "Which French luxury brand was founded by Thierry Hermès in 1837, originally as a harness workshop?",
+      "options": ["Goyard", "Cartier", "Hermès", "Celine"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_106",
+      "question": "Which Italian designer founded his glamorous fashion house in 1978 and was tragically murdered in Miami in 1997?",
+      "options": [
+        "Giorgio Armani",
+        "Gianni Versace",
+        "Roberto Cavalli",
+        "Franco Moschino"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_107",
+      "question": "Which Italian fashion house was founded by Giorgio Armani in 1975?",
+      "options": ["Brioni", "Ermenegildo Zegna", "Armani", "Valentino"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_108",
+      "question": "The fashion brand D&G was founded by Domenico Dolce and who else?",
+      "options": [
+        "Gianfranco Ferré",
+        "Stefano Gabbana",
+        "Emilio Pucci",
+        "Nicola Trussardi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_109",
+      "question": "Which Italian luxury house, known for its fur and leather goods, uses a double-F logo created by Karl Lagerfeld?",
+      "options": ["Furla", "Ferragamo", "Fendi", "Fila"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_110",
+      "question": "Which French luxury house was founded by Hubert de Givenchy in 1952?",
+      "options": ["Balmain", "Givenchy", "Lanvin", "Rochas"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_111",
+      "question": "Which luxury fashion house was founded by Spanish designer Cristóbal in 1919?",
+      "options": ["Balenciaga", "Loewe", "Paco Rabanne", "Manolo Blahnik"],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_112",
+      "question": "Which French fashion house was founded by Yves Saint Laurent and his partner Pierre Bergé in 1961?",
+      "options": ["Givenchy", "Dior", "Yves Saint Laurent (YSL)", "Mugler"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_113",
+      "question": "Which Italian designer is famous for his signature 'Red' dresses?",
+      "options": [
+        "Valentino Garavani",
+        "Roberto Cavalli",
+        "Giambattista Valli",
+        "Ettore Sottsass"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_114",
+      "question": "Which British luxury fashion house is famous for its trench coats and distinctive tartan check pattern?",
+      "options": ["Mulberry", "Barbour", "Aquascutum", "Burberry"],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_115",
+      "question": "Which British fashion designer, known for his rebellious and theatrical designs, founded his eponymous label in 1992?",
+      "options": [
+        "John Galliano",
+        "Paul Smith",
+        "Alexander McQueen",
+        "Stella McCartney"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_116",
+      "question": "Which American designer is famous for his Polo brand, launched in 1967?",
+      "options": [
+        "Tommy Hilfiger",
+        "Calvin Klein",
+        "Ralph Lauren",
+        "Michael Kors"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_117",
+      "question": "Which American fashion designer founded his minimalist brand in 1968, known for designer underwear and denim?",
+      "options": ["Marc Jacobs", "Calvin Klein", "Tom Ford", "Donna Karan"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_118",
+      "question": "Which American designer created a preppy lifestyle brand featuring a red, white, and blue flag logo?",
+      "options": [
+        "Nautica",
+        "Perry Ellis",
+        "Tommy Hilfiger",
+        "Brooks Brothers"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_119",
+      "question": "Which American designer served as the creative director of Gucci and YSL before launching his own luxury brand in 2005?",
+      "options": ["Marc Jacobs", "Virgil Abloh", "Tom Ford", "Alexander Wang"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_120",
+      "question": "Which German luxury fashion house was founded in Metzingen in 1924?",
+      "options": ["Hugo Boss", "Jil Sander", "Escada", "Philipp Plein"],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_121",
+      "question": "Which French clothing company is famous for its polo shirts featuring a crocodile logo?",
+      "options": ["Le Coq Sportif", "Façonnable", "Lacoste", "Aigle"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_122",
+      "question": "Which American clothing company, founded in 1853, is famous for its denim jeans, particularly the 501s?",
+      "options": ["Wrangler", "Lee", "Guess", "Levi Strauss & Co."],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_123",
+      "question": "Which Spanish fast-fashion retailer is the flagship chain of the Inditex group?",
+      "options": ["Mango", "Zara", "Desigual", "Bershka"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_124",
+      "question": "Which Swedish multinational clothing-retail company is known for its fast-fashion clothing?",
+      "options": ["H&M", "COS", "Acne Studios", "Fjällräven"],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_125",
+      "question": "Which Japanese casual wear designer, manufacturer, and retailer is a wholly owned subsidiary of Fast Retailing?",
+      "options": ["Muji", "Comme des Garçons", "Uniqlo", "Issey Miyake"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_126",
+      "question": "Which American clothing and accessories retailer was founded in 1969 by Donald and Doris Fisher in San Francisco?",
+      "options": ["Old Navy", "Banana Republic", "The Gap", "J.Crew"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_127",
+      "question": "Which American lingerie, clothing, and beauty retailer was founded by Roy Raymond in 1977?",
+      "options": [
+        "Frederick's of Hollywood",
+        "Aerie",
+        "La Perla",
+        "Victoria's Secret"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_128",
+      "question": "Which American skateboarding lifestyle brand was established in NYC in 1994, famous for its red box logo?",
+      "options": ["Stüssy", "Supreme", "Palace", "Thrasher"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_129",
+      "question": "Which Italian luxury fashion label was founded by American designer Virgil Abloh in 2012?",
+      "options": ["Fear of God", "Heron Preston", "Off-White", "Palm Angels"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_130",
+      "question": "Which Japanese streetwear brand was founded by Nigo in 1993, known for its ape head logo?",
+      "options": [
+        "Undercover",
+        "Neighborhood",
+        "Visvim",
+        "A Bathing Ape (BAPE)"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_131",
+      "question": "Which Swiss luxury watch manufacturer was founded by Hans Wilsdorf and Alfred Davis in London in 1905?",
+      "options": ["Omega", "Tag Heuer", "Rolex", "Breitling"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_132",
+      "question": "Which Swiss luxury watch and clock manufacturer is famous for creating the Nautilus model?",
+      "options": [
+        "Audemars Piguet",
+        "Vacheron Constantin",
+        "Patek Philippe",
+        "Jaeger-LeCoultre"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_133",
+      "question": "Which French luxury goods conglomerate is the world's largest, owning brands like Louis Vuitton, Dior, and Givenchy?",
+      "options": ["Kering", "LVMH", "Richemont", "Hermès International"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_134",
+      "question": "Which multinational corporation, founded by François Pinault, owns luxury brands like Gucci, Saint Laurent, and Balenciaga?",
+      "options": ["Prada Group", "LVMH", "Richemont", "Kering"],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_135",
+      "question": "Which Swiss luxury goods holding company owns brands like Cartier, Van Cleef & Arpels, and Montblanc?",
+      "options": ["Swatch Group", "Richemont", "Rolex SA", "LVMH"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_136",
+      "question": "Which French luxury brand is famous for its 'Panthère' motif and high jewelry?",
+      "options": ["Boucheron", "Chaumet", "Cartier", "Van Cleef & Arpels"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_137",
+      "question": "Which American luxury jewelry and specialty retailer is famous for its signature 'robin's-egg blue' boxes?",
+      "options": ["Harry Winston", "Tiffany & Co.", "David Yurman", "Zales"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_138",
+      "question": "Which Swiss watchmaker introduced a line of colorful, affordable plastic watches in 1983 to save the Swiss watch industry?",
+      "options": ["Tissot", "Swatch", "Longines", "Mondaine"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_139",
+      "question": "Which brand is famous for its Wayfarer and Aviator styles of sunglasses?",
+      "options": ["Oakley", "Persol", "Maui Jim", "Ray-Ban"],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_140",
+      "question": "Which American sports equipment and eyewear company is known for its high-performance sunglasses with an 'O' logo?",
+      "options": ["Smith Optics", "Costa Del Mar", "Oakley", "Spy Optic"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_141",
+      "question": "Which American outdoor recreation products company is named after the coldest, most unforgiving side of a mountain?",
+      "options": ["The North Face", "Marmot", "Arc'teryx", "Mammut"],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_142",
+      "question": "Which American outdoor clothing company was founded by Yvon Chouinard in 1973 and is known for its environmental activism?",
+      "options": ["REI", "Patagonia", "L.L.Bean", "Cotopaxi"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_143",
+      "question": "Which American company manufactures outerwear, sportswear, and footwear, founded in Portland, Oregon in 1938?",
+      "options": ["Eddie Bauer", "Columbia Sportswear", "Burton", "Carhartt"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_144",
+      "question": "Which Canadian-American multinational athletic apparel retailer is known for its yoga pants and activewear?",
+      "options": ["Athleta", "Gymshark", "Lululemon", "Fabletics"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_145",
+      "question": "What is the parent company of the brands Calvin Klein and Tommy Hilfiger?",
+      "options": [
+        "VF Corporation",
+        "Tapestry, Inc.",
+        "Capri Holdings",
+        "PVH Corp."
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "fash_146",
+      "question": "Which American apparel and footwear company owns brands like Vans, Timberland, and The North Face?",
+      "options": [
+        "VF Corporation",
+        "PVH Corp.",
+        "Wolverine World Wide",
+        "Authentic Brands Group"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "fash_147",
+      "question": "What is the parent company of the luxury brands Coach, Kate Spade, and Stuart Weitzman?",
+      "options": ["Capri Holdings", "Tapestry, Inc.", "LVMH", "Kering"],
+      "correct_index": 1
+    },
+    {
+      "id": "fash_148",
+      "question": "Which Spanish multinational clothing company is the biggest fast fashion group in the world, owning Zara, Pull&Bear, and Massimo Dutti?",
+      "options": ["Mango", "Cortefiel", "Inditex", "Tendam"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_149",
+      "question": "Which luxury brand is famous for its iconic, highly sought-after 'Birkin' and 'Kelly' bags?",
+      "options": ["Chanel", "Louis Vuitton", "Hermès", "Dior"],
+      "correct_index": 2
+    },
+    {
+      "id": "fash_150",
+      "question": "Which fashion designer was known as the 'Kaiser of Fashion' and was the creative director of Chanel and Fendi until his death in 2019?",
+      "options": [
+        "Yves Saint Laurent",
+        "Karl Lagerfeld",
+        "Christian Dior",
+        "Hubert de Givenchy"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_151",
+      "question": "Which West African country is the world's largest producer of cocoa beans?",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Ivory Coast (Côte d'Ivoire)",
+        "Cameroon"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_152",
+      "question": "Which country is the second-largest producer of cocoa beans globally?",
+      "options": ["Togo", "Ghana", "Senegal", "Liberia"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_153",
+      "question": "Which African country is the continent's largest producer of palm oil, historically a major global exporter?",
+      "options": ["Angola", "Kenya", "South Africa", "Nigeria"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_154",
+      "question": "The Congo Basin, known for its vast timber resources and rainforests, is primarily located in which large central African country?",
+      "options": [
+        "Democratic Republic of the Congo",
+        "Central African Republic",
+        "Gabon",
+        "Republic of the Congo"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_155",
+      "question": "Which West African country, founded by freed American slaves, has historically been a major producer of natural rubber via Firestone plantations?",
+      "options": ["Sierra Leone", "Liberia", "Guinea", "Gambia"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_156",
+      "question": "Which country in southern Africa is the continent's leading producer of gold and platinum?",
+      "options": ["Zimbabwe", "Namibia", "South Africa", "Zambia"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_157",
+      "question": "Which landlocked southern African country is the world's leading producer of gem-quality diamonds by value?",
+      "options": ["Lesotho", "Eswatini", "Botswana", "Malawi"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_158",
+      "question": "Which African nation is the largest producer of oil in sub-Saharan Africa?",
+      "options": ["Equatorial Guinea", "Nigeria", "Gabon", "Chad"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_159",
+      "question": "Which central African country is Africa's second-largest oil producer and a member of OPEC?",
+      "options": ["Cameroon", "Sudan", "Angola", "Republic of the Congo"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_160",
+      "question": "Which African country is the continent's largest producer of copper?",
+      "options": [
+        "Democratic Republic of the Congo",
+        "Zambia",
+        "South Africa",
+        "Morocco"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_161",
+      "question": "Which African country is a major global producer of uranium, with significant mines in the Arlit region?",
+      "options": ["Mali", "Niger", "Chad", "Mauritania"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_162",
+      "question": "Which university, located in Cape Town, is consistently ranked as the top university in Africa?",
+      "options": [
+        "Stellenbosch University",
+        "University of Pretoria",
+        "University of Cape Town (UCT)",
+        "University of KwaZulu-Natal"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_163",
+      "question": "Which historic university in Johannesburg was originally founded as the South African School of Mines?",
+      "options": [
+        "University of Johannesburg",
+        "University of the Witwatersrand (Wits)",
+        "Rhodes University",
+        "Nelson Mandela University"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_164",
+      "question": "Which prestigious university in Uganda is one of the oldest and most distinguished English universities in Africa?",
+      "options": [
+        "Kyambogo University",
+        "Gulu University",
+        "Uganda Christian University",
+        "Makerere University"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_165",
+      "question": "Which university is the oldest degree-awarding institution in Nigeria, founded in 1948?",
+      "options": [
+        "Obafemi Awolowo University",
+        "University of Lagos",
+        "Ahmadu Bello University",
+        "University of Ibadan"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_166",
+      "question": "Which university in Egypt is one of the oldest continuously operating universities in the world, founded in 970 AD?",
+      "options": [
+        "Cairo University",
+        "Alexandria University",
+        "Al-Azhar University",
+        "Ain Shams University"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_167",
+      "question": "Which major public research university in Ghana is located in Accra and is the oldest in the country?",
+      "options": [
+        "Kwame Nkrumah University of Science and Technology",
+        "University of Ghana (Legon)",
+        "University of Cape Coast",
+        "Ashesi University"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_168",
+      "question": "Which university in Kenya is the largest and oldest public university in the country?",
+      "options": [
+        "Kenyatta University",
+        "Strathmore University",
+        "Moi University",
+        "University of Nairobi"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_169",
+      "question": "Which massive hydroelectric dam on the Blue Nile is currently under construction in Ethiopia?",
+      "options": [
+        "Tekeze Dam",
+        "Grand Ethiopian Renaissance Dam (GERD)",
+        "Gilgel Gibe III Dam",
+        "Koka Dam"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_170",
+      "question": "Which historic dam in Egypt controls the flooding of the Nile River and generates significant hydroelectric power?",
+      "options": ["Aswan High Dam", "Merowe Dam", "Roseires Dam", "Sennar Dam"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_171",
+      "question": "Which dam project on the Congo River has the potential to become the largest hydroelectric power station in the world?",
+      "options": [
+        "Inga Dams (Grand Inga)",
+        "Zongo II",
+        "Kafue Gorge",
+        "Bujagali"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_172",
+      "question": "Which major dam in Ghana created Lake Volta, the largest man-made lake in the world by surface area?",
+      "options": ["Bui Dam", "Kpong Dam", "Akosombo Dam", "Baredekese Dam"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_173",
+      "question": "Which large dam and hydroelectric facility is located on the Zambezi River between Zambia and Zimbabwe?",
+      "options": [
+        "Katse Dam",
+        "Cahora Bassa Dam",
+        "Itezhi-Tezhi Dam",
+        "Kariba Dam"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_174",
+      "question": "Which dam in Mozambique is one of the largest hydroelectric power stations in southern Africa?",
+      "options": [
+        "Cahora Bassa Dam",
+        "Massingir Dam",
+        "Pequenos Libombos",
+        "Corumana Dam"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_175",
+      "question": "Which massive concentrated solar power plant in Morocco is one of the largest of its kind in the world?",
+      "options": [
+        "Benban Solar Park",
+        "Noor Ouarzazate Solar Complex",
+        "Jasper Solar Energy Project",
+        "Kathu Solar Park"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_176",
+      "question": "Which solar park in Egypt is one of the largest photovoltaic installations in the world?",
+      "options": [
+        "Kom Ombo Solar",
+        "Zafarana",
+        "Benban Solar Park",
+        "Kuraymat"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_177",
+      "question": "Which country hosts the Lake Turkana Wind Power Project, the largest wind farm in Africa?",
+      "options": ["Ethiopia", "Tanzania", "Uganda", "Kenya"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_178",
+      "question": "What is the name of the modern rapid transit railway system linking Johannesburg, Pretoria, and O.R. Tambo Airport?",
+      "options": ["Metrorail", "Blue Train", "Gautrain", "Shosholoza Meyl"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_179",
+      "question": "Which massive new oil refinery in Nigeria, the largest single-train refinery in the world, was built by Africa's richest man?",
+      "options": [
+        "Port Harcourt Refinery",
+        "Warri Refinery",
+        "Dangote Refinery",
+        "Kaduna Refinery"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_180",
+      "question": "Which major railway project connects the Kenyan port city of Mombasa to the capital, Nairobi?",
+      "options": [
+        "Tanzania SGR",
+        "Ethiopia-Djibouti Railway",
+        "Standard Gauge Railway (SGR)",
+        "Lunatic Express"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_181",
+      "question": "What is the name of the entirely new coastal city being built on land reclaimed from the Atlantic Ocean in Lagos, Nigeria?",
+      "options": [
+        "Banana Island",
+        "Victoria Island",
+        "Eko Atlantic City",
+        "Lekki Phase 1"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_182",
+      "question": "Which planned technology hub in Kenya is often referred to as 'Africa's Silicon Savannah'?",
+      "options": [
+        "Kigali Innovation City",
+        "Yabacon Valley",
+        "Konza Technocity",
+        "Hope City"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_183",
+      "question": "Which massive water transfer project provides water from the mountains of Lesotho to the Gauteng region of South Africa?",
+      "options": [
+        "Orange River Project",
+        "Lesotho Highlands Water Project",
+        "Tugela-Vaal Transfer",
+        "Zambezi Water Project"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_184",
+      "question": "Kusile and Medupi are two massive new coal-fired power stations built in which country?",
+      "options": ["Nigeria", "Egypt", "South Africa", "Morocco"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_185",
+      "question": "What is the name of the regional economic union of 15 countries located in West Africa?",
+      "options": ["EAC", "ECOWAS", "SADC", "COMESA"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_186",
+      "question": "Which regional organization consists of 16 Member States in the southern part of Africa?",
+      "options": ["SADC", "ECOWAS", "IGAD", "ECCAS"],
+      "correct_index": 0
+    },
+    {
+      "id": "afr_187",
+      "question": "In which city is the headquarters of the African Union (AU) located?",
+      "options": [
+        "Johannesburg, South Africa",
+        "Nairobi, Kenya",
+        "Cairo, Egypt",
+        "Addis Ababa, Ethiopia"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_188",
+      "question": "Which bridge in Cairo, Egypt, holds the record for the widest cable-stayed bridge in the world?",
+      "options": [
+        "Qasr El Nil Bridge",
+        "6th October Bridge",
+        "Rod El Farag Axis (Tahya Misr Bridge)",
+        "Suez Canal Bridge"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_189",
+      "question": "Until recently, which bridge in Lagos was the longest bridge in Africa?",
+      "options": [
+        "Carter Bridge",
+        "Eko Bridge",
+        "Third Mainland Bridge",
+        "Lekki-Ikoyi Link Bridge"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_190",
+      "question": "Which port in South Africa is the largest and busiest shipping terminal in sub-Saharan Africa?",
+      "options": [
+        "Port of Cape Town",
+        "Port of Durban",
+        "Port of Port Elizabeth",
+        "Port of Richards Bay"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_191",
+      "question": "Which modern deep-water port in Morocco is the largest port in Africa by container capacity?",
+      "options": [
+        "Port of Casablanca",
+        "Tanger Med",
+        "Port of Agadir",
+        "Port of Safi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_192",
+      "question": "Which country is the most populous in Africa?",
+      "options": [
+        "Ethiopia",
+        "Egypt",
+        "Democratic Republic of the Congo",
+        "Nigeria"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_193",
+      "question": "Which country is the newest internationally recognized nation in Africa, gaining independence in 2011?",
+      "options": ["Eritrea", "South Sudan", "Namibia", "Djibouti"],
+      "correct_index": 1
+    },
+    {
+      "id": "afr_194",
+      "question": "The Great Green Wall is a project aiming to combat desertification in which African region?",
+      "options": [
+        "The Kalahari",
+        "The Namib",
+        "The Horn of Africa",
+        "The Sahel"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_195",
+      "question": "Which African country recently inaugurated a massive new administrative capital city east of its current capital?",
+      "options": ["Nigeria", "Tanzania", "Egypt", "Ivory Coast"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_196",
+      "question": "The Mambilla Hydroelectric Power Station is a major planned infrastructure project in which country?",
+      "options": ["Kenya", "Angola", "Nigeria", "Ghana"],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_197",
+      "question": "Which transcontinental road project aims to link the capital of Senegal with the capital of Egypt?",
+      "options": [
+        "Cape to Cairo Road",
+        "Trans-Sahara Highway",
+        "Cairo-Dakar Highway",
+        "Lagos-Mombasa Highway"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_198",
+      "question": "Which East African country is recognized as the headquarters of the East African Community (EAC)?",
+      "options": ["Kenya", "Uganda", "Rwanda", "Tanzania"],
+      "correct_index": 3
+    },
+    {
+      "id": "afr_199",
+      "question": "What is the name of the new deep seaport located in the Lagos Free Zone, intended to be the deepest in sub-Saharan Africa?",
+      "options": [
+        "Apapa Port",
+        "Tin Can Island Port",
+        "Lekki Deep Sea Port",
+        "Calabar Port"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "afr_200",
+      "question": "Which massive bridge connects the capital of Mozambique to the district of Katembe, becoming the longest suspension bridge in Africa?",
+      "options": [
+        "Maputo-Katembe Bridge",
+        "Armando Emilio Guebuza Bridge",
+        "Zambezi River Bridge",
+        "Samora Machel Bridge"
+      ],
+      "correct_index": 0
     }
   ]
 }
