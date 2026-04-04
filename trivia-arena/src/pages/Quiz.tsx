@@ -41,7 +41,7 @@ export function Quiz() {
     if (delayIntervalRef.current) clearInterval(delayIntervalRef.current);
   }, [currentIndex]);
 
-  // Spacebar → pause/resume (only when active, not in delay phase)
+  // Spacebar → pause/resume (any time the quiz is active)
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
       if (e.code !== "Space") return;
@@ -51,13 +51,12 @@ export function Quiz() {
       )
         return;
       if (status !== "active") return;
-      if (delayLeft !== null) return;
       e.preventDefault();
       setIsPaused((p) => !p);
     };
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [status, delayLeft]);
+  }, [status]);
 
   const q = questions[currentIndex];
   const selectedIndex = q ? (answers[currentIndex] ?? null) : null;
@@ -161,7 +160,6 @@ export function Quiz() {
             className="grid size-8 place-items-center rounded-lg text-sm transition focus:outline-none focus-visible:ring-2 focus-visible:ring-q-purple"
             style={{ backgroundColor: `${color}22`, color }}
             onClick={() => setIsPaused((p) => !p)}
-            disabled={inDelay}
           >
             {isPaused ? "▶" : "⏸"}
           </button>
