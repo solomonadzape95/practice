@@ -1,10 +1,13 @@
 import africanArt from '../questions/african_art.json'
 import africanGeography from '../questions/african_geography.json'
 import africanHistory from '../questions/african_history.json'
-import generalKnowledge from '../questions/general_knowledge.json'
+import dataAnalysis from '../questions/data_analysis.json'
+import generalKnowledge from '../questions/general_knowledge copy.json'
 import history from '../questions/history.json'
+import maths from '../questions/maths.json'
 import mixedGk from '../questions/mixed_gk.json'
 import verbal from '../questions/verbal.json'
+import wildlifeBorders from '../questions/wildlife_borders.json'
 import type { Mode, Question } from './types'
 import { validateMode } from './validate'
 
@@ -12,10 +15,13 @@ const ALL_MODULES: unknown[] = [
   africanArt,
   africanGeography,
   africanHistory,
+  dataAnalysis,
   generalKnowledge,
   history,
+  maths,
   mixedGk,
   verbal,
+  wildlifeBorders,
 ]
 
 function isRecord(value: unknown): value is Record<string, unknown> {

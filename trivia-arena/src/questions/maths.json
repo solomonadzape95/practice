@@ -1,0 +1,2581 @@
+{
+  "mode": "math",
+  "label": "Mathematics",
+  "icon": "🧮",
+  "color": "#60A5FA",
+  "questions": [
+    {"id": "mc_001", "question": "If the total cost function is C(x) = 100 + 5x, what is the marginal cost?", "options": ["100", "5", "5x", "105"], "correct_index": 1},
+    {"id": "mc_002", "question": "Marginal cost is defined as the derivative of which function?", "options": ["Total Revenue", "Profit", "Total Cost", "Average Cost"], "correct_index": 2},
+    {"id": "mc_003", "question": "If Revenue R(x) = 50x - 2x^2, what is the marginal revenue function?", "options": ["50", "50 - 2x", "50 - 4x", "25 - x"], "correct_index": 2},
+    {"id": "mc_004", "question": "Profit is maximized when marginal cost equals what?", "options": ["Total Revenue", "Average Cost", "Zero", "Marginal Revenue"], "correct_index": 3},
+    {"id": "mc_005", "question": "If C(x) = x^2 + 10x + 50, what is the marginal cost at x = 5?", "options": ["15", "20", "25", "50"], "correct_index": 1},
+    {"id": "mc_006", "question": "What does a marginal revenue of zero indicate?", "options": ["Total revenue is maximized", "Total cost is zero", "Profit is negative", "Production should stop"], "correct_index": 0},
+    {"id": "mc_007", "question": "If total revenue is proportional to output (R(x) = px), the marginal revenue is equal to:", "options": ["Price (p)", "Output (x)", "Zero", "Profit"], "correct_index": 0},
+    {"id": "mc_008", "question": "If Marginal Revenue is greater than Marginal Cost, a firm should:", "options": ["Decrease production", "Increase production", "Stop production", "Keep production constant"], "correct_index": 1},
+    {"id": "mc_009", "question": "If C(x) = 300 + 10x + 0.1x^2, find the marginal cost MC(x).", "options": ["10", "10 + 0.1x", "10 + 0.2x", "300 + 10x"], "correct_index": 2},
+    {"id": "mc_010", "question": "If R(x) = 100x and C(x) = 20x + 500, what is the marginal profit?", "options": ["80", "100", "120", "500"], "correct_index": 0},
+    {"id": "mc_011", "question": "Fixed costs in a linear cost function C(x) = mx + b are represented by:", "options": ["m", "x", "b", "mx"], "correct_index": 2},
+    {"id": "mc_012", "question": "If the marginal cost is constant, the total cost function must be:", "options": ["Quadratic", "Linear", "Exponential", "Logarithmic"], "correct_index": 1},
+    {"id": "mc_013", "question": "If R(x) = 30x - 0.5x^2, at what x is total revenue maximized?", "options": ["15", "30", "60", "100"], "correct_index": 1},
+    {"id": "mc_014", "question": "Average cost is calculated by dividing total cost by:", "options": ["Marginal cost", "Profit", "Quantity (x)", "Price"], "correct_index": 2},
+    {"id": "mc_015", "question": "If C(x) = 50x, the marginal cost is:", "options": ["50x", "50", "0", "x"], "correct_index": 1},
+    {"id": "mc_016", "question": "What is the derivative of the Profit function P(x)?", "options": ["Average Profit", "Total Profit", "Marginal Profit", "Marginal Cost"], "correct_index": 2},
+    {"id": "mc_017", "question": "If P(x) = R(x) - C(x), then P'(x) equals:", "options": ["R'(x) * C'(x)", "R'(x) + C'(x)", "R'(x) - C'(x)", "R(x) / C(x)"], "correct_index": 2},
+    {"id": "mc_018", "question": "If MC(x) = 4x + 2 and fixed costs are 100, what is C(x)?", "options": ["2x^2 + 2x + 100", "4x^2 + 2x + 100", "2x^2 + 100", "4x + 102"], "correct_index": 0},
+    {"id": "mc_019", "question": "If MR = 20 - 2x and MC = 4, what quantity maximizes profit?", "options": ["4", "8", "10", "16"], "correct_index": 1},
+    {"id": "mc_020", "question": "The rate of change of total revenue with respect to quantity is:", "options": ["Average Revenue", "Marginal Cost", "Marginal Revenue", "Profit Margin"], "correct_index": 2},
+    {"id": "mc_021", "question": "If C(x) = 1000, what is the marginal cost?", "options": ["1000", "x", "0", "1000x"], "correct_index": 2},
+    {"id": "mc_022", "question": "If MR(x) < 0, producing one more unit will:", "options": ["Increase total revenue", "Decrease total revenue", "Maximize profit", "Decrease marginal cost"], "correct_index": 1},
+    {"id": "mc_023", "question": "If a product sells for $15 per unit, what is the marginal revenue?", "options": ["$0", "$1", "$15", "$15x"], "correct_index": 2},
+    {"id": "mc_024", "question": "Which of these equations represents Average Revenue?", "options": ["R'(x)", "R(x) / x", "R(x) * x", "R(x) - C(x)"], "correct_index": 1},
+    {"id": "mc_025", "question": "If C(x) = 5x^3 + 2x, what is MC(x)?", "options": ["15x^2 + 2", "5x^2 + 2", "15x + 2", "5x^3 + 2"], "correct_index": 0},
+    {"id": "mc_026", "question": "If MR = 100 - 4x, at what level of output does MR equal zero?", "options": ["10", "20", "25", "100"], "correct_index": 2},
+    {"id": "mc_027", "question": "Marginal profit is positive when:", "options": ["MR > MC", "MR < MC", "MR = MC", "MC = 0"], "correct_index": 0},
+    {"id": "mc_028", "question": "If R(x) = 200x - x^2 and C(x) = 50x + 100, what is P(x)?", "options": ["150x - x^2 - 100", "250x - x^2 + 100", "150x - x^2 + 100", "200x - 50x"], "correct_index": 0},
+    {"id": "mc_029", "question": "In a perfectly competitive market, marginal revenue is equal to:", "options": ["Price", "Total Cost", "Zero", "Quantity"], "correct_index": 0},
+    {"id": "mc_030", "question": "If MC is $12 and MR is $15, selling an additional unit increases profit by:", "options": ["$3", "$12", "$15", "$27"], "correct_index": 0},
+    {"id": "mc_031", "question": "If total cost C(x) = 2x^2 + 3x + 400, the fixed cost is:", "options": ["2", "3", "400", "0"], "correct_index": 2},
+    {"id": "mc_032", "question": "If P'(x) = 0, the firm has found a point of:", "options": ["Zero revenue", "Maximum or minimum profit", "Maximum cost", "Break-even"], "correct_index": 1},
+    {"id": "mc_033", "question": "If R(x) = 40x - 0.2x^2, find MR at x = 50.", "options": ["10", "20", "30", "40"], "correct_index": 1},
+    {"id": "mc_034", "question": "If Average Cost AC(x) = 10 + 50/x, what is the Total Cost C(x)?", "options": ["10x + 50", "10 + 50x", "10x", "50"], "correct_index": 0},
+    {"id": "mc_035", "question": "Marginal cost is the cost of producing:", "options": ["All units", "One additional unit", "The first unit", "Zero units"], "correct_index": 1},
+    {"id": "mc_036", "question": "If total cost is purely variable (no fixed cost), C(0) equals:", "options": ["Infinity", "1", "0", "Cannot be determined"], "correct_index": 2},
+    {"id": "mc_037", "question": "If P(x) = -x^2 + 100x - 500, what quantity maximizes profit?", "options": ["25", "50", "100", "500"], "correct_index": 1},
+    {"id": "mc_038", "question": "Which of these is the formula for profit?", "options": ["R(x) / C(x)", "R(x) + C(x)", "R(x) - C(x)", "C(x) - R(x)"], "correct_index": 2},
+    {"id": "mc_039", "question": "If MR is constant, the Total Revenue curve is a:", "options": ["Parabola", "Straight line", "Hyperbola", "Sine wave"], "correct_index": 1},
+    {"id": "mc_040", "question": "If C'(x) = 0 for all x, the cost function is:", "options": ["Increasing", "Decreasing", "Constant", "Negative"], "correct_index": 2},
+    {"id": "rat_041", "question": "Simplify the ratio 15:25.", "options": ["1:2", "3:5", "5:3", "3:4"], "correct_index": 1},
+    {"id": "rat_042", "question": "If a class has 12 boys and 18 girls, what is the ratio of boys to girls?", "options": ["2:3", "3:2", "1:2", "4:5"], "correct_index": 0},
+    {"id": "rat_043", "question": "Divide $100 in the ratio 2:3. What is the smaller share?", "options": ["$20", "$30", "$40", "$60"], "correct_index": 2},
+    {"id": "rat_044", "question": "A recipe uses 2 cups of flour and 1 cup of sugar. What is the ratio of flour to total ingredients?", "options": ["2:1", "1:2", "2:3", "1:3"], "correct_index": 2},
+    {"id": "rat_045", "question": "If 3 apples cost $2, how much do 9 apples cost?", "options": ["$4", "$6", "$8", "$9"], "correct_index": 1},
+    {"id": "rat_046", "question": "Simplify the ratio 120:40.", "options": ["3:1", "1:3", "4:1", "1:4"], "correct_index": 0},
+    {"id": "rat_047", "question": "If the ratio of angles in a triangle is 1:2:3, what is the smallest angle?", "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"], "correct_index": 0},
+    {"id": "rat_048", "question": "A map scale is 1 cm : 50 km. Two cities are 4 cm apart on the map. How far apart are they in reality?", "options": ["100 km", "150 km", "200 km", "250 km"], "correct_index": 2},
+    {"id": "rat_049", "question": "If x:y = 3:4 and y:z = 4:5, what is x:z?", "options": ["3:4", "3:5", "4:5", "12:20"], "correct_index": 1},
+    {"id": "rat_050", "question": "Two numbers are in the ratio 5:7. If their sum is 60, what is the larger number?", "options": ["25", "30", "35", "40"], "correct_index": 2},
+    {"id": "rat_051", "question": "Are the ratios 2:3 and 6:9 equivalent?", "options": ["Yes", "No", "Only for positive integers", "Cannot be determined"], "correct_index": 0},
+    {"id": "rat_052", "question": "If a car travels 150 miles in 3 hours, what is its speed in miles per hour (ratio of distance to time)?", "options": ["40 mph", "45 mph", "50 mph", "60 mph"], "correct_index": 2},
+    {"id": "rat_053", "question": "Convert the ratio 4:5 to a percentage.", "options": ["40%", "45%", "80%", "125%"], "correct_index": 2},
+    {"id": "rat_054", "question": "Divide 50 into two parts in the ratio 1:4. What is the larger part?", "options": ["10", "20", "30", "40"], "correct_index": 3},
+    {"id": "rat_055", "question": "A shadow of a 2m pole is 3m long. At the same time, a tree casts a 15m shadow. How tall is the tree?", "options": ["5m", "8m", "10m", "12m"], "correct_index": 2},
+    {"id": "rat_056", "question": "Simplify the ratio of 500g to 2kg.", "options": ["1:4", "4:1", "1:2", "5:2"], "correct_index": 0},
+    {"id": "rat_057", "question": "If 5 pencils cost $1.50, what is the unit rate?", "options": ["$0.20/pencil", "$0.30/pencil", "$0.40/pencil", "$0.50/pencil"], "correct_index": 1},
+    {"id": "rat_058", "question": "The ratio of cats to dogs is 5:3. If there are 15 dogs, how many cats are there?", "options": ["15", "20", "25", "30"], "correct_index": 2},
+    {"id": "rat_059", "question": "Simplify 24:36:48.", "options": ["1:2:3", "2:3:4", "3:4:5", "4:6:8"], "correct_index": 1},
+    {"id": "rat_060", "question": "If a/b = 2/3, then (a+b)/b equals:", "options": ["2/3", "5/3", "3/2", "1/3"], "correct_index": 1},
+    {"id": "rat_061", "question": "If the ratio of width to length is 2:5 and the width is 10, what is the length?", "options": ["20", "25", "30", "50"], "correct_index": 1},
+    {"id": "rat_062", "question": "What is the ratio 0.5 to 1.5 in simplest whole numbers?", "options": ["1:2", "1:3", "2:3", "5:15"], "correct_index": 1},
+    {"id": "rat_063", "question": "An alloy contains copper and zinc in the ratio 7:3. In 100g of alloy, how much is copper?", "options": ["30g", "50g", "70g", "100g"], "correct_index": 2},
+    {"id": "rat_064", "question": "If x/4 = 3/2, what is x?", "options": ["4", "6", "8", "12"], "correct_index": 1},
+    {"id": "rat_065", "question": "A gear ratio is 3:1. If the driving gear turns 15 times, how many times does the driven gear turn?", "options": ["5", "15", "30", "45"], "correct_index": 3},
+    {"id": "rat_066", "question": "If $200 is divided among A, B, and C in the ratio 2:3:5, what is C's share?", "options": ["$40", "$60", "$80", "$100"], "correct_index": 3},
+    {"id": "rat_067", "question": "What is the ratio of 1 hour to 15 minutes?", "options": ["1:15", "4:1", "1:4", "60:1"], "correct_index": 1},
+    {"id": "rat_068", "question": "The ratio of boys to girls is 4:5. What fraction of the class are boys?", "options": ["4/5", "5/4", "4/9", "5/9"], "correct_index": 2},
+    {"id": "rat_069", "question": "If a paint mixture requires 3 parts red to 1 part white, how many liters of red are needed for 12 liters of mixture?", "options": ["3", "6", "8", "9"], "correct_index": 3},
+    {"id": "rat_070", "question": "Solve the proportion: 5/x = 15/27.", "options": ["7", "8", "9", "10"], "correct_index": 2},
+    {"id": "rat_071", "question": "If 8 workers can build a wall in 6 days, how many days for 12 workers? (Inverse proportion)", "options": ["2", "3", "4", "9"], "correct_index": 2},
+    {"id": "rat_072", "question": "Simplify 2 1/2 : 1 1/4.", "options": ["1:2", "2:1", "3:2", "4:1"], "correct_index": 1},
+    {"id": "rat_073", "question": "The sides of a square are in what ratio?", "options": ["1:1:1:1", "1:2:3:4", "2:2:4:4", "1:2:1:2"], "correct_index": 0},
+    {"id": "rat_074", "question": "If the scale factor of a model car is 1:24 and the real car is 4.8m long, how long is the model?", "options": ["10cm", "20cm", "24cm", "48cm"], "correct_index": 1},
+    {"id": "rat_075", "question": "What ratio is equivalent to 7/8?", "options": ["14:16", "21:23", "7:15", "8:7"], "correct_index": 0},
+    {"id": "rat_076", "question": "If the ratio of adults to children is 3:8 and there are 24 children, how many adults?", "options": ["6", "9", "12", "15"], "correct_index": 1},
+    {"id": "rat_077", "question": "Simplify the ratio of 45 minutes to 2 hours.", "options": ["45:2", "3:8", "3:4", "8:3"], "correct_index": 1},
+    {"id": "rat_078", "question": "If you mix 200ml syrup with 800ml water, what is the ratio of syrup to water?", "options": ["1:3", "1:4", "1:5", "4:1"], "correct_index": 1},
+    {"id": "rat_079", "question": "A rectangle has length 15 and width 5. What is the ratio of length to width?", "options": ["1:3", "3:1", "15:1", "5:15"], "correct_index": 1},
+    {"id": "rat_080", "question": "If a:b = 1:2 and b:c = 2:3, what is a:b:c?", "options": ["1:2:2", "1:2:3", "2:4:6", "1:3:2"], "correct_index": 1},
+    {"id": "gen_081", "question": "What is an allele?", "options": ["A type of cell", "A variant form of a gene", "A chromosome", "A protein"], "correct_index": 1},
+    {"id": "gen_082", "question": "An organism with two identical alleles for a trait is called:", "options": ["Heterozygous", "Homozygous", "Dominant", "Recessive"], "correct_index": 1},
+    {"id": "gen_083", "question": "What is the physical expression of a trait called?", "options": ["Genotype", "Phenotype", "Karyotype", "Haplotype"], "correct_index": 1},
+    {"id": "gen_084", "question": "In a simple Mendelian cross of Tt x Tt, what is the genotypic ratio?", "options": ["3:1", "1:2:1", "9:3:3:1", "1:1"], "correct_index": 1},
+    {"id": "gen_085", "question": "If 'A' is dominant and 'a' is recessive, what is the phenotype of 'Aa'?", "options": ["Recessive", "Dominant", "Intermediate", "Codominant"], "correct_index": 1},
+    {"id": "gen_086", "question": "What tool is used to predict the probability of traits in offspring?", "options": ["Pedigree", "Punnett square", "Karyotype", "Microarray"], "correct_index": 1},
+    {"id": "gen_087", "question": "A cross between an individual of unknown genotype and a homozygous recessive is a:", "options": ["Dihybrid cross", "Test cross", "Monohybrid cross", "Back cross"], "correct_index": 1},
+    {"id": "gen_088", "question": "In incomplete dominance, a red flower (RR) crossed with a white flower (WW) yields:", "options": ["Red flowers", "White flowers", "Pink flowers", "Red and white striped flowers"], "correct_index": 2},
+    {"id": "gen_089", "question": "Blood type AB is an example of:", "options": ["Incomplete dominance", "Codominance", "Polygenic inheritance", "Sex-linked trait"], "correct_index": 1},
+    {"id": "gen_090", "question": "Which parent determines the sex of human offspring?", "options": ["Mother", "Father", "Both", "Neither"], "correct_index": 1},
+    {"id": "gen_091", "question": "Traits linked to the X or Y chromosome are called:", "options": ["Autosomal traits", "Polygenic traits", "Sex-linked traits", "Multiple alleles"], "correct_index": 2},
+    {"id": "gen_092", "question": "What is the expected phenotypic ratio in a dihybrid heterozygous cross (AaBb x AaBb)?", "options": ["9:3:3:1", "1:2:1", "3:1", "1:1:1:1"], "correct_index": 0},
+    {"id": "gen_093", "question": "Mendel's Law of Segregation states that:", "options": ["Genes for different traits sort independently", "Alleles separate during gamete formation", "Dominant alleles mask recessive ones", "Traits blend together"], "correct_index": 1},
+    {"id": "gen_094", "question": "An individual with the genotype 'aa' is:", "options": ["Homozygous dominant", "Heterozygous", "Homozygous recessive", "Codominant"], "correct_index": 2},
+    {"id": "gen_095", "question": "If a mother is colorblind (X^c X^c) and the father is normal (X^C Y), what percentage of their sons will be colorblind?", "options": ["0%", "25%", "50%", "100%"], "correct_index": 3},
+    {"id": "gen_096", "question": "Which of these is a heterozygous genotype?", "options": ["AA", "bb", "Cc", "XX"], "correct_index": 2},
+    {"id": "gen_097", "question": "In a cross between homozygous dominant and homozygous recessive, all offspring will be:", "options": ["Homozygous dominant", "Homozygous recessive", "Heterozygous", "Mutants"], "correct_index": 2},
+    {"id": "gen_098", "question": "Genes located on the same chromosome that tend to be inherited together are:", "options": ["Independent", "Segregated", "Linked", "Dominant"], "correct_index": 2},
+    {"id": "gen_099", "question": "A Punnett square with 16 boxes is typically used for a:", "options": ["Monohybrid cross", "Dihybrid cross", "Trihybrid cross", "Test cross"], "correct_index": 1},
+    {"id": "gen_100", "question": "If an individual is Bb, what gametes can they produce?", "options": ["Only B", "Only b", "Both B and b", "Bb"], "correct_index": 2},
+    {"id": "gen_101", "question": "Which combination of sex chromosomes represents a human female?", "options": ["XY", "YY", "XX", "X0"], "correct_index": 2},
+    {"id": "gen_102", "question": "If parents are AB and O blood types, what blood type can their children NOT be?", "options": ["A", "B", "AB", "They can be any type"], "correct_index": 2},
+    {"id": "gen_103", "question": "The specific location of a gene on a chromosome is its:", "options": ["Allele", "Locus", "Centromere", "Telomere"], "correct_index": 1},
+    {"id": "gen_104", "question": "Polygenic traits are controlled by:", "options": ["A single gene", "Two alleles", "Multiple genes", "The environment solely"], "correct_index": 2},
+    {"id": "gen_105", "question": "Mendel worked primarily with which organism?", "options": ["Fruit flies", "Mice", "Pea plants", "Bacteria"], "correct_index": 2},
+    {"id": "gen_106", "question": "If two heterozygous parents (Aa) cross, what is the chance of an 'aa' offspring?", "options": ["0%", "25%", "50%", "75%"], "correct_index": 1},
+    {"id": "gen_107", "question": "When one gene masks the expression of a different gene, it is called:", "options": ["Epistasis", "Pleiotropy", "Codominance", "Linkage"], "correct_index": 0},
+    {"id": "gen_108", "question": "A carrier of a recessive genetic disorder has the genotype:", "options": ["Homozygous dominant", "Heterozygous", "Homozygous recessive", "Haploid"], "correct_index": 1},
+    {"id": "gen_109", "question": "In a Punnett square, the letters on the top and left represent:", "options": ["Offspring genotypes", "Parental gametes", "Phenotypes", "Mutations"], "correct_index": 1},
+    {"id": "gen_110", "question": "A cross between AaBb and aabb is a:", "options": ["Dihybrid cross", "Monohybrid cross", "Dihybrid test cross", "Self-fertilization"], "correct_index": 2},
+    {"id": "gen_111", "question": "What is the phenotypic ratio of a Tt x tt cross?", "options": ["3:1", "1:2:1", "1:1", "All dominant"], "correct_index": 2},
+    {"id": "gen_112", "question": "Which of these blood types is the universal donor?", "options": ["A", "B", "AB", "O"], "correct_index": 3},
+    {"id": "gen_113", "question": "Skin color and height in humans are examples of:", "options": ["Monogenic traits", "Polygenic inheritance", "Codominance", "Sex-linked traits"], "correct_index": 1},
+    {"id": "gen_114", "question": "Hemophilia is a sex-linked recessive disorder. It is more common in:", "options": ["Males", "Females", "Equally common", "Neither"], "correct_index": 0},
+    {"id": "gen_115", "question": "What term describes the genetic makeup of an organism?", "options": ["Phenotype", "Genotype", "Karyotype", "Archetype"], "correct_index": 1},
+    {"id": "gen_116", "question": "If a plant is true-breeding for a trait, its genotype is:", "options": ["Heterozygous", "Homozygous", "Dominant", "Recessive"], "correct_index": 1},
+    {"id": "gen_117", "question": "A dominant allele is represented by:", "options": ["A lowercase letter", "A capital letter", "A Greek letter", "A number"], "correct_index": 1},
+    {"id": "gen_118", "question": "What fraction of offspring from an Aa x Aa cross will be homozygous?", "options": ["1/4", "1/2", "3/4", "All"], "correct_index": 1},
+    {"id": "gen_119", "question": "Which of the following represents a dihybrid organism?", "options": ["AA", "Aa", "AABB", "AaBb"], "correct_index": 3},
+    {"id": "gen_120", "question": "If a trait skips a generation, it is likely:", "options": ["Dominant", "Recessive", "Codominant", "Polygenic"], "correct_index": 1},
+    {"id": "gen_121", "question": "The Law of Independent Assortment applies to genes on:", "options": ["The same chromosome", "Different chromosomes", "Sex chromosomes only", "Mitochondrial DNA"], "correct_index": 1},
+    {"id": "gen_122", "question": "What gametes are produced by an AABB parent?", "options": ["A and B", "AA and BB", "AB", "AABB"], "correct_index": 2},
+    {"id": "gen_123", "question": "A mutation that changes a single nucleotide is a:", "options": ["Frameshift mutation", "Point mutation", "Chromosomal deletion", "Inversion"], "correct_index": 1},
+    {"id": "gen_124", "question": "Which blood type has no antigens on the red blood cells?", "options": ["A", "B", "AB", "O"], "correct_index": 3},
+    {"id": "gen_125", "question": "In a pedigree chart, a square represents a:", "options": ["Female", "Male", "Carrier", "Affected individual"], "correct_index": 1},
+    {"id": "gen_126", "question": "If a child has type O blood, their parents could NOT have the genotype:", "options": ["IAi x IBi", "ii x ii", "IAIA x IBi", "IAi x ii"], "correct_index": 2},
+    {"id": "gen_127", "question": "Pleiotropy occurs when:", "options": ["Many genes affect one trait", "One gene affects many traits", "Genes blend together", "Genes are linked"], "correct_index": 1},
+    {"id": "gen_128", "question": "A roan cow (red and white hairs) is a classic example of:", "options": ["Incomplete dominance", "Codominance", "Recessive inheritance", "Epistasis"], "correct_index": 1},
+    {"id": "gen_129", "question": "What is the probability of flipping a coin and getting heads three times in a row?", "options": ["1/2", "1/4", "1/8", "1/16"], "correct_index": 2},
+    {"id": "gen_130", "question": "How many different types of gametes can an AaBb organism produce?", "options": ["1", "2", "3", "4"], "correct_index": 3},
+    {"id": "gen_131", "question": "In sex-linked traits, males inherit their X chromosome from their:", "options": ["Mother", "Father", "Both", "Randomly"], "correct_index": 0},
+    {"id": "gen_132", "question": "Which genetic disorder is caused by an extra copy of chromosome 21?", "options": ["Cystic fibrosis", "Huntington's disease", "Down syndrome", "Sickle cell anemia"], "correct_index": 2},
+    {"id": "gen_133", "question": "When generating a Punnett square for a monohybrid cross, how many squares are drawn?", "options": ["2", "4", "8", "16"], "correct_index": 1},
+    {"id": "gen_134", "question": "Sickle cell anemia shows heterozygote advantage against which disease?", "options": ["Cholera", "Malaria", "Tuberculosis", "HIV"], "correct_index": 1},
+    {"id": "gen_135", "question": "What does a filled-in shape represent on a pedigree?", "options": ["Carrier", "Unaffected", "Affected by the trait", "Deceased"], "correct_index": 2},
+    {"id": "gen_136", "question": "What happens during crossing over in meiosis?", "options": ["Chromosomes duplicate", "Homologous chromosomes exchange genetic material", "Cells divide", "Spindle fibers form"], "correct_index": 1},
+    {"id": "gen_137", "question": "Which molecule carries genetic information?", "options": ["Protein", "Lipid", "DNA", "Carbohydrate"], "correct_index": 2},
+    {"id": "gen_138", "question": "The total number of chromosomes in a normal human somatic cell is:", "options": ["23", "46", "44", "22"], "correct_index": 1},
+    {"id": "gen_139", "question": "What term describes alleles that are lethal when homozygous?", "options": ["Dominant", "Lethal alleles", "Codominant", "Pleiotropic"], "correct_index": 1},
+    {"id": "gen_140", "question": "If a genetic disease is mitochondrial, it is inherited from the:", "options": ["Mother", "Father", "Both", "Neither"], "correct_index": 0},
+    {"id": "chem_141", "question": "What is the coefficient of H2O when balancing H2 + O2 -> H2O?", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_142", "question": "In the equation 2H2 + O2 -> 2H2O, what are the reactants?", "options": ["H2O", "H2 and O2", "O2 and H2O", "2H2O"], "correct_index": 1},
+    {"id": "chem_143", "question": "What type of reaction is A + B -> AB?", "options": ["Decomposition", "Synthesis", "Single replacement", "Combustion"], "correct_index": 1},
+    {"id": "chem_144", "question": "What type of reaction is AB -> A + B?", "options": ["Synthesis", "Decomposition", "Double replacement", "Combustion"], "correct_index": 1},
+    {"id": "chem_145", "question": "Combustion of a hydrocarbon always produces which two compounds?", "options": ["CO2 and H2", "CO and H2O", "CO2 and H2O", "CH4 and O2"], "correct_index": 2},
+    {"id": "chem_146", "question": "Balance: _ Na + Cl2 -> 2 NaCl", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_147", "question": "Balance: N2 + 3 H2 -> _ NH3", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_148", "question": "What symbol means 'yields' or 'produces' in a chemical equation?", "options": ["+", "=", "->", "-"], "correct_index": 2},
+    {"id": "chem_149", "question": "What does the (s) state symbol stand for?", "options": ["Solution", "Solid", "Soluble", "Suspension"], "correct_index": 1},
+    {"id": "chem_150", "question": "What does the (aq) state symbol indicate?", "options": ["Aqueous (dissolved in water)", "Liquid", "Acid", "Base"], "correct_index": 0},
+    {"id": "chem_151", "question": "A reaction where one element replaces another in a compound is:", "options": ["Synthesis", "Decomposition", "Single replacement", "Double replacement"], "correct_index": 2},
+    {"id": "chem_152", "question": "AB + CD -> AD + CB represents which type of reaction?", "options": ["Synthesis", "Single replacement", "Double replacement", "Combustion"], "correct_index": 2},
+    {"id": "chem_153", "question": "Chemical equations must be balanced to satisfy the Law of:", "options": ["Multiple Proportions", "Conservation of Mass", "Constant Composition", "Thermodynamics"], "correct_index": 1},
+    {"id": "chem_154", "question": "What number is placed in front of a formula to balance an equation?", "options": ["Subscript", "Superscript", "Coefficient", "Exponent"], "correct_index": 2},
+    {"id": "chem_155", "question": "Can you change the subscripts to balance a chemical equation?", "options": ["Yes", "No", "Only for gases", "Only for water"], "correct_index": 1},
+    {"id": "chem_156", "question": "Balance: CH4 + 2 O2 -> CO2 + _ H2O", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_157", "question": "What is the product of the synthesis of iron and oxygen?", "options": ["Iron oxide", "Iron hydroxide", "Iron carbonate", "Iron"], "correct_index": 0},
+    {"id": "chem_158", "question": "An acid-base neutralization reaction produces water and a:", "options": ["Gas", "Metal", "Salt", "Nonmetal"], "correct_index": 2},
+    {"id": "chem_159", "question": "Balance: 2 KClO3 -> 2 KCl + _ O2", "options": ["1", "2", "3", "4"], "correct_index": 2},
+    {"id": "chem_160", "question": "If a reactant is limiting, it means it:", "options": ["Is left over", "Determines the maximum amount of product", "Is a catalyst", "Slows the reaction down"], "correct_index": 1},
+    {"id": "chem_161", "question": "What is the molar mass of H2O? (H=1, O=16)", "options": ["17 g/mol", "18 g/mol", "32 g/mol", "34 g/mol"], "correct_index": 1},
+    {"id": "chem_162", "question": "How many moles of H2 are needed to react with 1 mole of O2 to form H2O?", "options": ["0.5", "1", "2", "4"], "correct_index": 2},
+    {"id": "chem_163", "question": "In a chemical equation, a triangle symbol over the yield arrow indicates:", "options": ["Cold", "Light", "Heat is added", "A catalyst is used"], "correct_index": 2},
+    {"id": "chem_164", "question": "A substance that speeds up a reaction without being consumed is a:", "options": ["Reactant", "Product", "Catalyst", "Inhibitor"], "correct_index": 2},
+    {"id": "chem_165", "question": "Balance: _ Fe + 3 O2 -> 2 Fe2O3", "options": ["2", "3", "4", "6"], "correct_index": 2},
+    {"id": "chem_166", "question": "What gas is produced when an active metal reacts with an acid?", "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"], "correct_index": 1},
+    {"id": "chem_167", "question": "What precipitate forms when mixing AgNO3(aq) and NaCl(aq)?", "options": ["NaNO3", "AgCl", "Ag", "Cl2"], "correct_index": 1},
+    {"id": "chem_168", "question": "An exothermic reaction:", "options": ["Absorbs heat", "Releases heat", "Has no temperature change", "Only occurs in liquids"], "correct_index": 1},
+    {"id": "chem_169", "question": "An endothermic reaction:", "options": ["Absorbs heat", "Releases heat", "Produces light", "Explodes"], "correct_index": 0},
+    {"id": "chem_170", "question": "Balance: C3H8 + _ O2 -> 3 CO2 + 4 H2O", "options": ["3", "4", "5", "7"], "correct_index": 2},
+    {"id": "chem_171", "question": "What are the products of cellular respiration?", "options": ["Glucose and oxygen", "CO2, H2O, and energy", "Carbon and water", "Nitrogen and oxygen"], "correct_index": 1},
+    {"id": "chem_172", "question": "The number of atoms in a mole is known as:", "options": ["Planck's constant", "Avogadro's number", "Faraday's constant", "Euler's number"], "correct_index": 1},
+    {"id": "chem_173", "question": "Balance: P4 + _ Cl2 -> 4 PCl3", "options": ["4", "5", "6", "8"], "correct_index": 2},
+    {"id": "chem_174", "question": "What is the empirical formula if the molecular formula is C6H12O6?", "options": ["CH2O", "C2H4O2", "CHO", "C6H12O6"], "correct_index": 0},
+    {"id": "chem_175", "question": "Reactions that transfer electrons are called:", "options": ["Acid-base", "Precipitation", "Redox (oxidation-reduction)", "Double replacement"], "correct_index": 2},
+    {"id": "chem_176", "question": "Oxidation is the:", "options": ["Gain of electrons", "Loss of electrons", "Gain of protons", "Loss of mass"], "correct_index": 1},
+    {"id": "chem_177", "question": "Reduction is the:", "options": ["Loss of electrons", "Gain of electrons", "Loss of volume", "Gain of heat"], "correct_index": 1},
+    {"id": "chem_178", "question": "What is the chemical formula for carbon dioxide?", "options": ["CO", "CO2", "C2O", "CO3"], "correct_index": 1},
+    {"id": "chem_179", "question": "Balance: _ Al + 3 Br2 -> 2 AlBr3", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_180", "question": "In a balanced equation, the mass of reactants must equal the mass of:", "options": ["Solvents", "Catalysts", "Products", "The container"], "correct_index": 2},
+    {"id": "chem_181", "question": "What state of matter is designated by (g)?", "options": ["Gram", "Gas", "Gravity", "Glass"], "correct_index": 1},
+    {"id": "chem_182", "question": "Decomposition of water by electricity is called:", "options": ["Hydrolysis", "Electrolysis", "Pyrolysis", "Synthesis"], "correct_index": 1},
+    {"id": "chem_183", "question": "What is the chemical formula for ammonia?", "options": ["NH4", "NH3", "NO2", "HNO3"], "correct_index": 1},
+    {"id": "chem_184", "question": "Balance: 2 K + 2 H2O -> 2 KOH + _", "options": ["O2", "H2O", "H2", "H"], "correct_index": 2},
+    {"id": "chem_185", "question": "Stoichiometry is based on which law?", "options": ["Conservation of Mass", "Ideal Gas Law", "Boyle's Law", "Ohm's Law"], "correct_index": 0},
+    {"id": "chem_186", "question": "What is the theoretical yield?", "options": ["Amount actually produced", "Maximum possible amount produced", "Amount of reactant used", "The percent error"], "correct_index": 1},
+    {"id": "chem_187", "question": "If percent yield is 80% and theoretical yield is 10g, what is the actual yield?", "options": ["8g", "10g", "12.5g", "80g"], "correct_index": 0},
+    {"id": "chem_188", "question": "Which of these is a diatomic molecule?", "options": ["He", "O2", "C", "Ne"], "correct_index": 1},
+    {"id": "chem_189", "question": "What gas is responsible for the 'pop' test?", "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"], "correct_index": 2},
+    {"id": "chem_190", "question": "What gas rekindles a glowing splint?", "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Helium"], "correct_index": 1},
+    {"id": "chem_191", "question": "A reaction that goes in both forward and reverse directions is:", "options": ["Static", "Complete", "Reversible", "Combustion"], "correct_index": 2},
+    {"id": "chem_192", "question": "Balance: H2SO4 + 2 NaOH -> Na2SO4 + _ H2O", "options": ["1", "2", "3", "4"], "correct_index": 1},
+    {"id": "chem_193", "question": "What type of compound generally produces electrolytes in solution?", "options": ["Covalent", "Ionic", "Metallic", "Organic"], "correct_index": 1},
+    {"id": "chem_194", "question": "Spectator ions are ions that:", "options": ["Precipitate", "Change their oxidation state", "Do not participate directly in the reaction", "Are colored"], "correct_index": 2},
+    {"id": "chem_195", "question": "An equation showing only the particles involved in a chemical change is a:", "options": ["Total ionic equation", "Net ionic equation", "Molecular equation", "Word equation"], "correct_index": 1},
+    {"id": "chem_196", "question": "What is the formula for table salt?", "options": ["NaOH", "HCl", "NaCl", "KCl"], "correct_index": 2},
+    {"id": "chem_197", "question": "When calcium carbonate is heated, it decomposes into calcium oxide and:", "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Water"], "correct_index": 2},
+    {"id": "chem_198", "question": "Which metal can replace hydrogen in water? (Hint: Activity series)", "options": ["Copper", "Silver", "Sodium", "Gold"], "correct_index": 2},
+    {"id": "chem_199", "question": "A substance that changes color in the presence of an acid or base is an:", "options": ["Electrolyte", "Indicator", "Isotope", "Isomer"], "correct_index": 1},
+    {"id": "chem_200", "question": "The pH scale ranges generally from:", "options": ["1 to 10", "0 to 14", "1 to 100", "0 to 7"], "correct_index": 1}
+,
+    {
+      "id": "eig_001",
+      "category": "Eigenvalues",
+      "question": "What is an eigenvalue of a matrix A?",
+      "options": ["A scalar λ such that Av = λv for some non-zero vector v", "The determinant of matrix A", "The trace of matrix A divided by its rank", "A vector that rotates under transformation A"],
+      "correct_index": 0
+    },
+    {
+      "id": "eig_002",
+      "category": "Eigenvalues",
+      "question": "For the matrix A = [[3, 0], [0, 5]], what are the eigenvalues?",
+      "options": ["1 and 2", "3 and 5", "0 and 8", "2 and 6"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_003",
+      "category": "Eigenvalues",
+      "question": "The characteristic equation of a matrix A is obtained from which expression?",
+      "options": ["det(A + λI) = 0", "det(A - λI) = 0", "trace(A) - λ = 0", "det(A) × λ = 0"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_004",
+      "category": "Eigenvalues",
+      "question": "For a 2×2 matrix A = [[4, 1], [2, 3]], what is the characteristic polynomial?",
+      "options": ["λ² - 7λ + 10 = 0", "λ² - 7λ + 14 = 0", "λ² + 7λ - 10 = 0", "λ² - 4λ + 3 = 0"],
+      "correct_index": 0
+    },
+    {
+      "id": "eig_005",
+      "category": "Eigenvalues",
+      "question": "The product of all eigenvalues of a matrix equals which value?",
+      "options": ["The trace of the matrix", "The rank of the matrix", "The determinant of the matrix", "The norm of the matrix"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_006",
+      "category": "Eigenvalues",
+      "question": "The sum of all eigenvalues of a matrix equals which value?",
+      "options": ["The determinant", "The rank", "The trace", "The norm"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_007",
+      "category": "Eigenvalues",
+      "question": "A matrix with eigenvalues 2 and 5 has what determinant?",
+      "options": ["7", "10", "3", "25"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_008",
+      "category": "Eigenvalues",
+      "question": "What are the eigenvalues of the identity matrix I of any size?",
+      "options": ["0 only", "1 only", "0 and 1", "Depends on size"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_009",
+      "category": "Eigenvalues",
+      "question": "If λ is an eigenvalue of A, what is an eigenvalue of A²?",
+      "options": ["2λ", "λ²", "λ/2", "√λ"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_010",
+      "category": "Eigenvalues",
+      "question": "What is the eigenvalue of a zero matrix?",
+      "options": ["1", "Undefined", "0", "-1"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_011",
+      "category": "Eigenvalues",
+      "question": "For a diagonal matrix D = [[6, 0], [0, -2]], what are the eigenvalues?",
+      "options": ["4 and 0", "6 and 2", "6 and -2", "3 and -1"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_012",
+      "category": "Eigenvalues",
+      "question": "If A has eigenvalue λ, what eigenvalue does (A + 3I) have?",
+      "options": ["λ + 1", "λ + 3", "3λ", "λ - 3"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_013",
+      "category": "Eigenvalues",
+      "question": "A symmetric real matrix always has eigenvalues that are:",
+      "options": ["Complex", "Real", "Imaginary", "Zero"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_014",
+      "category": "Eigenvalues",
+      "question": "The matrix A = [[0, -1], [1, 0]] represents a 90° rotation. What are its eigenvalues?",
+      "options": ["1 and -1", "0 and 1", "i and -i", "2 and -2"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_015",
+      "category": "Eigenvalues",
+      "question": "If a 3×3 matrix has eigenvalues 1, 2, and 4, what is its determinant?",
+      "options": ["7", "6", "8", "9"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_016",
+      "category": "Eigenvalues",
+      "question": "For the matrix A = [[5, 0], [0, 5]], what can be said about its eigenvalues?",
+      "options": ["They are 0 and 5", "They are both 5 (repeated eigenvalue)", "They are 10 and 0", "They are 1 and 25"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_017",
+      "category": "Eigenvalues",
+      "question": "Which of the following matrices has eigenvalues of 3 and -3?",
+      "options": ["[[3, 0], [0, 3]]", "[[3, 0], [0, -3]]", "[[-3, 0], [-3, 0]]", "[[0, 3], [3, 0]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_018",
+      "category": "Eigenvalues",
+      "question": "An n×n matrix can have at most how many distinct eigenvalues?",
+      "options": ["n - 1", "n", "n + 1", "2n"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_019",
+      "category": "Eigenvalues",
+      "question": "If A has eigenvalue λ and eigenvector v, then kA (k is scalar) has eigenvalue:",
+      "options": ["λ + k", "λ - k", "kλ", "λ/k"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_020",
+      "category": "Eigenvalues",
+      "question": "The matrix A = [[2, 1], [0, 2]] has what eigenvalues?",
+      "options": ["1 and 2", "2 and 2 (repeated)", "0 and 2", "2 and 3"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_021",
+      "category": "Eigenvalues",
+      "question": "For eigenvalue decomposition to exist (diagonalization), a matrix must have:",
+      "options": ["All zero eigenvalues", "n linearly independent eigenvectors", "A positive determinant", "All real entries"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_022",
+      "category": "Eigenvalues",
+      "question": "If λ is an eigenvalue of invertible matrix A, what is an eigenvalue of A⁻¹?",
+      "options": ["-λ", "1/λ", "λ²", "λ - 1"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_023",
+      "category": "Eigenvalues",
+      "question": "The matrix A = [[1, 2], [2, 1]] has eigenvalues:",
+      "options": ["1 and 2", "3 and -1", "2 and 0", "4 and -2"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_024",
+      "category": "Eigenvalues",
+      "question": "A projection matrix P where P² = P has eigenvalues restricted to:",
+      "options": ["Only 0", "Only 1", "0 and 1 only", "Any real number"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_025",
+      "category": "Eigenvalues",
+      "question": "The eigenvectors corresponding to distinct eigenvalues of a matrix are:",
+      "options": ["Always zero vectors", "Linearly dependent", "Linearly independent", "Always orthogonal"],
+      "correct_index": 2
+    },
+    {
+      "id": "eig_026",
+      "category": "Eigenvalues",
+      "question": "For matrix A = [[7, 3], [3, -1]], what is the trace used in finding eigenvalues?",
+      "options": ["4", "6", "8", "-7"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_027",
+      "category": "Eigenvalues",
+      "question": "A matrix has eigenvalues 4, 4, and 2. What is its trace?",
+      "options": ["8", "10", "6", "32"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_028",
+      "category": "Eigenvalues",
+      "question": "The eigenvalue equation Av = λv tells us that the transformation A:",
+      "options": ["Rotates vector v by λ degrees", "Scales vector v by the factor λ", "Translates vector v by λ units", "Reflects vector v across λ"],
+      "correct_index": 1
+    },
+    {
+      "id": "eig_029",
+      "category": "Eigenvalues",
+      "question": "If a 2×2 matrix has trace = 8 and determinant = 15, what are its eigenvalues?",
+      "options": ["3 and 5", "4 and 4", "6 and 2", "7 and 1"],
+      "correct_index": 0
+    },
+    {
+      "id": "eig_030",
+      "category": "Eigenvalues",
+      "question": "What is the geometric multiplicity of an eigenvalue?",
+      "options": ["How many times it appears in the characteristic polynomial", "The dimension of its corresponding eigenspace", "Its numerical value squared", "The index in the matrix"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_001",
+      "category": "Transformation Matrices",
+      "question": "Which matrix represents a 90° counterclockwise rotation in 2D?",
+      "options": ["[[1,0],[0,1]]", "[[0,-1],[1,0]]", "[[0,1],[-1,0]]", "[[-1,0],[0,-1]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_002",
+      "category": "Transformation Matrices",
+      "question": "What does a transformation matrix that equals the identity matrix I do to a vector?",
+      "options": ["Doubles it", "Leaves it unchanged", "Reflects it", "Zeroes it out"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_003",
+      "category": "Transformation Matrices",
+      "question": "The matrix [[2, 0], [0, 2]] applied to vector [3, 4] gives:",
+      "options": ["[3, 4]", "[6, 4]", "[6, 8]", "[5, 6]"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_004",
+      "category": "Transformation Matrices",
+      "question": "A reflection across the x-axis is represented by which matrix?",
+      "options": ["[[1,0],[0,1]]", "[[1,0],[0,-1]]", "[[-1,0],[0,1]]", "[[0,1],[1,0]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_005",
+      "category": "Transformation Matrices",
+      "question": "A reflection across the y-axis is represented by which matrix?",
+      "options": ["[[1,0],[0,-1]]", "[[-1,0],[0,1]]", "[[0,-1],[1,0]]", "[[1,0],[0,1]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_006",
+      "category": "Transformation Matrices",
+      "question": "What does the transformation matrix [[1, k], [0, 1]] represent?",
+      "options": ["Rotation by angle k", "Horizontal shear by factor k", "Vertical shear by factor k", "Scaling by factor k"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_007",
+      "category": "Transformation Matrices",
+      "question": "To compose two linear transformations A then B, which matrix product is used?",
+      "options": ["A × B", "B × A", "A + B", "A - B"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_008",
+      "category": "Transformation Matrices",
+      "question": "A 2D scaling matrix that scales x by 3 and y by 4 is:",
+      "options": ["[[3,4],[0,0]]", "[[3,0],[0,4]]", "[[4,0],[0,3]]", "[[0,3],[4,0]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_009",
+      "category": "Transformation Matrices",
+      "question": "The determinant of a rotation matrix is always:",
+      "options": ["0", "-1", "1", "Depends on angle"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_010",
+      "category": "Transformation Matrices",
+      "question": "What is the inverse of a rotation matrix R(θ)?",
+      "options": ["R(2θ)", "R(-θ)", "-R(θ)", "R(90° - θ)"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_011",
+      "category": "Transformation Matrices",
+      "question": "Applying matrix [[0, 1], [1, 0]] to vector [a, b] gives:",
+      "options": ["[a, b]", "[b, a]", "[-a, b]", "[a, -b]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_012",
+      "category": "Transformation Matrices",
+      "question": "A 180° rotation matrix in 2D is:",
+      "options": ["[[1,0],[0,-1]]", "[[0,-1],[1,0]]", "[[-1,0],[0,-1]]", "[[0,1],[-1,0]]"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_013",
+      "category": "Transformation Matrices",
+      "question": "In 3D, a rotation of θ around the z-axis leaves which component unchanged?",
+      "options": ["x component", "y component", "z component", "All components change"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_014",
+      "category": "Transformation Matrices",
+      "question": "What is the effect of applying a zero matrix to any vector?",
+      "options": ["Returns the same vector", "Returns a unit vector", "Returns the zero vector", "Returns the inverse vector"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_015",
+      "category": "Transformation Matrices",
+      "question": "A transformation matrix T maps [1,0] to [2,3] and [0,1] to [4,5]. What is T?",
+      "options": ["[[1,4],[2,5]]", "[[2,4],[3,5]]", "[[2,3],[4,5]]", "[[3,5],[2,4]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_016",
+      "category": "Transformation Matrices",
+      "question": "If a transformation matrix has determinant 0, the transformation is:",
+      "options": ["Invertible", "A rotation", "Singular (collapses space)", "A scaling"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_017",
+      "category": "Transformation Matrices",
+      "question": "Homogeneous coordinates in 2D use matrices of what size?",
+      "options": ["2×2", "2×3", "3×3", "4×4"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_018",
+      "category": "Transformation Matrices",
+      "question": "What transformation does [[k, 0], [0, k]] perform?",
+      "options": ["Shear", "Uniform scaling by k", "Rotation by k", "Reflection"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_019",
+      "category": "Transformation Matrices",
+      "question": "A matrix is orthogonal if its transpose equals its:",
+      "options": ["Negative", "Square", "Inverse", "Determinant"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_020",
+      "category": "Transformation Matrices",
+      "question": "The reflection matrix across the line y = x is:",
+      "options": ["[[1,0],[0,-1]]", "[[-1,0],[0,1]]", "[[0,1],[1,0]]", "[[0,-1],[-1,0]]"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_021",
+      "category": "Transformation Matrices",
+      "question": "What does it mean for a transformation to be 'linear'?",
+      "options": ["It maps straight lines only", "It satisfies additivity and scalar homogeneity", "It uses linear algebra", "It has a slope"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_022",
+      "category": "Transformation Matrices",
+      "question": "The matrix product AB represents applying transformation A to the result of:",
+      "options": ["Applying A first then B", "Applying B first then A", "Applying both simultaneously", "Neither transformation"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_023",
+      "category": "Transformation Matrices",
+      "question": "Which of the following is NOT a linear transformation?",
+      "options": ["Rotation", "Scaling", "Translation by a non-zero vector", "Reflection"],
+      "correct_index": 2
+    },
+    {
+      "id": "trm_024",
+      "category": "Transformation Matrices",
+      "question": "The standard matrix for a projection onto the x-axis in 2D is:",
+      "options": ["[[1,0],[0,1]]", "[[1,0],[0,0]]", "[[0,0],[0,1]]", "[[0,1],[1,0]]"],
+      "correct_index": 1
+    },
+    {
+      "id": "trm_025",
+      "category": "Transformation Matrices",
+      "question": "If a 2D transformation matrix has eigenvalues 1 and -1, the transformation is likely a:",
+      "options": ["Scaling", "Rotation", "Reflection", "Shear"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_001",
+      "category": "Trace Values",
+      "question": "The trace of a matrix is defined as:",
+      "options": ["The sum of all elements", "The sum of diagonal elements", "The product of diagonal elements", "The sum of off-diagonal elements"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_002",
+      "category": "Trace Values",
+      "question": "What is the trace of the matrix A = [[3, 7], [2, 5]]?",
+      "options": ["15", "8", "17", "10"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_003",
+      "category": "Trace Values",
+      "question": "What is the trace of the identity matrix I₃ (3×3)?",
+      "options": ["0", "1", "3", "9"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_004",
+      "category": "Trace Values",
+      "question": "If trace(A) = 10 and eigenvalues are 3 and λ, what is λ?",
+      "options": ["3", "7", "13", "30"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_005",
+      "category": "Trace Values",
+      "question": "What is trace(A + B) equal to?",
+      "options": ["trace(A) × trace(B)", "trace(A) - trace(B)", "trace(A) + trace(B)", "trace(AB)"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_006",
+      "category": "Trace Values",
+      "question": "For a 4×4 matrix with all diagonal entries equal to 6, what is the trace?",
+      "options": ["6", "12", "18", "24"],
+      "correct_index": 3
+    },
+    {
+      "id": "trv_007",
+      "category": "Trace Values",
+      "question": "Is the trace of a matrix invariant under similarity transformation (B = P⁻¹AP)?",
+      "options": ["No, it always changes", "Yes, trace(B) = trace(A)", "Only for symmetric matrices", "Only if P is orthogonal"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_008",
+      "category": "Trace Values",
+      "question": "What is trace(kA) if k is a scalar and A is an n×n matrix?",
+      "options": ["trace(A) + k", "k × trace(A)", "trace(A)ⁿ", "k + n × trace(A)"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_009",
+      "category": "Trace Values",
+      "question": "The trace of the zero matrix is:",
+      "options": ["1", "Undefined", "n (the matrix size)", "0"],
+      "correct_index": 3
+    },
+    {
+      "id": "trv_010",
+      "category": "Trace Values",
+      "question": "For matrix A = [[1,2,3],[4,5,6],[7,8,9]], what is trace(A)?",
+      "options": ["9", "12", "15", "45"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_011",
+      "category": "Trace Values",
+      "question": "Does trace(AB) always equal trace(BA)?",
+      "options": ["No, never", "Only for square matrices", "Yes, always (cyclic property)", "Only if A and B commute"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_012",
+      "category": "Trace Values",
+      "question": "A 3×3 matrix has eigenvalues 2, -1, and 4. What is its trace?",
+      "options": ["5", "8", "3", "-8"],
+      "correct_index": 0
+    },
+    {
+      "id": "trv_013",
+      "category": "Trace Values",
+      "question": "What is the trace of a rotation matrix R(θ) in 2D?",
+      "options": ["0", "1", "2cos(θ)", "sin(θ)"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_014",
+      "category": "Trace Values",
+      "question": "Which of the following is a property of the trace function?",
+      "options": ["trace(AB) = trace(A) × trace(B)", "trace(A + B) = trace(A) + trace(B)", "trace(A²) = trace(A)²", "trace(Aᵀ) ≠ trace(A)"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_015",
+      "category": "Trace Values",
+      "question": "The trace of a transpose Aᵀ compared to A is:",
+      "options": ["Always different", "Negative of trace(A)", "Equal to trace(A)", "Double trace(A)"],
+      "correct_index": 2
+    },
+    {
+      "id": "trv_016",
+      "category": "Trace Values",
+      "question": "For A = [[a, b], [c, d]], trace(A²) equals:",
+      "options": ["(a+d)²", "a² + d²", "a² + bc + cb + d²", "a² + 2bc + d²"],
+      "correct_index": 3
+    },
+    {
+      "id": "trv_017",
+      "category": "Trace Values",
+      "question": "A matrix A is traceless if trace(A) = 0. Which type of matrix is always traceless?",
+      "options": ["Symmetric matrices", "Skew-symmetric (antisymmetric) odd-size matrices", "Diagonal matrices", "Orthogonal matrices"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_018",
+      "category": "Trace Values",
+      "question": "If trace(A) = 7 and trace(B) = -3, what is trace(2A - B)?",
+      "options": ["11", "17", "10", "14"],
+      "correct_index": 1
+    },
+    {
+      "id": "trv_019",
+      "category": "Trace Values",
+      "question": "A 2×2 matrix has trace 6 and determinant 8. What is its characteristic polynomial?",
+      "options": ["λ² - 6λ + 8 = 0", "λ² + 6λ - 8 = 0", "λ² - 6λ - 8 = 0", "λ² + 6λ + 8 = 0"],
+      "correct_index": 0
+    },
+    {
+      "id": "trv_020",
+      "category": "Trace Values",
+      "question": "The trace of a 5×5 identity matrix is:",
+      "options": ["1", "5", "25", "0"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_001",
+      "category": "Heartbeat Calculations",
+      "question": "The normal resting heart rate for a healthy adult is:",
+      "options": ["40–60 bpm", "60–100 bpm", "100–120 bpm", "120–140 bpm"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_002",
+      "category": "Heartbeat Calculations",
+      "question": "If a person's heart beats 72 times per minute, how many times does it beat in one hour?",
+      "options": ["720", "3,600", "4,320", "7,200"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_003",
+      "category": "Heartbeat Calculations",
+      "question": "Using the formula MHR = 220 - age, what is the maximum heart rate for a 30-year-old?",
+      "options": ["180 bpm", "190 bpm", "200 bpm", "210 bpm"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_004",
+      "category": "Heartbeat Calculations",
+      "question": "A heart beats 80 times per minute. How many times does it beat in one day (24 hours)?",
+      "options": ["57,600", "100,800", "115,200", "120,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_005",
+      "category": "Heartbeat Calculations",
+      "question": "If the target heart rate zone for moderate exercise is 50–70% of MHR, what is the lower limit for a 40-year-old?",
+      "options": ["80 bpm", "90 bpm", "95 bpm", "100 bpm"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_006",
+      "category": "Heartbeat Calculations",
+      "question": "A patient's heart beats 65 times per minute. What is the time interval between beats (in seconds)?",
+      "options": ["0.72 s", "0.82 s", "0.92 s", "1.02 s"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_007",
+      "category": "Heartbeat Calculations",
+      "question": "Heart rate of 45 bpm in a resting adult is termed:",
+      "options": ["Tachycardia", "Bradycardia", "Arrhythmia", "Normotension"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_008",
+      "category": "Heartbeat Calculations",
+      "question": "Heart rate above 100 bpm at rest in an adult is called:",
+      "options": ["Bradycardia", "Hypertension", "Tachycardia", "Fibrillation"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_009",
+      "category": "Heartbeat Calculations",
+      "question": "If a person counts 18 heartbeats in 15 seconds, what is their heart rate in bpm?",
+      "options": ["60 bpm", "72 bpm", "80 bpm", "90 bpm"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_010",
+      "category": "Heartbeat Calculations",
+      "question": "A 25-year-old athlete wants to train at 85% of their maximum heart rate. What is the target bpm?",
+      "options": ["162.5 bpm", "166.75 bpm", "168.75 bpm", "170 bpm"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_011",
+      "category": "Heartbeat Calculations",
+      "question": "The Karvonen formula for target heart rate uses which additional variable?",
+      "options": ["Body weight", "Height", "Resting heart rate", "Blood pressure"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_012",
+      "category": "Heartbeat Calculations",
+      "question": "A heart beats 90 times per minute. How many beats occur in 2.5 minutes?",
+      "options": ["180", "200", "225", "250"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_013",
+      "category": "Heartbeat Calculations",
+      "question": "If a healthy heart beats approximately 100,000 times a day, how many times does it beat in a year?",
+      "options": ["3.65 million", "36.5 million", "365 million", "3.65 billion"],
+      "correct_index": 1
+    },
+    {
+      "id": "hrt_014",
+      "category": "Heartbeat Calculations",
+      "question": "The QRS complex in an ECG represents which event?",
+      "options": ["Atrial depolarisation", "Ventricular repolarisation", "Ventricular depolarisation (contraction)", "Atrial repolarisation"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_015",
+      "category": "Heartbeat Calculations",
+      "question": "Using MHR = 220 - age, what is the MHR of a 50-year-old?",
+      "options": ["160 bpm", "165 bpm", "170 bpm", "175 bpm"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_016",
+      "category": "Heartbeat Calculations",
+      "question": "If a patient's cardiac output is 5,000 mL/min and heart rate is 70 bpm, what is the stroke volume?",
+      "options": ["50 mL", "61.4 mL", "71.4 mL", "80 mL"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_017",
+      "category": "Heartbeat Calculations",
+      "question": "Cardiac output = Heart Rate × Stroke Volume. If HR = 80 bpm and SV = 70 mL, what is cardiac output?",
+      "options": ["5,200 mL/min", "5,500 mL/min", "5,600 mL/min", "6,000 mL/min"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_018",
+      "category": "Heartbeat Calculations",
+      "question": "A newborn's normal heart rate range is approximately:",
+      "options": ["60–100 bpm", "80–120 bpm", "100–160 bpm", "140–180 bpm"],
+      "correct_index": 2
+    },
+    {
+      "id": "hrt_019",
+      "category": "Heartbeat Calculations",
+      "question": "During vigorous exercise, heart rate can rise to what percentage of maximum heart rate?",
+      "options": ["50–60%", "60–70%", "70–80%", "85–100%"],
+      "correct_index": 3
+    },
+    {
+      "id": "hrt_020",
+      "category": "Heartbeat Calculations",
+      "question": "If RR interval (time between beats) on an ECG is 0.6 seconds, what is the heart rate?",
+      "options": ["60 bpm", "80 bpm", "100 bpm", "120 bpm"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_001",
+      "category": "Speed Conversions",
+      "question": "1 kilometre per hour (km/h) is equal to how many metres per second (m/s)?",
+      "options": ["0.178 m/s", "0.278 m/s", "0.378 m/s", "0.478 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_002",
+      "category": "Speed Conversions",
+      "question": "A car travels at 90 km/h. What is this speed in metres per second?",
+      "options": ["20 m/s", "25 m/s", "30 m/s", "35 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_003",
+      "category": "Speed Conversions",
+      "question": "The speed of light is approximately 300,000 km/s. What is this in miles per second?",
+      "options": ["96,000 miles/s", "186,000 miles/s", "240,000 miles/s", "310,000 miles/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_004",
+      "category": "Speed Conversions",
+      "question": "1 mile per hour (mph) is equal to approximately how many km/h?",
+      "options": ["1.409 km/h", "1.509 km/h", "1.609 km/h", "1.709 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_005",
+      "category": "Speed Conversions",
+      "question": "A runner completes 100 metres in 10 seconds. What is their speed in km/h?",
+      "options": ["30 km/h", "36 km/h", "40 km/h", "45 km/h"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_006",
+      "category": "Speed Conversions",
+      "question": "A speed of 60 mph is approximately how many km/h?",
+      "options": ["86 km/h", "92 km/h", "96.6 km/h", "100 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_007",
+      "category": "Speed Conversions",
+      "question": "A boat travels at 20 knots. 1 knot = 1.852 km/h. What is its speed in km/h?",
+      "options": ["34 km/h", "37.04 km/h", "40 km/h", "42 km/h"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_008",
+      "category": "Speed Conversions",
+      "question": "If a car travels 240 km in 3 hours, what is its average speed in km/h?",
+      "options": ["60 km/h", "70 km/h", "80 km/h", "90 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_009",
+      "category": "Speed Conversions",
+      "question": "Convert 15 m/s to km/h:",
+      "options": ["36 km/h", "48 km/h", "54 km/h", "60 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_010",
+      "category": "Speed Conversions",
+      "question": "Mach 1 (speed of sound at sea level) is approximately how many km/h?",
+      "options": ["843 km/h", "1,125 km/h", "1,235 km/h", "1,500 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_011",
+      "category": "Speed Conversions",
+      "question": "A train travels at 200 km/h. How many metres does it travel per second?",
+      "options": ["44.4 m/s", "55.5 m/s", "60 m/s", "66.7 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_012",
+      "category": "Speed Conversions",
+      "question": "If a cyclist rides at 8 m/s, what is their speed in km/h?",
+      "options": ["24 km/h", "28.8 km/h", "32 km/h", "36 km/h"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_013",
+      "category": "Speed Conversions",
+      "question": "An aircraft flying at 900 km/h is travelling at approximately how many miles per hour?",
+      "options": ["459 mph", "519 mph", "559 mph", "600 mph"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_014",
+      "category": "Speed Conversions",
+      "question": "Speed = Distance ÷ Time. If a car covers 450 km in 4.5 hours, what is the speed?",
+      "options": ["90 km/h", "100 km/h", "110 km/h", "120 km/h"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_015",
+      "category": "Speed Conversions",
+      "question": "Convert 100 km/h to feet per second (1 km = 3280.84 ft):",
+      "options": ["81.4 ft/s", "91.1 ft/s", "101.7 ft/s", "111.2 ft/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_016",
+      "category": "Speed Conversions",
+      "question": "If a satellite orbits Earth at 7.8 km/s, what is this in km/h?",
+      "options": ["18,000 km/h", "24,080 km/h", "28,080 km/h", "32,000 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_017",
+      "category": "Speed Conversions",
+      "question": "A pedestrian walks at 5 km/h. How many metres do they cover in one minute?",
+      "options": ["63.3 m", "73.3 m", "83.3 m", "93.3 m"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_018",
+      "category": "Speed Conversions",
+      "question": "Convert 30 mph to m/s (1 mile = 1609.34 m):",
+      "options": ["11.18 m/s", "13.41 m/s", "15.32 m/s", "17.88 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_019",
+      "category": "Speed Conversions",
+      "question": "A sprinter runs 400 m in 45 seconds. What is their average speed in km/h?",
+      "options": ["28 km/h", "30 km/h", "32 km/h", "35 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_020",
+      "category": "Speed Conversions",
+      "question": "A rocket travels at 11.2 km/s (Earth's escape velocity). What is this in km/h?",
+      "options": ["30,320 km/h", "40,320 km/h", "50,320 km/h", "60,320 km/h"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_021",
+      "category": "Speed Conversions",
+      "question": "A swimmer covers 1500 m in 25 minutes. What is their speed in m/s?",
+      "options": ["0.8 m/s", "1.0 m/s", "1.2 m/s", "1.5 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_022",
+      "category": "Speed Conversions",
+      "question": "Convert 72 km/h to m/s:",
+      "options": ["15 m/s", "18 m/s", "20 m/s", "24 m/s"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_023",
+      "category": "Speed Conversions",
+      "question": "If a bus travels at 54 km/h, how many seconds does it take to cover 300 metres?",
+      "options": ["15 s", "18 s", "20 s", "24 s"],
+      "correct_index": 2
+    },
+    {
+      "id": "spd_024",
+      "category": "Speed Conversions",
+      "question": "1 knot is defined as 1 nautical mile per hour. 1 nautical mile = 1.852 km. What is 30 knots in m/s?",
+      "options": ["13.5 m/s", "15.43 m/s", "17.5 m/s", "20 m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "spd_025",
+      "category": "Speed Conversions",
+      "question": "A particle accelerator speeds particles to 99% the speed of light. If c ≈ 3×10⁸ m/s, what is the particle speed?",
+      "options": ["2.7×10⁸ m/s", "2.97×10⁸ m/s", "2.99×10⁸ m/s", "3.0×10⁸ m/s"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_001",
+      "category": "Profit and Cost Equations",
+      "question": "The basic profit formula is:",
+      "options": ["Profit = Revenue + Cost", "Profit = Revenue - Cost", "Profit = Cost - Revenue", "Profit = Revenue × Cost"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_002",
+      "category": "Profit and Cost Equations",
+      "question": "A trader buys goods for ₦5,000 and sells them for ₦7,500. What is the profit?",
+      "options": ["₦1,500", "₦2,000", "₦2,500", "₦3,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_003",
+      "category": "Profit and Cost Equations",
+      "question": "Profit percentage = (Profit ÷ Cost Price) × 100. If cost = ₦8,000 and profit = ₦2,000, what is the profit %?",
+      "options": ["20%", "25%", "30%", "40%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_004",
+      "category": "Profit and Cost Equations",
+      "question": "A shopkeeper sells an item at ₦12,000 at a 20% profit. What was the cost price?",
+      "options": ["₦8,000", "₦9,000", "₦10,000", "₦11,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_005",
+      "category": "Profit and Cost Equations",
+      "question": "If total revenue = ₦500,000 and total cost = ₦320,000, what is the profit margin?",
+      "options": ["36%", "56.25%", "64%", "180%"],
+      "correct_index": 0
+    },
+    {
+      "id": "pce_006",
+      "category": "Profit and Cost Equations",
+      "question": "Break-even point is where:",
+      "options": ["Revenue > Cost", "Revenue = Cost (Profit = 0)", "Cost > Revenue", "Profit is maximised"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_007",
+      "category": "Profit and Cost Equations",
+      "question": "Fixed costs are ₦200,000 and variable cost per unit is ₦500. Selling price per unit is ₦700. How many units must be sold to break even?",
+      "options": ["500 units", "750 units", "1,000 units", "1,500 units"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_008",
+      "category": "Profit and Cost Equations",
+      "question": "Total Cost = Fixed Cost + Variable Cost. If FC = ₦50,000 and VC per unit = ₦200, what is the total cost for 500 units?",
+      "options": ["₦100,000", "₦150,000", "₦200,000", "₦250,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_009",
+      "category": "Profit and Cost Equations",
+      "question": "A product is sold at a 15% loss. If the selling price is ₦8,500, what was the cost price?",
+      "options": ["₦9,500", "₦10,000", "₦10,500", "₦11,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_010",
+      "category": "Profit and Cost Equations",
+      "question": "Gross profit = Revenue - Cost of Goods Sold (COGS). If revenue = ₦800,000 and COGS = ₦480,000, what is gross profit?",
+      "options": ["₦280,000", "₦300,000", "₦320,000", "₦360,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_011",
+      "category": "Profit and Cost Equations",
+      "question": "A trader marks up goods by 40% on cost and then gives a 10% discount. What is the net profit percentage on cost?",
+      "options": ["26%", "30%", "34%", "40%"],
+      "correct_index": 0
+    },
+    {
+      "id": "pce_012",
+      "category": "Profit and Cost Equations",
+      "question": "Net profit = Gross Profit - Operating Expenses. If gross profit = ₦600,000 and expenses = ₦220,000, what is net profit?",
+      "options": ["₦350,000", "₦380,000", "₦400,000", "₦420,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_013",
+      "category": "Profit and Cost Equations",
+      "question": "A factory produces 1,000 units. Fixed cost = ₦400,000, variable cost = ₦150 per unit. What is the average total cost per unit?",
+      "options": ["₦400", "₦550", "₦600", "₦650"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_014",
+      "category": "Profit and Cost Equations",
+      "question": "If a business has revenue of ₦1,200,000 and a net profit margin of 25%, what is the net profit?",
+      "options": ["₦200,000", "₦250,000", "₦300,000", "₦350,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_015",
+      "category": "Profit and Cost Equations",
+      "question": "Return on Investment (ROI) = (Net Profit ÷ Investment Cost) × 100. If profit = ₦150,000 and investment = ₦600,000, what is the ROI?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_016",
+      "category": "Profit and Cost Equations",
+      "question": "A seller purchases 50 items at ₦800 each and sells them at ₦1,100 each. What is the total profit?",
+      "options": ["₦12,000", "₦15,000", "₦18,000", "₦20,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_017",
+      "category": "Profit and Cost Equations",
+      "question": "Contribution margin per unit = Selling price - Variable cost. If SP = ₦2,500 and VC = ₦1,700, what is the contribution margin?",
+      "options": ["₦600", "₦700", "₦800", "₦900"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_018",
+      "category": "Profit and Cost Equations",
+      "question": "A business buys stock worth ₦900,000 and incurs ₦60,000 in transport. It sells everything for ₦1,200,000. What is the profit?",
+      "options": ["₦200,000", "₦240,000", "₦260,000", "₦300,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_019",
+      "category": "Profit and Cost Equations",
+      "question": "Selling price = Cost × (1 + profit%). If cost = ₦5,000 and desired profit = 30%, what is the selling price?",
+      "options": ["₦5,500", "₦6,000", "₦6,500", "₦7,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_020",
+      "category": "Profit and Cost Equations",
+      "question": "If an item is sold for ₦4,200 at a 5% loss, what was the cost price?",
+      "options": ["₦4,400", "₦4,421", "₦4,500", "₦4,620"],
+      "correct_index": 0
+    },
+    {
+      "id": "pce_021",
+      "category": "Profit and Cost Equations",
+      "question": "A company's revenue function is R(x) = 500x and cost function is C(x) = 200x + 90,000. Profit function P(x) is:",
+      "options": ["300x - 90,000", "700x + 90,000", "300x + 90,000", "500x - 200x"],
+      "correct_index": 0
+    },
+    {
+      "id": "pce_022",
+      "category": "Profit and Cost Equations",
+      "question": "Using P(x) = 300x - 90,000, how many units must be sold to break even?",
+      "options": ["200 units", "250 units", "300 units", "350 units"],
+      "correct_index": 2
+    },
+    {
+      "id": "pce_023",
+      "category": "Profit and Cost Equations",
+      "question": "A markup of 60% on cost price gives a selling price of ₦32,000. What is the cost price?",
+      "options": ["₦18,000", "₦20,000", "₦22,000", "₦24,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_024",
+      "category": "Profit and Cost Equations",
+      "question": "If price elasticity of demand = -2 and price increases by 5%, by what percentage does quantity demanded change?",
+      "options": ["-5%", "-10%", "-15%", "-20%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pce_025",
+      "category": "Profit and Cost Equations",
+      "question": "A business has fixed costs of ₦250,000, variable costs of ₦300 per unit, and sells at ₦550 per unit. What is the break-even quantity?",
+      "options": ["800 units", "900 units", "1,000 units", "1,100 units"],
+      "correct_index": 2
+    }
+  ,
+    {"id": "seq_001", "question": "What is the next term in the arithmetic sequence: 5, 9, 13, 17, ...?", "options": ["19", "21", "23", "25"], "correct_index": 1},
+    {"id": "seq_002", "question": "Find the 10th term of the sequence: 2, 4, 6, 8, ...", "options": ["18", "20", "22", "24"], "correct_index": 1},
+    {"id": "seq_003", "question": "What is the common difference in the sequence: 10, 7, 4, 1, ...?", "options": ["3", "-3", "4", "-4"], "correct_index": 1},
+    {"id": "seq_004", "question": "Find the sum of the first 10 terms of the sequence: 1, 2, 3, 4, ...", "options": ["45", "50", "55", "60"], "correct_index": 2},
+    {"id": "seq_005", "question": "What is the next term in the geometric sequence: 3, 6, 12, 24, ...?", "options": ["36", "48", "60", "72"], "correct_index": 1},
+    {"id": "seq_006", "question": "Find the common ratio in the sequence: 81, 27, 9, 3, ...", "options": ["3", "1/3", "9", "1/9"], "correct_index": 1},
+    {"id": "seq_007", "question": "What is the 5th term of a geometric sequence where the first term is 2 and the common ratio is 3?", "options": ["54", "162", "486", "243"], "correct_index": 1},
+    {"id": "seq_008", "question": "Find the sum of the infinite geometric series: 1 + 1/2 + 1/4 + 1/8 + ...", "options": ["1", "1.5", "2", "Infinity"], "correct_index": 2},
+    {"id": "seq_009", "question": "What is the 6th term of the Fibonacci sequence? (Assuming it starts 1, 1, 2, 3...)", "options": ["5", "8", "13", "21"], "correct_index": 1},
+    {"id": "seq_010", "question": "Find the sum of the first 5 terms of the geometric series: 2 + 4 + 8 + ...", "options": ["30", "62", "64", "126"], "correct_index": 1},
+    {"id": "seq_011", "question": "What is the missing term in the sequence: 1, 4, 9, _, 25, 36?", "options": ["12", "14", "16", "20"], "correct_index": 2},
+    {"id": "seq_012", "question": "Find the sum of the first 10 even positive integers.", "options": ["100", "110", "120", "130"], "correct_index": 1},
+    {"id": "seq_013", "question": "If the nth term of a sequence is 3n - 1, what is the 4th term?", "options": ["8", "10", "11", "12"], "correct_index": 2},
+    {"id": "seq_014", "question": "Which term in the sequence 5, 10, 15, 20... is 50?", "options": ["8th", "9th", "10th", "11th"], "correct_index": 2},
+    {"id": "seq_015", "question": "What is the arithmetic mean of 12 and 28?", "options": ["16", "20", "24", "40"], "correct_index": 1},
+    {"id": "seq_016", "question": "What is the geometric mean of 4 and 16?", "options": ["8", "10", "12", "20"], "correct_index": 0},
+    {"id": "seq_017", "question": "Find the sum of the first 100 positive integers.", "options": ["5000", "5050", "5100", "10000"], "correct_index": 1},
+    {"id": "seq_018", "question": "What is the 8th term of the sequence 2, -4, 8, -16, ...?", "options": ["128", "-128", "256", "-256"], "correct_index": 1},
+    {"id": "seq_019", "question": "The sum of the first n odd numbers is always equal to:", "options": ["n", "2n", "n^2", "n(n+1)"], "correct_index": 2},
+    {"id": "seq_020", "question": "If an arithmetic sequence has a1 = 10 and d = -2, what is a5?", "options": ["0", "2", "4", "8"], "correct_index": 1},
+    {"id": "seq_021", "question": "What is the sum of the series 5 + 10 + 15 + ... + 50?", "options": ["250", "275", "300", "500"], "correct_index": 1},
+    {"id": "seq_022", "question": "Find the next term: 1, 8, 27, 64, ...", "options": ["100", "121", "125", "144"], "correct_index": 2},
+    {"id": "seq_023", "question": "If the sum of an infinite geometric series is 10 and the first term is 5, what is the common ratio?", "options": ["1/2", "1/4", "1/5", "2"], "correct_index": 0},
+    {"id": "seq_024", "question": "What is the 7th term of the sequence where an = n^2 + 1?", "options": ["48", "49", "50", "51"], "correct_index": 2},
+    {"id": "seq_025", "question": "In an AP, if the 3rd term is 10 and the 6th term is 19, what is the common difference?", "options": ["2", "3", "4", "5"], "correct_index": 1},
+    {"id": "seq_026", "question": "What is the sum of the first 6 terms of the sequence 1, 3, 9, 27, ...?", "options": ["121", "364", "728", "1093"], "correct_index": 1},
+    {"id": "seq_027", "question": "Which of these is a divergent series?", "options": ["1 + 1/2 + 1/4 + ...", "1 + 2 + 3 + 4 + ...", "1 - 1/2 + 1/4 - ...", "0.9 + 0.09 + ..."], "correct_index": 1},
+    {"id": "seq_028", "question": "What is the sum of the interior angles of a triangle?", "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"], "correct_index": 1},
+    {"id": "seq_029", "question": "Identify the missing number: 2, 5, 10, 17, 26, _", "options": ["35", "37", "39", "41"], "correct_index": 1},
+    {"id": "seq_030", "question": "Find the 20th term of the AP: 3, 7, 11, ...", "options": ["79", "83", "87", "91"], "correct_index": 0},
+    {"id": "seq_031", "question": "What is the limit of the sequence an = 1/n as n approaches infinity?", "options": ["1", "Infinity", "0", "Undefined"], "correct_index": 2},
+    {"id": "seq_032", "question": "Find the sum of the arithmetic series: 2 + 5 + 8 + 11 + 14.", "options": ["30", "40", "50", "60"], "correct_index": 1},
+    {"id": "seq_033", "question": "What is the 4th term of the geometric sequence with a1 = -2 and r = -3?", "options": ["-54", "54", "162", "-162"], "correct_index": 1},
+    {"id": "seq_034", "question": "Determine the number of terms in the AP: 4, 7, 10, ..., 31.", "options": ["9", "10", "11", "12"], "correct_index": 1},
+    {"id": "pol_035", "question": "What is a polygon with 5 sides called?", "options": ["Hexagon", "Heptagon", "Pentagon", "Octagon"], "correct_index": 2},
+    {"id": "pol_036", "question": "What is the sum of the interior angles of a quadrilateral?", "options": ["180 degrees", "270 degrees", "360 degrees", "540 degrees"], "correct_index": 2},
+    {"id": "pol_037", "question": "What is the measure of each interior angle of a regular hexagon?", "options": ["108 degrees", "120 degrees", "135 degrees", "150 degrees"], "correct_index": 1},
+    {"id": "pol_038", "question": "How many diagonals does a pentagon have?", "options": ["5", "9", "14", "20"], "correct_index": 0},
+    {"id": "pol_039", "question": "What is the sum of the exterior angles of any convex polygon?", "options": ["180 degrees", "360 degrees", "540 degrees", "Depends on the number of sides"], "correct_index": 1},
+    {"id": "pol_040", "question": "A polygon with 8 sides is called an:", "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"], "correct_index": 2},
+    {"id": "pol_041", "question": "What is the measure of each exterior angle of a regular decagon?", "options": ["36 degrees", "45 degrees", "60 degrees", "72 degrees"], "correct_index": 0},
+    {"id": "pol_042", "question": "If the sum of interior angles is 1080 degrees, how many sides does the polygon have?", "options": ["6", "8", "10", "12"], "correct_index": 1},
+    {"id": "pol_043", "question": "What is a regular polygon?", "options": ["All sides equal", "All angles equal", "All sides and angles equal", "None of the above"], "correct_index": 2},
+    {"id": "pol_044", "question": "How many sides does a heptagon have?", "options": ["6", "7", "8", "9"], "correct_index": 1},
+    {"id": "pol_045", "question": "What is the formula for the sum of interior angles of an n-sided polygon?", "options": ["(n-1)*180", "(n-2)*180", "n*180", "(n-3)*180"], "correct_index": 1},
+    {"id": "pol_046", "question": "How many diagonals can be drawn from a single vertex of a hexagon?", "options": ["2", "3", "4", "5"], "correct_index": 1},
+    {"id": "pol_047", "question": "If an exterior angle of a regular polygon is 45 degrees, how many sides does it have?", "options": ["6", "8", "10", "12"], "correct_index": 1},
+    {"id": "pol_048", "question": "What is a 9-sided polygon called?", "options": ["Septagon", "Octagon", "Nonagon", "Decagon"], "correct_index": 2},
+    {"id": "pol_049", "question": "How many diagonals are in an octagon?", "options": ["14", "20", "27", "35"], "correct_index": 1},
+    {"id": "pol_050", "question": "What is the measure of an interior angle of a regular pentagon?", "options": ["90 degrees", "108 degrees", "120 degrees", "135 degrees"], "correct_index": 1},
+    {"id": "pol_051", "question": "A polygon whose vertices all point outward is called:", "options": ["Concave", "Convex", "Complex", "Regular"], "correct_index": 1},
+    {"id": "pol_052", "question": "Which of these polygons cannot be tessellated (tiled) regularly on a 2D plane?", "options": ["Triangle", "Square", "Pentagon", "Hexagon"], "correct_index": 2},
+    {"id": "pol_053", "question": "What is the sum of interior angles of a 12-sided polygon (dodecagon)?", "options": ["1440 degrees", "1620 degrees", "1800 degrees", "1980 degrees"], "correct_index": 2},
+    {"id": "pol_054", "question": "If each interior angle of a regular polygon is 144 degrees, how many sides does it have?", "options": ["8", "10", "12", "15"], "correct_index": 1},
+    {"id": "pol_055", "question": "A rectangle is a special type of:", "options": ["Rhombus", "Trapezoid", "Parallelogram", "Kite"], "correct_index": 2},
+    {"id": "pol_056", "question": "Which polygon has the minimum number of sides?", "options": ["Quadrilateral", "Triangle", "Pentagon", "Circle"], "correct_index": 1},
+    {"id": "pol_057", "question": "What is the length of a diagonal in a square with side length 5?", "options": ["5", "10", "5\u221a2", "25"], "correct_index": 2},
+    {"id": "pol_058", "question": "What do you call a 10-sided polygon?", "options": ["Nonagon", "Dodecagon", "Hendecagon", "Decagon"], "correct_index": 3},
+    {"id": "pol_059", "question": "In a regular polygon, what is the relationship between an interior angle and its corresponding exterior angle?", "options": ["They are complementary", "They are supplementary", "They are equal", "They sum to 360"], "correct_index": 1},
+    {"id": "pol_060", "question": "What is the area of a regular hexagon with side length a?", "options": ["(3\u221a3/2)a^2", "(3/2)a^2", "(\u221a3/4)a^2", "6a^2"], "correct_index": 0},
+    {"id": "pol_061", "question": "How many total degrees are in the interior of a nonagon?", "options": ["1080", "1260", "1440", "1620"], "correct_index": 1},
+    {"id": "pol_062", "question": "Which quadrilateral has all sides equal but not necessarily 90-degree angles?", "options": ["Rectangle", "Rhombus", "Trapezoid", "Parallelogram"], "correct_index": 1},
+    {"id": "pol_063", "question": "What is the exterior angle of a regular triangle?", "options": ["60 degrees", "90 degrees", "120 degrees", "180 degrees"], "correct_index": 2},
+    {"id": "pol_064", "question": "If a polygon has 14 diagonals, how many sides does it have?", "options": ["6", "7", "8", "9"], "correct_index": 1},
+    {"id": "pol_065", "question": "What is the name of an 11-sided polygon?", "options": ["Hendecagon", "Dodecagon", "Enneagon", "Icosagon"], "correct_index": 0},
+    {"id": "pol_066", "question": "Which statement is true for a convex polygon?", "options": ["It has at least one interior angle greater than 180", "All interior angles are less than 180 degrees", "Its diagonals intersect outside the shape", "It must have equal sides"], "correct_index": 1},
+    {"id": "pol_067", "question": "What is the measure of the central angle of a regular octagon?", "options": ["36 degrees", "40 degrees", "45 degrees", "60 degrees"], "correct_index": 2},
+    {"id": "dec_068", "question": "What is the decimal equivalent of the fraction 3/4?", "options": ["0.34", "0.75", "0.80", "0.25"], "correct_index": 1},
+    {"id": "dec_069", "question": "Write 0.625 as a fraction in simplest form.", "options": ["3/4", "5/8", "2/3", "7/8"], "correct_index": 1},
+    {"id": "dec_070", "question": "Which decimal represents 1/3?", "options": ["0.3", "0.33", "0.333...", "0.4"], "correct_index": 2},
+    {"id": "dec_071", "question": "What is 0.05 expressed as a percentage?", "options": ["0.5%", "5%", "50%", "0.05%"], "correct_index": 1},
+    {"id": "dec_072", "question": "Convert 45% to a decimal.", "options": ["4.5", "0.45", "0.045", "45.0"], "correct_index": 1},
+    {"id": "dec_073", "question": "What is the place value of the 7 in 3.147?", "options": ["Tenths", "Hundredths", "Thousandths", "Ten-thousandths"], "correct_index": 2},
+    {"id": "dec_074", "question": "Round 3.14159 to two decimal places.", "options": ["3.14", "3.15", "3.1", "3.141"], "correct_index": 0},
+    {"id": "dec_075", "question": "What is 2.5 multiplied by 100?", "options": ["25", "250", "0.025", "2500"], "correct_index": 1},
+    {"id": "dec_076", "question": "Calculate 1.2 + 3.45.", "options": ["4.65", "4.55", "3.57", "4.45"], "correct_index": 0},
+    {"id": "dec_077", "question": "Calculate 5.0 - 2.37.", "options": ["3.37", "2.63", "2.73", "3.63"], "correct_index": 1},
+    {"id": "dec_078", "question": "What is 0.2 multiplied by 0.3?", "options": ["0.6", "0.06", "0.006", "6"], "correct_index": 1},
+    {"id": "dec_079", "question": "Divide 4.5 by 0.9.", "options": ["5", "0.5", "50", "4.5"], "correct_index": 0},
+    {"id": "dec_080", "question": "Which of these is the largest decimal?", "options": ["0.109", "0.11", "0.019", "0.101"], "correct_index": 1},
+    {"id": "dec_081", "question": "Convert 7/20 to a decimal.", "options": ["0.35", "0.7", "0.20", "0.27"], "correct_index": 0},
+    {"id": "dec_082", "question": "What fraction represents the repeating decimal 0.999...?", "options": ["9/10", "99/100", "1", "1/9"], "correct_index": 2},
+    {"id": "dec_083", "question": "What is the decimal equivalent of 1/8?", "options": ["0.125", "0.18", "0.8", "0.0125"], "correct_index": 0},
+    {"id": "dec_084", "question": "Which fraction is equivalent to the repeating decimal 0.666...?", "options": ["1/3", "2/3", "6/10", "66/100"], "correct_index": 1},
+    {"id": "dec_085", "question": "Calculate 10 divided by 0.2.", "options": ["2", "5", "50", "20"], "correct_index": 2},
+    {"id": "dec_086", "question": "Round 5.678 to the nearest tenth.", "options": ["5.6", "5.7", "5.68", "6.0"], "correct_index": 1},
+    {"id": "dec_087", "question": "What is 0.004 expressed as a fraction?", "options": ["1/25", "1/250", "4/100", "1/400"], "correct_index": 1},
+    {"id": "dec_088", "question": "Which of the following is a terminating decimal?", "options": ["1/3", "1/7", "1/4", "1/9"], "correct_index": 2},
+    {"id": "dec_089", "question": "What is 1.5 squared?", "options": ["2.25", "2.5", "1.55", "3.0"], "correct_index": 0},
+    {"id": "dec_090", "question": "What is the square root of 0.64?", "options": ["0.08", "0.8", "8", "0.32"], "correct_index": 1},
+    {"id": "dec_091", "question": "Write 2 and 3/5 as a decimal.", "options": ["2.3", "2.5", "2.6", "3.5"], "correct_index": 2},
+    {"id": "dec_092", "question": "Calculate 0.75 / 0.25.", "options": ["0.3", "3", "30", "0.03"], "correct_index": 1},
+    {"id": "dec_093", "question": "What is the place value of 9 in 12.095?", "options": ["Tenths", "Hundredths", "Thousandths", "Tens"], "correct_index": 1},
+    {"id": "dec_094", "question": "Convert the repeating decimal 0.111... to a fraction.", "options": ["1/11", "1/10", "1/9", "1/100"], "correct_index": 2},
+    {"id": "dec_095", "question": "What is 0.5% as a decimal?", "options": ["0.5", "0.05", "0.005", "5"], "correct_index": 2},
+    {"id": "dec_096", "question": "Solve: 2.1 x 3.2.", "options": ["6.72", "6.32", "5.72", "6.12"], "correct_index": 0},
+    {"id": "dec_097", "question": "Express 1/6 as a decimal.", "options": ["0.16", "0.166...", "0.6", "0.616..."], "correct_index": 1},
+    {"id": "dec_098", "question": "What is the value of 1 / 0.1?", "options": ["0.1", "1", "10", "100"], "correct_index": 2},
+    {"id": "dec_099", "question": "Round 0.045 to one significant figure.", "options": ["0.04", "0.05", "0.1", "0"], "correct_index": 1},
+    {"id": "dec_100", "question": "Which of these is equivalent to 10^(-3)?", "options": ["0.1", "0.01", "0.001", "0.0001"], "correct_index": 2},
+    {"id": "cir_101", "question": "What is the angle inscribed in a semicircle?", "options": ["45 degrees", "90 degrees", "180 degrees", "360 degrees"], "correct_index": 1},
+    {"id": "cir_102", "question": "The angle subtended by an arc at the center is ____ the angle subtended by it at any remaining part of the circle.", "options": ["Equal to", "Half", "Double", "Triple"], "correct_index": 2},
+    {"id": "cir_103", "question": "Angles in the same segment of a circle are:", "options": ["Supplementary", "Complementary", "Equal", "Unequal"], "correct_index": 2},
+    {"id": "cir_104", "question": "What is the sum of the opposite angles of a cyclic quadrilateral?", "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"], "correct_index": 1},
+    {"id": "cir_105", "question": "If the central angle of a sector is 90 degrees, what fraction of the circle's area is the sector?", "options": ["1/2", "1/3", "1/4", "1/8"], "correct_index": 2},
+    {"id": "cir_106", "question": "The line segment connecting the center to any point on the circle is the:", "options": ["Chord", "Diameter", "Radius", "Secant"], "correct_index": 2},
+    {"id": "cir_107", "question": "What is a line that touches the circle at exactly one point called?", "options": ["Chord", "Secant", "Tangent", "Diameter"], "correct_index": 2},
+    {"id": "cir_108", "question": "The angle between a tangent and the radius at the point of contact is:", "options": ["30 degrees", "45 degrees", "90 degrees", "180 degrees"], "correct_index": 2},
+    {"id": "cir_109", "question": "What is the longest chord of a circle?", "options": ["Radius", "Tangent", "Diameter", "Secant"], "correct_index": 2},
+    {"id": "cir_110", "question": "If a circle has a radius of 5 cm, what is its circumference? (Use pi = 3.14)", "options": ["15.7 cm", "31.4 cm", "78.5 cm", "10 cm"], "correct_index": 1},
+    {"id": "cir_111", "question": "What is the area of a circle with a radius of 10? (Leave in terms of pi)", "options": ["10 pi", "20 pi", "50 pi", "100 pi"], "correct_index": 3},
+    {"id": "cir_112", "question": "If a central angle is 60 degrees, what is the length of the arc if the radius is 6? (In terms of pi)", "options": ["pi", "2 pi", "3 pi", "6 pi"], "correct_index": 1},
+    {"id": "cir_113", "question": "Two tangents drawn from an external point to a circle are:", "options": ["Parallel", "Perpendicular", "Equal in length", "Unequal"], "correct_index": 2},
+    {"id": "cir_114", "question": "What is the area of a sector with central angle 120 degrees and radius 3? (In terms of pi)", "options": ["pi", "2 pi", "3 pi", "4 pi"], "correct_index": 2},
+    {"id": "cir_115", "question": "If an inscribed angle is 40 degrees, what is the measure of the intercepted arc?", "options": ["20 degrees", "40 degrees", "80 degrees", "160 degrees"], "correct_index": 2},
+    {"id": "cir_116", "question": "A perpendicular drawn from the center of a circle to a chord:", "options": ["Trisects the chord", "Bisects the chord", "Is parallel to the chord", "None of the above"], "correct_index": 1},
+    {"id": "cir_117", "question": "What is the region enclosed by a chord and an arc called?", "options": ["Sector", "Segment", "Secant", "Quadrant"], "correct_index": 1},
+    {"id": "cir_118", "question": "How many degrees are in a full circle?", "options": ["180", "270", "360", "400"], "correct_index": 2},
+    {"id": "cir_119", "question": "If an arc measures 180 degrees, it is a:", "options": ["Minor arc", "Major arc", "Semicircle", "Quadrant"], "correct_index": 2},
+    {"id": "cir_120", "question": "The exterior angle of a cyclic quadrilateral is equal to the:", "options": ["Interior adjacent angle", "Interior opposite angle", "Sum of interior angles", "90 degrees"], "correct_index": 1},
+    {"id": "cir_121", "question": "If a circle has an area of 49 pi, what is its diameter?", "options": ["7", "14", "24.5", "49"], "correct_index": 1},
+    {"id": "cir_122", "question": "A line intersecting a circle at two points is called a:", "options": ["Tangent", "Secant", "Chord", "Radius"], "correct_index": 1},
+    {"id": "cir_123", "question": "What is the formula for the circumference of a circle?", "options": ["pi * r^2", "2 * pi * r", "pi * d^2", "1/2 * pi * d"], "correct_index": 1},
+    {"id": "cir_124", "question": "What is the length of an arc subtending 90 degrees in a circle of radius 4?", "options": ["pi", "2 pi", "4 pi", "8 pi"], "correct_index": 1},
+    {"id": "cir_125", "question": "Angles subtended by the same arc at the circumference are:", "options": ["Double", "Half", "Equal", "Supplementary"], "correct_index": 2},
+    {"id": "cir_126", "question": "A circle is inscribed in a square of side 10. What is the radius of the circle?", "options": ["5", "10", "2.5", "20"], "correct_index": 0},
+    {"id": "cir_127", "question": "If the circumference is 20 pi, what is the area?", "options": ["10 pi", "20 pi", "100 pi", "400 pi"], "correct_index": 2},
+    {"id": "cir_128", "question": "If the angle at the center is 100 degrees, what is the angle at the circumference on the same arc?", "options": ["50 degrees", "100 degrees", "200 degrees", "180 degrees"], "correct_index": 0},
+    {"id": "cir_129", "question": "Concentric circles share the same:", "options": ["Radius", "Diameter", "Center", "Circumference"], "correct_index": 2},
+    {"id": "cir_130", "question": "A sector representing 1/6 of a circle has what central angle?", "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"], "correct_index": 2},
+    {"id": "cir_131", "question": "What is a cyclic quadrilateral?", "options": ["A square", "A four-sided figure inside a circle with all vertices on the circle", "A shape with curved sides", "A polygon with parallel sides"], "correct_index": 1},
+    {"id": "cir_132", "question": "If a tangent and a secant meet at an external point, the square of the tangent is equal to the product of the secant's:", "options": ["Interior and exterior segments", "External segment and the whole secant", "Radius and diameter", "Chord segments"], "correct_index": 1},
+    {"id": "cir_133", "question": "An angle inscribed in a minor arc is:", "options": ["Acute", "Right", "Obtuse", "Straight"], "correct_index": 2},
+    {"id": "pct_134", "question": "In a pie chart, what angle represents 50%?", "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"], "correct_index": 1},
+    {"id": "pct_135", "question": "What percentage of a pie chart is represented by a 90-degree angle?", "options": ["15%", "20%", "25%", "33.3%"], "correct_index": 2},
+    {"id": "pct_136", "question": "Calculate the angle for a pie chart sector representing 10%.", "options": ["10 degrees", "18 degrees", "36 degrees", "72 degrees"], "correct_index": 2},
+    {"id": "pct_137", "question": "If a slice of a pie chart is 72 degrees, what percentage does it represent?", "options": ["10%", "15%", "20%", "25%"], "correct_index": 2},
+    {"id": "pct_138", "question": "What angle represents 33 1/3 % in a pie chart?", "options": ["60 degrees", "90 degrees", "120 degrees", "150 degrees"], "correct_index": 2},
+    {"id": "pct_139", "question": "If an item takes up 5% of a budget, what is its central angle on a pie chart?", "options": ["18 degrees", "36 degrees", "5 degrees", "10 degrees"], "correct_index": 0},
+    {"id": "pct_140", "question": "What percentage does 270 degrees represent in a pie chart?", "options": ["50%", "60%", "75%", "90%"], "correct_index": 2},
+    {"id": "pct_141", "question": "Calculate the angle for 40% in a pie chart.", "options": ["100 degrees", "120 degrees", "144 degrees", "160 degrees"], "correct_index": 2},
+    {"id": "pct_142", "question": "If a pie chart sector represents 30%, what is its central angle?", "options": ["108 degrees", "120 degrees", "90 degrees", "150 degrees"], "correct_index": 0},
+    {"id": "pct_143", "question": "What percentage corresponds to a 18-degree sector in a pie chart?", "options": ["2%", "5%", "10%", "18%"], "correct_index": 1},
+    {"id": "pct_144", "question": "How many degrees represent 1% in a pie chart?", "options": ["1 degree", "3.6 degrees", "10 degrees", "36 degrees"], "correct_index": 1},
+    {"id": "pct_145", "question": "If 60 students out of 120 chose math, what is the angle for math on a pie chart?", "options": ["90 degrees", "120 degrees", "180 degrees", "200 degrees"], "correct_index": 2},
+    {"id": "pct_146", "question": "What is the angle for 75% on a pie chart?", "options": ["180 degrees", "240 degrees", "270 degrees", "300 degrees"], "correct_index": 2},
+    {"id": "pct_147", "question": "A sector of 54 degrees represents what percentage?", "options": ["10%", "15%", "20%", "25%"], "correct_index": 1},
+    {"id": "pct_148", "question": "Calculate the angle for 60% in a pie chart.", "options": ["180 degrees", "200 degrees", "216 degrees", "240 degrees"], "correct_index": 2},
+    {"id": "pct_149", "question": "What percentage does a 144-degree angle represent?", "options": ["30%", "35%", "40%", "45%"], "correct_index": 2},
+    {"id": "pct_150", "question": "If a data point has a value of 25 out of a total of 100, its pie chart angle is:", "options": ["25 degrees", "90 degrees", "45 degrees", "180 degrees"], "correct_index": 1},
+    {"id": "pct_151", "question": "A 108-degree slice of a pie chart is what fraction of the whole?", "options": ["1/4", "3/10", "1/3", "2/5"], "correct_index": 1},
+    {"id": "pct_152", "question": "What angle represents 12.5% in a pie chart?", "options": ["45 degrees", "60 degrees", "72 degrees", "90 degrees"], "correct_index": 0},
+    {"id": "pct_153", "question": "If rent is $500 out of a $2000 total budget, what angle represents rent?", "options": ["45 degrees", "90 degrees", "180 degrees", "25 degrees"], "correct_index": 1},
+    {"id": "pct_154", "question": "Convert an 80% share into a central angle.", "options": ["240 degrees", "270 degrees", "288 degrees", "300 degrees"], "correct_index": 2},
+    {"id": "pct_155", "question": "A sector of 216 degrees equals what percentage?", "options": ["50%", "60%", "70%", "80%"], "correct_index": 1},
+    {"id": "pct_156", "question": "If 15 out of 60 people vote for candidate A, what is candidate A's angle on a pie chart?", "options": ["45 degrees", "60 degrees", "90 degrees", "120 degrees"], "correct_index": 2},
+    {"id": "pct_157", "question": "What is the pie chart angle for a 20% tax rate?", "options": ["20 degrees", "36 degrees", "72 degrees", "90 degrees"], "correct_index": 2},
+    {"id": "pct_158", "question": "A 162-degree angle in a pie chart corresponds to what percentage?", "options": ["35%", "40%", "45%", "50%"], "correct_index": 2},
+    {"id": "pct_159", "question": "If 1/8 of a population is surveyed, what pie chart angle represents them?", "options": ["45 degrees", "60 degrees", "22.5 degrees", "12.5 degrees"], "correct_index": 0},
+    {"id": "pct_160", "question": "What angle represents 80% of a circle?", "options": ["280 degrees", "288 degrees", "300 degrees", "320 degrees"], "correct_index": 1},
+    {"id": "pct_161", "question": "If a pie chart has 3 equal sectors, what is the angle of each?", "options": ["90 degrees", "100 degrees", "120 degrees", "150 degrees"], "correct_index": 2},
+    {"id": "pct_162", "question": "What percentage does 36 degrees represent?", "options": ["5%", "10%", "20%", "36%"], "correct_index": 1},
+    {"id": "pct_163", "question": "What is the angle for 45% of a pie chart?", "options": ["145 degrees", "150 degrees", "162 degrees", "180 degrees"], "correct_index": 2},
+    {"id": "pct_164", "question": "If a slice is 288 degrees, what percentage of the total does it represent?", "options": ["70%", "75%", "80%", "85%"], "correct_index": 2},
+    {"id": "pct_165", "question": "A 2% value corresponds to what angle on a pie chart?", "options": ["2 degrees", "3.6 degrees", "7.2 degrees", "14.4 degrees"], "correct_index": 2},
+    {"id": "pct_166", "question": "What is the total angle of a pie chart representing 100%?", "options": ["100 degrees", "180 degrees", "360 degrees", "400 degrees"], "correct_index": 2},
+    {"id": "clk_167", "question": "What is the angle between the hands of a clock at 3:00?", "options": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"], "correct_index": 1},
+    {"id": "clk_168", "question": "Find the angle between the minute hand and hour hand at 6:00.", "options": ["90 degrees", "120 degrees", "150 degrees", "180 degrees"], "correct_index": 3},
+    {"id": "clk_169", "question": "What is the angle between the hands of a clock at 3:15?", "options": ["0 degrees", "7.5 degrees", "15 degrees", "22.5 degrees"], "correct_index": 1},
+    {"id": "clk_170", "question": "Find the angle between the hands at 12:30.", "options": ["150 degrees", "165 degrees", "180 degrees", "195 degrees"], "correct_index": 1},
+    {"id": "clk_171", "question": "What is the angle between the hands of a clock at 4:00?", "options": ["90 degrees", "100 degrees", "120 degrees", "150 degrees"], "correct_index": 2},
+    {"id": "clk_172", "question": "Find the angle between the hands at 9:00.", "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"], "correct_index": 0},
+    {"id": "clk_173", "question": "At 1:00, what is the angle between the hands?", "options": ["15 degrees", "30 degrees", "45 degrees", "60 degrees"], "correct_index": 1},
+    {"id": "clk_174", "question": "What is the angle between the hands of a clock at 6:30?", "options": ["0 degrees", "15 degrees", "30 degrees", "45 degrees"], "correct_index": 1},
+    {"id": "clk_175", "question": "Find the angle between the hands at 8:20.", "options": ["100 degrees", "110 degrees", "120 degrees", "130 degrees"], "correct_index": 2},
+    {"id": "clk_176", "question": "What is the angle between the hands of a clock at 10:10?", "options": ["110 degrees", "115 degrees", "120 degrees", "125 degrees"], "correct_index": 1},
+    {"id": "clk_177", "question": "Find the angle between the hands at 2:30.", "options": ["90 degrees", "105 degrees", "115 degrees", "120 degrees"], "correct_index": 1},
+    {"id": "clk_178", "question": "What is the angle between the hands of a clock at 5:15?", "options": ["60 degrees", "67.5 degrees", "75 degrees", "82.5 degrees"], "correct_index": 1},
+    {"id": "clk_179", "question": "Find the angle between the hands at 7:30.", "options": ["30 degrees", "45 degrees", "60 degrees", "75 degrees"], "correct_index": 1},
+    {"id": "clk_180", "question": "At what angle are the hands of a clock at 4:40?", "options": ["80 degrees", "90 degrees", "100 degrees", "110 degrees"], "correct_index": 2},
+    {"id": "clk_181", "question": "What is the angle between the hands of a clock at 12:20?", "options": ["100 degrees", "110 degrees", "120 degrees", "130 degrees"], "correct_index": 1},
+    {"id": "clk_182", "question": "Find the angle between the hands at 9:30.", "options": ["90 degrees", "105 degrees", "120 degrees", "135 degrees"], "correct_index": 1},
+    {"id": "clk_183", "question": "What is the angle between the hands of a clock at 1:15?", "options": ["45 degrees", "52.5 degrees", "60 degrees", "67.5 degrees"], "correct_index": 1},
+    {"id": "clk_184", "question": "Find the angle between the hands at 8:00.", "options": ["100 degrees", "120 degrees", "140 degrees", "160 degrees"], "correct_index": 1},
+    {"id": "clk_185", "question": "At what angle are the hands of a clock at 11:00?", "options": ["15 degrees", "30 degrees", "45 degrees", "60 degrees"], "correct_index": 1},
+    {"id": "clk_186", "question": "What is the angle between the hands of a clock at 2:20?", "options": ["40 degrees", "45 degrees", "50 degrees", "60 degrees"], "correct_index": 2},
+    {"id": "clk_187", "question": "Find the angle between the hands at 3:30.", "options": ["60 degrees", "75 degrees", "90 degrees", "105 degrees"], "correct_index": 1},
+    {"id": "clk_188", "question": "What is the angle between the hands of a clock at 5:00?", "options": ["120 degrees", "135 degrees", "150 degrees", "180 degrees"], "correct_index": 2},
+    {"id": "clk_189", "question": "Find the angle between the hands at 12:00.", "options": ["0 degrees", "90 degrees", "180 degrees", "360 degrees"], "correct_index": 0},
+    {"id": "clk_190", "question": "At what angle are the hands of a clock at 10:30?", "options": ["120 degrees", "135 degrees", "150 degrees", "165 degrees"], "correct_index": 1},
+    {"id": "clk_191", "question": "What is the angle between the hands of a clock at 4:20?", "options": ["0 degrees", "5 degrees", "10 degrees", "15 degrees"], "correct_index": 2},
+    {"id": "clk_192", "question": "Find the angle between the hands at 7:00.", "options": ["120 degrees", "135 degrees", "150 degrees", "210 degrees"], "correct_index": 2},
+    {"id": "clk_193", "question": "What is the angle between the hands of a clock at 8:40?", "options": ["10 degrees", "20 degrees", "30 degrees", "40 degrees"], "correct_index": 1},
+    {"id": "clk_194", "question": "Find the angle between the hands at 1:30.", "options": ["120 degrees", "135 degrees", "145 degrees", "150 degrees"], "correct_index": 1},
+    {"id": "clk_195", "question": "At what angle are the hands of a clock at 5:40?", "options": ["60 degrees", "70 degrees", "80 degrees", "90 degrees"], "correct_index": 1},
+    {"id": "clk_196", "question": "What is the angle between the hands of a clock at 11:20?", "options": ["130 degrees", "140 degrees", "150 degrees", "160 degrees"], "correct_index": 1},
+    {"id": "clk_197", "question": "Find the angle between the hands at 2:00.", "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"], "correct_index": 2},
+    {"id": "clk_198", "question": "What is the angle between the hands of a clock at 6:15?", "options": ["90 degrees", "97.5 degrees", "105 degrees", "112.5 degrees"], "correct_index": 1},
+    {"id": "clk_199", "question": "Find the angle between the hands at 9:15.", "options": ["165 degrees", "172.5 degrees", "180 degrees", "187.5 degrees"], "correct_index": 1},
+    {"id": "clk_200", "question": "At what angle are the hands of a clock at 12:40?", "options": ["130 degrees", "140 degrees", "150 degrees", "160 degrees"], "correct_index": 1}
+  ,
+    {
+      "id": "com_001",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can 5 people be arranged in a straight line?",
+      "options": ["60", "100", "120", "150"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_002",
+      "category": "Combinations and Permutations",
+      "question": "The formula for permutations nPr is:",
+      "options": ["n! / r!", "n! / (n-r)!", "n! / (r!(n-r)!)", "r! / (n-r)!"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_003",
+      "category": "Combinations and Permutations",
+      "question": "The formula for combinations nCr is:",
+      "options": ["n! / (n-r)!", "n! / r!", "n! / (r!(n-r)!)", "r!(n-r)! / n!"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_004",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can a committee of 3 be chosen from 7 people?",
+      "options": ["21", "35", "42", "210"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_005",
+      "category": "Combinations and Permutations",
+      "question": "What is 6P2?",
+      "options": ["15", "20", "30", "36"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_006",
+      "category": "Combinations and Permutations",
+      "question": "What is 8C3?",
+      "options": ["28", "36", "56", "84"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_007",
+      "category": "Combinations and Permutations",
+      "question": "In how many ways can the letters of the word 'MATH' be arranged?",
+      "options": ["12", "16", "24", "48"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_008",
+      "category": "Combinations and Permutations",
+      "question": "How many 3-digit numbers can be formed from the digits 1–9 with no repetition?",
+      "options": ["504", "512", "729", "81"],
+      "correct_index": 0
+    },
+    {
+      "id": "com_009",
+      "category": "Combinations and Permutations",
+      "question": "A team of 4 is to be selected from 10 players. How many selections are possible?",
+      "options": ["120", "180", "210", "240"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_010",
+      "category": "Combinations and Permutations",
+      "question": "What is the value of 0! (zero factorial)?",
+      "options": ["0", "1", "Undefined", "Infinity"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_011",
+      "category": "Combinations and Permutations",
+      "question": "In how many ways can 4 books be arranged on a shelf from a collection of 9?",
+      "options": ["126", "3,024", "6,561", "9,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_012",
+      "category": "Combinations and Permutations",
+      "question": "What is the key difference between permutations and combinations?",
+      "options": ["Permutations allow repetition; combinations do not", "Permutations consider order; combinations do not", "Combinations are always larger than permutations", "Combinations use factorials; permutations do not"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_013",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can 3 prizes be awarded to 3 different students from a class of 20 (1st, 2nd, 3rd)?",
+      "options": ["1,140", "6,840", "8,000", "6,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_014",
+      "category": "Combinations and Permutations",
+      "question": "What is 5C5?",
+      "options": ["0", "1", "5", "120"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_015",
+      "category": "Combinations and Permutations",
+      "question": "A lock has a 4-digit code using digits 0–9 with repetition allowed. How many codes are possible?",
+      "options": ["5,040", "6,561", "9,999", "10,000"],
+      "correct_index": 3
+    },
+    {
+      "id": "com_016",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can 2 boys and 2 girls be chosen from 5 boys and 4 girls?",
+      "options": ["40", "60", "80", "120"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_017",
+      "category": "Combinations and Permutations",
+      "question": "What is 10P3?",
+      "options": ["120", "360", "720", "1,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_018",
+      "category": "Combinations and Permutations",
+      "question": "In how many ways can 6 people sit around a circular table?",
+      "options": ["30", "60", "120", "720"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_019",
+      "category": "Combinations and Permutations",
+      "question": "How many 2-letter codes can be made from the letters A, B, C, D with no repetition?",
+      "options": ["8", "10", "12", "16"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_020",
+      "category": "Combinations and Permutations",
+      "question": "What is nCr + nC(r-1) equal to, using Pascal's identity?",
+      "options": ["(n-1)Cr", "(n+1)Cr", "nC(r+1)", "2 × nCr"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_021",
+      "category": "Combinations and Permutations",
+      "question": "A restaurant menu has 4 starters, 6 mains, and 3 desserts. How many 3-course meals are possible?",
+      "options": ["36", "48", "60", "72"],
+      "correct_index": 3
+    },
+    {
+      "id": "com_022",
+      "category": "Combinations and Permutations",
+      "question": "In how many ways can the letters in 'LEVEL' be arranged?",
+      "options": ["30", "40", "60", "120"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_023",
+      "category": "Combinations and Permutations",
+      "question": "What is 9C0?",
+      "options": ["0", "1", "9", "Undefined"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_024",
+      "category": "Combinations and Permutations",
+      "question": "A group of 12 students must elect a president, vice-president, and secretary. How many arrangements exist?",
+      "options": ["220", "1,320", "1,728", "12!"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_025",
+      "category": "Combinations and Permutations",
+      "question": "A bag has 6 red and 4 blue balls. In how many ways can 3 red and 2 blue balls be selected?",
+      "options": ["60", "90", "100", "120"],
+      "correct_index": 3
+    },
+    {
+      "id": "com_026",
+      "category": "Combinations and Permutations",
+      "question": "The number of diagonals in a polygon with n sides is given by:",
+      "options": ["n(n-1)/2", "n(n-3)/2", "n(n-1)", "n(n+1)/2"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_027",
+      "category": "Combinations and Permutations",
+      "question": "How many diagonals does a hexagon (6 sides) have?",
+      "options": ["6", "9", "12", "15"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_028",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can 8 athletes finish a race in 1st, 2nd, and 3rd place?",
+      "options": ["24", "56", "336", "512"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_029",
+      "category": "Combinations and Permutations",
+      "question": "What is the total number of subsets of a set with 4 elements?",
+      "options": ["8", "12", "16", "24"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_030",
+      "category": "Combinations and Permutations",
+      "question": "If nP2 = 56, what is n?",
+      "options": ["6", "7", "8", "9"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_031",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can a hand of 5 cards be dealt from a standard deck of 52 cards?",
+      "options": ["259,864", "1,287,000", "2,598,960", "3,000,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_032",
+      "category": "Combinations and Permutations",
+      "question": "If nC3 = 84, what is n?",
+      "options": ["8", "9", "10", "12"],
+      "correct_index": 1
+    },
+    {
+      "id": "com_033",
+      "category": "Combinations and Permutations",
+      "question": "How many ways can 4 different coloured flags be arranged on a pole?",
+      "options": ["12", "16", "24", "48"],
+      "correct_index": 2
+    },
+    {
+      "id": "com_034",
+      "category": "Combinations and Permutations",
+      "question": "A password must be 3 letters (A–Z) followed by 2 digits (0–9), no repetition. How many passwords exist?",
+      "options": ["1,170,000", "1,316,000", "1,404,000", "1,560,000"],
+      "correct_index": 3
+    },
+    {
+      "id": "com_035",
+      "category": "Combinations and Permutations",
+      "question": "The word 'BANANA' has how many distinct arrangements?",
+      "options": ["40", "60", "120", "720"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_001",
+      "category": "Power (Electric and Mechanical)",
+      "question": "The formula for electric power is:",
+      "options": ["P = I / V", "P = V × I", "P = V / I", "P = I × R"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_002",
+      "category": "Power (Electric and Mechanical)",
+      "question": "What is the unit of power?",
+      "options": ["Joule", "Newton", "Watt", "Ampere"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_003",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A device uses 240 V and draws 5 A of current. What is its power?",
+      "options": ["48 W", "240 W", "1,200 W", "2,400 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_004",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Using P = I²R, a resistor of 10 Ω carries 3 A. What is the power dissipated?",
+      "options": ["30 W", "60 W", "90 W", "120 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_005",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Using P = V²/R, a 12 V source is connected to a 4 Ω resistor. What is the power?",
+      "options": ["18 W", "24 W", "36 W", "48 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_006",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Mechanical power is defined as:",
+      "options": ["P = Force + Distance", "P = Force × Distance", "P = Force × Velocity", "P = Force / Velocity"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_007",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A machine does 6,000 J of work in 30 seconds. What is its power output?",
+      "options": ["100 W", "150 W", "200 W", "250 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_008",
+      "category": "Power (Electric and Mechanical)",
+      "question": "1 horsepower (hp) is approximately equal to how many watts?",
+      "options": ["546 W", "646 W", "746 W", "846 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_009",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A motor with 80% efficiency delivers 400 W of useful power. What is the input power?",
+      "options": ["320 W", "420 W", "480 W", "500 W"],
+      "correct_index": 3
+    },
+    {
+      "id": "pow_010",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Power = Work / Time. If a pump lifts water doing 90,000 J of work in 3 minutes, what is its power?",
+      "options": ["300 W", "400 W", "500 W", "600 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_011",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A car engine exerts a force of 2,000 N at a velocity of 20 m/s. What is the power output?",
+      "options": ["20,000 W", "40,000 W", "60,000 W", "80,000 W"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_012",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A household uses a 1,500 W heater for 4 hours. How many kilowatt-hours (kWh) are consumed?",
+      "options": ["3 kWh", "4.5 kWh", "6 kWh", "7.5 kWh"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_013",
+      "category": "Power (Electric and Mechanical)",
+      "question": "The efficiency formula is:",
+      "options": ["(Input Power / Output Power) × 100%", "(Output Power / Input Power) × 100%", "(Output - Input) × 100%", "Output Power × Input Power"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_014",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A 60 W bulb runs for 10 hours. How much energy does it consume in joules?",
+      "options": ["600 J", "60,000 J", "2,160,000 J", "3,600,000 J"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_015",
+      "category": "Power (Electric and Mechanical)",
+      "question": "An electric motor draws 10 A at 220 V. What is its power consumption?",
+      "options": ["22 W", "220 W", "2,200 W", "22,000 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_016",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Three resistors of 5 Ω, 10 Ω, and 15 Ω are in series with 30 V source. What is the total power dissipated?",
+      "options": ["18 W", "30 W", "45 W", "90 W"],
+      "correct_index": 0
+    },
+    {
+      "id": "pow_017",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Reactive power in AC circuits is measured in:",
+      "options": ["Watts (W)", "Volt-Amperes (VA)", "Volt-Amperes Reactive (VAR)", "Kilowatt-hours (kWh)"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_018",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A crane lifts a 500 kg load to a height of 10 m in 25 seconds. What is its power? (g = 10 m/s²)",
+      "options": ["1,000 W", "1,500 W", "2,000 W", "2,500 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_019",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Which formula correctly expresses power in terms of resistance and current?",
+      "options": ["P = V/R", "P = IR", "P = I²R", "P = V²I"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_020",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A machine does 4,500 J of work in 1.5 minutes. What is its power output in watts?",
+      "options": ["30 W", "50 W", "75 W", "100 W"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_021",
+      "category": "Power (Electric and Mechanical)",
+      "question": "In a DC circuit, if resistance doubles but voltage stays the same, what happens to power?",
+      "options": ["Power doubles", "Power stays the same", "Power is halved", "Power quadruples"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_022",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Apparent power in an AC circuit is measured in:",
+      "options": ["Watts", "VAR", "Volt-Amperes (VA)", "Joules"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_023",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A cyclist pedals with a force of 150 N at a speed of 8 m/s. What is the mechanical power output?",
+      "options": ["600 W", "900 W", "1,200 W", "1,500 W"],
+      "correct_index": 2
+    },
+    {
+      "id": "pow_024",
+      "category": "Power (Electric and Mechanical)",
+      "question": "Power factor in AC circuits is defined as:",
+      "options": ["Reactive Power / Apparent Power", "True Power / Apparent Power", "Apparent Power / True Power", "True Power × Reactive Power"],
+      "correct_index": 1
+    },
+    {
+      "id": "pow_025",
+      "category": "Power (Electric and Mechanical)",
+      "question": "A generator produces 50,000 W. How many kilowatts is this?",
+      "options": ["5 kW", "50 kW", "500 kW", "5,000 kW"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_001",
+      "category": "Hooke's Law",
+      "question": "Hooke's Law states that the force in a spring is:",
+      "options": ["F = kx²", "F = k/x", "F = -kx", "F = k + x"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_002",
+      "category": "Hooke's Law",
+      "question": "In Hooke's Law F = -kx, what does 'k' represent?",
+      "options": ["Mass of the object", "Spring constant (stiffness)", "Displacement", "Acceleration"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_003",
+      "category": "Hooke's Law",
+      "question": "What is the SI unit of the spring constant k?",
+      "options": ["Newtons (N)", "Metres (m)", "Newtons per metre (N/m)", "Joules (J)"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_004",
+      "category": "Hooke's Law",
+      "question": "A spring with k = 200 N/m is compressed by 0.05 m. What is the restoring force?",
+      "options": ["5 N", "8 N", "10 N", "15 N"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_005",
+      "category": "Hooke's Law",
+      "question": "A spring is stretched by 0.3 m and exerts a force of 60 N. What is the spring constant?",
+      "options": ["100 N/m", "150 N/m", "200 N/m", "250 N/m"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_006",
+      "category": "Hooke's Law",
+      "question": "The elastic potential energy stored in a spring is given by:",
+      "options": ["E = kx", "E = ½kx", "E = ½kx²", "E = kx²"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_007",
+      "category": "Hooke's Law",
+      "question": "A spring of k = 500 N/m is stretched 0.1 m. What is the elastic potential energy stored?",
+      "options": ["2 J", "2.5 J", "5 J", "10 J"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_008",
+      "category": "Hooke's Law",
+      "question": "The 'elastic limit' in Hooke's Law is the point at which:",
+      "options": ["The spring breaks", "The spring constant doubles", "Hooke's Law no longer applies", "The spring energy becomes zero"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_009",
+      "category": "Hooke's Law",
+      "question": "Two springs with constants k₁ = 100 N/m and k₂ = 100 N/m are in series. What is the effective spring constant?",
+      "options": ["200 N/m", "100 N/m", "50 N/m", "25 N/m"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_010",
+      "category": "Hooke's Law",
+      "question": "Two springs with constants k₁ = 100 N/m and k₂ = 100 N/m are in parallel. What is the effective spring constant?",
+      "options": ["50 N/m", "100 N/m", "200 N/m", "400 N/m"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_011",
+      "category": "Hooke's Law",
+      "question": "A spring stretches 4 cm when a 20 N force is applied. How far will it stretch under a 35 N force?",
+      "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_012",
+      "category": "Hooke's Law",
+      "question": "The period of oscillation of a mass-spring system is T = 2π√(m/k). If m = 1 kg and k = 100 N/m, what is T?",
+      "options": ["0.23 s", "0.33 s", "0.63 s", "1.00 s"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_013",
+      "category": "Hooke's Law",
+      "question": "A spring stores 8 J of energy when compressed by 0.2 m. What is the spring constant?",
+      "options": ["200 N/m", "400 N/m", "600 N/m", "800 N/m"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_014",
+      "category": "Hooke's Law",
+      "question": "The negative sign in F = -kx indicates:",
+      "options": ["The spring force acts downward", "The force is in the opposite direction to displacement", "The spring constant is negative", "The spring is compressed, not stretched"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_015",
+      "category": "Hooke's Law",
+      "question": "If the spring constant is tripled and displacement stays the same, what happens to the elastic potential energy?",
+      "options": ["It stays the same", "It doubles", "It triples", "It increases ninefold"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_016",
+      "category": "Hooke's Law",
+      "question": "A bungee cord of k = 80 N/m stretches 5 m. What force does it exert?",
+      "options": ["200 N", "300 N", "400 N", "500 N"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_017",
+      "category": "Hooke's Law",
+      "question": "Young's modulus is an extension of Hooke's Law applied to:",
+      "options": ["Gases under pressure", "Solid materials under stress and strain", "Liquids under shear force", "Magnetic materials"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_018",
+      "category": "Hooke's Law",
+      "question": "A spring has k = 250 N/m. How much must it be compressed to store 5 J of energy?",
+      "options": ["0.1 m", "0.2 m", "0.3 m", "0.4 m"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_019",
+      "category": "Hooke's Law",
+      "question": "On a force-extension graph following Hooke's Law, the spring constant k is:",
+      "options": ["The area under the curve", "The gradient (slope) of the line", "The x-intercept", "The y-intercept"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_020",
+      "category": "Hooke's Law",
+      "question": "A mass of 2 kg is hung from a spring of k = 400 N/m. By how much does the spring extend? (g = 10 m/s²)",
+      "options": ["0.025 m", "0.05 m", "0.1 m", "0.2 m"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_021",
+      "category": "Hooke's Law",
+      "question": "If displacement doubles in a spring system, the stored elastic potential energy:",
+      "options": ["Doubles", "Triples", "Quadruples", "Stays the same"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_022",
+      "category": "Hooke's Law",
+      "question": "A spring of natural length 0.5 m has k = 300 N/m. A 30 N force is applied. What is the new length?",
+      "options": ["0.55 m", "0.6 m", "0.65 m", "0.7 m"],
+      "correct_index": 1
+    },
+    {
+      "id": "hkl_023",
+      "category": "Hooke's Law",
+      "question": "Shear modulus (G) relates shear stress to shear strain. This is an analogy of Hooke's Law for which deformation?",
+      "options": ["Tensile stretching", "Compression only", "Shear (sliding) deformation", "Volumetric compression"],
+      "correct_index": 2
+    },
+    {
+      "id": "hkl_024",
+      "category": "Hooke's Law",
+      "question": "Three identical springs each with k = 60 N/m are arranged in parallel. What is the combined spring constant?",
+      "options": ["20 N/m", "60 N/m", "120 N/m", "180 N/m"],
+      "correct_index": 3
+    },
+    {
+      "id": "hkl_025",
+      "category": "Hooke's Law",
+      "question": "A spring is compressed by x = 0.08 m with k = 1,250 N/m. What force is required to hold it compressed?",
+      "options": ["80 N", "100 N", "120 N", "160 N"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_001",
+      "category": "Sets",
+      "question": "Which symbol represents the union of two sets A and B?",
+      "options": ["A ∩ B", "A ∪ B", "A ⊂ B", "A \\ B"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_002",
+      "category": "Sets",
+      "question": "Which symbol represents the intersection of two sets A and B?",
+      "options": ["A ∪ B", "A \\ B", "A ∩ B", "A' "],
+      "correct_index": 2
+    },
+    {
+      "id": "set_003",
+      "category": "Sets",
+      "question": "If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, what is A ∩ B?",
+      "options": ["{1, 2, 5, 6}", "{3, 4}", "{1, 2, 3, 4, 5, 6}", "{1, 2}"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_004",
+      "category": "Sets",
+      "question": "If A = {1, 2, 3} and B = {3, 4, 5}, what is A ∪ B?",
+      "options": ["{3}", "{1, 2, 4, 5}", "{1, 2, 3, 4, 5}", "{2, 3, 4}"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_005",
+      "category": "Sets",
+      "question": "The complement of set A (A') contains:",
+      "options": ["All elements in A", "All elements not in A but in the universal set", "All elements in both A and B", "The empty set"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_006",
+      "category": "Sets",
+      "question": "The number of elements in a set is called its:",
+      "options": ["Order", "Rank", "Cardinality", "Dimension"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_007",
+      "category": "Sets",
+      "question": "Using the inclusion-exclusion principle, |A ∪ B| equals:",
+      "options": ["|A| + |B|", "|A| × |B|", "|A| + |B| - |A ∩ B|", "|A| - |B| + |A ∩ B|"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_008",
+      "category": "Sets",
+      "question": "In a class of 40 students, 25 like Maths, 20 like English, and 10 like both. How many like at least one subject?",
+      "options": ["30", "35", "40", "45"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_009",
+      "category": "Sets",
+      "question": "If |A| = 15, |B| = 12, and |A ∩ B| = 5, how many elements are in A ∪ B?",
+      "options": ["17", "20", "22", "27"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_010",
+      "category": "Sets",
+      "question": "A set with no elements is called a:",
+      "options": ["Singleton set", "Universal set", "Null (empty) set", "Finite set"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_011",
+      "category": "Sets",
+      "question": "If A = {a, b, c}, how many subsets does A have?",
+      "options": ["4", "6", "8", "10"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_012",
+      "category": "Sets",
+      "question": "The set difference A \\ B (A minus B) contains elements that are:",
+      "options": ["In both A and B", "In A but not in B", "In B but not in A", "In neither A nor B"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_013",
+      "category": "Sets",
+      "question": "If A ⊂ B, this means:",
+      "options": ["A and B are equal", "Every element of A is also in B", "Every element of B is also in A", "A and B have no common elements"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_014",
+      "category": "Sets",
+      "question": "De Morgan's Law states that (A ∪ B)' equals:",
+      "options": ["A' ∪ B'", "A' ∩ B'", "A ∩ B", "A' + B'"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_015",
+      "category": "Sets",
+      "question": "De Morgan's second law: (A ∩ B)' equals:",
+      "options": ["A' ∩ B'", "A ∪ B", "A' ∪ B'", "A' × B'"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_016",
+      "category": "Sets",
+      "question": "In a survey of 100 people, 60 drink tea, 50 drink coffee, and 20 drink both. How many drink neither?",
+      "options": ["5", "10", "15", "20"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_017",
+      "category": "Sets",
+      "question": "The Cartesian product A × B of A = {1,2} and B = {x,y} has how many elements?",
+      "options": ["2", "3", "4", "6"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_018",
+      "category": "Sets",
+      "question": "Which of the following is a well-defined set?",
+      "options": ["The set of tall people", "The set of prime numbers less than 20", "The set of beautiful paintings", "The set of old cars"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_019",
+      "category": "Sets",
+      "question": "A universal set contains 50 elements. If |A| = 30, what is |A'|?",
+      "options": ["10", "15", "20", "30"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_020",
+      "category": "Sets",
+      "question": "The power set of {1, 2} is:",
+      "options": ["{∅, {1}, {2}}", "{∅, {1}, {2}, {1,2}}", "{{1,2}}", "{1, 2, {1,2}}"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_021",
+      "category": "Sets",
+      "question": "If A = {2, 4, 6, 8} and B = {1, 2, 3, 4}, what is A \\ B?",
+      "options": ["{1, 3}", "{2, 4}", "{6, 8}", "{4, 6, 8}"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_022",
+      "category": "Sets",
+      "question": "In a Venn diagram with two overlapping circles, the overlapping region represents:",
+      "options": ["A ∪ B", "A \\ B", "A ∩ B", "A'"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_023",
+      "category": "Sets",
+      "question": "If A = B, then which of the following is true?",
+      "options": ["A ∩ B = ∅", "A ∪ B = ∅", "A ∩ B = A = B", "A ⊂ B only"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_024",
+      "category": "Sets",
+      "question": "A set A is disjoint from set B when:",
+      "options": ["A ⊂ B", "A = B", "A ∩ B = ∅", "A ∪ B = ∅"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_025",
+      "category": "Sets",
+      "question": "In a class, 18 students play football, 12 play basketball, and 5 play both. How many play football only?",
+      "options": ["7", "10", "13", "16"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_026",
+      "category": "Sets",
+      "question": "The symmetric difference A △ B contains elements that are:",
+      "options": ["In A ∩ B", "In A ∪ B only", "In A or B but not both", "In neither A nor B"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_027",
+      "category": "Sets",
+      "question": "If n(U) = 80, n(A) = 45, n(B) = 35, n(A ∩ B) = 15, how many are in neither A nor B?",
+      "options": ["5", "10", "15", "20"],
+      "correct_index": 2
+    },
+    {
+      "id": "set_028",
+      "category": "Sets",
+      "question": "The set {x : x is an even number less than 10} in roster form is:",
+      "options": ["{1,3,5,7,9}", "{2,4,6,8}", "{0,2,4,6,8}", "{2,4,6,8,10}"],
+      "correct_index": 1
+    },
+    {
+      "id": "set_029",
+      "category": "Sets",
+      "question": "If A has 4 elements and B has 3 elements and A ∩ B = ∅, how many elements are in A ∪ B?",
+      "options": ["4", "5", "6", "7"],
+      "correct_index": 3
+    },
+    {
+      "id": "set_030",
+      "category": "Sets",
+      "question": "Which law states A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)?",
+      "options": ["Associative Law", "Commutative Law", "Distributive Law", "Identity Law"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_001",
+      "category": "Percentage Change",
+      "question": "The formula for percentage change is:",
+      "options": ["(New - Old) / New × 100", "(Old - New) / Old × 100", "(New - Old) / Old × 100", "(New + Old) / 2 × 100"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_002",
+      "category": "Percentage Change",
+      "question": "A price increases from ₦200 to ₦250. What is the percentage increase?",
+      "options": ["20%", "25%", "30%", "50%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_003",
+      "category": "Percentage Change",
+      "question": "A salary drops from ₦80,000 to ₦68,000. What is the percentage decrease?",
+      "options": ["10%", "12%", "15%", "17.6%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_004",
+      "category": "Percentage Change",
+      "question": "A population grows from 500,000 to 620,000. What is the percentage change?",
+      "options": ["20%", "22%", "24%", "25%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_005",
+      "category": "Percentage Change",
+      "question": "If a stock falls from $150 to $120, what is the percentage decrease?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_006",
+      "category": "Percentage Change",
+      "question": "A value increases by 40% and then decreases by 40%. What is the net percentage change?",
+      "options": ["-4%", "-16%", "0%", "+16%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_007",
+      "category": "Percentage Change",
+      "question": "A quantity increases by 20% then by another 20%. What is the total percentage increase?",
+      "options": ["40%", "42%", "44%", "46%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_008",
+      "category": "Percentage Change",
+      "question": "A shirt originally costs ₦5,000. After a 30% discount, what is the new price?",
+      "options": ["₦3,000", "₦3,500", "₦3,700", "₦4,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_009",
+      "category": "Percentage Change",
+      "question": "A product's price increased from ₦400 to ₦440. What is the percentage increase?",
+      "options": ["8%", "10%", "12%", "15%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_010",
+      "category": "Percentage Change",
+      "question": "An investment of ₦200,000 grows to ₦260,000. What is the percentage gain?",
+      "options": ["25%", "30%", "35%", "40%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_011",
+      "category": "Percentage Change",
+      "question": "A class had 60 students. After enrolment, it now has 75 students. What is the percentage increase?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_012",
+      "category": "Percentage Change",
+      "question": "If a price decreases by 15% to become ₦8,500, what was the original price?",
+      "options": ["₦9,500", "₦10,000", "₦10,500", "₦11,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_013",
+      "category": "Percentage Change",
+      "question": "A house worth ₦15,000,000 depreciates by 8% per year. What is its value after 1 year?",
+      "options": ["₦12,800,000", "₦13,200,000", "₦13,800,000", "₦14,200,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_014",
+      "category": "Percentage Change",
+      "question": "A football team won 18 out of 30 games last season and 22 out of 30 this season. What is the percentage change in wins?",
+      "options": ["18.2%", "20%", "22.2%", "25%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_015",
+      "category": "Percentage Change",
+      "question": "Sales go from ₦1,200,000 in Q1 to ₦900,000 in Q2. What is the percentage change?",
+      "options": ["-20%", "-25%", "-30%", "-33.3%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_016",
+      "category": "Percentage Change",
+      "question": "A number is increased by 50% and then decreased by 50%. The final value compared to the original is:",
+      "options": ["25% less", "Same", "25% more", "75% less"],
+      "correct_index": 0
+    },
+    {
+      "id": "pct_017",
+      "category": "Percentage Change",
+      "question": "What is the percentage change from 80 to 100?",
+      "options": ["20%", "25%", "28%", "30%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_018",
+      "category": "Percentage Change",
+      "question": "A tax of 7.5% (VAT) is added to a bill of ₦120,000. What is the total bill?",
+      "options": ["₦126,000", "₦129,000", "₦132,000", "₦135,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_019",
+      "category": "Percentage Change",
+      "question": "A TV costs ₦250,000 before a 12% price hike. What is the new price?",
+      "options": ["₦272,000", "₦278,000", "₦280,000", "₦290,000"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_020",
+      "category": "Percentage Change",
+      "question": "Compound percentage change: A value of 1,000 grows at 10% per year for 2 years. What is the final value?",
+      "options": ["₦1,100", "₦1,200", "₦1,210", "₦1,250"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_021",
+      "category": "Percentage Change",
+      "question": "If a value drops from 500 to 375, what is the percentage decrease?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_022",
+      "category": "Percentage Change",
+      "question": "A car depreciates by 20% per year. Starting at ₦4,000,000, what is its value after 2 years?",
+      "options": ["₦2,400,000", "₦2,560,000", "₦2,600,000", "₦3,200,000"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_023",
+      "category": "Percentage Change",
+      "question": "A worker's hours increase from 35 h/week to 42 h/week. What is the percentage increase?",
+      "options": ["15%", "18%", "20%", "25%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_024",
+      "category": "Percentage Change",
+      "question": "After a 25% discount, an item costs ₦18,750. What was the original price?",
+      "options": ["₦22,500", "₦24,000", "₦25,000", "₦27,500"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_025",
+      "category": "Percentage Change",
+      "question": "A graph shows inflation rising from 18% to 27%. What is the percentage point change vs percentage change?",
+      "options": ["9 percentage points; 50% change", "9 percentage points; 33.3% change", "50 percentage points; 9% change", "33.3 percentage points; 9% change"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_001",
+      "category": "Average Rate of Change",
+      "question": "The average rate of change of f(x) over [a, b] is given by:",
+      "options": ["f(b) - f(a)", "[f(b) - f(a)] / (b - a)", "[f(a) + f(b)] / 2", "f'(a+b)/2"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_002",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x², find the average rate of change over [1, 3].",
+      "options": ["2", "4", "6", "8"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_003",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = 2x + 5, what is the average rate of change over any interval?",
+      "options": ["5", "2", "7", "Varies with the interval"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_004",
+      "category": "Average Rate of Change",
+      "question": "The average rate of change is geometrically represented by:",
+      "options": ["The tangent line at a point", "The area under the curve", "The slope of the secant line between two points", "The y-intercept of the function"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_005",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x³, find the average rate of change over [0, 2].",
+      "options": ["2", "4", "8", "3"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_006",
+      "category": "Average Rate of Change",
+      "question": "What is the average rate of change of f(x) = 3x² - x over [1, 4]?",
+      "options": ["12", "14", "16", "18"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_007",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = √x, what is the average rate of change over [1, 9]?",
+      "options": ["0.25", "0.30", "0.35", "0.40"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_008",
+      "category": "Average Rate of Change",
+      "question": "A car travels 300 km in 4 hours. What is the average rate of change of position (average speed)?",
+      "options": ["60 km/h", "70 km/h", "75 km/h", "80 km/h"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_009",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = 1/x, what is the average rate of change over [1, 2]?",
+      "options": ["-1/2", "-1/3", "-1/4", "-1"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_010",
+      "category": "Average Rate of Change",
+      "question": "As the interval [a, b] shrinks to a single point, the average rate of change approaches:",
+      "options": ["Zero", "Infinity", "The instantaneous rate of change (derivative)", "The average value of f"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_011",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x² + 3x, find the average rate of change over [2, 5].",
+      "options": ["9", "10", "11", "12"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_012",
+      "category": "Average Rate of Change",
+      "question": "A function f(x) = 4x - 7. What is the average rate of change over [0, 10]?",
+      "options": ["4", "7", "10", "40"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_013",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x² - 4x + 3, find the average rate of change from x = 1 to x = 3.",
+      "options": ["0", "1", "2", "-1"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_014",
+      "category": "Average Rate of Change",
+      "question": "The temperature in a room changes from 18°C at 8am to 26°C at 12pm. What is the average rate of change per hour?",
+      "options": ["1°C/hr", "2°C/hr", "3°C/hr", "4°C/hr"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_015",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = sin(x), what is the average rate of change over [0, π]? (sin(0) = 0, sin(π) = 0)",
+      "options": ["0", "1", "2/π", "-1"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_016",
+      "category": "Average Rate of Change",
+      "question": "f(x) = 2x³. What is the average rate of change over [-1, 1]?",
+      "options": ["0", "2", "4", "6"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_017",
+      "category": "Average Rate of Change",
+      "question": "A population P(t) = 5,000 + 200t. What is the average rate of change from t = 2 to t = 7?",
+      "options": ["100 people/year", "150 people/year", "200 people/year", "250 people/year"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_018",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = eˣ, what is the average rate of change over [0, 1]? (e ≈ 2.718)",
+      "options": ["1.000", "1.718", "2.718", "3.718"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_019",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x² - 2x, the average rate of change over [3, 5] is:",
+      "options": ["4", "6", "8", "10"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_020",
+      "category": "Average Rate of Change",
+      "question": "If f(2) = 10 and f(6) = 30, what is the average rate of change over [2, 6]?",
+      "options": ["4", "5", "6", "8"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_021",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x² over [a, a+h], the average rate of change simplifies to:",
+      "options": ["2a", "2a + h", "h + a", "a² + h"],
+      "correct_index": 1
+    },
+    {
+      "id": "arc_022",
+      "category": "Average Rate of Change",
+      "question": "A ball's height is h(t) = -5t² + 20t. What is the average rate of change from t = 0 to t = 4?",
+      "options": ["0 m/s", "5 m/s", "10 m/s", "20 m/s"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_023",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = ln(x), what is the average rate of change over [1, e]? (ln(1)=0, ln(e)=1, e≈2.718)",
+      "options": ["1/(e-1)", "1/e", "e-1", "1"],
+      "correct_index": 0
+    },
+    {
+      "id": "arc_024",
+      "category": "Average Rate of Change",
+      "question": "A company's revenue R(t) = 10,000 + 500t². Revenue at t=2 is ₦12,000 and at t=4 is ₦18,000. Average rate of change is:",
+      "options": ["₦1,500/yr", "₦2,000/yr", "₦3,000/yr", "₦4,000/yr"],
+      "correct_index": 2
+    },
+    {
+      "id": "arc_025",
+      "category": "Average Rate of Change",
+      "question": "For f(x) = x³ - 3x over [0, 3], what is the average rate of change?",
+      "options": ["3", "5", "6", "9"],
+      "correct_index": 2
+    }
+  ]
+}

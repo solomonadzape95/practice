@@ -8,8 +8,12 @@ export function ReviewItem({
   selectedIndex: number | null
 }) {
   const correctText = question.options[question.correct_index] ?? 'Unknown'
-  const selectedText =
-    selectedIndex === null ? 'No answer' : (question.options[selectedIndex] ?? '—')
+  const timedOut = selectedIndex === -1
+  const selectedText = timedOut
+    ? 'Time expired'
+    : selectedIndex === null
+      ? 'No answer'
+      : (question.options[selectedIndex] ?? '—')
   const isCorrect = selectedIndex === question.correct_index
 
   // Subtle but clearly different card tints using inline rgba so
@@ -42,7 +46,7 @@ export function ReviewItem({
           className="shrink-0 whitespace-nowrap rounded-lg px-2.5 py-1 text-xs font-bold"
           style={badgeStyle}
         >
-          {isCorrect ? '✓ Correct' : '✗ Wrong'}
+          {isCorrect ? '✓ Correct' : timedOut ? '⏱ Timed out' : '✗ Wrong'}
         </div>
       </div>
 

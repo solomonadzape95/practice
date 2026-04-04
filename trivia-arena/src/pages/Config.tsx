@@ -6,6 +6,15 @@ import { useQuizStore } from '../store/quizStore'
 // Candidate tick positions — filtered to what fits in the actual range
 const TICK_CANDIDATES = [5, 10, 20, 50, 100, 200]
 
+const TIME_OPTIONS: { value: number; label: string }[] = [
+  { value: 0, label: 'Off' },
+  { value: 5, label: '5s' },
+  { value: 10, label: '10s' },
+  { value: 15, label: '15s' },
+  { value: 20, label: '20s' },
+  { value: 30, label: '30s' },
+]
+
 export function Config() {
   const navigate = useNavigate()
   const status = useQuizStore((s) => s.status)
@@ -17,6 +26,8 @@ export function Config() {
   const MAX = total
 
   const [value, setValue] = useState(Math.min(10, MAX))
+  const [inputRaw, setInputRaw] = useState(String(Math.min(10, MAX)))
+  const [timeLimit, setTimeLimit] = useState(5)
 
   const isAll = value === MAX
   const pct = MAX > MIN ? ((value - MIN) / (MAX - MIN)) * 100 : 100
@@ -38,6 +49,30 @@ export function Config() {
     }
   }
   const ticks = [...filteredCandidates, MAX]
+
+  const setCount = (n: number) => {
+    const clamped = Math.max(MIN, Math.min(MAX, n))
+    setValue(clamped)
+    setInputRaw(clamped === MAX ? 'All' : String(clamped))
+  }
+
+  const handleInputChange = (raw: string) => {
+    setInputRaw(raw)
+    const n = parseInt(raw, 10)
+    if (!isNaN(n)) {
+      setValue(Math.max(MIN, Math.min(MAX, n)))
+    }
+  }
+
+  const handleInputBlur = () => {
+    // Normalise display on blur
+    const n = parseInt(inputRaw, 10)
+    if (isNaN(n)) {
+      setInputRaw(String(value))
+    } else {
+      setCount(n)
+    }
+  }
 
   if (status === 'idle' || !selectedMode) {
     return (
@@ -62,7 +97,7 @@ export function Config() {
       initial={{ opacity: 0, y: 12 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3 }}
-      className="space-y-8"
+      className="space-y-6"
     >
       {/* Header */}
       <div className="flex items-center gap-4">
@@ -93,8 +128,8 @@ export function Config() {
           How many questions?
         </div>
 
-        {/* Big value display */}
-        <div className="mb-6 text-center">
+        {/* Big value display + text input */}
+        <div className="mb-6 flex flex-col items-center gap-2">
           <motion.div
             key={isAll ? 'all' : value}
             initial={{ opacity: 0, y: -4 }}
@@ -105,8 +140,19 @@ export function Config() {
           >
             {isAll ? 'All' : value}
           </motion.div>
-          <div className="mt-1 text-sm text-q-sub">
-            {isAll ? `${total} questions` : value === 1 ? '1 question' : `${value} questions`}
+          <div className="flex items-center gap-2">
+            <input
+              type="number"
+              min={MIN}
+              max={MAX}
+              value={inputRaw === 'All' ? MAX : inputRaw}
+              onChange={(e) => handleInputChange(e.target.value)}
+              onBlur={handleInputBlur}
+              onFocus={(e) => e.target.select()}
+              className="w-24 rounded-xl bg-q-hover px-3 py-1.5 text-center font-mono text-sm text-q-text outline-none ring-1 ring-white/10 transition focus:ring-2"
+              style={{ '--tw-ring-color': color } as React.CSSProperties}
+            />
+            <span className="text-sm text-q-dim">/ {total}</span>
           </div>
         </div>
 
@@ -118,7 +164,7 @@ export function Config() {
             min={MIN}
             max={MAX}
             value={value}
-            onChange={(e) => setValue(Number(e.target.value))}
+            onChange={(e) => setCount(Number(e.target.value))}
             style={{
               '--range-color': color,
               '--range-glow': `${color}33`,
@@ -155,13 +201,59 @@ export function Config() {
         </div>
       </div>
 
+      {/* Time picker */}
+      <div className="rounded-2xl bg-q-card p-6 shadow-card">
+        <div className="mb-4 text-sm font-semibold uppercase tracking-wider text-q-sub">
+          Time per question
+        </div>
+        <div className="grid grid-cols-6 gap-2">
+          {TIME_OPTIONS.map((opt) => {
+            const selected = opt.value === timeLimit
+            return (
+              <button
+                key={opt.value}
+                type="button"
+                onClick={() => setTimeLimit(opt.value)}
+                className={[
+                  'relative overflow-hidden rounded-xl py-3 text-center transition focus:outline-none',
+                  selected ? 'shadow-lift' : 'bg-q-hover hover:bg-white/10',
+                ].join(' ')}
+                style={
+                  selected
+                    ? { background: `linear-gradient(135deg, ${color}50, ${color}22)` }
+                    : undefined
+                }
+              >
+                <div
+                  className={[
+                    'font-display text-sm font-bold',
+                    selected ? 'text-q-text' : 'text-q-sub',
+                  ].join(' ')}
+                >
+                  {opt.label}
+                </div>
+                {selected && (
+                  <div
+                    className="absolute inset-x-0 bottom-0 h-0.5"
+                    style={{ backgroundColor: color }}
+                  />
+                )}
+              </button>
+            )
+          })}
+        </div>
+        {timeLimit === 0 && (
+          <p className="mt-3 text-xs text-q-dim">No time limit — take as long as you need.</p>
+        )}
+      </div>
+
       {/* CTA */}
       <button
         type="button"
         className="w-full rounded-xl py-4 font-display text-lg font-bold text-black shadow-lift transition hover:brightness-110 focus:outline-none active:scale-[0.98]"
         style={{ backgroundColor: color }}
         onClick={() => {
-          startQuiz(isAll ? 'all' : value)
+          startQuiz(isAll ? 'all' : value, timeLimit)
           navigate('/quiz')
         }}
       >

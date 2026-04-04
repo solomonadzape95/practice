@@ -1,0 +1,3023 @@
+{
+  "mode": "data_analysis",
+  "label": "Data Analysis",
+  "icon": "📊",
+  "color": "#34D399",
+  "questions": [
+    {
+      "id": "mct_001",
+      "category": "Measures of Central Tendency",
+      "question": "The mean of a data set is calculated by:",
+      "options": [
+        "Adding all values and dividing by the count",
+        "Finding the middle value when sorted",
+        "Finding the most frequent value",
+        "Subtracting the smallest from the largest"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_002",
+      "category": "Measures of Central Tendency",
+      "question": "Find the mean of: 4, 7, 13, 2, 9",
+      "options": ["6", "7", "8", "9"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_003",
+      "category": "Measures of Central Tendency",
+      "question": "The median of 3, 7, 9, 12, 15 is:",
+      "options": ["7", "9", "10.5", "12"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_004",
+      "category": "Measures of Central Tendency",
+      "question": "Find the median of: 6, 2, 8, 4, 10, 14",
+      "options": ["7", "8", "9", "10"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_005",
+      "category": "Measures of Central Tendency",
+      "question": "The mode of 5, 3, 7, 3, 9, 3, 5 is:",
+      "options": ["3", "5", "7", "9"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_006",
+      "category": "Measures of Central Tendency",
+      "question": "A data set is called bimodal when it has:",
+      "options": ["No mode", "One mode", "Two modes", "Three or more modes"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_007",
+      "category": "Measures of Central Tendency",
+      "question": "Which measure of central tendency is most affected by extreme outliers?",
+      "options": ["Mode", "Median", "Mean", "Range"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_008",
+      "category": "Measures of Central Tendency",
+      "question": "The range of the data set 4, 8, 15, 16, 23 is:",
+      "options": ["15", "16", "19", "23"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_009",
+      "category": "Measures of Central Tendency",
+      "question": "For a perfectly symmetrical distribution, which of the following is true?",
+      "options": [
+        "Mean > Median > Mode",
+        "Mode > Median > Mean",
+        "Mean = Median = Mode",
+        "Median > Mean = Mode"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_010",
+      "category": "Measures of Central Tendency",
+      "question": "The weighted mean of values 10, 20, 30 with weights 1, 2, 3 respectively is:",
+      "options": ["20", "23.3", "25", "30"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_011",
+      "category": "Measures of Central Tendency",
+      "question": "Find the mean of: 12, 15, 18, 21, 24",
+      "options": ["17", "18", "19", "20"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_012",
+      "category": "Measures of Central Tendency",
+      "question": "In a positively skewed distribution, the relationship between mean, median, and mode is:",
+      "options": [
+        "Mean < Median < Mode",
+        "Mode < Median < Mean",
+        "Mean = Median = Mode",
+        "Median < Mode < Mean"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_013",
+      "category": "Measures of Central Tendency",
+      "question": "The median of an even-numbered data set is found by:",
+      "options": [
+        "Taking the higher middle value",
+        "Taking the lower middle value",
+        "Averaging the two middle values",
+        "Taking the most frequent value"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_014",
+      "category": "Measures of Central Tendency",
+      "question": "A student scores 70, 80, 90, 60, and 100 in five tests. What is their mean score?",
+      "options": ["78", "80", "82", "85"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_015",
+      "category": "Measures of Central Tendency",
+      "question": "The geometric mean of 4 and 16 is:",
+      "options": ["8", "10", "12", "6"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_016",
+      "category": "Measures of Central Tendency",
+      "question": "For grouped data, which formula gives the mean? (f = frequency, x = midpoint)",
+      "options": ["Σx / n", "Σ(fx) / Σf", "Σf / Σx", "n / Σ(fx)"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_017",
+      "category": "Measures of Central Tendency",
+      "question": "What is the mode of: 2, 4, 4, 6, 8, 8, 8, 10?",
+      "options": ["4", "6", "8", "10"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_018",
+      "category": "Measures of Central Tendency",
+      "question": "The mean of five numbers is 12. If four of the numbers are 10, 14, 8, and 16, what is the fifth?",
+      "options": ["10", "11", "12", "14"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_019",
+      "category": "Measures of Central Tendency",
+      "question": "Which measure of central tendency is best for describing the most popular shoe size sold in a store?",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_020",
+      "category": "Measures of Central Tendency",
+      "question": "A data set has a mean of 50 and a standard deviation of 10. What is the coefficient of variation (CV)?",
+      "options": ["5%", "10%", "20%", "50%"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_021",
+      "category": "Measures of Central Tendency",
+      "question": "The harmonic mean is most useful when dealing with:",
+      "options": [
+        "Rates and ratios",
+        "Frequency distributions",
+        "Categorical data",
+        "Normally distributed data"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_022",
+      "category": "Measures of Central Tendency",
+      "question": "Find the median of: 11, 3, 7, 19, 5, 13",
+      "options": ["7", "9", "10", "11"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_023",
+      "category": "Measures of Central Tendency",
+      "question": "Variance is the average of the squared deviations from the:",
+      "options": ["Mode", "Median", "Mean", "Range"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_024",
+      "category": "Measures of Central Tendency",
+      "question": "Standard deviation is the ______ of the variance.",
+      "options": ["Square", "Square root", "Reciprocal", "Logarithm"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_025",
+      "category": "Measures of Central Tendency",
+      "question": "For data: 5, 5, 5, 5, 5 — what are the mean, median, and mode?",
+      "options": [
+        "All equal 5",
+        "Mean=5, Median=0, Mode=5",
+        "Mean=5, no median, Mode=5",
+        "All are undefined"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_026",
+      "category": "Measures of Central Tendency",
+      "question": "The interquartile range (IQR) is calculated as:",
+      "options": ["Q3 - Q1", "Q2 - Q1", "Q3 - Q2", "Q3 + Q1"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_027",
+      "category": "Measures of Central Tendency",
+      "question": "Which percentile is equivalent to the median?",
+      "options": ["25th", "50th", "75th", "100th"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_028",
+      "category": "Measures of Central Tendency",
+      "question": "A dataset has values 2, 4, 4, 4, 5, 5, 7, 9. The mean is:",
+      "options": ["4.5", "5", "5.5", "6"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_029",
+      "category": "Measures of Central Tendency",
+      "question": "Which measure is LEAST affected by outliers?",
+      "options": ["Mean", "Standard deviation", "Median", "Variance"],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_030",
+      "category": "Measures of Central Tendency",
+      "question": "A class of 30 students has a mean score of 72. A class of 20 students has a mean score of 78. What is the combined mean?",
+      "options": ["74.4", "75.0", "75.6", "76.0"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_031",
+      "category": "Measures of Central Tendency",
+      "question": "The mid-range of a data set is calculated as:",
+      "options": [
+        "(Max + Min) / 2",
+        "(Max - Min) / 2",
+        "Max / Min",
+        "(Q1 + Q3) / 2"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_032",
+      "category": "Measures of Central Tendency",
+      "question": "For negatively skewed data, which ordering is correct?",
+      "options": [
+        "Mean > Median > Mode",
+        "Mode > Median > Mean",
+        "Median > Mean > Mode",
+        "Mode = Median = Mean"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_033",
+      "category": "Measures of Central Tendency",
+      "question": "The mode of a continuous frequency distribution is estimated using which formula?",
+      "options": [
+        "Mean formula",
+        "Median class formula",
+        "Modal class formula (Pearson's)",
+        "Z-score formula"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_034",
+      "category": "Measures of Central Tendency",
+      "question": "A data set: 10, 20, 30, 40, 50. If each value increases by 5, how does the mean change?",
+      "options": [
+        "Stays the same",
+        "Increases by 1",
+        "Increases by 5",
+        "Doubles"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_035",
+      "category": "Measures of Central Tendency",
+      "question": "If each value in a data set is multiplied by 3, what happens to the standard deviation?",
+      "options": [
+        "Stays the same",
+        "Multiplied by 3",
+        "Multiplied by 9",
+        "Divided by 3"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_036",
+      "category": "Measures of Central Tendency",
+      "question": "The mean of 1, 2, 3, ..., n is:",
+      "options": ["n/2", "(n+1)/2", "n(n+1)/2", "n²/2"],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_037",
+      "category": "Measures of Central Tendency",
+      "question": "Which statement about the mode is correct?",
+      "options": [
+        "Every data set has exactly one mode",
+        "A data set can have no mode",
+        "The mode is always the largest value",
+        "The mode is always unique"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "mct_038",
+      "category": "Measures of Central Tendency",
+      "question": "For data: 3, 5, 7, 9, 11, the mean deviation from the mean is:",
+      "options": ["2", "2.4", "2.8", "3"],
+      "correct_index": 0
+    },
+    {
+      "id": "mct_039",
+      "category": "Measures of Central Tendency",
+      "question": "The median divides a distribution into:",
+      "options": [
+        "Three equal parts",
+        "Four equal parts",
+        "Two equal parts",
+        "Five equal parts"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "mct_040",
+      "category": "Measures of Central Tendency",
+      "question": "Find the mean of: 100, 200, 300, 400, 500",
+      "options": ["250", "300", "350", "400"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_001",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram, the rectangle represents:",
+      "options": ["Set A", "Set B", "The intersection", "The universal set"],
+      "correct_index": 3
+    },
+    {
+      "id": "vds_002",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a class of 50, 30 like Science, 25 like Art, and 10 like both. Using a Venn diagram, how many like Science only?",
+      "options": ["15", "20", "25", "30"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_003",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram with sets A and B, the shaded region outside both circles represents:",
+      "options": ["A ∩ B", "A ∪ B", "(A ∪ B)'", "A \\ B"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_004",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a survey of 100 people: 60 own a car, 45 own a bike, 20 own both. How many own neither?",
+      "options": ["5", "10", "15", "20"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_005",
+      "category": "Venn Diagrams and Sets",
+      "question": "A Venn diagram has three circles A, B, C. The region inside all three circles represents:",
+      "options": ["A ∪ B ∪ C", "A ∩ B ∩ C", "A ∩ B only", "(A ∪ B) \\ C"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_006",
+      "category": "Venn Diagrams and Sets",
+      "question": "If n(A) = 40, n(B) = 35, n(A ∪ B) = 60, what is n(A ∩ B)?",
+      "options": ["10", "15", "20", "25"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_007",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram with two sets, the region in A but not B is represented by:",
+      "options": ["A ∩ B", "A ∪ B", "A \\ B (A minus B)", "B \\ A"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_008",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a school of 200 students: 120 study Maths, 90 study English, 40 study both. How many study neither?",
+      "options": ["20", "25", "30", "40"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_009",
+      "category": "Venn Diagrams and Sets",
+      "question": "If A = {1,2,3,4,5} and B = {4,5,6,7,8}, what does the Venn diagram intersection contain?",
+      "options": ["{1,2,3}", "{4,5}", "{6,7,8}", "{1,2,3,6,7,8}"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_010",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a three-set Venn diagram (A, B, C), how many distinct regions are there including outside all sets?",
+      "options": ["5", "6", "7", "8"],
+      "correct_index": 3
+    },
+    {
+      "id": "vds_011",
+      "category": "Venn Diagrams and Sets",
+      "question": "Using n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C), if n(A)=30, n(B)=25, n(C)=20, n(A∩B)=10, n(B∩C)=8, n(A∩C)=6, n(A∩B∩C)=3, what is n(A∪B∪C)?",
+      "options": ["51", "54", "57", "60"],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_012",
+      "category": "Venn Diagrams and Sets",
+      "question": "If n(U) = 100 and n(A ∪ B) = 75, what is n((A ∪ B)')?",
+      "options": ["15", "20", "25", "30"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_013",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram, two disjoint sets are shown as:",
+      "options": [
+        "Overlapping circles",
+        "Concentric circles",
+        "Non-overlapping separate circles",
+        "One circle inside the other"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_014",
+      "category": "Venn Diagrams and Sets",
+      "question": "If A ⊆ B, how does this appear in a Venn diagram?",
+      "options": [
+        "A and B are disjoint",
+        "A is entirely inside B",
+        "B is entirely inside A",
+        "A and B overlap partially"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_015",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a survey: 50 people drink tea, 40 drink coffee, 15 drink both, 10 drink neither. How many people were surveyed?",
+      "options": ["85", "90", "95", "100"],
+      "correct_index": 0
+    },
+    {
+      "id": "vds_016",
+      "category": "Venn Diagrams and Sets",
+      "question": "A ∪ B shaded in a Venn diagram includes which regions?",
+      "options": [
+        "Only A ∩ B",
+        "A only and B only",
+        "A only, B only, and A ∩ B",
+        "Everything outside A and B"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_017",
+      "category": "Venn Diagrams and Sets",
+      "question": "200 students were asked about social media: 130 use Instagram, 100 use TikTok, 60 use both. How many use neither?",
+      "options": ["20", "25", "30", "40"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_018",
+      "category": "Venn Diagrams and Sets",
+      "question": "The symmetric difference A △ B is shaded in a Venn diagram. It represents:",
+      "options": [
+        "A ∩ B only",
+        "Elements in A or B but not both",
+        "Elements outside both A and B",
+        "A ∪ B"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "vds_019",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram of A and B, the total count is: A only = 15, B only = 20, A ∩ B = 10, neither = 5. What is n(U)?",
+      "options": ["40", "45", "50", "55"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_020",
+      "category": "Venn Diagrams and Sets",
+      "question": "What does n(A') equal if n(U) = 80 and n(A) = 55?",
+      "options": ["15", "20", "25", "35"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_021",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a Venn diagram with A and B, if n(A) = 20, n(A ∩ B) = 8, what is n(A only)?",
+      "options": ["8", "10", "12", "14"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_022",
+      "category": "Venn Diagrams and Sets",
+      "question": "De Morgan's Law (A ∪ B)' = A' ∩ B' can be verified using which method?",
+      "options": [
+        "Venn diagrams or truth tables",
+        "Integration",
+        "Matrix operations",
+        "Polynomial expansion"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "vds_023",
+      "category": "Venn Diagrams and Sets",
+      "question": "A Venn diagram shows that A ∩ B = ∅. This means:",
+      "options": [
+        "A and B are equal",
+        "A and B share elements",
+        "A and B have no common elements",
+        "A is a subset of B"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_024",
+      "category": "Venn Diagrams and Sets",
+      "question": "In a three-circle Venn diagram, how many regions are there that belong to exactly one set?",
+      "options": ["1", "2", "3", "4"],
+      "correct_index": 2
+    },
+    {
+      "id": "vds_025",
+      "category": "Venn Diagrams and Sets",
+      "question": "A, B, and C are sets. n(A only) = 12, n(B only) = 9, n(C only) = 7, n(A∩B only) = 5, n(B∩C only) = 4, n(A∩C only) = 3, n(A∩B∩C) = 2. What is n(A ∪ B ∪ C)?",
+      "options": ["38", "40", "42", "44"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_001",
+      "category": "Random Variable Probability Distributions",
+      "question": "A random variable is a variable whose value is determined by:",
+      "options": [
+        "A fixed formula",
+        "The outcome of a random experiment",
+        "The median of a data set",
+        "A constant probability"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_002",
+      "category": "Random Variable Probability Distributions",
+      "question": "A discrete random variable is one that:",
+      "options": [
+        "Can take any value in an interval",
+        "Takes only countable, distinct values",
+        "Is always between 0 and 1",
+        "Has infinite possible outcomes only"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_003",
+      "category": "Random Variable Probability Distributions",
+      "question": "A continuous random variable is one that:",
+      "options": [
+        "Takes only whole number values",
+        "Can take any value within a range",
+        "Has a finite number of outcomes",
+        "Is always normally distributed"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_004",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a valid discrete probability distribution, the sum of all probabilities must equal:",
+      "options": ["0", "0.5", "1", "100"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_005",
+      "category": "Random Variable Probability Distributions",
+      "question": "The expected value (mean) of a discrete random variable X is calculated as:",
+      "options": ["Σx", "Σ[x · P(x)]", "Σ[P(x)] / n", "Σx² · P(x)"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_006",
+      "category": "Random Variable Probability Distributions",
+      "question": "A fair coin is tossed twice. If X = number of heads, what is E(X)?",
+      "options": ["0.5", "1", "1.5", "2"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_007",
+      "category": "Random Variable Probability Distributions",
+      "question": "The binomial distribution applies when:",
+      "options": [
+        "Events are continuous",
+        "There are exactly two outcomes per trial and trials are independent",
+        "All outcomes are equally likely",
+        "The sample size is infinite"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_008",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a binomial distribution B(n, p), the mean is:",
+      "options": ["n + p", "n / p", "np", "np(1-p)"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_009",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a binomial distribution B(n, p), the variance is:",
+      "options": ["np", "np²", "np(1-p)", "√(np)"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_010",
+      "category": "Random Variable Probability Distributions",
+      "question": "A fair die is rolled. X = the number shown. What is E(X)?",
+      "options": ["3", "3.5", "4", "4.5"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_011",
+      "category": "Random Variable Probability Distributions",
+      "question": "The Poisson distribution is used to model:",
+      "options": [
+        "Binary outcomes in fixed trials",
+        "The count of events in a fixed interval of time or space",
+        "Continuous bell-shaped data",
+        "Uniform random outcomes"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_012",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a Poisson distribution with mean λ, the variance equals:",
+      "options": ["λ²", "√λ", "λ", "1/λ"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_013",
+      "category": "Random Variable Probability Distributions",
+      "question": "The normal distribution is characterised by which shape?",
+      "options": [
+        "Uniform (flat)",
+        "Skewed right",
+        "Bell-shaped and symmetric",
+        "J-shaped"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_014",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a standard normal distribution N(0,1), the mean and standard deviation are:",
+      "options": [
+        "Mean=1, SD=0",
+        "Mean=0, SD=1",
+        "Mean=0.5, SD=0.5",
+        "Mean=1, SD=1"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_015",
+      "category": "Random Variable Probability Distributions",
+      "question": "The Z-score formula for standardising a value x is:",
+      "options": [
+        "Z = (x + μ) / σ",
+        "Z = (x - μ) / σ",
+        "Z = σ / (x - μ)",
+        "Z = μ / (x · σ)"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_016",
+      "category": "Random Variable Probability Distributions",
+      "question": "In a normal distribution, approximately what percentage of data falls within 1 standard deviation of the mean?",
+      "options": ["50%", "68%", "95%", "99.7%"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_017",
+      "category": "Random Variable Probability Distributions",
+      "question": "Approximately what percentage of data in a normal distribution lies within 2 standard deviations of the mean?",
+      "options": ["68%", "90%", "95%", "99.7%"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_018",
+      "category": "Random Variable Probability Distributions",
+      "question": "The variance of a discrete random variable X is calculated as:",
+      "options": [
+        "E(X²) - [E(X)]²",
+        "[E(X)]² - E(X²)",
+        "E(X) - [E(X²)]",
+        "Σx · P(x)"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "rvp_019",
+      "category": "Random Variable Probability Distributions",
+      "question": "A bag has 3 red and 7 blue balls. One ball is drawn. X = 1 if red, X = 0 if blue. What is E(X)?",
+      "options": ["0.2", "0.3", "0.5", "0.7"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_020",
+      "category": "Random Variable Probability Distributions",
+      "question": "The geometric distribution models the number of trials until:",
+      "options": [
+        "A fixed number of successes occur",
+        "The first success occurs",
+        "All outcomes are observed",
+        "The mean is reached"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_021",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a uniform distribution on [a, b], the mean is:",
+      "options": ["a + b", "(a + b) / 2", "(b - a) / 2", "ab"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_022",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a binomial distribution B(10, 0.4), what is the mean?",
+      "options": ["2", "3", "4", "5"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_023",
+      "category": "Random Variable Probability Distributions",
+      "question": "The probability density function (PDF) of a continuous random variable must satisfy:",
+      "options": [
+        "f(x) = 1 for all x",
+        "∫f(x)dx = 1 over all x",
+        "f(x) > 1 for some x",
+        "P(X=x) = f(x)"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_024",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a continuous random variable, P(X = a) for any specific value a is:",
+      "options": ["f(a)", "0", "1 - f(a)", "Always positive"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_025",
+      "category": "Random Variable Probability Distributions",
+      "question": "The cumulative distribution function (CDF) F(x) gives:",
+      "options": ["P(X = x)", "P(X ≥ x)", "P(X ≤ x)", "P(X ≠ x)"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_026",
+      "category": "Random Variable Probability Distributions",
+      "question": "A Poisson distribution has λ = 5. What is its standard deviation?",
+      "options": ["5", "√5 ≈ 2.24", "25", "2.5"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_027",
+      "category": "Random Variable Probability Distributions",
+      "question": "For B(20, 0.5), what is the variance?",
+      "options": ["5", "10", "5 (= 20×0.5×0.5)", "20"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_028",
+      "category": "Random Variable Probability Distributions",
+      "question": "Which distribution is described as memoryless?",
+      "options": [
+        "Normal distribution",
+        "Binomial distribution",
+        "Geometric distribution",
+        "Uniform distribution"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_029",
+      "category": "Random Variable Probability Distributions",
+      "question": "The chi-squared distribution is used primarily for:",
+      "options": [
+        "Modelling continuous symmetric data",
+        "Goodness-of-fit and independence tests",
+        "Modelling binary outcomes",
+        "Finding the mean of a sample"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_030",
+      "category": "Random Variable Probability Distributions",
+      "question": "If X ~ N(50, 25), what is the standard deviation?",
+      "options": ["5", "25", "50", "√50"],
+      "correct_index": 0
+    },
+    {
+      "id": "rvp_031",
+      "category": "Random Variable Probability Distributions",
+      "question": "A discrete random variable X has P(X=1)=0.2, P(X=2)=0.5, P(X=3)=0.3. What is E(X)?",
+      "options": ["1.9", "2.0", "2.1", "2.2"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_032",
+      "category": "Random Variable Probability Distributions",
+      "question": "The negative binomial distribution generalises which distribution?",
+      "options": ["Normal", "Uniform", "Geometric", "Poisson"],
+      "correct_index": 2
+    },
+    {
+      "id": "rvp_033",
+      "category": "Random Variable Probability Distributions",
+      "question": "For a fair six-sided die, what is the variance of X (the number showing)?",
+      "options": ["2.5", "2.92", "3.5", "4.0"],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_034",
+      "category": "Random Variable Probability Distributions",
+      "question": "In the exponential distribution, what does the parameter λ represent?",
+      "options": [
+        "The mean waiting time",
+        "The rate of occurrence of events",
+        "The variance",
+        "The mode"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "rvp_035",
+      "category": "Random Variable Probability Distributions",
+      "question": "If X and Y are independent random variables, then Var(X + Y) equals:",
+      "options": [
+        "Var(X) × Var(Y)",
+        "Var(X) - Var(Y)",
+        "Var(X) + Var(Y)",
+        "E(X) + E(Y)"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_001",
+      "category": "Types of Graphs",
+      "question": "Which type of graph uses bars of equal width to represent frequencies of categories?",
+      "options": ["Line graph", "Pie chart", "Bar chart", "Scatter plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_002",
+      "category": "Types of Graphs",
+      "question": "A pie chart is most useful for showing:",
+      "options": [
+        "Trends over time",
+        "Parts of a whole as proportions",
+        "Relationship between two variables",
+        "Frequency distributions"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_003",
+      "category": "Types of Graphs",
+      "question": "Which type of graph is best for showing trends over time?",
+      "options": ["Bar chart", "Pie chart", "Histogram", "Line graph"],
+      "correct_index": 3
+    },
+    {
+      "id": "tog_004",
+      "category": "Types of Graphs",
+      "question": "A histogram differs from a bar chart in that:",
+      "options": [
+        "A histogram has gaps between bars; a bar chart does not",
+        "A histogram represents continuous data with no gaps; a bar chart has gaps",
+        "A histogram can only show 5 bars",
+        "A histogram uses circles instead of bars"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_005",
+      "category": "Types of Graphs",
+      "question": "A scatter plot is used to show:",
+      "options": [
+        "Frequency of categories",
+        "The relationship or correlation between two variables",
+        "Cumulative frequency",
+        "Parts of a whole"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_006",
+      "category": "Types of Graphs",
+      "question": "A box-and-whisker plot displays which five-number summary?",
+      "options": [
+        "Mean, Median, Mode, Range, Variance",
+        "Min, Q1, Median, Q3, Max",
+        "Min, Mean, Median, Mode, Max",
+        "Q1, Q2, Q3, Q4, Max"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_007",
+      "category": "Types of Graphs",
+      "question": "Which type of graph is used to display the cumulative frequency of a dataset?",
+      "options": [
+        "Histogram",
+        "Pie chart",
+        "Ogive (cumulative frequency curve)",
+        "Stem-and-leaf plot"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_008",
+      "category": "Types of Graphs",
+      "question": "A stem-and-leaf plot is useful because it:",
+      "options": [
+        "Shows proportions of a whole",
+        "Retains the original data values while showing distribution",
+        "Displays only categorical data",
+        "Replaces the need for a frequency table"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_009",
+      "category": "Types of Graphs",
+      "question": "In a frequency polygon, data points are plotted at the:",
+      "options": [
+        "Class boundaries",
+        "Class midpoints",
+        "Upper class limits",
+        "Lower class limits"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_010",
+      "category": "Types of Graphs",
+      "question": "Which graph type is most appropriate for displaying the distribution of a continuous variable like height?",
+      "options": ["Pie chart", "Bar chart", "Histogram", "Line graph"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_011",
+      "category": "Types of Graphs",
+      "question": "A grouped bar chart is used to compare:",
+      "options": [
+        "Single categories over time",
+        "Multiple categories side by side within groups",
+        "Proportions of a total",
+        "Cumulative frequencies"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_012",
+      "category": "Types of Graphs",
+      "question": "A stacked bar chart shows:",
+      "options": [
+        "Bars side by side for comparison",
+        "Bars stacked to show part-to-whole relationships",
+        "Only two data series",
+        "Continuous data without gaps"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_013",
+      "category": "Types of Graphs",
+      "question": "In a pie chart, if a category represents 25% of the data, what angle does its sector have?",
+      "options": ["45°", "60°", "90°", "120°"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_014",
+      "category": "Types of Graphs",
+      "question": "A dot plot is best suited for:",
+      "options": [
+        "Large datasets with many categories",
+        "Small datasets to show individual data points",
+        "Showing trends over decades",
+        "Comparing two continuous variables"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_015",
+      "category": "Types of Graphs",
+      "question": "What does a positive slope on a scatter plot indicate?",
+      "options": [
+        "No correlation",
+        "Negative correlation",
+        "Positive correlation",
+        "Random distribution"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_016",
+      "category": "Types of Graphs",
+      "question": "The x-axis in a histogram typically represents:",
+      "options": [
+        "Frequency",
+        "Cumulative frequency",
+        "Class intervals (data values)",
+        "Time"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_017",
+      "category": "Types of Graphs",
+      "question": "Which of the following is NOT a type of graph used in statistics?",
+      "options": ["Ogive", "Histogram", "Scatter plot", "Parallelogram chart"],
+      "correct_index": 3
+    },
+    {
+      "id": "tog_018",
+      "category": "Types of Graphs",
+      "question": "A time series graph has time on the:",
+      "options": ["y-axis", "x-axis", "Both axes", "Neither axis"],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_019",
+      "category": "Types of Graphs",
+      "question": "A back-to-back stem-and-leaf plot is used to compare:",
+      "options": [
+        "Three or more datasets",
+        "Two datasets simultaneously",
+        "Categorical and numerical data",
+        "Cumulative frequencies"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_020",
+      "category": "Types of Graphs",
+      "question": "In a box plot, outliers are typically shown as:",
+      "options": [
+        "Extended whiskers only",
+        "Individual dots or asterisks beyond the whiskers",
+        "Shaded regions",
+        "Dashed lines"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_021",
+      "category": "Types of Graphs",
+      "question": "Which type of graph would best display the market share of five companies?",
+      "options": ["Line graph", "Histogram", "Pie chart", "Scatter plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_022",
+      "category": "Types of Graphs",
+      "question": "A Pareto chart combines which two graph types?",
+      "options": [
+        "Pie chart and line graph",
+        "Bar chart and cumulative line graph",
+        "Histogram and scatter plot",
+        "Box plot and bar chart"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_023",
+      "category": "Types of Graphs",
+      "question": "In a radar chart (spider chart), each axis represents:",
+      "options": [
+        "A time period",
+        "A different variable or category",
+        "A probability value",
+        "A cumulative total"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_024",
+      "category": "Types of Graphs",
+      "question": "A heat map uses colour intensity to represent:",
+      "options": [
+        "Temperature only",
+        "Categorical labels",
+        "The magnitude of values in a matrix",
+        "The frequency of words"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_025",
+      "category": "Types of Graphs",
+      "question": "The area in a histogram bar represents:",
+      "options": [
+        "The class midpoint",
+        "The class width",
+        "The frequency (or relative frequency) of that class",
+        "The cumulative frequency"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_026",
+      "category": "Types of Graphs",
+      "question": "A pictograph uses what to represent data?",
+      "options": [
+        "Coloured bars",
+        "Symbols or pictures",
+        "Dots on a grid",
+        "Shaded sectors"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_027",
+      "category": "Types of Graphs",
+      "question": "What does a correlation coefficient of r = -1 on a scatter plot indicate?",
+      "options": [
+        "No correlation",
+        "Weak negative correlation",
+        "Perfect positive correlation",
+        "Perfect negative correlation"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "tog_028",
+      "category": "Types of Graphs",
+      "question": "Which graph is most appropriate to show how a student's test scores changed over six months?",
+      "options": ["Bar chart", "Pie chart", "Line graph", "Histogram"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_029",
+      "category": "Types of Graphs",
+      "question": "In a frequency distribution table, the class width is:",
+      "options": [
+        "Upper boundary + Lower boundary",
+        "Upper boundary - Lower boundary",
+        "Midpoint × frequency",
+        "Frequency / total"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_030",
+      "category": "Types of Graphs",
+      "question": "A Gantt chart is primarily used in which context?",
+      "options": [
+        "Statistical frequency analysis",
+        "Project management and scheduling",
+        "Probability distributions",
+        "Financial market trends"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_031",
+      "category": "Types of Graphs",
+      "question": "In a histogram with frequency density on the y-axis, frequency density equals:",
+      "options": [
+        "Frequency × class width",
+        "Frequency / class width",
+        "Class width / frequency",
+        "Cumulative frequency / n"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_032",
+      "category": "Types of Graphs",
+      "question": "A waterfall chart is best used to show:",
+      "options": [
+        "How individual positive and negative values contribute to a cumulative total",
+        "Water consumption data",
+        "Rainfall over seasons",
+        "Frequency of rainfall events"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "tog_033",
+      "category": "Types of Graphs",
+      "question": "Which graph type is used to show the relationship between three variables using bubble size?",
+      "options": ["Scatter plot", "Line graph", "Bubble chart", "Box plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "tog_034",
+      "category": "Types of Graphs",
+      "question": "On a pie chart, the angle of a sector for a value of 45 out of 180 total is:",
+      "options": ["45°", "90°", "180°", "270°"],
+      "correct_index": 1
+    },
+    {
+      "id": "tog_035",
+      "category": "Types of Graphs",
+      "question": "A frequency polygon is created by joining the midpoints of histogram bars with:",
+      "options": [
+        "Curved lines",
+        "Straight lines",
+        "Dashed lines only",
+        "Step lines"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_001",
+      "question": "Which of the following is an example of nominal data?",
+      "options": ["Height", "Temperature", "Eye color", "Age"],
+      "correct_index": 2
+    },
+    {
+      "id": "data_002",
+      "question": "Ordinal data differs from nominal data in that ordinal data...",
+      "options": [
+        "Has a true zero",
+        "Has a natural order",
+        "Is always numeric",
+        "Can be added and subtracted"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_003",
+      "question": "Which scale of measurement has a true zero point?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_004",
+      "question": "Temperature measured in Celsius is an example of which type of data?",
+      "options": ["Nominal", "Ordinal", "Ratio", "Interval"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_005",
+      "question": "Which of the following is an example of continuous data?",
+      "options": [
+        "Number of students in a class",
+        "Number of cars in a parking lot",
+        "Height of a person",
+        "Number of defective items"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_006",
+      "question": "Discrete data is best described as data that...",
+      "options": [
+        "Can take any value within a range",
+        "Can only take countable, distinct values",
+        "Is always categorical",
+        "Has no gaps between values"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_007",
+      "question": "Which of the following is an example of ordinal data?",
+      "options": [
+        "Blood type",
+        "Weight in kilograms",
+        "Survey rating scale (1 to 5)",
+        "Number of siblings"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_008",
+      "question": "Qualitative data is also known as...",
+      "options": [
+        "Numerical data",
+        "Categorical data",
+        "Continuous data",
+        "Discrete data"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_009",
+      "question": "Which of the following best describes interval data?",
+      "options": [
+        "Has a meaningful true zero",
+        "Has equal spacing between values but no true zero",
+        "Is always whole numbers",
+        "Represents categories with no order"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_010",
+      "question": "Age measured in years is an example of which type of data?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_011",
+      "question": "Which type of data can be placed in a meaningful order but differences between values cannot be meaningfully measured?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 1
+    },
+    {
+      "id": "data_012",
+      "question": "Which of the following is an example of ratio data?",
+      "options": [
+        "IQ scores",
+        "Temperature in Celsius",
+        "Height in centimetres",
+        "Zip codes"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_013",
+      "question": "A Likert scale (e.g., Strongly Disagree to Strongly Agree) produces which type of data?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 1
+    },
+    {
+      "id": "data_014",
+      "question": "Which of the following is an example of discrete data?",
+      "options": [
+        "Temperature in a room",
+        "Number of children in a family",
+        "Height of a building",
+        "Weight of a parcel"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_015",
+      "question": "Cross-sectional data refers to data that is...",
+      "options": [
+        "Collected over multiple time periods",
+        "Collected from multiple subjects at a single point in time",
+        "Always longitudinal",
+        "Free of missing values"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_016",
+      "question": "Time series data is best described as data collected...",
+      "options": [
+        "At a single point in time across many subjects",
+        "From different groups simultaneously",
+        "Over multiple time periods for the same subject",
+        "From a single observation only"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_017",
+      "question": "Which of the following represents primary data?",
+      "options": [
+        "Data from a published government report",
+        "Data from a previously conducted study",
+        "Data collected directly by the researcher",
+        "Census data from five years ago"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_018",
+      "question": "Structured data is best described as...",
+      "options": [
+        "Data with no recognisable pattern",
+        "Data organised in a predefined format such as a table",
+        "Data collected only from surveys",
+        "Unprocessed raw data"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_019",
+      "question": "Which of the following is an example of unstructured data?",
+      "options": [
+        "A spreadsheet of sales figures",
+        "A SQL database table",
+        "Social media posts and comments",
+        "A CSV file"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_020",
+      "question": "Panel data (longitudinal data) is a combination of which two data types?",
+      "options": [
+        "Nominal and ordinal data",
+        "Cross-sectional and time series data",
+        "Primary and secondary data",
+        "Discrete and continuous data"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_021",
+      "question": "Which data type permits arithmetic operations such as addition and multiplication?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_022",
+      "question": "The number of defective items in a production batch is which type of data?",
+      "options": ["Continuous", "Ordinal", "Discrete", "Nominal"],
+      "correct_index": 2
+    },
+    {
+      "id": "data_023",
+      "question": "Which of the following variables is measured on a nominal scale?",
+      "options": [
+        "Star ratings out of five",
+        "Income level (low, medium, high)",
+        "Blood group (A, B, AB, O)",
+        "Exam scores out of 100"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_024",
+      "question": "The IQR of a dataset where all values are identical is...",
+      "options": ["Equal to the mean", "Greater than 1", "Zero", "Undefined"],
+      "correct_index": 2
+    },
+    {
+      "id": "data_025",
+      "question": "Which level of measurement carries the most information?",
+      "options": ["Nominal", "Ordinal", "Interval", "Ratio"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_026",
+      "question": "A variable that classifies observations into categories with no natural order is measured on which scale?",
+      "options": ["Ratio", "Interval", "Ordinal", "Nominal"],
+      "correct_index": 3
+    },
+    {
+      "id": "data_027",
+      "question": "Which of the following is secondary data?",
+      "options": [
+        "Survey results you personally collected",
+        "Experimental results from your own lab",
+        "Published census data from a national agency",
+        "Interview transcripts you recorded yourself"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "data_028",
+      "question": "Bivariate data involves analysis of...",
+      "options": [
+        "One variable",
+        "Two variables simultaneously",
+        "Three or more variables",
+        "Only categorical variables"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "data_029",
+      "question": "Which of the following is NOT a characteristic of ratio data?",
+      "options": [
+        "Has a true zero",
+        "Has equal intervals between values",
+        "Values can be multiplied meaningfully",
+        "Has no meaningful zero point"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "data_030",
+      "question": "Multivariate data refers to data that contains...",
+      "options": [
+        "Only one variable",
+        "Exactly two variables",
+        "Three or more variables",
+        "No variables at all"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_001",
+      "question": "A box plot (box-and-whisker plot) displays which of the following?",
+      "options": [
+        "Mean and mode only",
+        "Median, quartiles, and potential outliers",
+        "Frequency distribution bars",
+        "The mean with error bars"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_002",
+      "question": "A histogram is best used to display...",
+      "options": [
+        "The relationship between two variables",
+        "The distribution of a single continuous variable",
+        "Comparisons between categories",
+        "Trends over time"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_003",
+      "question": "Which type of plot is most appropriate for showing the relationship between two continuous variables?",
+      "options": ["Bar chart", "Pie chart", "Scatter plot", "Histogram"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_004",
+      "question": "A pie chart is most appropriate when you want to...",
+      "options": [
+        "Show trends over time",
+        "Show how parts contribute to a whole",
+        "Compare two separate datasets",
+        "Display data distributions"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_005",
+      "question": "Which type of chart would best show changes in a variable over time?",
+      "options": ["Box plot", "Bar chart", "Line chart", "Scatter plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_006",
+      "question": "A bar chart is most suitable for...",
+      "options": [
+        "Continuous frequency data",
+        "Comparing discrete categories",
+        "Showing data distributions",
+        "Time series with many data points"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_007",
+      "question": "What does the middle line inside the box of a box plot represent?",
+      "options": ["Mean", "Mode", "Median", "Standard deviation"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_008",
+      "question": "A violin plot is similar to a box plot but additionally shows...",
+      "options": [
+        "Individual data point values",
+        "The probability density of the data",
+        "Outliers only",
+        "Cumulative frequency"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_009",
+      "question": "Which plot type is specifically designed to show cumulative frequencies?",
+      "options": [
+        "Histogram",
+        "Ogive (cumulative frequency curve)",
+        "Scatter plot",
+        "Box plot"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_010",
+      "question": "A stem-and-leaf plot has the advantage of...",
+      "options": [
+        "Displaying only the mean and median",
+        "Preserving the actual data values",
+        "Showing only quartiles",
+        "Hiding outliers"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_011",
+      "question": "Which chart type is best for detecting correlation between two numerical variables?",
+      "options": ["Bar chart", "Pie chart", "Scatter plot", "Histogram"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_012",
+      "question": "A heat map represents values using...",
+      "options": [
+        "Height of bars",
+        "Colour intensity",
+        "Size of data points",
+        "Line thickness"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_013",
+      "question": "Which plot type is most useful for identifying outliers in a dataset?",
+      "options": ["Pie chart", "Line chart", "Box plot", "Area chart"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_014",
+      "question": "A bubble chart extends a scatter plot by adding a third variable through...",
+      "options": [
+        "Colour coding alone",
+        "The size of each data point",
+        "The shape of points",
+        "Varying line styles"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_015",
+      "question": "Which of the following is a multivariate visualisation technique?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Parallel coordinates plot",
+        "Line chart"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_016",
+      "question": "A Q-Q (quantile-quantile) plot is primarily used to...",
+      "options": [
+        "Compare two time series datasets",
+        "Assess whether data follows a theoretical distribution",
+        "Show cumulative frequencies",
+        "Plot the relationship between two raw variables"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_017",
+      "question": "Which chart type visualises hierarchical data as nested rectangles sized by value?",
+      "options": ["Treemap", "Scatter plot", "Radar chart", "Waterfall chart"],
+      "correct_index": 0
+    },
+    {
+      "id": "plot_018",
+      "question": "A radar (spider) chart is best used to...",
+      "options": [
+        "Show trends over time",
+        "Compare multiple quantitative variables across categories",
+        "Display frequency distributions",
+        "Show correlations between two variables"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_019",
+      "question": "Which plot is most appropriate for visualising the frequency distribution of a continuous variable?",
+      "options": ["Scatter plot", "Histogram", "Line chart", "Radar chart"],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_020",
+      "question": "An area chart is a variation of which chart type?",
+      "options": ["Bar chart", "Pie chart", "Line chart", "Scatter plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_021",
+      "question": "Which plot is best suited for comparing the distributions of two or more groups side by side?",
+      "options": ["Pie chart", "Box plot", "Scatter plot", "Line chart"],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_022",
+      "question": "A Gantt chart is primarily used for...",
+      "options": [
+        "Statistical data analysis",
+        "Project scheduling and timeline management",
+        "Displaying data distributions",
+        "Counting category frequencies"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_023",
+      "question": "In a scatter plot, points sloping upward from left to right indicate...",
+      "options": [
+        "Negative correlation",
+        "No correlation",
+        "Positive correlation",
+        "Definitive causation"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_024",
+      "question": "A Sankey diagram is used to show...",
+      "options": [
+        "The flow and magnitude of values between states or categories",
+        "Category comparisons using bars",
+        "Quartile summaries",
+        "Frequency distributions"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "plot_025",
+      "question": "A waterfall chart is used to show...",
+      "options": [
+        "The cumulative effect of sequential positive and negative values",
+        "The distribution of a single variable",
+        "Simple comparisons between categories",
+        "Year-over-year growth only"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "plot_026",
+      "question": "Which plot type shows the probability density of data while also displaying quartile information?",
+      "options": ["Bar chart", "Violin plot", "Histogram", "Line chart"],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_027",
+      "question": "In a histogram, the width of each bar represents...",
+      "options": [
+        "The frequency of that bar",
+        "The class interval (bin width)",
+        "The mean of that group",
+        "Cumulative frequency"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_028",
+      "question": "A funnel chart is most commonly used for visualising...",
+      "options": [
+        "Geographic distributions",
+        "Stages in a sales or conversion pipeline",
+        "Statistical sampling distributions",
+        "Time series forecasts"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_029",
+      "question": "Which of the following plots is best for exploring all pairwise relationships in a multivariate dataset?",
+      "options": [
+        "Single scatter plot",
+        "Scatter plot matrix (SPLOM / pair plot)",
+        "Single bar chart",
+        "Pie chart"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_030",
+      "question": "A candlestick chart is primarily used in which domain?",
+      "options": [
+        "Population demographics",
+        "Financial markets (open, close, high, low prices)",
+        "Weather forecasting",
+        "Survey response analysis"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_031",
+      "question": "Which type of data is BEST represented by a pie chart?",
+      "options": [
+        "Continuous numerical data",
+        "Time series data with trends",
+        "Categorical data showing proportions of a whole",
+        "Bivariate numerical data"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_032",
+      "question": "In a standard box plot, the whiskers typically extend to...",
+      "options": [
+        "The absolute minimum and maximum values always",
+        "1.5 times the IQR beyond Q1 and Q3",
+        "The mean plus or minus one standard deviation",
+        "The 5th and 95th percentiles"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_033",
+      "question": "Which plot type is LEAST appropriate for representing continuous numerical data?",
+      "options": ["Histogram", "Box plot", "Pie chart", "Violin plot"],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_034",
+      "question": "A dot plot is most similar in purpose to which other chart?",
+      "options": ["Pie chart", "Histogram", "Line chart", "Radar chart"],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_035",
+      "question": "Which of the following is true about a stacked bar chart?",
+      "options": [
+        "It only displays negative values",
+        "It shows both the total and the breakdown into components",
+        "It exclusively shows distributions",
+        "It cannot be used to compare categories"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_036",
+      "question": "A choropleth map represents data through...",
+      "options": [
+        "Proportional point markers",
+        "Colour shading of geographic regions",
+        "Varying bar heights per region",
+        "Line connections between locations"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_037",
+      "question": "Which plot is best for showing the relationship between one categorical and one continuous variable?",
+      "options": ["Scatter plot", "Box plot", "Pie chart", "Line chart"],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_038",
+      "question": "A frequency polygon is constructed from a histogram by...",
+      "options": [
+        "Connecting the midpoints of the tops of each bar",
+        "Summing all frequencies",
+        "Halving each bar",
+        "Removing outliers from the distribution"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "plot_039",
+      "question": "Which visualisation is most appropriate for displaying network connections and relationships?",
+      "options": [
+        "Bar chart",
+        "Node-link (network) diagram",
+        "Histogram",
+        "Box plot"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_040",
+      "question": "A rug plot adds to a visualisation by...",
+      "options": [
+        "Placing tick marks along an axis to show individual data point locations",
+        "Adding colour gradients to a scatter plot",
+        "Placing error bars on a bar chart",
+        "Drawing trend lines on a scatter plot"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "plot_041",
+      "question": "Which chart type is best for visualising data values across different geographic regions?",
+      "options": [
+        "Scatter plot",
+        "Choropleth map",
+        "Violin plot",
+        "Waterfall chart"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_042",
+      "question": "A Pareto chart combines which two chart types?",
+      "options": [
+        "Line chart and pie chart",
+        "Bar chart and a cumulative percentage line",
+        "Box plot and scatter plot",
+        "Histogram and radar chart"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_043",
+      "question": "In a scatter plot, a correlation coefficient close to 0 indicates...",
+      "options": [
+        "A strong positive linear relationship",
+        "A strong negative linear relationship",
+        "Little to no linear relationship",
+        "A perfect curved relationship"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "plot_044",
+      "question": "Error bars added to a chart represent...",
+      "options": [
+        "Errors or mistakes in the data entry",
+        "The variability or uncertainty associated with each data point",
+        "The maximum value in the dataset",
+        "The IQR of the dataset"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "plot_045",
+      "question": "Which of the following is most useful for exploring pairwise relationships across multiple variables simultaneously?",
+      "options": [
+        "A single scatter plot",
+        "A pair plot (scatter plot matrix)",
+        "A single bar chart",
+        "A pie chart"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_001",
+      "question": "The interquartile range (IQR) is calculated as...",
+      "options": ["Q3 minus Q1", "Q2 minus Q1", "Q4 minus Q1", "Q3 minus Q2"],
+      "correct_index": 0
+    },
+    {
+      "id": "iqr_002",
+      "question": "Which quartile is equivalent to the median of a dataset?",
+      "options": ["Q1", "Q2", "Q3", "Q4"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_003",
+      "question": "The IQR represents the spread of which portion of the data?",
+      "options": [
+        "The entire range of data",
+        "The middle 50% of the data",
+        "The top 25% of the data",
+        "The bottom 25% of the data"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_004",
+      "question": "For the dataset {1, 2, 3, 4, 5, 6, 7}, what is Q1?",
+      "options": ["1", "2", "3", "4"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_005",
+      "question": "For the dataset {1, 2, 3, 4, 5, 6, 7}, what is Q3?",
+      "options": ["4", "5", "6", "7"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_006",
+      "question": "For the dataset {1, 2, 3, 4, 5, 6, 7}, what is the IQR?",
+      "options": ["2", "4", "5", "6"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_007",
+      "question": "Using the IQR method, a data point is considered an outlier if it lies...",
+      "options": [
+        "More than 2 × IQR from Q2",
+        "More than 1.5 × IQR below Q1 or above Q3",
+        "More than 3 standard deviations from the mean",
+        "Outside the range Q3 + Q1"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_008",
+      "question": "What is the IQR of the dataset {1, 3, 5, 7, 9, 11}?",
+      "options": ["4", "5", "6", "8"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_009",
+      "question": "The IQR is a measure of...",
+      "options": [
+        "Central tendency",
+        "Skewness",
+        "Statistical spread or dispersion",
+        "Kurtosis"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_010",
+      "question": "If Q1 = 25 and Q3 = 75, the IQR is...",
+      "options": ["25", "50", "75", "100"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_011",
+      "question": "The IQR is considered a robust measure of spread because...",
+      "options": [
+        "It uses all data points equally",
+        "It is not affected by extreme outliers",
+        "It is always equal to the variance",
+        "It always equals the range divided by two"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_012",
+      "question": "The lower fence for outlier detection using the IQR method is...",
+      "options": [
+        "Q1 minus IQR",
+        "Q1 minus 1.5 × IQR",
+        "Q1 minus 2 × IQR",
+        "Q1 minus 0.5 × IQR"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_013",
+      "question": "The upper fence for outlier detection using the IQR method is...",
+      "options": [
+        "Q3 plus IQR",
+        "Q3 plus 2 × IQR",
+        "Q3 plus 1.5 × IQR",
+        "Q3 plus 0.5 × IQR"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_014",
+      "question": "For a perfectly symmetric distribution, the IQR is centred around...",
+      "options": ["The mean only", "The mode only", "The median", "Zero"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_015",
+      "question": "What percentage of data values fall between Q1 and Q3?",
+      "options": ["25%", "50%", "75%", "100%"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_016",
+      "question": "For the dataset {3, 5, 7, 9, 11, 13, 15, 17}, what is the median (Q2)?",
+      "options": ["9", "10", "11", "12"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_017",
+      "question": "For the dataset {3, 5, 7, 9, 11, 13, 15, 17}, what is Q1?",
+      "options": ["5", "6", "7", "8"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_018",
+      "question": "For the dataset {3, 5, 7, 9, 11, 13, 15, 17}, what is Q3?",
+      "options": ["13", "14", "15", "16"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_019",
+      "question": "For the dataset {3, 5, 7, 9, 11, 13, 15, 17}, what is the IQR?",
+      "options": ["6", "7", "8", "9"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_020",
+      "question": "Which of the following measures is NOT affected by outliers?",
+      "options": ["Mean", "Range", "IQR", "Standard deviation"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_021",
+      "question": "The five-number summary used to construct a box plot includes...",
+      "options": [
+        "Mean, SD, Variance, Skewness, and Kurtosis",
+        "Minimum, Q1, Median, Q3, and Maximum",
+        "Mean, Median, Mode, Range, and Variance",
+        "Q1, Q2, Q3, IQR, and Maximum"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_022",
+      "question": "If a dataset has IQR = 0, what does this imply?",
+      "options": [
+        "All data points are exactly zero",
+        "At least 50% of the data values are identical",
+        "The data has no meaningful spread whatsoever",
+        "The mean equals the median"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_023",
+      "question": "The semi-interquartile range is calculated as...",
+      "options": [
+        "IQR multiplied by 2",
+        "IQR divided by 2",
+        "IQR plus the median",
+        "IQR minus the median"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_024",
+      "question": "A larger IQR generally indicates...",
+      "options": [
+        "Less variability in the data",
+        "Greater variability in the middle 50% of the data",
+        "A perfectly normal distribution",
+        "That the data contains no outliers"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_025",
+      "question": "Q1 represents the point below which what percentage of data falls?",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_026",
+      "question": "Q3 represents the point below which what percentage of the data falls?",
+      "options": ["10%", "25%", "50%", "75%"],
+      "correct_index": 3
+    },
+    {
+      "id": "iqr_027",
+      "question": "If the IQR doubles, what happens to the outlier fences?",
+      "options": [
+        "They remain the same",
+        "They get narrower",
+        "They get wider",
+        "They become undefined"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_028",
+      "question": "The IQR is most closely associated with which graphical display?",
+      "options": ["Histogram", "Scatter plot", "Box plot", "Pie chart"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_029",
+      "question": "For skewed data, which measure of spread is generally preferred over standard deviation?",
+      "options": ["Variance", "Range", "IQR", "Mean absolute deviation"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_030",
+      "question": "If Q1 = 40 and Q3 = 70, what is the IQR?",
+      "options": ["20", "30", "40", "110"],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_031",
+      "question": "Which quartile corresponds to the 75th percentile?",
+      "options": ["Q1", "Q2", "Q3", "Q4"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_032",
+      "question": "The IQR is resistant to outliers primarily because...",
+      "options": [
+        "It includes all data values",
+        "It only considers the middle 50% of the data",
+        "It is identical to the median",
+        "It is always a positive number"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "iqr_033",
+      "question": "If Q1 = 15 and IQR = 20, what is Q3?",
+      "options": ["25", "30", "35", "40"],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_034",
+      "question": "A data point lying at Q3 + 2 × IQR would be classified as...",
+      "options": [
+        "Not an outlier",
+        "A mild outlier",
+        "An extreme outlier",
+        "Within the normal range"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "iqr_035",
+      "question": "Which percentile is equivalent to Q1?",
+      "options": ["10th", "25th", "50th", "75th"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_001",
+      "question": "An n-dimensional hypercube has how many vertices?",
+      "options": ["n", "n squared", "2 to the power of n", "n factorial"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_002",
+      "question": "A 4-dimensional hypercube is commonly called a...",
+      "options": ["Tesseract", "Octahedron", "Hexahedron", "Dodecahedron"],
+      "correct_index": 0
+    },
+    {
+      "id": "hyp_003",
+      "question": "How many edges does a 4D hypercube (tesseract) have?",
+      "options": ["16", "24", "32", "48"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_004",
+      "question": "A 3-dimensional hypercube is simply known as a...",
+      "options": ["Square", "Cube", "Sphere", "Tetrahedron"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_005",
+      "question": "How many 2D faces does a tesseract (4D hypercube) have?",
+      "options": ["6", "8", "16", "24"],
+      "correct_index": 3
+    },
+    {
+      "id": "hyp_006",
+      "question": "In data analysis, a hypercube structure is used to represent...",
+      "options": [
+        "Only two-dimensional data",
+        "Multi-dimensional data across several axes",
+        "Time series data exclusively",
+        "Categorical data with no numeric values"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_007",
+      "question": "An OLAP cube, derived from hypercube concepts, is used for...",
+      "options": [
+        "Image processing tasks",
+        "Online Analytical Processing of multidimensional business data",
+        "Network routing optimisation",
+        "Statistical random sampling"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_008",
+      "question": "How many 3D cells does a tesseract (4D hypercube) contain?",
+      "options": ["4", "6", "8", "16"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_009",
+      "question": "A 2-dimensional hypercube is a...",
+      "options": ["Point", "Line segment", "Square", "Cube"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_010",
+      "question": "A 1-dimensional hypercube is a...",
+      "options": ["Point", "Line segment", "Square", "Cube"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_011",
+      "question": "A 0-dimensional hypercube is a...",
+      "options": ["Point", "Line segment", "Square", "Plane"],
+      "correct_index": 0
+    },
+    {
+      "id": "hyp_012",
+      "question": "How many vertices does a standard 3D cube have?",
+      "options": ["4", "6", "8", "12"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_013",
+      "question": "The number of edges in an n-dimensional hypercube is given by which formula?",
+      "options": ["2n", "n × 2^(n-1)", "2^n", "n squared"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_014",
+      "question": "The 'curse of dimensionality' is a well-known problem that arises in...",
+      "options": [
+        "Two-dimensional plots",
+        "Low-dimensional data analysis",
+        "High-dimensional spaces such as hypercubes",
+        "Ordinal data classification"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_015",
+      "question": "How many edges does a standard 3D cube have?",
+      "options": ["8", "10", "12", "16"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_016",
+      "question": "A hypercube is also referred to as an...",
+      "options": ["n-sphere", "n-cube", "n-simplex", "n-pyramid"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_017",
+      "question": "Which of the following is a fundamental geometric property of a hypercube?",
+      "options": [
+        "All edges have equal length",
+        "Its faces are triangles",
+        "It has curved edges",
+        "It only exists in exactly four dimensions"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "hyp_018",
+      "question": "How many vertices does a 5-dimensional hypercube have?",
+      "options": ["10", "16", "32", "64"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_019",
+      "question": "In higher-dimensional spaces, the volume concept for a hypercube generalises to...",
+      "options": [
+        "Surface area only",
+        "Hypervolume and hypersurface measures",
+        "Perimeter calculations only",
+        "Two-dimensional area"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_020",
+      "question": "Which field primarily uses hypercube data structures for fast multidimensional querying?",
+      "options": [
+        "Molecular biology",
+        "Business intelligence and data warehousing",
+        "Quantum physics exclusively",
+        "Network security"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_001",
+      "question": "The z-score formula is...",
+      "options": [
+        "(x minus σ) divided by μ",
+        "(x minus μ) divided by σ",
+        "(μ minus x) divided by σ",
+        "(x plus μ) divided by σ"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_002",
+      "question": "A z-score of 0 means the value...",
+      "options": [
+        "Is at the minimum of the dataset",
+        "Is equal to the population mean",
+        "Is an extreme outlier",
+        "Is negative"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_003",
+      "question": "A z-score of 2 means the data value is...",
+      "options": [
+        "2 units above the mean",
+        "2 standard deviations above the mean",
+        "Twice the mean",
+        "2% above the mean"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_004",
+      "question": "A negative z-score indicates that the value is...",
+      "options": [
+        "Below the mean",
+        "Exactly zero",
+        "An error in calculation",
+        "Above the mean"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "z_005",
+      "question": "Z-score standardisation transforms data so that it has a mean of...",
+      "options": ["-1", "0", "1", "The original standard deviation"],
+      "correct_index": 1
+    },
+    {
+      "id": "z_006",
+      "question": "After z-score standardisation, the standard deviation of the transformed data is...",
+      "options": ["0", "0.5", "1", "The original mean"],
+      "correct_index": 2
+    },
+    {
+      "id": "z_007",
+      "question": "If μ = 50 and σ = 10, what is the z-score for x = 70?",
+      "options": ["1", "1.5", "2", "2.5"],
+      "correct_index": 2
+    },
+    {
+      "id": "z_008",
+      "question": "If μ = 100 and σ = 15, what is the z-score for x = 85?",
+      "options": ["-2", "-1.5", "-1", "-0.5"],
+      "correct_index": 2
+    },
+    {
+      "id": "z_009",
+      "question": "Z-scores allow meaningful comparison of values from...",
+      "options": [
+        "The same dataset only",
+        "Different datasets with different units or scales",
+        "Only normally distributed data",
+        "Only integer datasets"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_010",
+      "question": "The process of converting raw scores to z-scores is also called...",
+      "options": [
+        "Normalisation",
+        "Standardisation",
+        "Discretisation",
+        "Aggregation"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_011",
+      "question": "A z-score greater than 3 or less than -3 is typically considered...",
+      "options": [
+        "A common and expected value",
+        "A potential outlier",
+        "The mean of the distribution",
+        "A missing value indicator"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_012",
+      "question": "In a standard normal distribution, approximately what percentage of data has |z| less than 1?",
+      "options": ["50%", "68%", "95%", "99.7%"],
+      "correct_index": 1
+    },
+    {
+      "id": "z_013",
+      "question": "In CSS, the z-index property is used to control...",
+      "options": [
+        "The font size of an element",
+        "The opacity or transparency of an element",
+        "The stacking order of positioned elements",
+        "The width of an element"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "z_014",
+      "question": "In CSS, a higher z-index value means the element appears...",
+      "options": [
+        "Behind other elements",
+        "In front of (on top of) other elements",
+        "Smaller in size",
+        "Larger in size"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_015",
+      "question": "The default z-index value of an element in CSS is...",
+      "options": ["-1", "0", "1", "auto"],
+      "correct_index": 3
+    },
+    {
+      "id": "z_016",
+      "question": "A CSS z-index of -1 causes an element to appear...",
+      "options": [
+        "In front of all other elements",
+        "Behind elements with z-index 0 or higher",
+        "Centred on the page",
+        "At the very top of the page"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_017",
+      "question": "For the CSS z-index property to take effect, the element must have a position value of...",
+      "options": [
+        "static",
+        "relative, absolute, fixed, or sticky (not static)",
+        "fixed only",
+        "any position value including static"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_018",
+      "question": "If x equals the population mean μ, the z-score is always...",
+      "options": ["-1", "0", "1", "Undefined"],
+      "correct_index": 1
+    },
+    {
+      "id": "z_019",
+      "question": "The z-score is dimensionless because...",
+      "options": [
+        "It only uses integers",
+        "The units of the numerator and denominator cancel out",
+        "It ignores the mean",
+        "It is always a positive number"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_020",
+      "question": "Converting raw scores to z-scores preserves which property?",
+      "options": [
+        "The original scale of measurement",
+        "The overall shape of the distribution",
+        "The original mean value",
+        "Outliers only"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_021",
+      "question": "Z-scores are used to find probabilities in conjunction with...",
+      "options": [
+        "A bar chart",
+        "The standard normal table (z-table)",
+        "A scatter plot matrix",
+        "The IQR fences"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_022",
+      "question": "If the standard deviation σ = 0 for a dataset, the z-score is...",
+      "options": [
+        "Zero for all values",
+        "One for all values",
+        "Undefined (division by zero)",
+        "Infinity"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "z_023",
+      "question": "The z-score formula requires knowing which two parameters of the distribution?",
+      "options": [
+        "Mean and mode",
+        "Mean and standard deviation",
+        "Median and IQR",
+        "Range and variance"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_024",
+      "question": "A z-score of 1.96 is significant in statistics because it corresponds approximately to...",
+      "options": [
+        "90% of the data",
+        "95% of the data (two-tailed)",
+        "99% of the data",
+        "50% of the data"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_025",
+      "question": "Which of the following z-scores represents the value closest to the population mean?",
+      "options": ["z = 2.0", "z = -3.0", "z = 0.1", "z = -1.5"],
+      "correct_index": 2
+    },
+    {
+      "id": "z_026",
+      "question": "In a standard normal z-table, a value of 0.9772 at z = 2.00 represents...",
+      "options": [
+        "The probability that z is greater than 2",
+        "The probability that z is less than 2",
+        "The probability that z lies between -2 and 2",
+        "The standard deviation at z = 2"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_027",
+      "question": "Z-score standardisation is particularly useful when...",
+      "options": [
+        "All variables already have very similar scales",
+        "Variables have different units or very different scales",
+        "The dataset is purely categorical",
+        "The sample size is extremely small"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_028",
+      "question": "If μ = 200 and σ = 25, what is the z-score for x = 150?",
+      "options": ["-1", "-2", "-3", "2"],
+      "correct_index": 1
+    },
+    {
+      "id": "z_029",
+      "question": "In CSS, z-index only applies within the same...",
+      "options": [
+        "HTML document",
+        "Stacking context",
+        "CSS file",
+        "Browser tab"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "z_030",
+      "question": "A z-score is also known as a...",
+      "options": [
+        "T-score divided by 10",
+        "Standard score",
+        "Raw score",
+        "Percentile rank"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_001",
+      "question": "A normal distribution is characterised by...",
+      "options": [
+        "A positively skewed shape",
+        "A symmetric bell-shaped curve centred on the mean",
+        "A perfectly uniform spread",
+        "A bimodal shape with two peaks"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_002",
+      "question": "In a normal distribution, the mean, median, and mode are...",
+      "options": [
+        "Always different from each other",
+        "All equal",
+        "Completely unrelated",
+        "Always equal to zero"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_003",
+      "question": "Approximately what percentage of data in a normal distribution falls within one standard deviation of the mean?",
+      "options": ["50%", "68%", "95%", "99.7%"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_004",
+      "question": "Approximately what percentage of data in a normal distribution falls within two standard deviations of the mean?",
+      "options": ["68%", "75%", "95%", "99.7%"],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_005",
+      "question": "Approximately what percentage of data in a normal distribution falls within three standard deviations of the mean?",
+      "options": ["68%", "90%", "95%", "99.7%"],
+      "correct_index": 3
+    },
+    {
+      "id": "norm_006",
+      "question": "The normal distribution is also called the...",
+      "options": [
+        "Uniform distribution",
+        "Gaussian distribution",
+        "Binomial distribution",
+        "Poisson distribution"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_007",
+      "question": "The total area under a normal distribution curve equals...",
+      "options": ["0", "0.5", "1", "100"],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_008",
+      "question": "The standard normal distribution has a mean of ___ and a standard deviation of ___.",
+      "options": ["0 and 0", "0 and 1", "1 and 0", "1 and 1"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_009",
+      "question": "The normal distribution curve is symmetric about...",
+      "options": [
+        "Zero always",
+        "The mode only",
+        "The mean",
+        "The maximum frequency value"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_010",
+      "question": "The tails of a normal distribution...",
+      "options": [
+        "Eventually touch the x-axis",
+        "Extend to positive and negative infinity",
+        "Are always above a probability of 1",
+        "End exactly at three standard deviations"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_011",
+      "question": "The excess kurtosis of a normal distribution equals...",
+      "options": ["0", "1", "2", "3"],
+      "correct_index": 0
+    },
+    {
+      "id": "norm_012",
+      "question": "The skewness of a normal distribution is...",
+      "options": ["-1", "0", "1", "3"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_013",
+      "question": "According to the Central Limit Theorem, the sampling distribution of the sample mean approaches normality as...",
+      "options": [
+        "The population itself becomes normal",
+        "The sample size increases",
+        "The variance decreases",
+        "The data becomes ordinal"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_014",
+      "question": "The inflection points of a normal distribution curve occur at...",
+      "options": [
+        "±1 standard deviation from the mean",
+        "±2 standard deviations from the mean",
+        "The mean itself",
+        "±3 standard deviations from the mean"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "norm_015",
+      "question": "In a continuous normal distribution, the probability of a value being exactly equal to any single point is...",
+      "options": ["0.5", "0.68", "0", "1"],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_016",
+      "question": "In a normal distribution, the probability P(X < μ) equals...",
+      "options": ["0", "0.25", "0.5", "1"],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_017",
+      "question": "Which of the following is NOT a property of the normal distribution?",
+      "options": [
+        "It is symmetric",
+        "It is bell-shaped",
+        "It has a finite range",
+        "Its tails are asymptotic to the x-axis"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_018",
+      "question": "The empirical rule states that approximately 95% of data in a normal distribution falls within how many standard deviations of the mean?",
+      "options": ["1", "2", "3", "4"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_019",
+      "question": "If X follows a normal distribution N(μ, σ²), then (X - μ) / σ follows a...",
+      "options": [
+        "t-distribution",
+        "F-distribution",
+        "Standard normal distribution",
+        "Uniform distribution"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_020",
+      "question": "Which of the following real-world phenomena is most commonly modelled using a normal distribution?",
+      "options": [
+        "Number of website clicks per day",
+        "Human heights in a population",
+        "Radioactive decay rates",
+        "Results of rolling a single die"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_021",
+      "question": "The area to the right of the mean in a normal distribution equals...",
+      "options": ["0.25", "0.5", "0.68", "1"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_022",
+      "question": "Compared to a normal distribution with a small standard deviation, one with a larger standard deviation is...",
+      "options": [
+        "Taller and narrower",
+        "Shorter and wider",
+        "Identical in shape",
+        "Always skewed"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_023",
+      "question": "In a normal distribution, the peak of the curve occurs at...",
+      "options": [
+        "The median only",
+        "The mean only",
+        "The mode only",
+        "The mean, median, and mode (which are all equal)"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "norm_024",
+      "question": "For a standard normal distribution, P(Z > 1.96) is approximately...",
+      "options": ["0.025", "0.05", "0.5", "0.975"],
+      "correct_index": 0
+    },
+    {
+      "id": "norm_025",
+      "question": "A normal distribution is completely defined by its...",
+      "options": [
+        "Mean only",
+        "Mean and standard deviation",
+        "Median and IQR",
+        "Mode and range"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_026",
+      "question": "A leptokurtic distribution, compared to a normal distribution, has...",
+      "options": [
+        "Lighter tails and a flatter peak",
+        "Heavier tails and a sharper (more peaked) peak",
+        "Exactly the same kurtosis",
+        "No discernible tails"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_027",
+      "question": "The Central Limit Theorem is significant because it means that...",
+      "options": [
+        "Only normal populations can be analysed statistically",
+        "Sample means are approximately normally distributed for large samples regardless of population shape",
+        "Variance always decreases with sample size",
+        "Categorical data becomes continuous with enough samples"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_028",
+      "question": "For a normal distribution, approximately what percentage of values lie above μ + 2σ?",
+      "options": ["2.5%", "5%", "16%", "32%"],
+      "correct_index": 0
+    },
+    {
+      "id": "norm_029",
+      "question": "The probability density function (PDF) of a normal distribution contains which mathematical constants?",
+      "options": ["π only", "e only", "Both π and e", "Neither π nor e"],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_030",
+      "question": "Which transformation converts a normal distribution N(μ, σ²) to a standard normal distribution?",
+      "options": [
+        "Subtracting the mean only",
+        "Dividing by the standard deviation only",
+        "Subtracting the mean and then dividing by the standard deviation",
+        "Multiplying by the mean"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "norm_031",
+      "question": "A bimodal distribution is...",
+      "options": [
+        "A type of normal distribution",
+        "A distribution with two distinct peaks",
+        "Always positively skewed",
+        "Always symmetric"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_032",
+      "question": "If X ~ N(10, 4), what is the standard deviation of X?",
+      "options": ["2", "4", "10", "16"],
+      "correct_index": 0
+    },
+    {
+      "id": "norm_033",
+      "question": "The normal distribution is used in hypothesis testing primarily through...",
+      "options": [
+        "The IQR outlier method",
+        "Z-tests and t-tests",
+        "Box plot interpretation",
+        "Pie chart proportions"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_034",
+      "question": "A platykurtic distribution, compared to a normal distribution, has...",
+      "options": [
+        "Heavier tails and a sharper peak",
+        "Lighter tails and a flatter peak",
+        "Higher excess kurtosis",
+        "A negative mean"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_035",
+      "question": "Which theorem justifies using the normal distribution for sample means even when the underlying population is not normally distributed?",
+      "options": [
+        "Bayes' Theorem",
+        "The Central Limit Theorem",
+        "The Law of Large Numbers",
+        "Chebyshev's Theorem"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_036",
+      "question": "In a normal distribution, P(μ - σ < X < μ + σ) is approximately...",
+      "options": ["0.50", "0.68", "0.95", "0.997"],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_037",
+      "question": "The notation X ~ N(μ, σ²) means...",
+      "options": [
+        "X has mean σ² and standard deviation μ",
+        "X is normally distributed with mean μ and variance σ²",
+        "X equals μ divided by σ²",
+        "X follows a uniform distribution"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_038",
+      "question": "For a continuous distribution like the normal distribution, probability is found by...",
+      "options": [
+        "Evaluating the PDF at a single point",
+        "Calculating the area under the curve between two values",
+        "Counting the number of values in a range",
+        "Using the mode"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_039",
+      "question": "A normal probability plot (Q-Q plot) that forms an approximately straight diagonal line indicates...",
+      "options": [
+        "The data is heavily right-skewed",
+        "The data is approximately normally distributed",
+        "The data contains many outliers",
+        "The data is bimodal"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "norm_040",
+      "question": "Which of the following correctly describes the shape of the standard normal distribution?",
+      "options": [
+        "Right-skewed with a long right tail",
+        "Left-skewed with a long left tail",
+        "A symmetric bell curve centred at zero",
+        "A flat, uniform distribution"
+      ],
+      "correct_index": 2
+    }
+  ]
+}
