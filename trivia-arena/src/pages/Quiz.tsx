@@ -74,6 +74,14 @@ export function Quiz() {
     },
   });
 
+  // When delayLeft hits 0 (sentinel), advance to the next question
+  useEffect(() => {
+    if (delayLeft === 0) {
+      setDelayLeft(null);
+      nextQuestion();
+    }
+  }, [delayLeft, nextQuestion]);
+
   function startDelay() {
     setDelayLeft(INTER_QUESTION_DELAY);
     if (delayIntervalRef.current) clearInterval(delayIntervalRef.current);
@@ -81,9 +89,7 @@ export function Quiz() {
       setDelayLeft((prev) => {
         if (prev === null || prev <= 1) {
           clearInterval(delayIntervalRef.current!);
-          // Auto-advance
-          nextQuestion();
-          return null;
+          return 0; // sentinel — useEffect above handles the advance
         }
         return prev - 1;
       });
@@ -112,8 +118,7 @@ export function Quiz() {
         setDelayLeft((prev) => {
           if (prev === null || prev <= 1) {
             clearInterval(delayIntervalRef.current!);
-            nextQuestion();
-            return null;
+            return 0; // sentinel — useEffect handles the advance
           }
           return prev - 1;
         });

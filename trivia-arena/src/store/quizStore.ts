@@ -3,6 +3,32 @@ import { loadAllModes } from '../lib/questionLoader'
 import { pickCount, scoreAnswers, shuffle } from '../lib/quiz'
 import type { Mode, Question, QuizStatus } from '../lib/types'
 
+// ── Seen-set persistence ──────────────────────────────────────────────────────
+const SEEN_KEY = 'trivia_seen_by_mode'
+
+function persistSeen(seenByMode: Map<string, Set<string>>) {
+  const obj: Record<string, string[]> = {}
+  for (const [mode, ids] of seenByMode) {
+    obj[mode] = [...ids]
+  }
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify(obj)) } catch { /* storage full */ }
+}
+
+function restoreSeen(): Map<string, Set<string>> {
+  try {
+    const raw = localStorage.getItem(SEEN_KEY)
+    if (!raw) return new Map()
+    const obj = JSON.parse(raw) as Record<string, string[]>
+    const map = new Map<string, Set<string>>()
+    for (const [mode, ids] of Object.entries(obj)) {
+      map.set(mode, new Set(ids))
+    }
+    return map
+  } catch {
+    return new Map()
+  }
+}
+
 export interface QuizStore {
   modes: Mode[]
   selectedMode: Mode | null
@@ -41,7 +67,7 @@ export const useQuizStore = create<QuizStore>((set, get) => ({
   status: 'idle',
   timeLimitPerQuestion: 5,
   timedOutQuestions: new Set(),
-  seenByMode: new Map(),
+  seenByMode: restoreSeen(),
 
   addMode: (mode) => {
     set((state) => {
@@ -98,6 +124,7 @@ export const useQuizStore = create<QuizStore>((set, get) => ({
     const newSeenByMode = new Map(seenByMode)
     newSeenByMode.set(modeKey, baseSeen)
 
+    persistSeen(newSeenByMode)
     set({
       questions: chosen,
       answers: Array(chosen.length).fill(null),
@@ -157,7 +184,7 @@ export const useQuizStore = create<QuizStore>((set, get) => ({
   },
 
   resetQuiz: () => {
-    const { modes } = get()
+    const { modes, seenByMode } = get()
     set({
       modes,
       selectedMode: null,
@@ -168,7 +195,7 @@ export const useQuizStore = create<QuizStore>((set, get) => ({
       status: 'idle',
       timeLimitPerQuestion: 5,
       timedOutQuestions: new Set(),
-      seenByMode: new Map(),
+      seenByMode, // preserve seen history across resets
     })
   },
 }))

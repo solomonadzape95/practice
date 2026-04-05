@@ -4,210 +4,2249 @@
   "icon": "🎨",
   "color": "#5B8CFF",
   "questions": [
-    {"id": "art_001", "question": "Which Nigerian author wrote the 1958 classic 'Things Fall Apart'?", "options": ["Wole Soyinka", "Chinua Achebe", "Buchi Emecheta", "Amos Tutuola"], "correct_index": 1},
-    {"id": "art_002", "question": "Who was the first African to win the Nobel Prize in Literature in 1986?", "options": ["Wole Soyinka", "Naguib Mahfouz", "Nadine Gordimer", "J.M. Coetzee"], "correct_index": 0},
-    {"id": "art_003", "question": "Which Senegalese director is widely considered the 'Father of African Cinema'?", "options": ["Djibril Diop Mambéty", "Souleymane Cissé", "Ousmane Sembène", "Idrissa Ouédraogo"], "correct_index": 2},
-    {"id": "art_004", "question": "What is the nickname of the legendary South African singer Miriam Makeba?", "options": ["Queen of African Pop", "Mama Africa", "The African Nightingale", "Empress of Song"], "correct_index": 1},
-    {"id": "art_005", "question": "Which Nigerian musician is credited with creating the Afrobeat genre?", "options": ["King Sunny Ade", "Fela Kuti", "Ebenezer Obey", "Victor Uwaifo"], "correct_index": 1},
-    {"id": "art_006", "question": "Which Beninese singer has won five Grammy Awards and is known for the album 'Celia'?", "options": ["Angélique Kidjo", "Fatoumata Diawara", "Oumou Sangaré", "Cesária Évora"], "correct_index": 0},
-    {"id": "art_007", "question": "Chimamanda Ngozi Adichie won the Women's Prize for Fiction for which novel?", "options": ["Purple Hibiscus", "Americanah", "Half of a Yellow Sun", "The Thing Around Your Neck"], "correct_index": 2},
-    {"id": "art_008", "question": "Which African music genre originated in South Africa and features deep house and jazz elements?", "options": ["Afrobeats", "Bongo Flava", "Amapiano", "Highlife"], "correct_index": 2},
-    {"id": "art_009", "question": "What is the name of Nigeria's booming film industry?", "options": ["Ghollywood", "Riverwood", "Nollywood", "Kannywood"], "correct_index": 2},
-    {"id": "art_010", "question": "Which Malian singer is known as the 'Golden Voice of Africa'?", "options": ["Salif Keita", "Ali Farka Touré", "Youssou N'Dour", "Toumani Diabaté"], "correct_index": 0},
-    {"id": "art_011", "question": "Who wrote 'The Beautyful Ones Are Not Yet Born'?", "options": ["Kofi Awoonor", "Ayi Kwei Armah", "Ama Ata Aidoo", "Tsitsi Dangarembga"], "correct_index": 1},
-    {"id": "art_012", "question": "Which Egyptian author won the Nobel Prize in Literature in 1988?", "options": ["Taha Hussein", "Nawal El Saadawi", "Naguib Mahfouz", "Alaa Al Aswany"], "correct_index": 2},
-    {"id": "art_013", "question": "The 1973 classic film 'Touki Bouki' was directed by which Senegalese filmmaker?", "options": ["Ousmane Sembène", "Mati Diop", "Alain Gomis", "Djibril Diop Mambéty"], "correct_index": 3},
-    {"id": "art_014", "question": "Which South African film won the Academy Award for Best Foreign Language Film in 2006?", "options": ["District 9", "Tsotsi", "Yesterday", "U-Carmen eKhayelitsha"], "correct_index": 1},
-    {"id": "art_015", "question": "Burna Boy's Grammy-winning album released in 2020 is titled what?", "options": ["African Giant", "Outside", "Twice as Tall", "Love, Damini"], "correct_index": 2},
-    {"id": "art_016", "question": "What is Burna Boy's popular self-proclaimed nickname?", "options": ["Odogwu", "African Giant", "Starboy", "Baddest"], "correct_index": 1},
-    {"id": "art_017", "question": "Which Kenyan author wrote 'Petals of Blood' and advocates for writing in indigenous African languages?", "options": ["Binyavanga Wainaina", "Ngũgĩ wa Thiong'o", "Meja Mwangi", "Grace Ogot"], "correct_index": 1},
-    {"id": "art_018", "question": "What is the title of the acclaimed painting of a Nigerian princess by Ben Enwonwu, sometimes called the 'African Mona Lisa'?", "options": ["Tutu", "Agbogho Mmuo", "Negritude", "The Dancers"], "correct_index": 0},
-    {"id": "art_019", "question": "Which Ghanaian sculptor is famous for creating massive tapestry-like installations from aluminum bottle caps?", "options": ["Ibrahim Mahama", "Ablade Glover", "El Anatsui", "Owusu-Ankomah"], "correct_index": 2},
-    {"id": "art_020", "question": "Who is the South African comedian that authored the bestselling memoir 'Born a Crime'?", "options": ["Loyiso Gola", "Trevor Noah", "Kagiso Lediga", "Riaad Moosa"], "correct_index": 1},
-    {"id": "art_021", "question": "Which Senegalese musician is famous for popularizing the 'Mbalax' music style?", "options": ["Baaba Maal", "Ismaël Lô", "Youssou N'Dour", "Cheikh Lô"], "correct_index": 2},
-    {"id": "art_022", "question": "Who wrote the play 'Death and the King's Horseman'?", "options": ["Femi Osofisan", "Wole Soyinka", "Ola Rotimi", "J.P. Clark"], "correct_index": 1},
-    {"id": "art_023", "question": "Which Tanzanian-born British author won the Nobel Prize in Literature in 2021?", "options": ["Abdulrazak Gurnah", "Nuruddin Farah", "Ben Okri", "Michael Ondaatje"], "correct_index": 0},
-    {"id": "art_024", "question": "Which Congolese music genre, characterized by upbeat guitar rhythms, was popularized by Franco Luambo and TPOK Jazz?", "options": ["Kwaito", "Soukous", "Makossa", "Mbalax"], "correct_index": 1},
-    {"id": "art_025", "question": "Fela Kuti created a commune and recording studio complex in Lagos known as what?", "options": ["The Shrine", "Kalakuta Republic", "Afro Spot", "Lagos State Republic"], "correct_index": 1},
-    {"id": "art_026", "question": "What is the name of the prestigious pan-African film festival held biennially in Ouagadougou, Burkina Faso?", "options": ["Durban International Film Festival", "AFRIFF", "FESPACO", "Carthage Film Festival"], "correct_index": 2},
-    {"id": "art_027", "question": "Which Nigerian actress and producer directed the record-breaking film 'A Tribe Called Judah'?", "options": ["Genevieve Nnaji", "Mo Abudu", "Funke Akindele", "Kemi Adetiba"], "correct_index": 2},
-    {"id": "art_028", "question": "Which 1966 film by Ousmane Sembène is often considered the first sub-Saharan African feature film?", "options": ["Xala", "Mandabi", "Camp de Thiaroye", "Black Girl (La Noire de...)"], "correct_index": 3},
-    {"id": "art_029", "question": "Who is the legendary South African trumpeter known as the 'father of South African jazz'?", "options": ["Hugh Masekela", "Abdullah Ibrahim", "Kippie Moeketsi", "Jonas Gwangwa"], "correct_index": 0},
-    {"id": "art_030", "question": "Which Nigerian musician released the globally successful album 'Made in Lagos' in 2020?", "options": ["Davido", "Olamide", "Wizkid", "Rema"], "correct_index": 2},
-    {"id": "art_031", "question": "Which Francophone African author wrote the poignant novel 'So Long a Letter'?", "options": ["Ken Bugul", "Aminata Sow Fall", "Mariama Bâ", "Fatou Diome"], "correct_index": 2},
-    {"id": "art_032", "question": "Which South African vocal group gained worldwide fame after collaborating with Paul Simon on the album 'Graceland'?", "options": ["Ladysmith Black Mambazo", "Mahlathini and the Mahotella Queens", "Soweto Gospel Choir", "Mango Groove"], "correct_index": 0},
-    {"id": "art_033", "question": "What is the moniker of Nigerian Afrobeats star Davido?", "options": ["Starboy", "OBO (Omo Baba Olowo)", "African Giant", "Asake"], "correct_index": 1},
-    {"id": "art_034", "question": "Which Zimbabwean author wrote the critically acclaimed novel 'Nervous Conditions'?", "options": ["Yvonne Vera", "Petina Gappah", "Tsitsi Dangarembga", "NoViolet Bulawayo"], "correct_index": 2},
-    {"id": "art_035", "question": "Which Nigerian author won the Booker Prize for his novel 'The Famished Road'?", "options": ["Ben Okri", "Teju Cole", "Helon Habila", "Chigozie Obioma"], "correct_index": 0},
-    {"id": "art_036", "question": "The late South African singer Brenda Fassie was widely known as the Queen of what?", "options": ["Kwaito", "African Pop", "Amapiano", "Gqom"], "correct_index": 1},
-    {"id": "art_037", "question": "In which country did the popular music genre 'Bongo Flava' originate?", "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"], "correct_index": 2},
-    {"id": "art_038", "question": "Who directed 'Lionheart', Nigeria's first-ever submission for the Oscars?", "options": ["Kemi Adetiba", "Kunle Afolayan", "Genevieve Nnaji", "Tunde Kelani"], "correct_index": 2},
-    {"id": "art_039", "question": "Which contemporary Senegalese-French director won the Grand Prix at Cannes for the film 'Atlantics'?", "options": ["Alice Diop", "Mati Diop", "Maïmouna Doucouré", "Alain Gomis"], "correct_index": 1},
-    {"id": "art_040", "question": "Which Congolese singer is known as 'Le Grand Mopao' and is a key figure in modern Soukous?", "options": ["Fally Ipupa", "Koffi Olomide", "Papa Wemba", "Awilo Longomba"], "correct_index": 1},
-    {"id": "art_041", "question": "Which South African author won the Booker Prize twice, for 'Life & Times of Michael K' and 'Disgrace'?", "options": ["Nadine Gordimer", "Athol Fugard", "J.M. Coetzee", "Zakes Mda"], "correct_index": 2},
-    {"id": "art_042", "question": "The song 'Water', which won the inaugural Grammy for Best African Music Performance, was sung by which artist?", "options": ["Ayra Starr", "Tyla", "Amaarae", "Sho Madjozi"], "correct_index": 1},
-    {"id": "art_043", "question": "Which renowned Nigerian playwright and actor directed the Yoruba epic film 'Anikulapo'?", "options": ["Tunde Kelani", "Kunle Afolayan", "Femi Adebayo", "Adebayo Salami"], "correct_index": 1},
-    {"id": "art_044", "question": "Which iconic Malian musician collaborated with Ry Cooder on the Grammy-winning album 'Talking Timbuktu'?", "options": ["Salif Keita", "Toumani Diabaté", "Ali Farka Touré", "Oumou Sangaré"], "correct_index": 2},
-    {"id": "art_045", "question": "Who wrote 'The Joys of Motherhood', a classic of African feminist literature?", "options": ["Buchi Emecheta", "Flora Nwapa", "Ama Ata Aidoo", "Bessie Head"], "correct_index": 0},
-    {"id": "art_046", "question": "Which Cape Verdean singer was affectionately known as the 'Barefoot Diva'?", "options": ["Mayra Andrade", "Lura", "Cesária Évora", "Sara Tavares"], "correct_index": 2},
-    {"id": "art_047", "question": "Which African city is famously home to the monumental 'African Renaissance Monument'?", "options": ["Nairobi", "Dakar", "Accra", "Johannesburg"], "correct_index": 1},
-    {"id": "art_048", "question": "Who is the protagonist of Chinua Achebe's 'Things Fall Apart'?", "options": ["Obierika", "Okonkwo", "Ezeulu", "Nwoye"], "correct_index": 1},
-    {"id": "art_049", "question": "Which famous Nigerian artist is known for his 'Ariya' style paintings and celebrating Yoruba folklore?", "options": ["Bruce Onobrakpeya", "Twin Seven Seven", "Kolade Oshinowo", "Yusuf Grillo"], "correct_index": 1},
-    {"id": "art_050", "question": "Which Kenyan film directed by Wanuri Kahiu was initially banned in Kenya but received critical acclaim at Cannes?", "options": ["Supa Modo", "Nairobi Half Life", "Rafiki", "The First Grader"], "correct_index": 2},
-    {"id": "art_051", "question": "Which South African DJ and producer won a Grammy for Best Dance/Electronic Album with 'Subconsciously'?", "options": ["DJ Maphorisa", "Master KG", "Black Coffee", "Kabza De Small"], "correct_index": 2},
-    {"id": "art_052", "question": "Tanzanian artist Diamond Platnumz is the founder of which record label?", "options": ["Mavin Records", "WCB Wasafi", "YBNL Nation", "Ghetto Ruff"], "correct_index": 1},
-    {"id": "art_053", "question": "Who wrote the classic Guinean autobiography 'The African Child' (L'Enfant Noir)?", "options": ["Camara Laye", "Sembène Ousmane", "Léopold Sédar Senghor", "Ferdinand Oyono"], "correct_index": 0},
-    {"id": "art_054", "question": "Which Ivorian reggae star released the hit song 'Brigadier Sabari'?", "options": ["Tiken Jah Fakoly", "Alpha Blondy", "Ismaël Isaac", "Serge Kassy"], "correct_index": 1},
-    {"id": "art_055", "question": "Which Congolese singer is famous for his exceptional dance moves and the album 'Tokooos'?", "options": ["Koffi Olomide", "Innos'B", "Fally Ipupa", "Papa Wemba"], "correct_index": 2},
-    {"id": "art_056", "question": "Which country is the author Bessie Head most associated with, having lived there in exile and written 'When Rain Clouds Gather'?", "options": ["Namibia", "Zimbabwe", "Botswana", "Lesotho"], "correct_index": 2},
-    {"id": "art_057", "question": "What is the name of the acclaimed film directed by Chiwetel Ejiofor based on the memoir of Malawian William Kamkwamba?", "options": ["The Good Lie", "Queen of Katwe", "The Boy Who Harnessed the Wind", "Beasts of No Nation"], "correct_index": 2},
-    {"id": "art_058", "question": "Which genre of upbeat Nigerian popular music was heavily dominant in the 1970s and 1980s, pioneered by artists like King Sunny Ade?", "options": ["Afrobeats", "Jùjú", "Fuji", "Apala"], "correct_index": 1},
-    {"id": "art_059", "question": "Who wrote the novel 'Stay with Me', which was shortlisted for the Women's Prize for Fiction?", "options": ["Ayobami Adebayo", "Chika Unigwe", "Sefi Atta", "Lola Shoneyin"], "correct_index": 0},
-    {"id": "art_060", "question": "Which award-winning Mauritanian film directed by Abderrahmane Sissako tells the story of a town taken over by religious fundamentalists?", "options": ["Bamako", "Timbuktu", "Waiting for Happiness", "Life on Earth"], "correct_index": 1},
-    {"id": "art_061", "question": "Nigerian artist Rema achieved massive global success with which remix featuring Selena Gomez?", "options": ["Dumebi", "Soundgasm", "Calm Down", "Iron Man"], "correct_index": 2},
-    {"id": "art_062", "question": "Who wrote the classic play 'Sizwe Banzi Is Dead' in collaboration with John Kani and Winston Ntshona?", "options": ["Athol Fugard", "Wole Soyinka", "Ngũgĩ wa Thiong'o", "Zakes Mda"], "correct_index": 0},
-    {"id": "art_063", "question": "Which renowned Nigerian artist and architect is known as the 'master of African modernism' and founded the New Culture Studios?", "options": ["Ben Enwonwu", "Demas Nwoko", "Yusuf Grillo", "Uche Okeke"], "correct_index": 1},
-    {"id": "art_064", "question": "The annual music festival held in Lagos to celebrate the life and music of Fela Kuti is called what?", "options": ["Felabration", "AfroNation", "Gidi Culture Fest", "Lagos Music Festival"], "correct_index": 0},
-    {"id": "art_065", "question": "Which famous Cameroonian musician is known for the hit 'Soul Makossa', famously sampled by Michael Jackson?", "options": ["Richard Bona", "Manu Dibango", "Petit-Pays", "Wes Madiko"], "correct_index": 1},
-    {"id": "art_066", "question": "Which Somali author wrote the acclaimed novel 'Maps'?", "options": ["Nadifa Mohamed", "Nuruddin Farah", "Waris Dirie", "Awale Adam"], "correct_index": 1},
-    {"id": "art_067", "question": "Which Congolese painter is known for his colorful, text-filled paintings that comment on everyday life and politics?", "options": ["Chéri Samba", "Bodys Isek Kingelez", "Pili Pili Mulongoy", "Moke"], "correct_index": 0},
-    {"id": "art_068", "question": "Which popular Ghanaian genre combines traditional Akan rhythms with Western instruments?", "options": ["Hiplife", "Highlife", "Azonto", "Kpanlogo"], "correct_index": 1},
-    {"id": "art_069", "question": "Which South African Nobel laureate wrote 'Burger's Daughter'?", "options": ["J.M. Coetzee", "Athol Fugard", "Nadine Gordimer", "Alan Paton"], "correct_index": 2},
-    {"id": "art_070", "question": "The movie 'Black Panther' heavily featured a score and curated album by which prominent rapper with strong ties to African music producers?", "options": ["Drake", "J. Cole", "Kendrick Lamar", "Travis Scott"], "correct_index": 2},
-    {"id": "art_071", "question": "Who wrote 'The Secret Lives of Baba Segi's Wives'?", "options": ["Lola Shoneyin", "Sefi Atta", "Buchi Emecheta", "Tomi Adeyemi"], "correct_index": 0},
-    {"id": "art_072", "question": "Which Malian actor and griot played a prominent role in Peter Brook's 'The Mahabharata' and many African films?", "options": ["Sotigui Kouyaté", "Balla Moussa Keïta", "Ismaël Isaac", "Mamadou Dioume"], "correct_index": 0},
-    {"id": "art_073", "question": "Which hit song by Master KG featuring Nomcebo Zikode became a global viral dance sensation in 2020?", "options": ["Jerusalema", "John Vuli Gate", "Sister Bettina", "Vul'indlela"], "correct_index": 0},
-    {"id": "art_074", "question": "Who is the legendary Egyptian singer often referred to as the 'Star of the East'?", "options": ["Fairuz", "Umm Kulthum", "Warda Al-Jazairia", "Asmahan"], "correct_index": 1},
-    {"id": "art_075", "question": "Which contemporary Nigerian artist produces large-scale hyper-realistic portraits using charcoal and graphite?", "options": ["Victor Ehikhamenor", "Kelvin Okafor", "Ken Nwadiogbu", "Arinze Stanley"], "correct_index": 3},
-    {"id": "art_076", "question": "The classic film 'Yeelen' (Brightness) which won the Jury Prize at Cannes in 1987 was directed by whom?", "options": ["Idrissa Ouédraogo", "Souleymane Cissé", "Gaston Kaboré", "Djibril Diop Mambéty"], "correct_index": 1},
-    {"id": "art_077", "question": "Which classic novel by Ayi Kwei Armah deals with corruption in post-independence Ghana?", "options": ["Two Thousand Seasons", "The Healers", "The Beautyful Ones Are Not Yet Born", "Fragments"], "correct_index": 2},
-    {"id": "art_078", "question": "Which famous Nigerian female singer-songwriter is known for hits like 'Joromi' and 'Duduke'?", "options": ["Yemi Alade", "Tiwa Savage", "Simi", "Tems"], "correct_index": 2},
-    {"id": "art_079", "question": "The Booker Prize-winning novel 'The Promise' by Damon Galgut is set in which country?", "options": ["Nigeria", "Kenya", "South Africa", "Zimbabwe"], "correct_index": 2},
-    {"id": "art_080", "question": "Who directed the critically acclaimed 2014 film 'Timbuktu'?", "options": ["Abderrahmane Sissako", "Mahamat-Saleh Haroun", "Ousmane Sembène", "Flora Gomes"], "correct_index": 0},
-    {"id": "art_081", "question": "Which African music genre, blending hip-hop and local sounds, originated in the townships of South Africa in the 1990s?", "options": ["Gqom", "Kwaito", "Isicathamiya", "Pantsula"], "correct_index": 1},
-    {"id": "art_082", "question": "Which popular Nigerian actor is famous for his meme-generating comedic roles as 'Aki'?", "options": ["Osita Iheme", "Chinedu Ikedieze", "Nkem Owoh", "John Okafor"], "correct_index": 1},
-    {"id": "art_083", "question": "Who wrote 'A Question of Power', considered one of the most important African novels of the 20th century?", "options": ["Bessie Head", "Nadine Gordimer", "Ama Ata Aidoo", "Mariama Bâ"], "correct_index": 0},
-    {"id": "art_084", "question": "Which pioneering female filmmaker directed 'Kadara' (Destiny) in 1980?", "options": ["Amaka Igwe", "Bolanle Austen-Peters", "Lola Fani-Kayode", "Chief Mrs. Oyenike Mba (or similar pioneers - actually it was Lola Fani-Kayode for TV, but let's use a clear one) Which pioneer of Nollywood directed the TV series 'Checkmate'?"], "correct_index": 0},
-    {"id": "art_084_fixed", "question": "Which pioneering Nigerian filmmaker and producer created the iconic TV series 'Checkmate'?", "options": ["Amaka Igwe", "Zeb Ejiro", "Chico Ejiro", "Tunde Kelani"], "correct_index": 0},
-    {"id": "art_085", "question": "Which internationally acclaimed artist from South Africa is known for his animated films based on charcoal drawings?", "options": ["Gerard Sekoto", "Irma Stern", "William Kentridge", "Marlene Dumas"], "correct_index": 2},
-    {"id": "art_086", "question": "What is the title of the popular young adult fantasy novel by Tomi Adeyemi that draws heavily on Yoruba mythology?", "options": ["Children of Blood and Bone", "Raybearer", "Akata Witch", "The Gilded Ones"], "correct_index": 0},
-    {"id": "art_087", "question": "Who is often referred to as the 'King of Fuji Music' in Nigeria?", "options": ["Wasiu Alabi Pasuma", "Saheed Osupa", "Sikiru Ayinde Barrister", "King Wasiu Ayinde Marshal (KWAM 1)"], "correct_index": 3},
-    {"id": "art_088", "question": "Which Zimbabwean musician, affectionately known as 'Tuku', released over 60 albums in his lifetime?", "options": ["Thomas Mapfumo", "Oliver Mtukudzi", "Jah Prayzah", "Alick Macheso"], "correct_index": 1},
-    {"id": "art_089", "question": "Which Senegalese-French author won the Prix Goncourt in 2021 for the novel 'The Most Secret Memory of Men'?", "options": ["David Diop", "Alain Mabanckou", "Mohamed Mbougar Sarr", "Fatou Diome"], "correct_index": 2},
-    {"id": "art_090", "question": "Which Nigerian author wrote the acclaimed novel 'The Girl with the Louding Voice'?", "options": ["Abi Daré", "Oyinkan Braithwaite", "Ayobami Adebayo", "Chigozie Obioma"], "correct_index": 0},
-    {"id": "art_091", "question": "The hit 'Essence', which charted on the Billboard Hot 100, is a collaboration between Wizkid and which artist?", "options": ["Tems", "Ayra Starr", "Tiwa Savage", "Simi"], "correct_index": 0},
-    {"id": "art_092", "question": "Which film by South African director Neill Blomkamp is a sci-fi allegory for apartheid?", "options": ["Elysium", "Chappie", "District 9", "Tsotsi"], "correct_index": 2},
-    {"id": "art_093", "question": "The influential art movement known as the 'Zaria Rebels' in Nigeria included which prominent artist?", "options": ["Ben Enwonwu", "Uche Okeke", "El Anatsui", "Bruce Onobrakpeya"], "correct_index": 1},
-    {"id": "art_094", "question": "Who is the Ivorian author of the satirical novel 'Allah is Not Obliged'?", "options": ["Ahmadou Kourouma", "Camara Laye", "Mongo Beti", "Cheikh Hamidou Kane"], "correct_index": 0},
-    {"id": "art_095", "question": "Which legendary Ethiopian musician is known as the 'father of Ethio-jazz'?", "options": ["Mahmoud Ahmed", "Mulatu Astatke", "Aster Aweke", "Gigi"], "correct_index": 1},
-    {"id": "art_096", "question": "Which novel by Yaa Gyasi traces the descendants of two Ghanaian half-sisters over 300 years?", "options": ["Transcendent Kingdom", "Homegoing", "Kintu", "The Old Drift"], "correct_index": 1},
-    {"id": "art_097", "question": "What is the name of the prestigious literary award specifically for African writers, founded by Mo Ibrahim?", "options": ["Caine Prize", "NLNG Prize", "Wole Soyinka Prize", "Etisalat Prize"], "correct_index": 0},
-    {"id": "art_098", "question": "Which Chadian director made the acclaimed film 'A Screaming Man', which won the Jury Prize at Cannes in 2010?", "options": ["Mahamat-Saleh Haroun", "Abderrahmane Sissako", "Flora Gomes", "Dani Kouyaté"], "correct_index": 0},
-    {"id": "art_099", "question": "The album 'King of Boys' is associated with a highly successful Nollywood movie directed by whom?", "options": ["Jade Osiberu", "Kemi Adetiba", "Mo Abudu", "Tope Oshin"], "correct_index": 1},
-    {"id": "art_100", "question": "Which popular music genre originated in the streets of Luanda, Angola, characterized by a fast, energetic electronic beat?", "options": ["Kuduro", "Semba", "Kizomba", "Tarrachinha"], "correct_index": 0},
-    {"id": "art_101", "question": "Who authored the play 'The Lion and the Jewel'?", "options": ["Wole Soyinka", "J.P. Clark", "Femi Osofisan", "Ola Rotimi"], "correct_index": 0},
-    {"id": "art_102", "question": "Which prominent African director helmed the historical drama 'Camp de Thiaroye'?", "options": ["Med Hondo", "Ousmane Sembène", "Safi Faye", "Desmond Dube"], "correct_index": 1},
-    {"id": "art_103", "question": "What was the moniker of the pioneering Nigerian highlife musician E.T. Mensah?", "options": ["King of Highlife", "The Highlife Wizard", "Chief of Highlife", "The Godfather of Highlife"], "correct_index": 0},
-    {"id": "art_104", "question": "Which Moroccan-born writer won the Prix Goncourt in 1987 for 'The Sacred Night'?", "options": ["Driss Chraïbi", "Tahar Ben Jelloun", "Leïla Slimani", "Abdellatif Laâbi"], "correct_index": 1},
-    {"id": "art_105", "question": "Which artist is famous for the hit song 'Zangalewa', which Shakira sampled for 'Waka Waka'?", "options": ["Kassav'", "Golden Sounds", "Zaïko Langa Langa", "Les Têtes Brulées"], "correct_index": 1},
-    {"id": "art_106", "question": "Who is the acclaimed director of 'Moolaadé', a film tackling the issue of female genital mutilation?", "options": ["Souleymane Cissé", "Ousmane Sembène", "Idrissa Ouédraogo", "Moussa Sene Absa"], "correct_index": 1},
-    {"id": "art_107", "question": "Which Nigerian author wrote the book 'My Sister, the Serial Killer'?", "options": ["Oyinkan Braithwaite", "Abi Daré", "Chibundu Onuzo", "Helen Oyeyemi"], "correct_index": 0},
-    {"id": "art_108", "question": "Which Egyptian actor gained international fame starring in 'Lawrence of Arabia' and 'Doctor Zhivago'?", "options": ["Amr Waked", "Khaled El Nabawy", "Omar Sharif", "Rami Malek"], "correct_index": 2},
-    {"id": "art_109", "question": "Which genre is the legendary musician Franco Luambo associated with?", "options": ["Rumba / Soukous", "Makossa", "Mbalax", "Highlife"], "correct_index": 0},
-    {"id": "art_110", "question": "The critically acclaimed novel 'Kintu' was written by which Ugandan author?", "options": ["Goretti Kyomuhendo", "Jennifer Nansubuga Makumbi", "Doreen Baingana", "Monica Arac de Nyeko"], "correct_index": 1},
-    {"id": "art_111", "question": "Which Nigerian music executive and producer is the founder of Mavin Records?", "options": ["Olamide", "Don Jazzy", "E-Money", "Larry Gaaga"], "correct_index": 1},
-    {"id": "art_112", "question": "What is the nickname of the popular Malian singer Oumou Sangaré?", "options": ["The Nightingale of Bamako", "The Songbird of Wassoulou", "The Queen of Mali", "The Voice of the Desert"], "correct_index": 1},
-    {"id": "art_113", "question": "Who wrote 'We Need New Names', a novel that was shortlisted for the Man Booker Prize in 2013?", "options": ["Tsitsi Dangarembga", "Noviolet Bulawayo", "Petina Gappah", "Yvonne Vera"], "correct_index": 1},
-    {"id": "art_114", "question": "The historical epic 'Sarraounia', directed by Med Hondo, is about a queen from which present-day country?", "options": ["Nigeria", "Niger", "Mali", "Senegal"], "correct_index": 1},
-    {"id": "art_115", "question": "Who is the author of 'The Palm-Wine Drinkard'?", "options": ["Cyprian Ekwensi", "Amos Tutuola", "Wole Soyinka", "Elechi Amadi"], "correct_index": 1},
-    {"id": "art_116", "question": "Which contemporary British-Nigerian artist paints large-scale, vibrant portraits of Black figures, often with historical or mythological references?", "options": ["Yinka Shonibare", "Toyin Ojih Odutola", "Njideka Akunyili Crosby", "Lynette Yiadom-Boakye"], "correct_index": 1},
-    {"id": "art_117", "question": "Which Rwandan-French author wrote the novel 'Small Country' (Petit Pays)?", "options": ["Scholastique Mukasonga", "Gaël Faye", "Alain Mabanckou", "In Koli Jean Bofane"], "correct_index": 1},
-    {"id": "art_118", "question": "Which iconic South African play by Athol Fugard explores the lives of two brothers, one light-skinned and one dark-skinned, during apartheid?", "options": ["Boesman and Lena", "Master Harold...and the Boys", "The Blood Knot", "My Children! My Africa!"], "correct_index": 2},
-    {"id": "art_119", "question": "Which Nigerian actress starred in and produced 'The Wedding Party', one of the highest-grossing Nollywood films?", "options": ["Genevieve Nnaji", "Omotola Jalade Ekeinde", "Mo Abudu (Producer)", "Adesua Etomi"], "correct_index": 2},
-    {"id": "art_120", "question": "The traditional thumb piano of the Shona people of Zimbabwe, heavily featured in Oliver Mtukudzi's music, is called what?", "options": ["Kora", "Balafon", "Mbira", "Djembe"], "correct_index": 2},
-    {"id": "art_121", "question": "Which internationally renowned Senegalese sculptor created the giant bronze 'African Renaissance Monument' (designed by Pierre Goudiaby Atepa)?", "options": ["Ousmane Sow", "Ndary Lo", "Moustapha Dimé", "Seni Awa Camara"], "correct_index": 0},
-    {"id": "art_122", "question": "Who wrote the classic post-colonial novel 'A Grain of Wheat'?", "options": ["Chinua Achebe", "Ngũgĩ wa Thiong'o", "Ayi Kwei Armah", "Meja Mwangi"], "correct_index": 1},
-    {"id": "art_123", "question": "Which famous Algerian Rai singer had international hits like 'Didi' and 'Aïcha'?", "options": ["Cheb Mami", "Khaled", "Faudel", "Rachid Taha"], "correct_index": 1},
-    {"id": "art_124", "question": "Which film by Flora Gomes was the first feature film from Guinea-Bissau?", "options": ["Nha Fala", "Mortu Nega", "Udju Azul di Yonta", "Po di Sangui"], "correct_index": 1},
-    {"id": "art_125", "question": "Which Congolese author wrote the award-winning novel 'Tram 83'?", "options": ["Alain Mabanckou", "Fiston Mwanza Mujila", "In Koli Jean Bofane", "Emmanuel Dongala"], "correct_index": 1},
-    {"id": "art_126", "question": "Which prominent Kenyan actress won an Academy Award for her role in '12 Years a Slave'?", "options": ["Lupita Nyong'o", "Danai Gurira", "Florence Kasumba", "Edi Gathegi"], "correct_index": 0},
-    {"id": "art_127", "question": "Which popular Ghanaian dance and music style went viral globally around 2011, notably promoted by artist Fuse ODG?", "options": ["Alkayida", "Azonto", "Hiplife", "Shaku Shaku"], "correct_index": 1},
-    {"id": "art_128", "question": "The legendary album 'Unknown Soldier' was released by which Nigerian artist following a military raid on his compound?", "options": ["King Sunny Ade", "Fela Kuti", "Majek Fashek", "Victor Uwaifo"], "correct_index": 1},
-    {"id": "art_129", "question": "Which Moroccan author wrote the autobiographical novel 'For Bread Alone'?", "options": ["Tahar Ben Jelloun", "Mohamed Choukri", "Driss Chraïbi", "Abdellah Taïa"], "correct_index": 1},
-    {"id": "art_130", "question": "Which Cameroonian director helmed the acclaimed 1992 film 'Quartier Mozart'?", "options": ["Jean-Pierre Bekolo", "Bassek Ba Kobhio", "Jean-Marie Teno", "Thérèse Sita-Bella"], "correct_index": 0},
-    {"id": "art_131", "question": "Which iconic Egyptian singer was affectionately called 'The Nightingale of the Nile' (though usually Abdel Halim Hafez was the Dark Nightingale)?", "options": ["Mohamed Abdel Wahab", "Abdel Halim Hafez", "Farid al-Atrash", "Amr Diab"], "correct_index": 1},
-    {"id": "art_132", "question": "Who authored the play 'The Island', set in Robben Island prison?", "options": ["Athol Fugard, John Kani, and Winston Ntshona", "Wole Soyinka", "Zakes Mda", "Mbongeni Ngema"], "correct_index": 0},
-    {"id": "art_133", "question": "Which contemporary Nigerian artist uses Dutch wax printed cotton textiles in his installations to explore colonialism?", "options": ["Victor Ehikhamenor", "Yinka Shonibare", "Emeka Ogboh", "Ndidi Dike"], "correct_index": 1},
-    {"id": "art_134", "question": "Which famous music duo from Mali consists of Amadou Bagayoko and Mariam Doumbia?", "options": ["Amadou & Mariam", "Touré Kunda", "Tinariwen", "Les Ambassadeurs"], "correct_index": 0},
-    {"id": "art_135", "question": "The classic novel 'Season of Migration to the North' was written by which Sudanese author?", "options": ["Leila Aboulela", "Tayeb Salih", "Jamal Mahjoub", "Amir Taj Sir"], "correct_index": 1},
-    {"id": "art_136", "question": "Which Nigerian filmmaker directed the thriller 'The Figurine', which is often credited with starting the 'New Nollywood' era?", "options": ["Kunle Afolayan", "Tunde Kelani", "Kemi Adetiba", "Niyi Akinmolayan"], "correct_index": 0},
-    {"id": "art_137", "question": "Which music genre, originating in the townships of Durban, is known for its heavy, minimalist beats?", "options": ["Amapiano", "Kwaito", "Gqom", "Pantsula"], "correct_index": 2},
-    {"id": "art_138", "question": "Who wrote 'A Long Way Gone', a memoir about his experience as a child soldier in Sierra Leone?", "options": ["Ishmael Beah", "Aminatta Forna", "Syl Cheney-Coker", "Namwali Serpell"], "correct_index": 0},
-    {"id": "art_139", "question": "Which acclaimed Senegalese author won the Neustadt International Prize for Literature and wrote 'Murambi, The Book of Bones'?", "options": ["David Diop", "Boubacar Boris Diop", "Léopold Sédar Senghor", "Ousmane Sembène"], "correct_index": 1},
-    {"id": "art_140", "question": "Which South African artist's work often features alter-egos, confronting issues of race and gender through photography and sculpture?", "options": ["Zanele Muholi", "Mary Sibande", "Nandipha Mntambo", "Tracey Rose"], "correct_index": 1},
-    {"id": "art_141", "question": "Which Tuareg band from northern Mali won a Grammy Award and is famous for their 'desert blues' sound?", "options": ["Tinariwen", "Terakaft", "Tartit", "Tamikrest"], "correct_index": 0},
-    {"id": "art_142", "question": "Which Nigerian film set a Guinness World Record for the largest movie premiere?", "options": ["Omo Ghetto: The Saga", "The Wedding Party", "10 Days in Sun City", "Chief Daddy"], "correct_index": 2},
-    {"id": "art_143", "question": "Who is the author of 'The Old Drift', a multi-generational epic set in Zambia?", "options": ["Namwali Serpell", "NoViolet Bulawayo", "Yaa Gyasi", "Petina Gappah"], "correct_index": 0},
-    {"id": "art_144", "question": "Which prominent Angolan singer won a Grammy for her album 'Djin Djin' (Wait, Angélique Kidjo is Beninese. Let's fix). Which Angolan musician is known as the 'King of Kizomba'?", "options": ["Bonga", "Eduardo Paim", "Paulo Flores", "Matias Damásio"], "correct_index": 1},
-    {"id": "art_145", "question": "Which novel by Nigerian author Chigozie Obioma was shortlisted for the Booker Prize in 2015?", "options": ["The Fishermen", "An Orchestra of Minorities", "Welcome to Lagos", "Under the Udala Trees"], "correct_index": 0},
-    {"id": "art_146", "question": "Which Ivorian music genre, popularized by Magic System, blends zouglou with pop elements?", "options": ["Coupé-Décalé", "Zouglou", "Makossa", "Zouk"], "correct_index": 1},
-    {"id": "art_147", "question": "Which African city hosts the internationally renowned Dak'Art, the Biennale of Contemporary African Art?", "options": ["Accra", "Dakar", "Lagos", "Johannesburg"], "correct_index": 1},
-    {"id": "art_148", "question": "Who wrote 'The Concubine', a classic novel of early Nigerian literature?", "options": ["Elechi Amadi", "Amos Tutuola", "Cyprian Ekwensi", "Gabriel Okara"], "correct_index": 0},
-    {"id": "art_149", "question": "Which acclaimed film by Raoul Peck tells the story of Patrice Lumumba?", "options": ["Lumumba", "Sometimes in April", "I Am Not Your Negro", "Fatal Assistance"], "correct_index": 0},
-    {"id": "art_150", "question": "The famous Makonde wood carvings traditionally originate from which region?", "options": ["Tanzania and Mozambique", "Ghana and Togo", "Nigeria and Benin", "Senegal and Gambia"], "correct_index": 0},
-    {"id": "art_151", "question": "Which Nigerian-born artist painted 'The Two Fridas' inspired portrait titled 'The Two Sisters'?", "options": ["Njideka Akunyili Crosby", "Toyin Ojih Odutola", "Peju Alatise", "Wura-Natasha Ogunji"], "correct_index": 0},
-    {"id": "art_152", "question": "Which Zambian-born director directed the acclaimed film 'I Am Not a Witch'?", "options": ["Rungano Nyoni", "Wanuri Kahiu", "Mati Diop", "Apolline Traoré"], "correct_index": 0},
-    {"id": "art_153", "question": "Who is the Ghanaian author of 'Homegoing'?", "options": ["Ayi Kwei Armah", "Taiye Selasi", "Yaa Gyasi", "A.A. Atta"], "correct_index": 2},
-    {"id": "art_154", "question": "Which South African choir won 'America's Got Talent' in 2019?", "options": ["Ndlovu Youth Choir", "Soweto Gospel Choir", "Ladysmith Black Mambazo", "Bala Brothers"], "correct_index": 0},
-    {"id": "art_155", "question": "Which Nigerian author wrote the futuristic novel 'Lagoon'?", "options": ["Nnedi Okorafor", "Tomi Adeyemi", "Tochi Onyebuchi", "Suyi Davies Okungbowa"], "correct_index": 0},
-    {"id": "art_156", "question": "Which iconic film by Djibril Diop Mambéty follows a young couple dreaming of moving to Paris?", "options": ["Hyènes", "Touki Bouki", "La Petite Vendeuse de Soleil", "Le Franc"], "correct_index": 1},
-    {"id": "art_157", "question": "Which musician from Benin is famous for combining funk, jazz, and traditional voodoo rhythms, forming the T.P. Orchestre Poly-Rythmo?", "options": ["Angélique Kidjo", "Wally Badarou", "Mélomé Clément", "Gnonnas Pedro"], "correct_index": 2},
-    {"id": "art_158", "question": "Which Egyptian Nobel Laureate wrote 'The Cairo Trilogy'?", "options": ["Taha Hussein", "Naguib Mahfouz", "Youssef Idris", "Tawfiq al-Hakim"], "correct_index": 1},
-    {"id": "art_159", "question": "Which Kenyan artist is renowned for his collages made from magazine clippings, commenting on consumerism?", "options": ["Michael Soi", "Wangechi Mutu", "Peterson Kamwathi", "Cyrus Kabiru"], "correct_index": 1},
-    {"id": "art_160", "question": "What is the title of Nelson Mandela's autobiography?", "options": ["Conversations with Myself", "No Easy Walk to Freedom", "Long Walk to Freedom", "The Struggle is My Life"], "correct_index": 2},
-    {"id": "art_161", "question": "Which renowned Senegalese poet and politician was a key figure in the Négritude movement?", "options": ["Cheikh Anta Diop", "Léopold Sédar Senghor", "Birago Diop", "Aimé Césaire"], "correct_index": 1},
-    {"id": "art_162", "question": "Which contemporary Nigerian musician is affectionately known as the 'African Giant'?", "options": ["Burna Boy", "Davido", "Wizkid", "Olamide"], "correct_index": 0},
-    {"id": "art_163", "question": "The critically acclaimed novel 'The Famished Road' features an abiku child. What is an abiku?", "options": ["An orphan", "A spirit child", "A king's heir", "A warrior"], "correct_index": 1},
-    {"id": "art_164", "question": "Which Ugandan film director is famous for his low-budget, high-action films produced in 'Wakaliwood'?", "options": ["Isaac Nabwana (Nabwana I.G.G.)", "Dilman Dila", "Matt Bish", "George Stanley Nsamba"], "correct_index": 0},
-    {"id": "art_165", "question": "Which South African singer was known as the 'Princess of Africa'?", "options": ["Brenda Fassie", "Yvonne Chaka Chaka", "Miriam Makeba", "Zandile Fassie"], "correct_index": 1},
-    {"id": "art_166", "question": "Which acclaimed author wrote 'The Shadow of the Sun' detailing his experiences across Africa? (Note: Kapuscinski is Polish. Let's ask an African author). Who wrote 'Wizard of the Crow'?", "options": ["Ngũgĩ wa Thiong'o", "Ayi Kwei Armah", "Meja Mwangi", "Kofi Awoonor"], "correct_index": 0},
-    {"id": "art_167", "question": "What instrument is the Malian musician Toumani Diabaté world-famous for playing?", "options": ["Balafon", "Djembe", "Kora", "Ngoni"], "correct_index": 2},
-    {"id": "art_168", "question": "Which Nigerian filmmaker directed the 1996 classic 'Mortal Inheritance'?", "options": ["Andy Amenechi", "Zeb Ejiro", "Tade Ogidan", "Amaka Igwe"], "correct_index": 0},
-    {"id": "art_169", "question": "Which Cameroonian writer won the Prix Goncourt des Lycéens for 'Les Impatientes'?", "options": ["Calixthe Beyala", "Léonora Miano", "Djaïli Amadou Amal", "Hemley Boum"], "correct_index": 2},
-    {"id": "art_170", "question": "Which Sudanese-British author wrote 'The Translator'?", "options": ["Safia Elhillo", "Leila Aboulela", "Malkat ed-Dar Mohamed", "Rania Mamoun"], "correct_index": 1},
-    {"id": "art_171", "question": "Which internationally recognized artist from Benin creates art using repurposed jerricans?", "options": ["Romuald Hazoumè", "Georges Adéagbo", "Charly d'Almeida", "Dominique Zinkpè"], "correct_index": 0},
-    {"id": "art_172", "question": "Which famous piece of ancient African art is often associated with the Kingdom of Benin and was looted during the 1897 expedition?", "options": ["Nok Terracottas", "Benin Bronzes", "Ife Heads", "Lydenburg Heads"], "correct_index": 1},
-    {"id": "art_173", "question": "Which Egyptian feminist writer and doctor authored 'Woman at Point Zero'?", "options": ["Huda Sha'arawi", "Nawal El Saadawi", "Alifa Rifaat", "Ahdaf Soueif"], "correct_index": 1},
-    {"id": "art_174", "question": "Who is the legendary Congolese musician that formed the band Viva La Musica?", "options": ["Franco Luambo", "Tabu Ley Rochereau", "Papa Wemba", "Koffi Olomide"], "correct_index": 2},
-    {"id": "art_175", "question": "Which popular dance from Côte d'Ivoire was created to mock the ostentatious lifestyle of the diaspora?", "options": ["Coupé-Décalé", "Mapouka", "Zouglou", "Logobi"], "correct_index": 0},
-    {"id": "art_176", "question": "Which Nigerian actress starred as the lead in the original 'Living in Bondage' (1992), often cited as the film that birthed Nollywood?", "options": ["Liz Benson", "Nnenna Nwabueze", "Rita Dominic", "Genevieve Nnaji"], "correct_index": 1},
-    {"id": "art_177", "question": "Which acclaimed South African photographer is known for his documentation of marginalized communities during and after apartheid?", "options": ["David Goldblatt", "Alf Kumalo", "Peter Magubane", "Santu Mofokeng"], "correct_index": 0},
-    {"id": "art_178", "question": "Who authored the play 'Anowa'?", "options": ["Efua Sutherland", "Ama Ata Aidoo", "Tsitsi Dangarembga", "Bessie Head"], "correct_index": 1},
-    {"id": "art_179", "question": "Which Cape Verdean music genre is a soulful, melancholic style, famously sung by Cesária Évora?", "options": ["Coladeira", "Batuque", "Funaná", "Morna"], "correct_index": 3},
-    {"id": "art_180", "question": "Which author from Mauritius won the Nobel Prize in Literature in 2008?", "options": ["J.M. G. Le Clézio", "Ananda Devi", "Nathacha Appanah", "Shenaz Patel"], "correct_index": 0},
-    {"id": "art_181", "question": "Which iconic Nigerian sculptor created the 'Anyanwu' statue that stands at the United Nations headquarters?", "options": ["Ben Enwonwu", "Erhabor Emokpae", "Lamidi Fakeye", "Felix Idubor"], "correct_index": 0},
-    {"id": "art_182", "question": "Which contemporary Ethiopian artist paints striking figures with heavily textured, swirling eyes?", "options": ["Julie Mehretu", "Elias Sime", "Dawit Abebe", "Aida Muluneh (photographer) Wait, it's actually Afewerk Tekle who is classic. Let's use Julie Mehretu's style: Which Ethiopian-American artist is known for large-scale, abstract paintings overlaying architectural plans?"], "correct_index": 3},
-    {"id": "art_182_fixed", "question": "Which Ethiopian-American artist is famous for her large-scale, densely layered abstract paintings that resemble architectural plans?", "options": ["Julie Mehretu", "Aida Muluneh", "Wosene Worke Kosrof", "Elias Sime"], "correct_index": 0},
-    {"id": "art_183", "question": "Who wrote 'Changes: A Love Story', winning the Commonwealth Writers' Prize in 1992?", "options": ["Mariama Bâ", "Ama Ata Aidoo", "Buchi Emecheta", "Flora Nwapa"], "correct_index": 1},
-    {"id": "art_184", "question": "Which film by Ousmane Sembène heavily criticized the rising new bourgeoisie in Senegal using the metaphor of a curse of impotence?", "options": ["Xala", "Moolaadé", "Guelwaar", "Emitai"], "correct_index": 0},
-    {"id": "art_185", "question": "The famous song 'Pata Pata' was an international hit for which African artist?", "options": ["Yvonne Chaka Chaka", "Miriam Makeba", "Brenda Fassie", "Letta Mbulu"], "correct_index": 1},
-    {"id": "art_186", "question": "Who is the Nigerian filmmaker behind the hit Netflix original series 'Blood Sisters'?", "options": ["Mo Abudu", "Biyi Bandele", "Kemi Adetiba", "Kunle Afolayan"], "correct_index": 0},
-    {"id": "art_187", "question": "Which Moroccan artist is famous for integrating traditional Arabic calligraphy into contemporary art?", "options": ["Hassan Hajjaj", "Farid Belkahia", "Lalla Essaydi", "Hassan Darsi"], "correct_index": 1},
-    {"id": "art_188", "question": "Which Senegalese writer authored 'The Beggars' Strike'?", "options": ["Aminata Sow Fall", "Mariama Bâ", "Fatou Diome", "Ken Bugul"], "correct_index": 0},
-    {"id": "art_189", "question": "Which popular Zimbabwean musician pioneered the 'Chimurenga' music style, known as music of liberation?", "options": ["Oliver Mtukudzi", "Thomas Mapfumo", "Alick Macheso", "Stella Chiweshe"], "correct_index": 1},
-    {"id": "art_190", "question": "Which Nigerian author wrote the book 'Open City'?", "options": ["Teju Cole", "Helon Habila", "Chris Abani", "Igoni Barrett"], "correct_index": 0},
-    {"id": "art_191", "question": "Which Ghanaian artist creates striking portraits of Black subjects using a ballpoint pen?", "options": ["Enam Gbewonyo", "Kofi Agorsor", "Gideon Appah", "Eniwaye Oluwaseyi (Wait, Nigerian) Let's ask: Which Ghanaian artist is known for his large-scale yellow paintings of crowds?"], "correct_index": 1},
-    {"id": "art_191_fixed", "question": "Which renowned Ghanaian painter is famous for his vibrant, abstract depictions of bustling cityscapes and crowds using a palette knife?", "options": ["El Anatsui", "Ablade Glover", "Kofi Antubam", "Ibrahim Mahama"], "correct_index": 1},
-    {"id": "art_192", "question": "Which Congolese rumba star is known as 'Le Seigneur'?", "options": ["Papa Wemba", "Koffi Olomide", "Tabu Ley Rochereau", "Franco Luambo"], "correct_index": 2},
-    {"id": "art_193", "question": "Who directed the critically acclaimed 2022 movie 'The Woman King', which draws heavily on the history of the Dahomey Agojie?", "options": ["Mati Diop", "Gina Prince-Bythewood", "Ava DuVernay", "Kasi Lemmons"], "correct_index": 1},
-    {"id": "art_194", "question": "Which South African musical won multiple Tony Awards and is based on the life of a famous Zulu king?", "options": ["Sarafina!", "Umoja", "King Kong", "The Lion King (though not strictly SA, let's use a real one). What was the name of the 1959 SA jazz opera?"], "correct_index": 2},
-    {"id": "art_194_fixed", "question": "What was the name of the groundbreaking all-Black South African jazz opera that premiered in 1959?", "options": ["Sarafina!", "Ipi Tombi", "King Kong", "Umoja"], "correct_index": 2},
-    {"id": "art_195", "question": "Which contemporary Nigerian writer authored 'Freshwater' and 'The Death of Vivek Oji'?", "options": ["Akwaeke Emezi", "Tochi Onyebuchi", "Helen Oyeyemi", "Nnedi Okorafor"], "correct_index": 0},
-    {"id": "art_196", "question": "Which film is largely considered the highest-grossing Nollywood film of all time as of 2024?", "options": ["The Wedding Party", "A Tribe Called Judah", "Omo Ghetto: The Saga", "Battle on Buka Street"], "correct_index": 1},
-    {"id": "art_197", "question": "Which Ivorian artist is widely known for her large-scale, intricate thread installations?", "options": ["Joana Choumali", "Valérie Oka", "Ouattara Watts", "Ernest Dükü"], "correct_index": 0},
-    {"id": "art_198", "question": "Which Kenyan writer authored the critically acclaimed memoir 'One Day I Will Write About This Place'?", "options": ["Binyavanga Wainaina", "Ngũgĩ wa Thiong'o", "Yvonne Adhiambo Owuor", "Okwiri Oduor"], "correct_index": 0},
-    {"id": "art_199", "question": "Which genre of popular music originated in the 1920s in West Africa, integrating local rhythms with Western brass bands?", "options": ["Highlife", "Afrobeat", "Makossa", "Jùjú"], "correct_index": 0},
-    {"id": "art_200", "question": "What is the pen name of the pioneering feminist Nigerian writer, Florence Nwanzuruahu Nkiru Nwapa?", "options": ["Zaynab Alkali", "Buchi Emecheta", "Flora Nwapa", "Mabel Segun"], "correct_index": 2}
+    {
+      "id": "art_001",
+      "question": "Which Nigerian author wrote the 1958 classic 'Things Fall Apart'?",
+      "options": [
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Buchi Emecheta",
+        "Amos Tutuola"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_002",
+      "question": "Who was the first African to win the Nobel Prize in Literature in 1986?",
+      "options": [
+        "Wole Soyinka",
+        "Naguib Mahfouz",
+        "Nadine Gordimer",
+        "J.M. Coetzee"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_003",
+      "question": "Which Senegalese director is widely considered the 'Father of African Cinema'?",
+      "options": [
+        "Djibril Diop Mambéty",
+        "Souleymane Cissé",
+        "Ousmane Sembène",
+        "Idrissa Ouédraogo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_004",
+      "question": "What is the nickname of the legendary South African singer Miriam Makeba?",
+      "options": [
+        "Queen of African Pop",
+        "Mama Africa",
+        "The African Nightingale",
+        "Empress of Song"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_005",
+      "question": "Which Nigerian musician is credited with creating the Afrobeat genre?",
+      "options": [
+        "King Sunny Ade",
+        "Fela Kuti",
+        "Ebenezer Obey",
+        "Victor Uwaifo"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_006",
+      "question": "Which Beninese singer has won five Grammy Awards and is known for the album 'Celia'?",
+      "options": [
+        "Angélique Kidjo",
+        "Fatoumata Diawara",
+        "Oumou Sangaré",
+        "Cesária Évora"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_007",
+      "question": "Chimamanda Ngozi Adichie won the Women's Prize for Fiction for which novel?",
+      "options": [
+        "Purple Hibiscus",
+        "Americanah",
+        "Half of a Yellow Sun",
+        "The Thing Around Your Neck"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_008",
+      "question": "Which African music genre originated in South Africa and features deep house and jazz elements?",
+      "options": [
+        "Afrobeats",
+        "Bongo Flava",
+        "Amapiano",
+        "Highlife"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_009",
+      "question": "What is the name of Nigeria's booming film industry?",
+      "options": [
+        "Ghollywood",
+        "Riverwood",
+        "Nollywood",
+        "Kannywood"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_010",
+      "question": "Which Malian singer is known as the 'Golden Voice of Africa'?",
+      "options": [
+        "Salif Keita",
+        "Ali Farka Touré",
+        "Youssou N'Dour",
+        "Toumani Diabaté"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_011",
+      "question": "Who wrote 'The Beautyful Ones Are Not Yet Born'?",
+      "options": [
+        "Kofi Awoonor",
+        "Ayi Kwei Armah",
+        "Ama Ata Aidoo",
+        "Tsitsi Dangarembga"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_012",
+      "question": "Which Egyptian author won the Nobel Prize in Literature in 1988?",
+      "options": [
+        "Taha Hussein",
+        "Nawal El Saadawi",
+        "Naguib Mahfouz",
+        "Alaa Al Aswany"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_013",
+      "question": "The 1973 classic film 'Touki Bouki' was directed by which Senegalese filmmaker?",
+      "options": [
+        "Ousmane Sembène",
+        "Mati Diop",
+        "Alain Gomis",
+        "Djibril Diop Mambéty"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "art_014",
+      "question": "Which South African film won the Academy Award for Best Foreign Language Film in 2006?",
+      "options": [
+        "District 9",
+        "Tsotsi",
+        "Yesterday",
+        "U-Carmen eKhayelitsha"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_015",
+      "question": "Burna Boy's Grammy-winning album released in 2020 is titled what?",
+      "options": [
+        "African Giant",
+        "Outside",
+        "Twice as Tall",
+        "Love, Damini"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_016",
+      "question": "What is Burna Boy's popular self-proclaimed nickname?",
+      "options": [
+        "Odogwu",
+        "African Giant",
+        "Starboy",
+        "Baddest"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_017",
+      "question": "Which Kenyan author wrote 'Petals of Blood' and advocates for writing in indigenous African languages?",
+      "options": [
+        "Binyavanga Wainaina",
+        "Ngũgĩ wa Thiong'o",
+        "Meja Mwangi",
+        "Grace Ogot"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_018",
+      "question": "What is the title of the acclaimed painting of a Nigerian princess by Ben Enwonwu, sometimes called the 'African Mona Lisa'?",
+      "options": [
+        "Tutu",
+        "Agbogho Mmuo",
+        "Negritude",
+        "The Dancers"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_019",
+      "question": "Which Ghanaian sculptor is famous for creating massive tapestry-like installations from aluminum bottle caps?",
+      "options": [
+        "Ibrahim Mahama",
+        "Ablade Glover",
+        "El Anatsui",
+        "Owusu-Ankomah"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_020",
+      "question": "Who is the South African comedian that authored the bestselling memoir 'Born a Crime'?",
+      "options": [
+        "Loyiso Gola",
+        "Trevor Noah",
+        "Kagiso Lediga",
+        "Riaad Moosa"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_021",
+      "question": "Which Senegalese musician is famous for popularizing the 'Mbalax' music style?",
+      "options": [
+        "Baaba Maal",
+        "Ismaël Lô",
+        "Youssou N'Dour",
+        "Cheikh Lô"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_022",
+      "question": "Who wrote the play 'Death and the King's Horseman'?",
+      "options": [
+        "Femi Osofisan",
+        "Wole Soyinka",
+        "Ola Rotimi",
+        "J.P. Clark"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_023",
+      "question": "Which Tanzanian-born British author won the Nobel Prize in Literature in 2021?",
+      "options": [
+        "Abdulrazak Gurnah",
+        "Nuruddin Farah",
+        "Ben Okri",
+        "Michael Ondaatje"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_024",
+      "question": "Which Congolese music genre, characterized by upbeat guitar rhythms, was popularized by Franco Luambo and TPOK Jazz?",
+      "options": [
+        "Kwaito",
+        "Soukous",
+        "Makossa",
+        "Mbalax"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_025",
+      "question": "Fela Kuti created a commune and recording studio complex in Lagos known as what?",
+      "options": [
+        "The Shrine",
+        "Kalakuta Republic",
+        "Afro Spot",
+        "Lagos State Republic"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_026",
+      "question": "What is the name of the prestigious pan-African film festival held biennially in Ouagadougou, Burkina Faso?",
+      "options": [
+        "Durban International Film Festival",
+        "AFRIFF",
+        "FESPACO",
+        "Carthage Film Festival"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_027",
+      "question": "Which Nigerian actress and producer directed the record-breaking film 'A Tribe Called Judah'?",
+      "options": [
+        "Genevieve Nnaji",
+        "Mo Abudu",
+        "Funke Akindele",
+        "Kemi Adetiba"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_028",
+      "question": "Which 1966 film by Ousmane Sembène is often considered the first sub-Saharan African feature film?",
+      "options": [
+        "Xala",
+        "Mandabi",
+        "Camp de Thiaroye",
+        "Black Girl"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "art_029",
+      "question": "Who is the legendary South African trumpeter known as the 'father of South African jazz'?",
+      "options": [
+        "Hugh Masekela",
+        "Abdullah Ibrahim",
+        "Kippie Moeketsi",
+        "Jonas Gwangwa"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_030",
+      "question": "Which Nigerian musician released the globally successful album 'Made in Lagos' in 2020?",
+      "options": [
+        "Davido",
+        "Olamide",
+        "Wizkid",
+        "Rema"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_031",
+      "question": "Which Francophone African author wrote the poignant novel 'So Long a Letter'?",
+      "options": [
+        "Ken Bugul",
+        "Aminata Sow Fall",
+        "Mariama Bâ",
+        "Fatou Diome"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_032",
+      "question": "Which South African vocal group gained worldwide fame after collaborating with Paul Simon on the album 'Graceland'?",
+      "options": [
+        "Ladysmith Black Mambazo",
+        "Mahlathini and the Mahotella Queens",
+        "Soweto Gospel Choir",
+        "Mango Groove"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_033",
+      "question": "What is the moniker of Nigerian Afrobeats star Davido?",
+      "options": [
+        "Starboy",
+        "OBO",
+        "African Giant",
+        "Asake"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_034",
+      "question": "Which Zimbabwean author wrote the critically acclaimed novel 'Nervous Conditions'?",
+      "options": [
+        "Yvonne Vera",
+        "Petina Gappah",
+        "Tsitsi Dangarembga",
+        "NoViolet Bulawayo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_035",
+      "question": "Which Nigerian author won the Booker Prize for his novel 'The Famished Road'?",
+      "options": [
+        "Ben Okri",
+        "Teju Cole",
+        "Helon Habila",
+        "Chigozie Obioma"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_036",
+      "question": "The late South African singer Brenda Fassie was widely known as the Queen of what?",
+      "options": [
+        "Kwaito",
+        "African Pop",
+        "Amapiano",
+        "Gqom"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_037",
+      "question": "In which country did the popular music genre 'Bongo Flava' originate?",
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Rwanda"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_038",
+      "question": "Who directed 'Lionheart', Nigeria's first-ever submission for the Oscars?",
+      "options": [
+        "Kemi Adetiba",
+        "Kunle Afolayan",
+        "Genevieve Nnaji",
+        "Tunde Kelani"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_039",
+      "question": "Which contemporary Senegalese-French director won the Grand Prix at Cannes for the film 'Atlantics'?",
+      "options": [
+        "Alice Diop",
+        "Mati Diop",
+        "Maïmouna Doucouré",
+        "Alain Gomis"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_040",
+      "question": "Which Congolese singer is known as 'Le Grand Mopao' and is a key figure in modern Soukous?",
+      "options": [
+        "Fally Ipupa",
+        "Koffi Olomide",
+        "Papa Wemba",
+        "Awilo Longomba"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_041",
+      "question": "Which South African author won the Booker Prize twice, for 'Life & Times of Michael K' and 'Disgrace'?",
+      "options": [
+        "Nadine Gordimer",
+        "Athol Fugard",
+        "J.M. Coetzee",
+        "Zakes Mda"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_042",
+      "question": "The song 'Water', which won the inaugural Grammy for Best African Music Performance, was sung by which artist?",
+      "options": [
+        "Ayra Starr",
+        "Tyla",
+        "Amaarae",
+        "Sho Madjozi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_043",
+      "question": "Which renowned Nigerian playwright and actor directed the Yoruba epic film 'Anikulapo'?",
+      "options": [
+        "Tunde Kelani",
+        "Kunle Afolayan",
+        "Femi Adebayo",
+        "Adebayo Salami"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_044",
+      "question": "Which iconic Malian musician collaborated with Ry Cooder on the Grammy-winning album 'Talking Timbuktu'?",
+      "options": [
+        "Salif Keita",
+        "Toumani Diabaté",
+        "Ali Farka Touré",
+        "Oumou Sangaré"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_045",
+      "question": "Who wrote 'The Joys of Motherhood', a classic of African feminist literature?",
+      "options": [
+        "Buchi Emecheta",
+        "Flora Nwapa",
+        "Ama Ata Aidoo",
+        "Bessie Head"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_046",
+      "question": "Which Cape Verdean singer was affectionately known as the 'Barefoot Diva'?",
+      "options": [
+        "Mayra Andrade",
+        "Lura",
+        "Cesária Évora",
+        "Sara Tavares"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_047",
+      "question": "Which African city is famously home to the monumental 'African Renaissance Monument'?",
+      "options": [
+        "Nairobi",
+        "Dakar",
+        "Accra",
+        "Johannesburg"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_048",
+      "question": "Who is the protagonist of Chinua Achebe's 'Things Fall Apart'?",
+      "options": [
+        "Obierika",
+        "Okonkwo",
+        "Ezeulu",
+        "Nwoye"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_049",
+      "question": "Which famous Nigerian artist is known for his 'Ariya' style paintings and celebrating Yoruba folklore?",
+      "options": [
+        "Bruce Onobrakpeya",
+        "Twin Seven Seven",
+        "Kolade Oshinowo",
+        "Yusuf Grillo"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_050",
+      "question": "Which Kenyan film directed by Wanuri Kahiu was initially banned in Kenya but received critical acclaim at Cannes?",
+      "options": [
+        "Supa Modo",
+        "Nairobi Half Life",
+        "Rafiki",
+        "The First Grader"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_051",
+      "question": "Which South African DJ and producer won a Grammy for Best Dance/Electronic Album with 'Subconsciously'?",
+      "options": [
+        "DJ Maphorisa",
+        "Master KG",
+        "Black Coffee",
+        "Kabza De Small"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_052",
+      "question": "Tanzanian artist Diamond Platnumz is the founder of which record label?",
+      "options": [
+        "Mavin Records",
+        "WCB Wasafi",
+        "YBNL Nation",
+        "Ghetto Ruff"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_053",
+      "question": "Who wrote the classic Guinean autobiography 'The African Child' (L'Enfant Noir)?",
+      "options": [
+        "Camara Laye",
+        "Sembène Ousmane",
+        "Léopold Sédar Senghor",
+        "Ferdinand Oyono"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_054",
+      "question": "Which Ivorian reggae star released the hit song 'Brigadier Sabari'?",
+      "options": [
+        "Tiken Jah Fakoly",
+        "Alpha Blondy",
+        "Ismaël Isaac",
+        "Serge Kassy"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_055",
+      "question": "Which Congolese singer is famous for his exceptional dance moves and the album 'Tokooos'?",
+      "options": [
+        "Koffi Olomide",
+        "Innos'B",
+        "Fally Ipupa",
+        "Papa Wemba"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_056",
+      "question": "Which country is the author Bessie Head most associated with, having lived there in exile and written 'When Rain Clouds Gather'?",
+      "options": [
+        "Namibia",
+        "Zimbabwe",
+        "Botswana",
+        "Lesotho"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_057",
+      "question": "What is the name of the acclaimed film directed by Chiwetel Ejiofor based on the memoir of Malawian William Kamkwamba?",
+      "options": [
+        "The Good Lie",
+        "Queen of Katwe",
+        "The Boy Who Harnessed the Wind",
+        "Beasts of No Nation"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_058",
+      "question": "Which genre of upbeat Nigerian popular music was heavily dominant in the 1970s and 1980s, pioneered by artists like King Sunny Ade?",
+      "options": [
+        "Afrobeats",
+        "Jùjú",
+        "Fuji",
+        "Apala"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_059",
+      "question": "Who wrote the novel 'Stay with Me', which was shortlisted for the Women's Prize for Fiction?",
+      "options": [
+        "Ayobami Adebayo",
+        "Chika Unigwe",
+        "Sefi Atta",
+        "Lola Shoneyin"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_060",
+      "question": "Which award-winning Mauritanian film directed by Abderrahmane Sissako tells the story of a town taken over by religious fundamentalists?",
+      "options": [
+        "Bamako",
+        "Timbuktu",
+        "Waiting for Happiness",
+        "Life on Earth"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_061",
+      "question": "Nigerian artist Rema achieved massive global success with which remix featuring Selena Gomez?",
+      "options": [
+        "Dumebi",
+        "Soundgasm",
+        "Calm Down",
+        "Iron Man"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_062",
+      "question": "Who wrote the classic play 'Sizwe Banzi Is Dead' in collaboration with John Kani and Winston Ntshona?",
+      "options": [
+        "Athol Fugard",
+        "Wole Soyinka",
+        "Ngũgĩ wa Thiong'o",
+        "Zakes Mda"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_063",
+      "question": "Which renowned Nigerian artist and architect is known as the 'master of African modernism' and founded the New Culture Studios?",
+      "options": [
+        "Ben Enwonwu",
+        "Demas Nwoko",
+        "Yusuf Grillo",
+        "Uche Okeke"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_064",
+      "question": "The annual music festival held in Lagos to celebrate the life and music of Fela Kuti is called what?",
+      "options": [
+        "Felabration",
+        "AfroNation",
+        "Gidi Culture Fest",
+        "Lagos Music Festival"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_065",
+      "question": "Which famous Cameroonian musician is known for the hit 'Soul Makossa', famously sampled by Michael Jackson?",
+      "options": [
+        "Richard Bona",
+        "Manu Dibango",
+        "Petit-Pays",
+        "Wes Madiko"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_066",
+      "question": "Which Somali author wrote the acclaimed novel 'Maps'?",
+      "options": [
+        "Nadifa Mohamed",
+        "Nuruddin Farah",
+        "Waris Dirie",
+        "Awale Adam"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_067",
+      "question": "Which Congolese painter is known for his colorful, text-filled paintings that comment on everyday life and politics?",
+      "options": [
+        "Chéri Samba",
+        "Bodys Isek Kingelez",
+        "Pili Pili Mulongoy",
+        "Moke"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_068",
+      "question": "Which popular Ghanaian genre combines traditional Akan rhythms with Western instruments?",
+      "options": [
+        "Hiplife",
+        "Highlife",
+        "Azonto",
+        "Kpanlogo"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_069",
+      "question": "Which South African Nobel laureate wrote 'Burger's Daughter'?",
+      "options": [
+        "J.M. Coetzee",
+        "Athol Fugard",
+        "Nadine Gordimer",
+        "Alan Paton"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_070",
+      "question": "The movie 'Black Panther' heavily featured a score and curated album by which prominent rapper with strong ties to African music producers?",
+      "options": [
+        "Drake",
+        "J. Cole",
+        "Kendrick Lamar",
+        "Travis Scott"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_071",
+      "question": "Who wrote 'The Secret Lives of Baba Segi's Wives'?",
+      "options": [
+        "Lola Shoneyin",
+        "Sefi Atta",
+        "Buchi Emecheta",
+        "Tomi Adeyemi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_072",
+      "question": "Which Malian actor and griot played a prominent role in Peter Brook's 'The Mahabharata' and many African films?",
+      "options": [
+        "Sotigui Kouyaté",
+        "Balla Moussa Keïta",
+        "Ismaël Isaac",
+        "Mamadou Dioume"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_073",
+      "question": "Which hit song by Master KG featuring Nomcebo Zikode became a global viral dance sensation in 2020?",
+      "options": [
+        "Jerusalema",
+        "John Vuli Gate",
+        "Sister Bettina",
+        "Vul'indlela"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_074",
+      "question": "Who is the legendary Egyptian singer often referred to as the 'Star of the East'?",
+      "options": [
+        "Fairuz",
+        "Umm Kulthum",
+        "Warda Al-Jazairia",
+        "Asmahan"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_075",
+      "question": "Which contemporary Nigerian artist produces large-scale hyper-realistic portraits using charcoal and graphite?",
+      "options": [
+        "Victor Ehikhamenor",
+        "Kelvin Okafor",
+        "Ken Nwadiogbu",
+        "Arinze Stanley"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "art_076",
+      "question": "The classic film 'Yeelen' (Brightness) which won the Jury Prize at Cannes in 1987 was directed by whom?",
+      "options": [
+        "Idrissa Ouédraogo",
+        "Souleymane Cissé",
+        "Gaston Kaboré",
+        "Djibril Diop Mambéty"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_077",
+      "question": "Which classic novel by Ayi Kwei Armah deals with corruption in post-independence Ghana?",
+      "options": [
+        "Two Thousand Seasons",
+        "The Healers",
+        "The Beautyful Ones Are Not Yet Born",
+        "Fragments"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_078",
+      "question": "Which famous Nigerian female singer-songwriter is known for hits like 'Joromi' and 'Duduke'?",
+      "options": [
+        "Yemi Alade",
+        "Tiwa Savage",
+        "Simi",
+        "Tems"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_079",
+      "question": "The Booker Prize-winning novel 'The Promise' by Damon Galgut is set in which country?",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_080",
+      "question": "Who directed the critically acclaimed 2014 film 'Timbuktu'?",
+      "options": [
+        "Abderrahmane Sissako",
+        "Mahamat-Saleh Haroun",
+        "Ousmane Sembène",
+        "Flora Gomes"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_081",
+      "question": "Which African music genre, blending hip-hop and local sounds, originated in the townships of South Africa in the 1990s?",
+      "options": [
+        "Gqom",
+        "Kwaito",
+        "Isicathamiya",
+        "Pantsula"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_082",
+      "question": "Which popular Nigerian actor is famous for his meme-generating comedic roles as 'Aki'?",
+      "options": [
+        "Osita Iheme",
+        "Chinedu Ikedieze",
+        "Nkem Owoh",
+        "John Okafor"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_083",
+      "question": "Who wrote 'A Question of Power', considered one of the most important African novels of the 20th century?",
+      "options": [
+        "Bessie Head",
+        "Nadine Gordimer",
+        "Ama Ata Aidoo",
+        "Mariama Bâ"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_084",
+      "question": "Which pioneering female filmmaker directed 'Kadara' (Destiny) in 1980?",
+      "options": [
+        "Amaka Igwe",
+        "Bolanle Austen-Peters",
+        "Lola Fani-Kayode",
+        "Chief Mrs. Oyenike Mba (or similar pioneers - actually it was Lola Fani-Kayode for TV, but let's use a clear one) Which pioneer of Nollywood directed the TV series 'Checkmate'?"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_084_fixed",
+      "question": "Which pioneering Nigerian filmmaker and producer created the iconic TV series 'Checkmate'?",
+      "options": [
+        "Amaka Igwe",
+        "Zeb Ejiro",
+        "Chico Ejiro",
+        "Tunde Kelani"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_085",
+      "question": "Which internationally acclaimed artist from South Africa is known for his animated films based on charcoal drawings?",
+      "options": [
+        "Gerard Sekoto",
+        "Irma Stern",
+        "William Kentridge",
+        "Marlene Dumas"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_086",
+      "question": "What is the title of the popular young adult fantasy novel by Tomi Adeyemi that draws heavily on Yoruba mythology?",
+      "options": [
+        "Children of Blood and Bone",
+        "Raybearer",
+        "Akata Witch",
+        "The Gilded Ones"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_087",
+      "question": "Who is often referred to as the 'King of Fuji Music' in Nigeria?",
+      "options": [
+        "Wasiu Alabi Pasuma",
+        "Saheed Osupa",
+        "Sikiru Ayinde Barrister",
+        "KWAM 1"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "art_088",
+      "question": "Which Zimbabwean musician, affectionately known as 'Tuku', released over 60 albums in his lifetime?",
+      "options": [
+        "Thomas Mapfumo",
+        "Oliver Mtukudzi",
+        "Jah Prayzah",
+        "Alick Macheso"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_089",
+      "question": "Which Senegalese-French author won the Prix Goncourt in 2021 for the novel 'The Most Secret Memory of Men'?",
+      "options": [
+        "David Diop",
+        "Alain Mabanckou",
+        "Mohamed Mbougar Sarr",
+        "Fatou Diome"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_090",
+      "question": "Which Nigerian author wrote the acclaimed novel 'The Girl with the Louding Voice'?",
+      "options": [
+        "Abi Daré",
+        "Oyinkan Braithwaite",
+        "Ayobami Adebayo",
+        "Chigozie Obioma"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_091",
+      "question": "The hit 'Essence', which charted on the Billboard Hot 100, is a collaboration between Wizkid and which artist?",
+      "options": [
+        "Tems",
+        "Ayra Starr",
+        "Tiwa Savage",
+        "Simi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_092",
+      "question": "Which film by South African director Neill Blomkamp is a sci-fi allegory for apartheid?",
+      "options": [
+        "Elysium",
+        "Chappie",
+        "District 9",
+        "Tsotsi"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_093",
+      "question": "The influential art movement known as the 'Zaria Rebels' in Nigeria included which prominent artist?",
+      "options": [
+        "Ben Enwonwu",
+        "Uche Okeke",
+        "El Anatsui",
+        "Bruce Onobrakpeya"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_094",
+      "question": "Who is the Ivorian author of the satirical novel 'Allah is Not Obliged'?",
+      "options": [
+        "Ahmadou Kourouma",
+        "Camara Laye",
+        "Mongo Beti",
+        "Cheikh Hamidou Kane"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_095",
+      "question": "Which legendary Ethiopian musician is known as the 'father of Ethio-jazz'?",
+      "options": [
+        "Mahmoud Ahmed",
+        "Mulatu Astatke",
+        "Aster Aweke",
+        "Gigi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_096",
+      "question": "Which novel by Yaa Gyasi traces the descendants of two Ghanaian half-sisters over 300 years?",
+      "options": [
+        "Transcendent Kingdom",
+        "Homegoing",
+        "Kintu",
+        "The Old Drift"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_097",
+      "question": "What is the name of the prestigious literary award specifically for African writers, founded by Mo Ibrahim?",
+      "options": [
+        "Caine Prize",
+        "NLNG Prize",
+        "Wole Soyinka Prize",
+        "Etisalat Prize"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_098",
+      "question": "Which Chadian director made the acclaimed film 'A Screaming Man', which won the Jury Prize at Cannes in 2010?",
+      "options": [
+        "Mahamat-Saleh Haroun",
+        "Abderrahmane Sissako",
+        "Flora Gomes",
+        "Dani Kouyaté"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_099",
+      "question": "The album 'King of Boys' is associated with a highly successful Nollywood movie directed by whom?",
+      "options": [
+        "Jade Osiberu",
+        "Kemi Adetiba",
+        "Mo Abudu",
+        "Tope Oshin"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_100",
+      "question": "Which popular music genre originated in the streets of Luanda, Angola, characterized by a fast, energetic electronic beat?",
+      "options": [
+        "Kuduro",
+        "Semba",
+        "Kizomba",
+        "Tarrachinha"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_101",
+      "question": "Who authored the play 'The Lion and the Jewel'?",
+      "options": [
+        "Wole Soyinka",
+        "J.P. Clark",
+        "Femi Osofisan",
+        "Ola Rotimi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_102",
+      "question": "Which prominent African director helmed the historical drama 'Camp de Thiaroye'?",
+      "options": [
+        "Med Hondo",
+        "Ousmane Sembène",
+        "Safi Faye",
+        "Desmond Dube"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_103",
+      "question": "What was the moniker of the pioneering Nigerian highlife musician E.T. Mensah?",
+      "options": [
+        "King of Highlife",
+        "The Highlife Wizard",
+        "Chief of Highlife",
+        "The Godfather of Highlife"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_104",
+      "question": "Which Moroccan-born writer won the Prix Goncourt in 1987 for 'The Sacred Night'?",
+      "options": [
+        "Driss Chraïbi",
+        "Tahar Ben Jelloun",
+        "Leïla Slimani",
+        "Abdellatif Laâbi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_105",
+      "question": "Which artist is famous for the hit song 'Zangalewa', which Shakira sampled for 'Waka Waka'?",
+      "options": [
+        "Kassav'",
+        "Golden Sounds",
+        "Zaïko Langa Langa",
+        "Les Têtes Brulées"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_106",
+      "question": "Who is the acclaimed director of 'Moolaadé', a film tackling the issue of female genital mutilation?",
+      "options": [
+        "Souleymane Cissé",
+        "Ousmane Sembène",
+        "Idrissa Ouédraogo",
+        "Moussa Sene Absa"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_107",
+      "question": "Which Nigerian author wrote the book 'My Sister, the Serial Killer'?",
+      "options": [
+        "Oyinkan Braithwaite",
+        "Abi Daré",
+        "Chibundu Onuzo",
+        "Helen Oyeyemi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_108",
+      "question": "Which Egyptian actor gained international fame starring in 'Lawrence of Arabia' and 'Doctor Zhivago'?",
+      "options": [
+        "Amr Waked",
+        "Khaled El Nabawy",
+        "Omar Sharif",
+        "Rami Malek"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_109",
+      "question": "Which genre is the legendary musician Franco Luambo associated with?",
+      "options": [
+        "Rumba / Soukous",
+        "Makossa",
+        "Mbalax",
+        "Highlife"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_110",
+      "question": "The critically acclaimed novel 'Kintu' was written by which Ugandan author?",
+      "options": [
+        "Goretti Kyomuhendo",
+        "Jennifer Nansubuga Makumbi",
+        "Doreen Baingana",
+        "Monica Arac de Nyeko"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_111",
+      "question": "Which Nigerian music executive and producer is the founder of Mavin Records?",
+      "options": [
+        "Olamide",
+        "Don Jazzy",
+        "E-Money",
+        "Larry Gaaga"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_112",
+      "question": "What is the nickname of the popular Malian singer Oumou Sangaré?",
+      "options": [
+        "The Nightingale of Bamako",
+        "The Songbird of Wassoulou",
+        "The Queen of Mali",
+        "The Voice of the Desert"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_113",
+      "question": "Who wrote 'We Need New Names', a novel that was shortlisted for the Man Booker Prize in 2013?",
+      "options": [
+        "Tsitsi Dangarembga",
+        "Noviolet Bulawayo",
+        "Petina Gappah",
+        "Yvonne Vera"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_114",
+      "question": "The historical epic 'Sarraounia', directed by Med Hondo, is about a queen from which present-day country?",
+      "options": [
+        "Nigeria",
+        "Niger",
+        "Mali",
+        "Senegal"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_115",
+      "question": "Who is the author of 'The Palm-Wine Drinkard'?",
+      "options": [
+        "Cyprian Ekwensi",
+        "Amos Tutuola",
+        "Wole Soyinka",
+        "Elechi Amadi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_116",
+      "question": "Which contemporary British-Nigerian artist paints large-scale, vibrant portraits of Black figures, often with historical or mythological references?",
+      "options": [
+        "Yinka Shonibare",
+        "Toyin Ojih Odutola",
+        "Njideka Akunyili Crosby",
+        "Lynette Yiadom-Boakye"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_117",
+      "question": "Which Rwandan-French author wrote the novel 'Small Country' (Petit Pays)?",
+      "options": [
+        "Scholastique Mukasonga",
+        "Gaël Faye",
+        "Alain Mabanckou",
+        "In Koli Jean Bofane"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_118",
+      "question": "Which iconic South African play by Athol Fugard explores the lives of two brothers, one light-skinned and one dark-skinned, during apartheid?",
+      "options": [
+        "Boesman and Lena",
+        "Master Harold...and the Boys",
+        "The Blood Knot",
+        "My Children! My Africa!"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_119",
+      "question": "Which Nigerian actress starred in and produced 'The Wedding Party', one of the highest-grossing Nollywood films?",
+      "options": [
+        "Genevieve Nnaji",
+        "Omotola Jalade Ekeinde",
+        "Mo Abudu",
+        "Adesua Etomi"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_120",
+      "question": "The traditional thumb piano of the Shona people of Zimbabwe, heavily featured in Oliver Mtukudzi's music, is called what?",
+      "options": [
+        "Kora",
+        "Balafon",
+        "Mbira",
+        "Djembe"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_121",
+      "question": "Which internationally renowned Senegalese sculptor created the giant bronze 'African Renaissance Monument' (designed by Pierre Goudiaby Atepa)?",
+      "options": [
+        "Ousmane Sow",
+        "Ndary Lo",
+        "Moustapha Dimé",
+        "Seni Awa Camara"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_122",
+      "question": "Who wrote the classic post-colonial novel 'A Grain of Wheat'?",
+      "options": [
+        "Chinua Achebe",
+        "Ngũgĩ wa Thiong'o",
+        "Ayi Kwei Armah",
+        "Meja Mwangi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_123",
+      "question": "Which famous Algerian Rai singer had international hits like 'Didi' and 'Aïcha'?",
+      "options": [
+        "Cheb Mami",
+        "Khaled",
+        "Faudel",
+        "Rachid Taha"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_124",
+      "question": "Which film by Flora Gomes was the first feature film from Guinea-Bissau?",
+      "options": [
+        "Nha Fala",
+        "Mortu Nega",
+        "Udju Azul di Yonta",
+        "Po di Sangui"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_125",
+      "question": "Which Congolese author wrote the award-winning novel 'Tram 83'?",
+      "options": [
+        "Alain Mabanckou",
+        "Fiston Mwanza Mujila",
+        "In Koli Jean Bofane",
+        "Emmanuel Dongala"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_126",
+      "question": "Which prominent Kenyan actress won an Academy Award for her role in '12 Years a Slave'?",
+      "options": [
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Florence Kasumba",
+        "Edi Gathegi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_127",
+      "question": "Which popular Ghanaian dance and music style went viral globally around 2011, notably promoted by artist Fuse ODG?",
+      "options": [
+        "Alkayida",
+        "Azonto",
+        "Hiplife",
+        "Shaku Shaku"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_128",
+      "question": "The legendary album 'Unknown Soldier' was released by which Nigerian artist following a military raid on his compound?",
+      "options": [
+        "King Sunny Ade",
+        "Fela Kuti",
+        "Majek Fashek",
+        "Victor Uwaifo"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_129",
+      "question": "Which Moroccan author wrote the autobiographical novel 'For Bread Alone'?",
+      "options": [
+        "Tahar Ben Jelloun",
+        "Mohamed Choukri",
+        "Driss Chraïbi",
+        "Abdellah Taïa"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_130",
+      "question": "Which Cameroonian director helmed the acclaimed 1992 film 'Quartier Mozart'?",
+      "options": [
+        "Jean-Pierre Bekolo",
+        "Bassek Ba Kobhio",
+        "Jean-Marie Teno",
+        "Thérèse Sita-Bella"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_131",
+      "question": "Which iconic Egyptian singer was affectionately called 'The Nightingale of the Nile' (though usually Abdel Halim Hafez was the Dark Nightingale)?",
+      "options": [
+        "Mohamed Abdel Wahab",
+        "Abdel Halim Hafez",
+        "Farid al-Atrash",
+        "Amr Diab"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_132",
+      "question": "Who authored the play 'The Island', set in Robben Island prison?",
+      "options": [
+        "Athol Fugard, John Kani, and Winston Ntshona",
+        "Mbongeni Ngema and Percy Mtwa",
+        "Wole Soyinka and J.P. Clark",
+        "Zakes Mda and Lara Foot"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_133",
+      "question": "Which contemporary Nigerian artist uses Dutch wax printed cotton textiles in his installations to explore colonialism?",
+      "options": [
+        "Victor Ehikhamenor",
+        "Yinka Shonibare",
+        "Emeka Ogboh",
+        "Ndidi Dike"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_134",
+      "question": "Which famous music duo from Mali consists of Amadou Bagayoko and Mariam Doumbia?",
+      "options": [
+        "Amadou & Mariam",
+        "Touré Kunda",
+        "Tinariwen",
+        "Les Ambassadeurs"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_135",
+      "question": "The classic novel 'Season of Migration to the North' was written by which Sudanese author?",
+      "options": [
+        "Leila Aboulela",
+        "Tayeb Salih",
+        "Jamal Mahjoub",
+        "Amir Taj Sir"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_136",
+      "question": "Which Nigerian filmmaker directed the thriller 'The Figurine', which is often credited with starting the 'New Nollywood' era?",
+      "options": [
+        "Kunle Afolayan",
+        "Tunde Kelani",
+        "Kemi Adetiba",
+        "Niyi Akinmolayan"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_137",
+      "question": "Which music genre, originating in the townships of Durban, is known for its heavy, minimalist beats?",
+      "options": [
+        "Amapiano",
+        "Kwaito",
+        "Gqom",
+        "Pantsula"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_138",
+      "question": "Who wrote 'A Long Way Gone', a memoir about his experience as a child soldier in Sierra Leone?",
+      "options": [
+        "Ishmael Beah",
+        "Aminatta Forna",
+        "Syl Cheney-Coker",
+        "Namwali Serpell"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_139",
+      "question": "Which acclaimed Senegalese author won the Neustadt International Prize for Literature and wrote 'Murambi, The Book of Bones'?",
+      "options": [
+        "David Diop",
+        "Boubacar Boris Diop",
+        "Léopold Sédar Senghor",
+        "Ousmane Sembène"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_140",
+      "question": "Which South African artist's work often features alter-egos, confronting issues of race and gender through photography and sculpture?",
+      "options": [
+        "Zanele Muholi",
+        "Mary Sibande",
+        "Nandipha Mntambo",
+        "Tracey Rose"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_141",
+      "question": "Which Tuareg band from northern Mali won a Grammy Award and is famous for their 'desert blues' sound?",
+      "options": [
+        "Tinariwen",
+        "Terakaft",
+        "Tartit",
+        "Tamikrest"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_142",
+      "question": "Which Nigerian film set a Guinness World Record for the largest movie premiere?",
+      "options": [
+        "Omo Ghetto: The Saga",
+        "The Wedding Party",
+        "10 Days in Sun City",
+        "Chief Daddy"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_143",
+      "question": "Who is the author of 'The Old Drift', a multi-generational epic set in Zambia?",
+      "options": [
+        "Namwali Serpell",
+        "NoViolet Bulawayo",
+        "Yaa Gyasi",
+        "Petina Gappah"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_144",
+      "question": "Which prominent Angolan singer won a Grammy for her album 'Djin Djin' (Wait, Angélique Kidjo is Beninese. Let's fix). Which Angolan musician is known as the 'King of Kizomba'?",
+      "options": [
+        "Bonga",
+        "Eduardo Paim",
+        "Paulo Flores",
+        "Matias Damásio"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_145",
+      "question": "Which novel by Nigerian author Chigozie Obioma was shortlisted for the Booker Prize in 2015?",
+      "options": [
+        "The Fishermen",
+        "An Orchestra of Minorities",
+        "Welcome to Lagos",
+        "Under the Udala Trees"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_146",
+      "question": "Which Ivorian music genre, popularized by Magic System, blends zouglou with pop elements?",
+      "options": [
+        "Coupé-Décalé",
+        "Zouglou",
+        "Makossa",
+        "Zouk"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_147",
+      "question": "Which African city hosts the internationally renowned Dak'Art, the Biennale of Contemporary African Art?",
+      "options": [
+        "Accra",
+        "Dakar",
+        "Lagos",
+        "Johannesburg"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_148",
+      "question": "Who wrote 'The Concubine', a classic novel of early Nigerian literature?",
+      "options": [
+        "Elechi Amadi",
+        "Amos Tutuola",
+        "Cyprian Ekwensi",
+        "Gabriel Okara"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_149",
+      "question": "Which acclaimed film by Raoul Peck tells the story of Patrice Lumumba?",
+      "options": [
+        "Lumumba",
+        "Sometimes in April",
+        "I Am Not Your Negro",
+        "Fatal Assistance"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_150",
+      "question": "The famous Makonde wood carvings traditionally originate from which region?",
+      "options": [
+        "Tanzania and Mozambique",
+        "Ghana and Togo",
+        "Nigeria and Benin",
+        "Senegal and Gambia"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_151",
+      "question": "Which Nigerian-born artist painted 'The Two Fridas' inspired portrait titled 'The Two Sisters'?",
+      "options": [
+        "Njideka Akunyili Crosby",
+        "Toyin Ojih Odutola",
+        "Peju Alatise",
+        "Wura-Natasha Ogunji"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_152",
+      "question": "Which Zambian-born director directed the acclaimed film 'I Am Not a Witch'?",
+      "options": [
+        "Rungano Nyoni",
+        "Wanuri Kahiu",
+        "Mati Diop",
+        "Apolline Traoré"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_153",
+      "question": "Who is the Ghanaian author of 'Homegoing'?",
+      "options": [
+        "Ayi Kwei Armah",
+        "Taiye Selasi",
+        "Yaa Gyasi",
+        "A.A. Atta"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_154",
+      "question": "Which South African choir won 'America's Got Talent' in 2019?",
+      "options": [
+        "Ndlovu Youth Choir",
+        "Soweto Gospel Choir",
+        "Ladysmith Black Mambazo",
+        "Bala Brothers"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_155",
+      "question": "Which Nigerian author wrote the futuristic novel 'Lagoon'?",
+      "options": [
+        "Nnedi Okorafor",
+        "Tomi Adeyemi",
+        "Tochi Onyebuchi",
+        "Suyi Davies Okungbowa"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_156",
+      "question": "Which iconic film by Djibril Diop Mambéty follows a young couple dreaming of moving to Paris?",
+      "options": [
+        "Hyènes",
+        "Touki Bouki",
+        "La Petite Vendeuse de Soleil",
+        "Le Franc"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_157",
+      "question": "Which musician from Benin is famous for combining funk, jazz, and traditional voodoo rhythms, forming the T.P. Orchestre Poly-Rythmo?",
+      "options": [
+        "Angélique Kidjo",
+        "Wally Badarou",
+        "Mélomé Clément",
+        "Gnonnas Pedro"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_158",
+      "question": "Which Egyptian Nobel Laureate wrote 'The Cairo Trilogy'?",
+      "options": [
+        "Taha Hussein",
+        "Naguib Mahfouz",
+        "Youssef Idris",
+        "Tawfiq al-Hakim"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_159",
+      "question": "Which Kenyan artist is renowned for his collages made from magazine clippings, commenting on consumerism?",
+      "options": [
+        "Michael Soi",
+        "Wangechi Mutu",
+        "Peterson Kamwathi",
+        "Cyrus Kabiru"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_160",
+      "question": "What is the title of Nelson Mandela's autobiography?",
+      "options": [
+        "Conversations with Myself",
+        "No Easy Walk to Freedom",
+        "Long Walk to Freedom",
+        "The Struggle is My Life"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_161",
+      "question": "Which renowned Senegalese poet and politician was a key figure in the Négritude movement?",
+      "options": [
+        "Cheikh Anta Diop",
+        "Léopold Sédar Senghor",
+        "Birago Diop",
+        "Aimé Césaire"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_162",
+      "question": "Which contemporary Nigerian musician is affectionately known as the 'African Giant'?",
+      "options": [
+        "Burna Boy",
+        "Davido",
+        "Wizkid",
+        "Olamide"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_163",
+      "question": "The critically acclaimed novel 'The Famished Road' features an abiku child. What is an abiku?",
+      "options": [
+        "An orphan",
+        "A spirit child",
+        "A king's heir",
+        "A warrior"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_164",
+      "question": "Which Ugandan film director is famous for his low-budget, high-action films produced in 'Wakaliwood'?",
+      "options": [
+        "Isaac Nabwana",
+        "Dilman Dila",
+        "Matt Bish",
+        "George Stanley Nsamba"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_165",
+      "question": "Which South African singer was known as the 'Princess of Africa'?",
+      "options": [
+        "Brenda Fassie",
+        "Yvonne Chaka Chaka",
+        "Miriam Makeba",
+        "Zandile Fassie"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_166",
+      "question": "Which acclaimed author wrote 'The Shadow of the Sun' detailing his experiences across Africa? (Note: Kapuscinski is Polish. Let's ask an African author). Who wrote 'Wizard of the Crow'?",
+      "options": [
+        "Ngũgĩ wa Thiong'o",
+        "Ayi Kwei Armah",
+        "Meja Mwangi",
+        "Kofi Awoonor"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_167",
+      "question": "What instrument is the Malian musician Toumani Diabaté world-famous for playing?",
+      "options": [
+        "Balafon",
+        "Djembe",
+        "Kora",
+        "Ngoni"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_168",
+      "question": "Which Nigerian filmmaker directed the 1996 classic 'Mortal Inheritance'?",
+      "options": [
+        "Andy Amenechi",
+        "Zeb Ejiro",
+        "Tade Ogidan",
+        "Amaka Igwe"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_169",
+      "question": "Which Cameroonian writer won the Prix Goncourt des Lycéens for 'Les Impatientes'?",
+      "options": [
+        "Calixthe Beyala",
+        "Léonora Miano",
+        "Djaïli Amadou Amal",
+        "Hemley Boum"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_170",
+      "question": "Which Sudanese-British author wrote 'The Translator'?",
+      "options": [
+        "Safia Elhillo",
+        "Leila Aboulela",
+        "Malkat ed-Dar Mohamed",
+        "Rania Mamoun"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_171",
+      "question": "Which internationally recognized artist from Benin creates art using repurposed jerricans?",
+      "options": [
+        "Romuald Hazoumè",
+        "Georges Adéagbo",
+        "Charly d'Almeida",
+        "Dominique Zinkpè"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_172",
+      "question": "Which famous piece of ancient African art is often associated with the Kingdom of Benin and was looted during the 1897 expedition?",
+      "options": [
+        "Nok Terracottas",
+        "Benin Bronzes",
+        "Ife Heads",
+        "Lydenburg Heads"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_173",
+      "question": "Which Egyptian feminist writer and doctor authored 'Woman at Point Zero'?",
+      "options": [
+        "Huda Sha'arawi",
+        "Nawal El Saadawi",
+        "Alifa Rifaat",
+        "Ahdaf Soueif"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_174",
+      "question": "Who is the legendary Congolese musician that formed the band Viva La Musica?",
+      "options": [
+        "Franco Luambo",
+        "Tabu Ley Rochereau",
+        "Papa Wemba",
+        "Koffi Olomide"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_175",
+      "question": "Which popular dance from Côte d'Ivoire was created to mock the ostentatious lifestyle of the diaspora?",
+      "options": [
+        "Coupé-Décalé",
+        "Mapouka",
+        "Zouglou",
+        "Logobi"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_176",
+      "question": "Which Nigerian actress starred as the lead in the original 'Living in Bondage' (1992), often cited as the film that birthed Nollywood?",
+      "options": [
+        "Liz Benson",
+        "Nnenna Nwabueze",
+        "Rita Dominic",
+        "Genevieve Nnaji"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_177",
+      "question": "Which acclaimed South African photographer is known for his documentation of marginalized communities during and after apartheid?",
+      "options": [
+        "David Goldblatt",
+        "Alf Kumalo",
+        "Peter Magubane",
+        "Santu Mofokeng"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_178",
+      "question": "Who authored the play 'Anowa'?",
+      "options": [
+        "Efua Sutherland",
+        "Ama Ata Aidoo",
+        "Tsitsi Dangarembga",
+        "Bessie Head"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_179",
+      "question": "Which Cape Verdean music genre is a soulful, melancholic style, famously sung by Cesária Évora?",
+      "options": [
+        "Coladeira",
+        "Batuque",
+        "Funaná",
+        "Morna"
+      ],
+      "correct_index": 3
+    },
+    {
+      "id": "art_180",
+      "question": "Which author from Mauritius won the Nobel Prize in Literature in 2008?",
+      "options": [
+        "J.M. G. Le Clézio",
+        "Ananda Devi",
+        "Nathacha Appanah",
+        "Shenaz Patel"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_181",
+      "question": "Which iconic Nigerian sculptor created the 'Anyanwu' statue that stands at the United Nations headquarters?",
+      "options": [
+        "Ben Enwonwu",
+        "Erhabor Emokpae",
+        "Lamidi Fakeye",
+        "Felix Idubor"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_182",
+      "question": "Which contemporary Ethiopian artist paints striking figures with heavily textured, swirling eyes?",
+      "options": [
+        "Elias Sime",
+        "Julie Mehretu",
+        "Dawit Abebe",
+        "Afewerk Tekle"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_182_fixed",
+      "question": "Which Ethiopian-American artist is famous for her large-scale, densely layered abstract paintings that resemble architectural plans?",
+      "options": [
+        "Julie Mehretu",
+        "Aida Muluneh",
+        "Wosene Worke Kosrof",
+        "Elias Sime"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_183",
+      "question": "Who wrote 'Changes: A Love Story', winning the Commonwealth Writers' Prize in 1992?",
+      "options": [
+        "Mariama Bâ",
+        "Ama Ata Aidoo",
+        "Buchi Emecheta",
+        "Flora Nwapa"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_184",
+      "question": "Which film by Ousmane Sembène heavily criticized the rising new bourgeoisie in Senegal using the metaphor of a curse of impotence?",
+      "options": [
+        "Xala",
+        "Moolaadé",
+        "Guelwaar",
+        "Emitai"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_185",
+      "question": "The famous song 'Pata Pata' was an international hit for which African artist?",
+      "options": [
+        "Yvonne Chaka Chaka",
+        "Miriam Makeba",
+        "Brenda Fassie",
+        "Letta Mbulu"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_186",
+      "question": "Who is the Nigerian filmmaker behind the hit Netflix original series 'Blood Sisters'?",
+      "options": [
+        "Mo Abudu",
+        "Biyi Bandele",
+        "Kemi Adetiba",
+        "Kunle Afolayan"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_187",
+      "question": "Which Moroccan artist is famous for integrating traditional Arabic calligraphy into contemporary art?",
+      "options": [
+        "Hassan Hajjaj",
+        "Farid Belkahia",
+        "Lalla Essaydi",
+        "Hassan Darsi"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_188",
+      "question": "Which Senegalese writer authored 'The Beggars' Strike'?",
+      "options": [
+        "Aminata Sow Fall",
+        "Mariama Bâ",
+        "Fatou Diome",
+        "Ken Bugul"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_189",
+      "question": "Which popular Zimbabwean musician pioneered the 'Chimurenga' music style, known as music of liberation?",
+      "options": [
+        "Oliver Mtukudzi",
+        "Thomas Mapfumo",
+        "Alick Macheso",
+        "Stella Chiweshe"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_190",
+      "question": "Which Nigerian author wrote the book 'Open City'?",
+      "options": [
+        "Teju Cole",
+        "Helon Habila",
+        "Chris Abani",
+        "Igoni Barrett"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_191",
+      "question": "Which Ghanaian artist creates striking portraits of Black subjects using a ballpoint pen?",
+      "options": [
+        "Enam Gbewonyo",
+        "Kofi Agorsor",
+        "Gideon Appah",
+        "Eniwaye Oluwaseyi (Wait, Nigerian) Let's ask: Which Ghanaian artist is known for his large-scale yellow paintings of crowds?"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_191_fixed",
+      "question": "Which renowned Ghanaian painter is famous for his vibrant, abstract depictions of bustling cityscapes and crowds using a palette knife?",
+      "options": [
+        "El Anatsui",
+        "Ablade Glover",
+        "Kofi Antubam",
+        "Ibrahim Mahama"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_192",
+      "question": "Which Congolese rumba star is known as 'Le Seigneur'?",
+      "options": [
+        "Papa Wemba",
+        "Koffi Olomide",
+        "Tabu Ley Rochereau",
+        "Franco Luambo"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_193",
+      "question": "Who directed the critically acclaimed 2022 movie 'The Woman King', which draws heavily on the history of the Dahomey Agojie?",
+      "options": [
+        "Mati Diop",
+        "Gina Prince-Bythewood",
+        "Ava DuVernay",
+        "Kasi Lemmons"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_194",
+      "question": "Which South African musical won multiple Tony Awards and is based on the life of a famous Zulu king?",
+      "options": [
+        "Sarafina!",
+        "Umoja",
+        "King Kong",
+        "The Lion King (though not strictly SA, let's use a real one). What was the name of the 1959 SA jazz opera?"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_194_fixed",
+      "question": "What was the name of the groundbreaking all-Black South African jazz opera that premiered in 1959?",
+      "options": [
+        "Sarafina!",
+        "Ipi Tombi",
+        "King Kong",
+        "Umoja"
+      ],
+      "correct_index": 2
+    },
+    {
+      "id": "art_195",
+      "question": "Which contemporary Nigerian writer authored 'Freshwater' and 'The Death of Vivek Oji'?",
+      "options": [
+        "Akwaeke Emezi",
+        "Tochi Onyebuchi",
+        "Helen Oyeyemi",
+        "Nnedi Okorafor"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_196",
+      "question": "Which film is largely considered the highest-grossing Nollywood film of all time as of 2024?",
+      "options": [
+        "The Wedding Party",
+        "A Tribe Called Judah",
+        "Omo Ghetto: The Saga",
+        "Battle on Buka Street"
+      ],
+      "correct_index": 1
+    },
+    {
+      "id": "art_197",
+      "question": "Which Ivorian artist is widely known for her large-scale, intricate thread installations?",
+      "options": [
+        "Joana Choumali",
+        "Valérie Oka",
+        "Ouattara Watts",
+        "Ernest Dükü"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_198",
+      "question": "Which Kenyan writer authored the critically acclaimed memoir 'One Day I Will Write About This Place'?",
+      "options": [
+        "Binyavanga Wainaina",
+        "Ngũgĩ wa Thiong'o",
+        "Yvonne Adhiambo Owuor",
+        "Okwiri Oduor"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_199",
+      "question": "Which genre of popular music originated in the 1920s in West Africa, integrating local rhythms with Western brass bands?",
+      "options": [
+        "Highlife",
+        "Afrobeat",
+        "Makossa",
+        "Jùjú"
+      ],
+      "correct_index": 0
+    },
+    {
+      "id": "art_200",
+      "question": "What is the pen name of the pioneering feminist Nigerian writer, Florence Nwanzuruahu Nkiru Nwapa?",
+      "options": [
+        "Zaynab Alkali",
+        "Buchi Emecheta",
+        "Flora Nwapa",
+        "Mabel Segun"
+      ],
+      "correct_index": 2
+    }
   ]
 }
-

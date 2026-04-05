@@ -7,1801 +7,3301 @@
     {
       "id": "bnd_001",
       "question": "Which river forms the natural boundary between Zambia and Zimbabwe?",
-      "options": ["Congo River", "Limpopo River", "Zambezi River", "Orange River"],
+      "options": [
+        "Congo River",
+        "Limpopo River",
+        "Zambezi River",
+        "Orange River"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_002",
       "question": "The Orange River forms part of the international border between South Africa and which other country?",
-      "options": ["Botswana", "Namibia", "Lesotho", "Zimbabwe"],
+      "options": [
+        "Botswana",
+        "Namibia",
+        "Lesotho",
+        "Zimbabwe"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_003",
       "question": "Which river forms the border between Senegal and Mauritania?",
-      "options": ["Niger River", "Gambia River", "Volta River", "Senegal River"],
+      "options": [
+        "Niger River",
+        "Gambia River",
+        "Volta River",
+        "Senegal River"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_004",
       "question": "The Limpopo River serves as a border between South Africa and which two countries?",
-      "options": ["Botswana and Zimbabwe", "Namibia and Botswana", "Mozambique and Eswatini", "Zimbabwe and Mozambique"],
+      "options": [
+        "Botswana and Zimbabwe",
+        "Namibia and Botswana",
+        "Mozambique and Eswatini",
+        "Zimbabwe and Mozambique"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_005",
       "question": "Which massive river forms a significant portion of the boundary between the Republic of the Congo and the Democratic Republic of the Congo?",
-      "options": ["Kasai River", "Ubangi River", "Congo River", "Lualaba River"],
+      "options": [
+        "Kasai River",
+        "Ubangi River",
+        "Congo River",
+        "Lualaba River"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_006",
       "question": "Victoria Falls, one of the world's largest waterfalls, sits on the border of which two countries?",
-      "options": ["Zambia and Zimbabwe", "Kenya and Tanzania", "Rwanda and Burundi", "South Africa and Lesotho"],
+      "options": [
+        "Zambia and Zimbabwe",
+        "Kenya and Tanzania",
+        "Rwanda and Burundi",
+        "South Africa and Lesotho"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_007",
       "question": "The Kunene River forms part of the border between Namibia and which country?",
-      "options": ["Botswana", "South Africa", "Angola", "Zambia"],
+      "options": [
+        "Botswana",
+        "South Africa",
+        "Angola",
+        "Zambia"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_008",
       "question": "Which river forms the northern boundary of the Democratic Republic of the Congo with the Central African Republic?",
-      "options": ["Ubangi River", "Congo River", "Kasai River", "Chari River"],
+      "options": [
+        "Ubangi River",
+        "Congo River",
+        "Kasai River",
+        "Chari River"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_009",
       "question": "The Ruvuma River forms the border between Tanzania and which country to its south?",
-      "options": ["Malawi", "Zambia", "Mozambique", "Kenya"],
+      "options": [
+        "Malawi",
+        "Zambia",
+        "Mozambique",
+        "Kenya"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_010",
       "question": "Lake Victoria is shared by three countries. Which of the following is NOT one of them?",
-      "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"],
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Rwanda"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_011",
       "question": "Lake Tanganyika forms the boundary between the Democratic Republic of the Congo and which country to its east?",
-      "options": ["Uganda", "Tanzania", "Rwanda", "Zambia"],
+      "options": [
+        "Uganda",
+        "Tanzania",
+        "Rwanda",
+        "Zambia"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_012",
       "question": "Which lake is shared by Malawi, Mozambique, and Tanzania?",
-      "options": ["Lake Victoria", "Lake Tanganyika", "Lake Kariba", "Lake Malawi (Lake Nyasa)"],
+      "options": [
+        "Lake Victoria",
+        "Lake Tanganyika",
+        "Lake Kariba",
+        "Lake Malawi"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_013",
       "question": "Lake Albert forms a border between Uganda and which other country?",
-      "options": ["Democratic Republic of the Congo", "Kenya", "South Sudan", "Rwanda"],
+      "options": [
+        "Democratic Republic of the Congo",
+        "Kenya",
+        "South Sudan",
+        "Rwanda"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_014",
       "question": "Lake Kivu lies on the border between the Democratic Republic of the Congo and which country?",
-      "options": ["Burundi", "Rwanda", "Uganda", "Tanzania"],
+      "options": [
+        "Burundi",
+        "Rwanda",
+        "Uganda",
+        "Tanzania"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_015",
       "question": "Which man-made lake forms part of the border between Zambia and Zimbabwe?",
-      "options": ["Lake Volta", "Lake Nasser", "Lake Kariba", "Lake Chad"],
+      "options": [
+        "Lake Volta",
+        "Lake Nasser",
+        "Lake Kariba",
+        "Lake Chad"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_016",
       "question": "Lake Chad is bordered by four countries: Chad, Cameroon, Niger, and which other country?",
-      "options": ["Mali", "Nigeria", "Central African Republic", "Sudan"],
+      "options": [
+        "Mali",
+        "Nigeria",
+        "Central African Republic",
+        "Sudan"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_017",
       "question": "Which mountain range forms a natural border between Uganda and the Democratic Republic of the Congo?",
-      "options": ["Atlas Mountains", "Drakensberg", "Rwenzori Mountains", "Simien Mountains"],
+      "options": [
+        "Atlas Mountains",
+        "Drakensberg",
+        "Rwenzori Mountains",
+        "Simien Mountains"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_018",
       "question": "The Drakensberg mountain range forms the border between South Africa and which enclaved country?",
-      "options": ["Eswatini", "Lesotho", "Botswana", "Mozambique"],
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Botswana",
+        "Mozambique"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_019",
       "question": "Mount Kilimanjaro is located in Tanzania, but it sits very close to the border of which country?",
-      "options": ["Uganda", "Rwanda", "Kenya", "Mozambique"],
+      "options": [
+        "Uganda",
+        "Rwanda",
+        "Kenya",
+        "Mozambique"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_020",
       "question": "The Virunga Mountains straddle the borders of Rwanda, Uganda, and which other country?",
-      "options": ["Tanzania", "Burundi", "Democratic Republic of the Congo", "Kenya"],
+      "options": [
+        "Tanzania",
+        "Burundi",
+        "Democratic Republic of the Congo",
+        "Kenya"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_021",
       "question": "Which African country is completely surrounded by South Africa?",
-      "options": ["Eswatini", "Lesotho", "Botswana", "Namibia"],
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Botswana",
+        "Namibia"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_022",
       "question": "Which country is almost entirely surrounded by Senegal, except for its short coastline?",
-      "options": ["Guinea-Bissau", "Mauritania", "The Gambia", "Mali"],
+      "options": [
+        "Guinea-Bissau",
+        "Mauritania",
+        "The Gambia",
+        "Mali"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_023",
       "question": "The Caprivi Strip is a narrow protrusion of which country that borders Angola, Botswana, Zambia, and Zimbabwe?",
-      "options": ["Namibia", "South Africa", "Mozambique", "Malawi"],
+      "options": [
+        "Namibia",
+        "South Africa",
+        "Mozambique",
+        "Malawi"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_024",
       "question": "Cabinda is an exclave of which country, separated from the mainland by the Democratic Republic of the Congo?",
-      "options": ["Republic of the Congo", "Angola", "Gabon", "Cameroon"],
+      "options": [
+        "Republic of the Congo",
+        "Angola",
+        "Gabon",
+        "Cameroon"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_025",
       "question": "Ceuta and Melilla are two exclaves located on the northern coast of Africa but belong to which European country?",
-      "options": ["France", "Portugal", "Italy", "Spain"],
+      "options": [
+        "France",
+        "Portugal",
+        "Italy",
+        "Spain"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_026",
       "question": "Which country borders Egypt to the south?",
-      "options": ["Libya", "Sudan", "Chad", "Ethiopia"],
+      "options": [
+        "Libya",
+        "Sudan",
+        "Chad",
+        "Ethiopia"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_027",
       "question": "Which water body separates Africa from Europe?",
-      "options": ["Red Sea", "Mediterranean Sea", "Black Sea", "Caspian Sea"],
+      "options": [
+        "Red Sea",
+        "Mediterranean Sea",
+        "Black Sea",
+        "Caspian Sea"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_028",
       "question": "Which water body forms the eastern boundary of Egypt and Sudan?",
-      "options": ["Gulf of Aden", "Persian Gulf", "Red Sea", "Mediterranean Sea"],
+      "options": [
+        "Gulf of Aden",
+        "Persian Gulf",
+        "Red Sea",
+        "Mediterranean Sea"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_029",
       "question": "The Strait of Gibraltar separates Morocco from which European country?",
-      "options": ["Portugal", "Spain", "France", "Italy"],
+      "options": [
+        "Portugal",
+        "Spain",
+        "France",
+        "Italy"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_030",
       "question": "Which country shares the longest land border with South Africa?",
-      "options": ["Namibia", "Botswana", "Zimbabwe", "Mozambique"],
+      "options": [
+        "Namibia",
+        "Botswana",
+        "Zimbabwe",
+        "Mozambique"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_031",
       "question": "Which straight-line border forms the majority of the boundary between Egypt and Libya?",
-      "options": ["22nd parallel north", "25th meridian east", "Equator", "Tropic of Cancer"],
+      "options": [
+        "22nd parallel north",
+        "25th meridian east",
+        "Equator",
+        "Tropic of Cancer"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_032",
       "question": "The 22nd parallel north largely forms the border between Egypt and which country?",
-      "options": ["Libya", "Sudan", "Chad", "Israel"],
+      "options": [
+        "Libya",
+        "Sudan",
+        "Chad",
+        "Israel"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_033",
       "question": "Which country has the longest coastline in Africa?",
-      "options": ["South Africa", "Somalia", "Madagascar", "Mozambique"],
+      "options": [
+        "South Africa",
+        "Somalia",
+        "Madagascar",
+        "Mozambique"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_034",
       "question": "The Mozambican Channel separates mainland Africa from which island nation?",
-      "options": ["Seychelles", "Mauritius", "Comoros", "Madagascar"],
+      "options": [
+        "Seychelles",
+        "Mauritius",
+        "Comoros",
+        "Madagascar"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_035",
       "question": "Which landlocked country is bordered by South Africa, Botswana, and Mozambique?",
-      "options": ["Eswatini", "Lesotho", "Zambia", "Malawi"],
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Zambia",
+        "Malawi"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_036",
       "question": "Which country borders Nigeria to the west?",
-      "options": ["Cameroon", "Niger", "Chad", "Benin"],
+      "options": [
+        "Cameroon",
+        "Niger",
+        "Chad",
+        "Benin"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_037",
       "question": "Which of these countries does NOT border the Sahara Desert?",
-      "options": ["Algeria", "Mali", "Democratic Republic of the Congo", "Niger"],
+      "options": [
+        "Algeria",
+        "Mali",
+        "Democratic Republic of the Congo",
+        "Niger"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_038",
       "question": "Which country borders Algeria to the east and Libya to the west?",
-      "options": ["Morocco", "Tunisia", "Egypt", "Mali"],
+      "options": [
+        "Morocco",
+        "Tunisia",
+        "Egypt",
+        "Mali"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_039",
       "question": "The Gulf of Guinea lies off the coast of which African region?",
-      "options": ["North Africa", "East Africa", "West and Central Africa", "Southern Africa"],
+      "options": [
+        "North Africa",
+        "East Africa",
+        "West and Central Africa",
+        "Southern Africa"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_040",
       "question": "Which country shares a border with Somalia, Kenya, South Sudan, Sudan, Eritrea, and Djibouti?",
-      "options": ["Uganda", "Tanzania", "Ethiopia", "Central African Republic"],
+      "options": [
+        "Uganda",
+        "Tanzania",
+        "Ethiopia",
+        "Central African Republic"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_041",
       "question": "What is the only African country to border both the Mediterranean Sea and the Atlantic Ocean?",
-      "options": ["Egypt", "Algeria", "Morocco", "South Africa"],
+      "options": [
+        "Egypt",
+        "Algeria",
+        "Morocco",
+        "South Africa"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_042",
       "question": "Which river forms the boundary between Mauritania and Mali?",
-      "options": ["Niger River", "Senegal River", "Gambia River", "Volta River"],
+      "options": [
+        "Niger River",
+        "Senegal River",
+        "Gambia River",
+        "Volta River"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_043",
       "question": "Lake Turkana, the world's largest permanent desert lake, lies primarily in Kenya and crosses into which bordering country?",
-      "options": ["Uganda", "Ethiopia", "South Sudan", "Somalia"],
+      "options": [
+        "Uganda",
+        "Ethiopia",
+        "South Sudan",
+        "Somalia"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_044",
       "question": "The Mano River forms part of the border between Liberia and which country?",
-      "options": ["Ivory Coast", "Guinea", "Sierra Leone", "Ghana"],
+      "options": [
+        "Ivory Coast",
+        "Guinea",
+        "Sierra Leone",
+        "Ghana"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_045",
       "question": "Which two countries are separated by the Gulf of Aqaba?",
-      "options": ["Egypt and Saudi Arabia", "Sudan and Yemen", "Djibouti and Yemen", "Eritrea and Saudi Arabia"],
+      "options": [
+        "Egypt and Saudi Arabia",
+        "Sudan and Yemen",
+        "Djibouti and Yemen",
+        "Eritrea and Saudi Arabia"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_046",
       "question": "The Zambezi River flows into the Indian Ocean in which country?",
-      "options": ["Tanzania", "Mozambique", "South Africa", "Kenya"],
+      "options": [
+        "Tanzania",
+        "Mozambique",
+        "South Africa",
+        "Kenya"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_047",
       "question": "Which country borders both the Democratic Republic of the Congo and the Republic of the Congo?",
-      "options": ["Angola", "Central African Republic", "Gabon", "Cameroon"],
+      "options": [
+        "Angola",
+        "Central African Republic",
+        "Gabon",
+        "Cameroon"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_048",
       "question": "Which of these countries does NOT share a border with Zambia?",
-      "options": ["Angola", "Tanzania", "South Africa", "Malawi"],
+      "options": [
+        "Angola",
+        "Tanzania",
+        "South Africa",
+        "Malawi"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_049",
       "question": "The Bab el-Mandeb strait separates the Horn of Africa from the Arabian Peninsula. Which African country borders it?",
-      "options": ["Somalia", "Kenya", "Djibouti", "Sudan"],
+      "options": [
+        "Somalia",
+        "Kenya",
+        "Djibouti",
+        "Sudan"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_050",
       "question": "Mount Elgon lies on the border of which two countries?",
-      "options": ["Kenya and Tanzania", "Uganda and Kenya", "Rwanda and Uganda", "Burundi and Rwanda"],
+      "options": [
+        "Kenya and Tanzania",
+        "Uganda and Kenya",
+        "Rwanda and Uganda",
+        "Burundi and Rwanda"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_051",
       "question": "Which river forms the natural boundary between Ghana and Togo?",
-      "options": ["Volta River", "Niger River", "Mono River", "Oti River"],
+      "options": [
+        "Volta River",
+        "Niger River",
+        "Mono River",
+        "Oti River"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_052",
       "question": "Which country borders Ivory Coast to the west?",
-      "options": ["Ghana", "Burkina Faso", "Liberia", "Mali"],
+      "options": [
+        "Ghana",
+        "Burkina Faso",
+        "Liberia",
+        "Mali"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_053",
       "question": "The Kagera River, a major headstream of the Nile, forms part of the border between Rwanda and which country?",
-      "options": ["Burundi", "Tanzania", "Uganda", "Democratic Republic of the Congo"],
+      "options": [
+        "Burundi",
+        "Tanzania",
+        "Uganda",
+        "Democratic Republic of the Congo"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_054",
       "question": "Lake Mweru lies on the border between Zambia and which country?",
-      "options": ["Democratic Republic of the Congo", "Angola", "Tanzania", "Malawi"],
+      "options": [
+        "Democratic Republic of the Congo",
+        "Angola",
+        "Tanzania",
+        "Malawi"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_055",
       "question": "Which country shares the longest border with the Democratic Republic of the Congo?",
-      "options": ["Angola", "Zambia", "Republic of the Congo", "Uganda"],
+      "options": [
+        "Angola",
+        "Zambia",
+        "Republic of the Congo",
+        "Uganda"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_056",
       "question": "The border between Sudan and South Sudan was officially established in what year?",
-      "options": ["1999", "2005", "2011", "2015"],
+      "options": [
+        "1999",
+        "2005",
+        "2011",
+        "2015"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_057",
       "question": "Which river forms the boundary between South Africa and Lesotho?",
-      "options": ["Caledon River", "Vaal River", "Tugela River", "Molopo River"],
+      "options": [
+        "Caledon River",
+        "Vaal River",
+        "Tugela River",
+        "Molopo River"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_058",
       "question": "Which desert forms a natural barrier between much of North Africa and Sub-Saharan Africa?",
-      "options": ["Kalahari Desert", "Namib Desert", "Sahara Desert", "Danakil Desert"],
+      "options": [
+        "Kalahari Desert",
+        "Namib Desert",
+        "Sahara Desert",
+        "Danakil Desert"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_059",
       "question": "Which country is bordered by Benin to the east and Togo to the west?",
-      "options": ["Ghana", "Nigeria", "Burkina Faso", "None, Togo borders Benin directly"],
+      "options": [
+        "Ghana, west of Togo",
+        "Nigeria, east of Benin",
+        "Burkina Faso, to the north",
+        "No country; Togo and Benin share a direct border"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_060",
       "question": "The Gulf of Suez is bordered entirely by which country?",
-      "options": ["Sudan", "Saudi Arabia", "Egypt", "Israel"],
+      "options": [
+        "Sudan",
+        "Saudi Arabia",
+        "Egypt",
+        "Israel"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_061",
       "question": "Which mountain is the highest peak in Africa, located near a national border?",
-      "options": ["Mount Kenya", "Mount Stanley", "Mount Kilimanjaro", "Mount Meru"],
+      "options": [
+        "Mount Kenya",
+        "Mount Stanley",
+        "Mount Kilimanjaro",
+        "Mount Meru"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_062",
       "question": "Which country shares a border with Mauritania, Algeria, Niger, Burkina Faso, and Guinea?",
-      "options": ["Senegal", "Mali", "Chad", "Nigeria"],
+      "options": [
+        "Senegal",
+        "Mali",
+        "Chad",
+        "Nigeria"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_063",
       "question": "The Bight of Bonny, part of the Gulf of Guinea, is bordered by Nigeria and which other country?",
-      "options": ["Cameroon", "Benin", "Ghana", "Togo"],
+      "options": [
+        "Cameroon",
+        "Benin",
+        "Ghana",
+        "Togo"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_064",
       "question": "Which river forms part of the border between Angola and the Democratic Republic of the Congo before emptying into the Atlantic Ocean?",
-      "options": ["Congo River", "Cuanza River", "Cunene River", "Cuango River"],
+      "options": [
+        "Congo River",
+        "Cuanza River",
+        "Cunene River",
+        "Cuango River"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_065",
       "question": "Lake Edward is shared by the Democratic Republic of the Congo and which country?",
-      "options": ["Rwanda", "Burundi", "Uganda", "Tanzania"],
+      "options": [
+        "Rwanda",
+        "Burundi",
+        "Uganda",
+        "Tanzania"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_066",
       "question": "Which of these countries does NOT have a coastline on the Red Sea?",
-      "options": ["Egypt", "Sudan", "Eritrea", "Ethiopia"],
+      "options": [
+        "Egypt",
+        "Sudan",
+        "Eritrea",
+        "Ethiopia"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_067",
       "question": "The Nossob River forms part of the border between Botswana and which country?",
-      "options": ["South Africa", "Namibia", "Zimbabwe", "Zambia"],
+      "options": [
+        "South Africa",
+        "Namibia",
+        "Zimbabwe",
+        "Zambia"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_068",
       "question": "Which country is separated from mainland Africa by the Strait of Bab el-Mandeb?",
-      "options": ["Madagascar", "Yemen", "Mauritius", "Comoros"],
+      "options": [
+        "Madagascar",
+        "Yemen",
+        "Mauritius",
+        "Comoros"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_069",
       "question": "Which country borders both the Atlantic Ocean and the Mediterranean Sea?",
-      "options": ["Algeria", "Tunisia", "Morocco", "Libya"],
+      "options": [
+        "Algeria",
+        "Tunisia",
+        "Morocco",
+        "Libya"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_070",
       "question": "The Shashe River forms the border between Botswana and which country?",
-      "options": ["Namibia", "South Africa", "Zambia", "Zimbabwe"],
+      "options": [
+        "Namibia",
+        "South Africa",
+        "Zambia",
+        "Zimbabwe"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_071",
       "question": "Lake Tana, the source of the Blue Nile, is located entirely within which country?",
-      "options": ["Egypt", "Sudan", "Ethiopia", "Uganda"],
+      "options": [
+        "Egypt",
+        "Sudan",
+        "Ethiopia",
+        "Uganda"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_072",
       "question": "Which country borders Rwanda to the north?",
-      "options": ["Burundi", "Tanzania", "Uganda", "Democratic Republic of the Congo"],
+      "options": [
+        "Burundi",
+        "Tanzania",
+        "Uganda",
+        "Democratic Republic of the Congo"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_073",
       "question": "The Chari River forms part of the boundary between Chad and which country?",
-      "options": ["Nigeria", "Niger", "Cameroon", "Central African Republic"],
+      "options": [
+        "Nigeria",
+        "Niger",
+        "Cameroon",
+        "Central African Republic"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_074",
       "question": "Which country borders Senegal to the north?",
-      "options": ["Mali", "Guinea", "Mauritania", "Guinea-Bissau"],
+      "options": [
+        "Mali",
+        "Guinea",
+        "Mauritania",
+        "Guinea-Bissau"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_075",
       "question": "The Atlas Mountains run through Morocco, Algeria, and which other country?",
-      "options": ["Libya", "Egypt", "Tunisia", "Mali"],
+      "options": [
+        "Libya",
+        "Egypt",
+        "Tunisia",
+        "Mali"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_076",
       "question": "Which country shares a border with both Namibia and Mozambique?",
-      "options": ["Botswana", "Zambia", "South Africa", "Zimbabwe"],
+      "options": [
+        "Botswana",
+        "Zambia",
+        "South Africa",
+        "Zimbabwe"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_077",
       "question": "The Molopo River forms a border between South Africa and which country?",
-      "options": ["Namibia", "Botswana", "Lesotho", "Eswatini"],
+      "options": [
+        "Namibia",
+        "Botswana",
+        "Lesotho",
+        "Eswatini"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_078",
       "question": "Which country is bordered by Kenya to the east and the Democratic Republic of the Congo to the west?",
-      "options": ["Tanzania", "Uganda", "Rwanda", "South Sudan"],
+      "options": [
+        "Tanzania",
+        "Uganda",
+        "Rwanda",
+        "South Sudan"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_079",
       "question": "Which country borders the Central African Republic to the east?",
-      "options": ["Cameroon", "Chad", "Democratic Republic of the Congo", "Sudan and South Sudan"],
+      "options": [
+        "Cameroon",
+        "Chad",
+        "Democratic Republic of the Congo",
+        "Sudan and South Sudan"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_080",
       "question": "Which river forms the boundary between Guinea and Sierra Leone?",
-      "options": ["Mano River", "Moa River", "Great Scarcies River", "Niger River"],
+      "options": [
+        "Mano River",
+        "Moa River",
+        "Great Scarcies River",
+        "Niger River"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_081",
       "question": "Lake Natron, a highly alkaline lake, is located in which country near the Kenyan border?",
-      "options": ["Uganda", "Rwanda", "Tanzania", "Ethiopia"],
+      "options": [
+        "Uganda",
+        "Rwanda",
+        "Tanzania",
+        "Ethiopia"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_082",
       "question": "Which country is bordered by both the Red Sea and the Gulf of Aden?",
-      "options": ["Somalia", "Eritrea", "Sudan", "Djibouti"],
+      "options": [
+        "Somalia",
+        "Eritrea",
+        "Sudan",
+        "Djibouti"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_083",
       "question": "Which island nation is located in the Indian Ocean, east of Madagascar?",
-      "options": ["Comoros", "Seychelles", "Mauritius", "Cape Verde"],
+      "options": [
+        "Comoros",
+        "Seychelles",
+        "Mauritius",
+        "Cape Verde"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_084",
       "question": "The Great Rift Valley runs through Africa from the Red Sea down to which country?",
-      "options": ["South Africa", "Mozambique", "Zimbabwe", "Madagascar"],
+      "options": [
+        "South Africa",
+        "Mozambique",
+        "Zimbabwe",
+        "Madagascar"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_085",
       "question": "Which river forms the boundary between Zimbabwe and South Africa?",
-      "options": ["Zambezi River", "Orange River", "Vaal River", "Limpopo River"],
+      "options": [
+        "Zambezi River",
+        "Orange River",
+        "Vaal River",
+        "Limpopo River"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_086",
       "question": "Which country is bordered by Angola to the north and South Africa to the south?",
-      "options": ["Botswana", "Zambia", "Namibia", "Zimbabwe"],
+      "options": [
+        "Botswana",
+        "Zambia",
+        "Namibia",
+        "Zimbabwe"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_087",
       "question": "Which country borders both the Mediterranean Sea and the Red Sea?",
-      "options": ["Libya", "Sudan", "Egypt", "Eritrea"],
+      "options": [
+        "Libya",
+        "Sudan",
+        "Egypt",
+        "Eritrea"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_088",
       "question": "The Gulf of Sidra is a body of water on the northern coast of which country?",
-      "options": ["Egypt", "Libya", "Tunisia", "Algeria"],
+      "options": [
+        "Egypt",
+        "Libya",
+        "Tunisia",
+        "Algeria"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_089",
       "question": "Which country shares a border with Ghana, Burkina Faso, and Benin?",
-      "options": ["Togo", "Ivory Coast", "Mali", "Niger"],
+      "options": [
+        "Togo",
+        "Ivory Coast",
+        "Mali",
+        "Niger"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_090",
       "question": "The Oubangui River is a major tributary of the Congo River and forms the border of which two countries?",
-      "options": ["Central African Republic and DRC", "Republic of the Congo and DRC", "Cameroon and CAR", "Gabon and Republic of the Congo"],
+      "options": [
+        "Central African Republic and DRC",
+        "Republic of the Congo and DRC",
+        "Cameroon and CAR",
+        "Gabon and Republic of the Congo"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_091",
       "question": "Which country borders both Uganda and Burundi?",
-      "options": ["Tanzania", "Kenya", "Rwanda", "Democratic Republic of the Congo"],
+      "options": [
+        "Tanzania",
+        "Kenya",
+        "Rwanda",
+        "Democratic Republic of the Congo"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_092",
       "question": "The Gulf of Gabes is located off the eastern coast of which country?",
-      "options": ["Algeria", "Tunisia", "Libya", "Egypt"],
+      "options": [
+        "Algeria",
+        "Tunisia",
+        "Libya",
+        "Egypt"
+      ],
       "correct_index": 1
     },
     {
       "id": "bnd_093",
       "question": "Which river flows entirely within South Africa and is its longest river?",
-      "options": ["Orange River", "Vaal River", "Limpopo River", "Tugela River"],
+      "options": [
+        "Orange River",
+        "Vaal River",
+        "Limpopo River",
+        "Tugela River"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_094",
       "question": "Which country borders Ethiopia to the east?",
-      "options": ["Sudan", "Kenya", "Somalia", "Eritrea"],
+      "options": [
+        "Sudan",
+        "Kenya",
+        "Somalia",
+        "Eritrea"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_095",
       "question": "Which country is an archipelago located off the coast of Senegal?",
-      "options": ["Sao Tome and Principe", "Comoros", "Seychelles", "Cape Verde"],
+      "options": [
+        "Sao Tome and Principe",
+        "Comoros",
+        "Seychelles",
+        "Cape Verde"
+      ],
       "correct_index": 3
     },
     {
       "id": "bnd_096",
       "question": "Which mountain range is located entirely within South Africa and Lesotho?",
-      "options": ["Atlas Mountains", "Rwenzori Mountains", "Drakensberg", "Simien Mountains"],
+      "options": [
+        "Atlas Mountains",
+        "Rwenzori Mountains",
+        "Drakensberg",
+        "Simien Mountains"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_097",
       "question": "Which country shares a border with both Libya and Sudan?",
-      "options": ["Egypt", "Chad", "Niger", "Both Egypt and Chad"],
-      "correct_index": 3
+      "options": [
+        "Egypt and Chad",
+        "Egypt only",
+        "Chad only",
+        "Niger only"
+      ],
+      "correct_index": 0
     },
     {
       "id": "bnd_098",
       "question": "The cross-border Kgalagadi Transfrontier Park is shared by South Africa and which other country?",
-      "options": ["Namibia", "Zimbabwe", "Botswana", "Lesotho"],
+      "options": [
+        "Namibia",
+        "Zimbabwe",
+        "Botswana",
+        "Lesotho"
+      ],
       "correct_index": 2
     },
     {
       "id": "bnd_099",
       "question": "Which country borders both the Atlantic Ocean and the Indian Ocean?",
-      "options": ["South Africa", "Namibia", "Mozambique", "Egypt"],
+      "options": [
+        "South Africa",
+        "Namibia",
+        "Mozambique",
+        "Egypt"
+      ],
       "correct_index": 0
     },
     {
       "id": "bnd_100",
       "question": "Lake Assal, the lowest point in Africa, is located in which country?",
-      "options": ["Ethiopia", "Eritrea", "Djibouti", "Somalia"],
+      "options": [
+        "Ethiopia",
+        "Eritrea",
+        "Djibouti",
+        "Somalia"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_101",
       "question": "Which of the following animals is NOT part of the 'Big Five'?",
-      "options": ["Lion", "Leopard", "Cheetah", "African Elephant"],
+      "options": [
+        "Lion",
+        "Leopard",
+        "Cheetah",
+        "African Elephant"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_102",
       "question": "Why were the 'Big Five' originally grouped together?",
-      "options": ["They are the largest mammals", "They were the most difficult and dangerous animals to hunt on foot", "They are the most endangered species", "They are the most photographed animals"],
+      "options": [
+        "They are the largest mammals",
+        "They were the most difficult and dangerous animals to hunt on foot",
+        "They are the most endangered species",
+        "They are the most photographed animals"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_103",
       "question": "What is the fastest land animal in the world, capable of reaching speeds over 60 mph?",
-      "options": ["Lion", "Leopard", "Cheetah", "Wildebeest"],
+      "options": [
+        "Lion",
+        "Leopard",
+        "Cheetah",
+        "Wildebeest"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_104",
       "question": "Which physical feature best distinguishes a leopard from a cheetah?",
-      "options": ["Cheetahs have solid spots and 'tear marks' on their face", "Leopards are faster", "Cheetahs climb trees more often", "Leopards hunt in packs"],
+      "options": [
+        "Cheetahs have solid spots and 'tear marks' on their face",
+        "Leopards are faster",
+        "Cheetahs climb trees more often",
+        "Leopards hunt in packs"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_105",
       "question": "Which African mammal is known as the 'painted wolf'?",
-      "options": ["Spotted Hyena", "Jackal", "African Wild Dog", "Aardwolf"],
+      "options": [
+        "Spotted Hyena",
+        "Jackal",
+        "African Wild Dog",
+        "Aardwolf"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_106",
       "question": "The Great Migration in East Africa primarily involves which two species?",
-      "options": ["Elephants and Rhinos", "Wildebeest and Zebras", "Lions and Buffalo", "Giraffes and Antelopes"],
+      "options": [
+        "Elephants and Rhinos",
+        "Wildebeest and Zebras",
+        "Lions and Buffalo",
+        "Giraffes and Antelopes"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_107",
       "question": "Which national park in Tanzania is famous for hosting the Great Migration?",
-      "options": ["Kruger National Park", "Etosha National Park", "Serengeti National Park", "Chobe National Park"],
+      "options": [
+        "Kruger National Park",
+        "Etosha National Park",
+        "Serengeti National Park",
+        "Chobe National Park"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_108",
       "question": "Which reserve in Kenya forms the northern extension of the Serengeti ecosystem?",
-      "options": ["Amboseli", "Tsavo", "Samburu", "Maasai Mara"],
+      "options": [
+        "Amboseli",
+        "Tsavo",
+        "Samburu",
+        "Maasai Mara"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_109",
       "question": "What is the primary difference between a White Rhino and a Black Rhino?",
-      "options": ["Their color", "Their habitat", "The shape of their lips", "The number of horns"],
+      "options": [
+        "Their color",
+        "Their habitat",
+        "The shape of their lips",
+        "The number of horns"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_110",
       "question": "Which of these animals is a close relative of the giraffe, found only in the dense forests of the DRC?",
-      "options": ["Bongo", "Okapi", "Kudu", "Nyala"],
+      "options": [
+        "Bongo",
+        "Okapi",
+        "Kudu",
+        "Nyala"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_111",
       "question": "What are the horn-like structures on a giraffe's head called?",
-      "options": ["Antlers", "Tusks", "Ossicones", "Keratins"],
+      "options": [
+        "Antlers",
+        "Tusks",
+        "Ossicones",
+        "Keratins"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_112",
       "question": "Which African animal kills the most humans per year (excluding mosquitoes)?",
-      "options": ["Lion", "Leopard", "Hippopotamus", "Nile Crocodile"],
+      "options": [
+        "Lion",
+        "Leopard",
+        "Hippopotamus",
+        "Nile Crocodile"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_113",
       "question": "What is the closest living relative of the hippopotamus?",
-      "options": ["Rhinoceros", "Elephant", "Whales and Dolphins", "Manatee"],
+      "options": [
+        "Rhinoceros",
+        "Elephant",
+        "Whales and Dolphins",
+        "Manatee"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_114",
       "question": "Mountain gorillas are native to the Virunga Mountains and which national park in Uganda?",
-      "options": ["Bwindi Impenetrable National Park", "Queen Elizabeth National Park", "Murchison Falls National Park", "Kidepo Valley National Park"],
+      "options": [
+        "Bwindi Impenetrable National Park",
+        "Queen Elizabeth National Park",
+        "Murchison Falls National Park",
+        "Kidepo Valley National Park"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_115",
       "question": "Which primate species is endemic to the island of Madagascar?",
-      "options": ["Chimpanzees", "Lemurs", "Baboons", "Mandrills"],
+      "options": [
+        "Chimpanzees",
+        "Lemurs",
+        "Baboons",
+        "Mandrills"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_116",
       "question": "What is the largest carnivorous mammal on the island of Madagascar?",
-      "options": ["Leopard", "Spotted Hyena", "Fossa", "Civet"],
+      "options": [
+        "Leopard",
+        "Spotted Hyena",
+        "Fossa",
+        "Civet"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_117",
       "question": "Which primate is known for the bright blue and red coloration on its face and is native to West Central Africa?",
-      "options": ["Colobus Monkey", "Mandrill", "Gelada Baboon", "Chimpanzee"],
+      "options": [
+        "Colobus Monkey",
+        "Mandrill",
+        "Gelada Baboon",
+        "Chimpanzee"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_118",
       "question": "Where are Gelada baboons, known for their bleeding-heart chest patches, naturally found?",
-      "options": ["South African coast", "Congolese rainforest", "Ethiopian Highlands", "Sahara Desert"],
+      "options": [
+        "South African coast",
+        "Congolese rainforest",
+        "Ethiopian Highlands",
+        "Sahara Desert"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_119",
       "question": "What is the largest living bird species, native to Africa?",
-      "options": ["Emu", "Ostrich", "Cassowary", "Marabou Stork"],
+      "options": [
+        "Emu",
+        "Ostrich",
+        "Cassowary",
+        "Marabou Stork"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_120",
       "question": "Which African bird is known for its long legs and ability to stomp snakes to death?",
-      "options": ["Secretary Bird", "Marabou Stork", "Shoebill", "Crowned Crane"],
+      "options": [
+        "Secretary Bird",
+        "Marabou Stork",
+        "Shoebill",
+        "Crowned Crane"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_121",
       "question": "The Shoebill, a large, prehistoric-looking bird, is primarily found in the swamps of which region?",
-      "options": ["North Africa", "East Africa", "Southern Africa", "West Africa"],
+      "options": [
+        "North Africa",
+        "East Africa",
+        "Southern Africa",
+        "West Africa"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_122",
       "question": "Which African mammal is entirely covered in tough, overlapping scales made of keratin?",
-      "options": ["Aardvark", "Honey Badger", "Pangolin", "Armadillo"],
+      "options": [
+        "Aardvark",
+        "Honey Badger",
+        "Pangolin",
+        "Armadillo"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_123",
       "question": "The Aardvark's diet consists almost exclusively of what?",
-      "options": ["Roots and tubers", "Small rodents", "Ants and termites", "Fruit"],
+      "options": [
+        "Roots and tubers",
+        "Small rodents",
+        "Ants and termites",
+        "Fruit"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_124",
       "question": "Which small, fierce African mammal is known for its thick skin, immunity to snake venom, and lack of fear of larger predators?",
-      "options": ["Meerkat", "Honey Badger", "Mongoose", "Wolverine"],
+      "options": [
+        "Meerkat",
+        "Honey Badger",
+        "Mongoose",
+        "Wolverine"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_125",
       "question": "Meerkats live in highly social groups called 'mobs' or 'gangs' and are primarily found in which desert?",
-      "options": ["Sahara Desert", "Kalahari Desert", "Danakil Desert", "Nubian Desert"],
+      "options": [
+        "Sahara Desert",
+        "Kalahari Desert",
+        "Danakil Desert",
+        "Nubian Desert"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_126",
       "question": "Which animal is the largest species of antelope, found in East and Southern Africa?",
-      "options": ["Kudu", "Eland", "Oryx", "Sable Antelope"],
+      "options": [
+        "Kudu",
+        "Eland",
+        "Oryx",
+        "Sable Antelope"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_127",
       "question": "Which desert-adapted antelope features long, straight horns and can go long periods without drinking water?",
-      "options": ["Springbok", "Impala", "Gemsbok (Oryx)", "Waterbuck"],
+      "options": [
+        "Springbok",
+        "Impala",
+        "Gemsbok",
+        "Waterbuck"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_128",
       "question": "What is the national animal of South Africa?",
-      "options": ["Lion", "Springbok", "Leopard", "Elephant"],
+      "options": [
+        "Lion",
+        "Springbok",
+        "Leopard",
+        "Elephant"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_129",
       "question": "Which South African national park is one of the largest game reserves in Africa?",
-      "options": ["Serengeti", "Etosha", "Kruger National Park", "Hwange"],
+      "options": [
+        "Serengeti",
+        "Etosha",
+        "Kruger National Park",
+        "Hwange"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_130",
       "question": "Chobe National Park is famous for having one of the largest concentrations of which animal?",
-      "options": ["Lions", "African Elephants", "Cheetahs", "Hippos"],
+      "options": [
+        "Lions",
+        "African Elephants",
+        "Cheetahs",
+        "Hippos"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_131",
       "question": "Etosha National Park in Namibia is famous for what defining geographical feature?",
-      "options": ["A massive waterfall", "A dense rainforest", "A large salt pan", "An active volcano"],
+      "options": [
+        "A massive waterfall",
+        "A dense rainforest",
+        "A large salt pan",
+        "An active volcano"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_132",
       "question": "The Ngorongoro Crater, which supports a dense population of wildlife, is located in which country?",
-      "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Rwanda"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_133",
       "question": "Which animal is known for building massive, mound-like nests that can be seen across the African savanna?",
-      "options": ["Sociable Weaver", "Termite", "Dung Beetle", "Aardvark"],
+      "options": [
+        "Sociable Weaver",
+        "Termite",
+        "Dung Beetle",
+        "Aardvark"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_134",
       "question": "What behavior is characteristic of the dung beetle?",
-      "options": ["Building webs in trees", "Rolling balls of animal feces", "Burying themselves in mud during dry season", "Emitting a foul odor when threatened"],
+      "options": [
+        "Building webs in trees",
+        "Rolling balls of animal feces",
+        "Burying themselves in mud during dry season",
+        "Emitting a foul odor when threatened"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_135",
       "question": "Which African bird uses pieces of grass to tie intricate knots and build hanging nests?",
-      "options": ["Weaver Bird", "Hornbill", "Guinea Fowl", "Sunbird"],
+      "options": [
+        "Weaver Bird",
+        "Hornbill",
+        "Guinea Fowl",
+        "Sunbird"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_136",
       "question": "Which species of hyena is the largest, most social, and known for its 'laughing' vocalization?",
-      "options": ["Striped Hyena", "Brown Hyena", "Spotted Hyena", "Aardwolf"],
+      "options": [
+        "Striped Hyena",
+        "Brown Hyena",
+        "Spotted Hyena",
+        "Aardwolf"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_137",
       "question": "Female spotted hyenas are unique among mammals because they possess what physical trait?",
-      "options": ["Horns", "A pseudo-penis", "A prehensile tail", "Opposable thumbs"],
+      "options": [
+        "Horns",
+        "A pseudo-penis",
+        "A prehensile tail",
+        "Opposable thumbs"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_138",
       "question": "Which African snake is known as the fastest snake in the world and is highly venomous?",
-      "options": ["Puff Adder", "Gaboon Viper", "Black Mamba", "Cape Cobra"],
+      "options": [
+        "Puff Adder",
+        "Gaboon Viper",
+        "Black Mamba",
+        "Cape Cobra"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_139",
       "question": "Why is the Black Mamba called 'black'?",
-      "options": ["Because of its skin color", "Because of the inside color of its mouth", "Because it only hunts at night", "Because of its dark venom"],
+      "options": [
+        "Because of its skin color",
+        "Because of the inside color of its mouth",
+        "Because it only hunts at night",
+        "Because of its dark venom"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_140",
       "question": "Which African snake holds the record for the longest fangs of any snake?",
-      "options": ["Black Mamba", "Green Mamba", "Puff Adder", "Gaboon Viper"],
+      "options": [
+        "Black Mamba",
+        "Green Mamba",
+        "Puff Adder",
+        "Gaboon Viper"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_141",
       "question": "Which massive fish, a 'living fossil' thought to be extinct until 1938, was caught off the coast of South Africa?",
-      "options": ["Megalodon", "Coelacanth", "Lungfish", "Sturgeon"],
+      "options": [
+        "Megalodon",
+        "Coelacanth",
+        "Lungfish",
+        "Sturgeon"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_142",
       "question": "Which bird is famous for guiding humans to beehives in exchange for a share of the honeycomb?",
-      "options": ["Oxpecker", "Honeyguide", "Bee-eater", "Sunbird"],
+      "options": [
+        "Oxpecker",
+        "Honeyguide",
+        "Bee-eater",
+        "Sunbird"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_143",
       "question": "What small bird is often seen riding on the backs of rhinos, hippos, and buffalo, eating ticks off them?",
-      "options": ["Cattle Egret", "Oxpecker", "Weaver Bird", "Starling"],
+      "options": [
+        "Cattle Egret",
+        "Oxpecker",
+        "Weaver Bird",
+        "Starling"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_144",
       "question": "African elephants have a unique physical trait on their trunks compared to Asian elephants. What is it?",
-      "options": ["They have no tusks", "They have two 'fingers' at the tip", "They are completely hairless", "They are much shorter"],
+      "options": [
+        "They have no tusks",
+        "They have two 'fingers' at the tip",
+        "They are completely hairless",
+        "They are much shorter"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_145",
       "question": "The fennec fox, known for its unusually large ears, is primarily found in which habitat?",
-      "options": ["Congo Rainforest", "Sahara Desert", "Okavango Delta", "Cape Floristic Region"],
+      "options": [
+        "Congo Rainforest",
+        "Sahara Desert",
+        "Okavango Delta",
+        "Cape Floristic Region"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_146",
       "question": "What is the primary function of a fennec fox's oversized ears?",
-      "options": ["To attract mates", "To dissipate heat and hear prey underground", "To fly short distances", "To intimidate predators"],
+      "options": [
+        "To attract mates",
+        "To dissipate heat and hear prey underground",
+        "To fly short distances",
+        "To intimidate predators"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_147",
       "question": "Which large African primate uses tools to crack nuts and 'fishes' for termites with sticks?",
-      "options": ["Gorilla", "Chimpanzee", "Baboon", "Colobus Monkey"],
+      "options": [
+        "Gorilla",
+        "Chimpanzee",
+        "Baboon",
+        "Colobus Monkey"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_148",
       "question": "Bonobos, highly social apes closely related to chimpanzees, are found exclusively in which country?",
-      "options": ["Democratic Republic of the Congo", "Republic of the Congo", "Uganda", "Rwanda"],
+      "options": [
+        "Democratic Republic of the Congo",
+        "Republic of the Congo",
+        "Uganda",
+        "Rwanda"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_149",
       "question": "Which African predator is known for caching its kills in the branches of trees?",
-      "options": ["Lion", "Cheetah", "Leopard", "Wild Dog"],
+      "options": [
+        "Lion",
+        "Cheetah",
+        "Leopard",
+        "Wild Dog"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_150",
       "question": "Which large African bird has a prominent casque (a hollow structure) on top of its large bill?",
-      "options": ["Shoebill", "Southern Ground Hornbill", "Marabou Stork", "Ostrich"],
+      "options": [
+        "Shoebill",
+        "Southern Ground Hornbill",
+        "Marabou Stork",
+        "Ostrich"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_151",
       "question": "What is the only species of penguin that breeds on the African continent?",
-      "options": ["Emperor Penguin", "King Penguin", "Macaroni Penguin", "African Penguin"],
+      "options": [
+        "Emperor Penguin",
+        "King Penguin",
+        "Macaroni Penguin",
+        "African Penguin"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_152",
       "question": "Where are African Penguins mostly found?",
-      "options": ["Coast of Namibia and South Africa", "Coast of Madagascar", "Coast of Somalia", "Coast of Egypt"],
+      "options": [
+        "Coast of Namibia and South Africa",
+        "Coast of Madagascar",
+        "Coast of Somalia",
+        "Coast of Egypt"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_153",
       "question": "The Great White Shark is commonly found in high concentrations near the coast of which African country?",
-      "options": ["Egypt", "South Africa", "Nigeria", "Senegal"],
+      "options": [
+        "Egypt",
+        "South Africa",
+        "Nigeria",
+        "Senegal"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_154",
       "question": "Which large antelope has distinct vertical white stripes on its body and impressive spiral horns on the males?",
-      "options": ["Wildebeest", "Kudu", "Impala", "Dik-dik"],
+      "options": [
+        "Wildebeest",
+        "Kudu",
+        "Impala",
+        "Dik-dik"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_155",
       "question": "What is a Dik-dik?",
-      "options": ["A small species of antelope", "A type of bird", "A venomous snake", "A large primate"],
+      "options": [
+        "A small species of antelope",
+        "A type of bird",
+        "A venomous snake",
+        "A large primate"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_156",
       "question": "What defensive tactic do Dik-diks use when startled?",
-      "options": ["They spit venom", "They play dead", "They run in a zigzag pattern making a 'zig-zag' whistling sound", "They charge their predator"],
+      "options": [
+        "They spray venom at an approaching predator",
+        "They freeze and play dead until danger passes",
+        "They run in a zigzag pattern making a 'zig-zag' whistling sound",
+        "They lower their heads and charge directly at the threat"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_157",
       "question": "Which African river is famous for the millions of flamingos that congregate on its highly alkaline lakes, such as Lake Bogoria?",
-      "options": ["Congo River", "Zambezi River", "Great Rift Valley Lakes", "Orange River"],
+      "options": [
+        "Congo River",
+        "Zambezi River",
+        "Great Rift Valley Lakes",
+        "Orange River"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_158",
       "question": "Which insect is known for spreading sleeping sickness in certain parts of sub-Saharan Africa?",
-      "options": ["Anopheles Mosquito", "Tsetse Fly", "Tumbu Fly", "Locust"],
+      "options": [
+        "Anopheles Mosquito",
+        "Tsetse Fly",
+        "Tumbu Fly",
+        "Locust"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_159",
       "question": "What unique physical feature does the male proboscis monkey have? (Note: It's native to Borneo, but let's test a trick question). Which monkey is native to the Atlas Mountains of North Africa?",
-      "options": ["Macaque", "Barbary Macaque", "Vervet Monkey", "Colobus Monkey"],
+      "options": [
+        "Macaque",
+        "Barbary Macaque",
+        "Vervet Monkey",
+        "Colobus Monkey"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_160",
       "question": "The Barbary Macaque is unique because it is the only macaque species found outside of which continent?",
-      "options": ["Europe", "South America", "Asia", "Australia"],
+      "options": [
+        "Europe",
+        "South America",
+        "Asia",
+        "Australia"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_161",
       "question": "Which African mammal is a close relative of the elephant, despite looking like a large guinea pig?",
-      "options": ["Rock Hyrax", "Aardvark", "Pangolin", "Meerkat"],
+      "options": [
+        "Rock Hyrax",
+        "Aardvark",
+        "Pangolin",
+        "Meerkat"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_162",
       "question": "Which animal is the primary predator of the Rock Hyrax?",
-      "options": ["Lion", "Verreaux's Eagle (Black Eagle)", "Crocodile", "Cheetah"],
+      "options": [
+        "Lion",
+        "Verreaux's Eagle",
+        "Crocodile",
+        "Cheetah"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_163",
       "question": "The Okavango Delta, a vast inland river delta known for its wildlife, is located in which country?",
-      "options": ["Namibia", "Zambia", "Botswana", "Zimbabwe"],
+      "options": [
+        "Namibia",
+        "Zambia",
+        "Botswana",
+        "Zimbabwe"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_164",
       "question": "Which unique desert plant found in Namibia can live for over 1,000 years and has only two continuous leaves?",
-      "options": ["Baobab", "Welwitschia", "Acacia", "Aloe vera"],
+      "options": [
+        "Baobab",
+        "Welwitschia",
+        "Acacia",
+        "Aloe vera"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_165",
       "question": "Which tree is iconic to the African savanna, often called the 'Tree of Life', and has a massively thick trunk for storing water?",
-      "options": ["Acacia", "Marula", "Baobab", "Mahogany"],
+      "options": [
+        "Acacia",
+        "Marula",
+        "Baobab",
+        "Mahogany"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_166",
       "question": "Which thorny tree provides the primary food source for giraffes?",
-      "options": ["Acacia", "Baobab", "Sausage Tree", "Ebony"],
+      "options": [
+        "Acacia",
+        "Baobab",
+        "Sausage Tree",
+        "Ebony"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_167",
       "question": "What is the primary diet of the African Nile Crocodile?",
-      "options": ["Only fish", "Only birds", "Fish, zebras, wildebeest, and other animals that cross the river", "Vegetation"],
+      "options": [
+        "Small fish and crustaceans only",
+        "Birds and their eggs only",
+        "Fish, large mammals, and other animals that cross the river",
+        "Aquatic plants and algae"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_168",
       "question": "Which large flightless bird is native to Africa and related to the emu?",
-      "options": ["Cassowary", "Rhea", "Kiwi", "Ostrich"],
+      "options": [
+        "Cassowary",
+        "Rhea",
+        "Kiwi",
+        "Ostrich"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_169",
       "question": "A male ostrich has plumage of what colors?",
-      "options": ["Brown and grey", "Pink and white", "Black and white", "Green and blue"],
+      "options": [
+        "Brown and grey",
+        "Pink and white",
+        "Black and white",
+        "Green and blue"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_170",
       "question": "Which African mammal can sleep while standing up due to locking joints in its legs?",
-      "options": ["Elephant", "Rhino", "Giraffe", "Zebra"],
+      "options": [
+        "Elephant",
+        "Rhino",
+        "Giraffe",
+        "Zebra"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_171",
       "question": "Zebras have black and white stripes primarily for what reason, according to recent science?",
-      "options": ["Camouflage in grass", "To deter biting flies like the tsetse fly", "To recognize each other", "To regulate body temperature"],
+      "options": [
+        "Camouflage in grass",
+        "To deter biting flies like the tsetse fly",
+        "To recognize each other",
+        "To regulate body temperature"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_172",
       "question": "What is a group of zebras called?",
-      "options": ["A herd", "A dazzle", "A flock", "A pride"],
+      "options": [
+        "A herd",
+        "A dazzle",
+        "A flock",
+        "A pride"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_173",
       "question": "What is a group of lions called?",
-      "options": ["A pack", "A troop", "A pride", "A coalition"],
+      "options": [
+        "A pack",
+        "A troop",
+        "A pride",
+        "A coalition"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_174",
       "question": "Which species of rhinoceros is more critically endangered?",
-      "options": ["Southern White Rhino", "Northern White Rhino", "Black Rhino", "Indian Rhino"],
+      "options": [
+        "Southern White Rhino",
+        "Northern White Rhino",
+        "Black Rhino",
+        "Indian Rhino"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_175",
       "question": "What are rhinoceros horns made of?",
-      "options": ["Bone", "Ivory", "Keratin", "Cartilage"],
+      "options": [
+        "Bone",
+        "Ivory",
+        "Keratin",
+        "Cartilage"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_176",
       "question": "Elephant tusks are essentially modified what?",
-      "options": ["Canine teeth", "Incisor teeth", "Horns", "Bones"],
+      "options": [
+        "Canine teeth",
+        "Incisor teeth",
+        "Horns",
+        "Bones"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_177",
       "question": "Which national park in Uganda is famous for its tree-climbing lions?",
-      "options": ["Bwindi", "Murchison Falls", "Queen Elizabeth National Park", "Kidepo Valley"],
+      "options": [
+        "Bwindi",
+        "Murchison Falls",
+        "Queen Elizabeth National Park",
+        "Kidepo Valley"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_178",
       "question": "The 'Marine Big Five' found off the coast of South Africa includes the Great White Shark, Southern Right Whale, Bottlenose Dolphin, African Penguin, and what else?",
-      "options": ["Manta Ray", "Cape Fur Seal", "Sea Turtle", "Walrus"],
+      "options": [
+        "Manta Ray",
+        "Cape Fur Seal",
+        "Sea Turtle",
+        "Walrus"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_179",
       "question": "The Galago, a small nocturnal primate with large eyes found in Africa, is better known by what name?",
-      "options": ["Bushbaby", "Tarsier", "Loris", "Lemur"],
+      "options": [
+        "Bushbaby",
+        "Tarsier",
+        "Loris",
+        "Lemur"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_180",
       "question": "Which African bird is famous for its massive communal nests that can house hundreds of birds and weigh over a ton?",
-      "options": ["Weaver Bird", "Sociable Weaver", "Hornbill", "Ostrich"],
+      "options": [
+        "Weaver Bird",
+        "Sociable Weaver",
+        "Hornbill",
+        "Ostrich"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_181",
       "question": "The African civet is known for producing what substance, historically used in perfumes?",
-      "options": ["Ambergris", "Musk (Civetone)", "Castoreum", "Frankincense"],
+      "options": [
+        "Ambergris",
+        "Musk",
+        "Castoreum",
+        "Frankincense"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_182",
       "question": "Which species of flamingo is the most numerous and often gathers in the millions in the Rift Valley lakes?",
-      "options": ["Greater Flamingo", "Lesser Flamingo", "Chilean Flamingo", "Andean Flamingo"],
+      "options": [
+        "Greater Flamingo",
+        "Lesser Flamingo",
+        "Chilean Flamingo",
+        "Andean Flamingo"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_183",
       "question": "The Aye-aye, a strange nocturnal lemur from Madagascar, is famous for what physical trait?",
-      "options": ["A prehensile tail", "A long, skeletal middle finger used for tapping trees", "Wings for gliding", "Venomous spurs"],
+      "options": [
+        "A long coiling prehensile tail for gripping branches",
+        "A long, skeletal middle finger used for tapping trees",
+        "Thin membranous wings used for gliding between trees",
+        "Sharp venomous spurs located on its hind legs"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_184",
       "question": "Which large venomous snake is responsible for the most snakebite fatalities in Africa due to its excellent camouflage and tendency to bask on footpaths?",
-      "options": ["Black Mamba", "Puff Adder", "Boomslang", "Gaboon Viper"],
+      "options": [
+        "Black Mamba",
+        "Puff Adder",
+        "Boomslang",
+        "Gaboon Viper"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_185",
       "question": "What kind of snake is a Boomslang?",
-      "options": ["A highly venomous tree snake", "A constrictor", "A water snake", "A spitting cobra"],
+      "options": [
+        "A highly venomous tree snake",
+        "A constrictor",
+        "A water snake",
+        "A spitting cobra"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_186",
       "question": "Which animal is the largest species of wild pig, found primarily in African forests?",
-      "options": ["Warthog", "Bushpig", "Giant Forest Hog", "Red River Hog"],
+      "options": [
+        "Warthog",
+        "Bushpig",
+        "Giant Forest Hog",
+        "Red River Hog"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_187",
       "question": "Warthogs are known to enter burrows backwards. Why?",
-      "options": ["To clean their tusks", "So they can use their tusks to defend the entrance", "Because they can't turn around inside", "To keep their tails warm"],
+      "options": [
+        "To clean their tusks",
+        "So they can use their tusks to defend the entrance",
+        "Because they can't turn around inside",
+        "To keep their tails warm"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_188",
       "question": "The Nile Monitor is a large species of what?",
-      "options": ["Crocodile", "Lizard", "Snake", "Fish"],
+      "options": [
+        "Crocodile",
+        "Lizard",
+        "Snake",
+        "Fish"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_189",
       "question": "Which large African animal is responsible for maintaining the ecosystem by knocking down trees and eating tall grass?",
-      "options": ["Rhinoceros", "Giraffe", "Elephant", "Buffalo"],
+      "options": [
+        "Rhinoceros",
+        "Giraffe",
+        "Elephant",
+        "Buffalo"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_190",
       "question": "What is a female elephant called?",
-      "options": ["Doe", "Cow", "Mare", "Sow"],
+      "options": [
+        "Doe",
+        "Cow",
+        "Mare",
+        "Sow"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_191",
       "question": "African buffalo are known for what distinctive feature on the males' heads?",
-      "options": ["A single horn", "A 'boss' (a fused base of the horns forming a continuous bone shield)", "Antlers that shed annually", "A large mane"],
+      "options": [
+        "A single horn",
+        "A fused horn shield called a 'boss'",
+        "Antlers that shed annually",
+        "A large mane"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_192",
       "question": "Which animal is considered the most successful predator in Africa, with a kill rate of around 80%?",
-      "options": ["Lion", "Leopard", "Cheetah", "African Wild Dog"],
+      "options": [
+        "Lion",
+        "Leopard",
+        "Cheetah",
+        "African Wild Dog"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_193",
       "question": "Which small, jumping antelope is known as the 'klipspringer', meaning 'rock jumper'?",
-      "options": ["Impala", "Klipspringer", "Dik-dik", "Steenbok"],
+      "options": [
+        "Impala",
+        "Klipspringer",
+        "Dik-dik",
+        "Steenbok"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_194",
       "question": "Which species of turtle nests in large numbers on the beaches of West and Central Africa?",
-      "options": ["Leatherback Turtle", "Green Turtle", "Olive Ridley Turtle", "Loggerhead Turtle"],
+      "options": [
+        "Leatherback Turtle",
+        "Green Turtle",
+        "Olive Ridley Turtle",
+        "Loggerhead Turtle"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_195",
       "question": "The 'Cradle of Humankind', a famous site with many hominin fossils, is located in which country?",
-      "options": ["Ethiopia", "Kenya", "Tanzania", "South Africa"],
+      "options": [
+        "Ethiopia",
+        "Kenya",
+        "Tanzania",
+        "South Africa"
+      ],
       "correct_index": 3
     },
     {
       "id": "wld_196",
       "question": "Which primate, famous from the research of Jane Goodall in Tanzania, is humans' closest living relative?",
-      "options": ["Gorilla", "Chimpanzee", "Orangutan", "Baboon"],
+      "options": [
+        "Gorilla",
+        "Chimpanzee",
+        "Orangutan",
+        "Baboon"
+      ],
       "correct_index": 1
     },
     {
       "id": "wld_197",
       "question": "Which park is Jane Goodall's research site located in?",
-      "options": ["Gombe Stream National Park", "Serengeti National Park", "Kruger National Park", "Virunga National Park"],
+      "options": [
+        "Gombe Stream National Park",
+        "Serengeti National Park",
+        "Kruger National Park",
+        "Virunga National Park"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_198",
       "question": "Which large African eagle feeds primarily on monkeys and small antelopes?",
-      "options": ["Martial Eagle", "African Fish Eagle", "Crowned Eagle", "Bateleur Eagle"],
+      "options": [
+        "Martial Eagle",
+        "African Fish Eagle",
+        "Crowned Eagle",
+        "Bateleur Eagle"
+      ],
       "correct_index": 2
     },
     {
       "id": "wld_199",
       "question": "The African Fish Eagle is famous for what?",
-      "options": ["Its striking white head and distinctive, loud call", "Being the largest eagle in the world", "Diving into the ocean for sharks", "Its bright pink feathers"],
+      "options": [
+        "Its striking white head and distinctive, loud call",
+        "Being the largest eagle in the world",
+        "Diving into the ocean for sharks",
+        "Its bright pink feathers"
+      ],
       "correct_index": 0
     },
     {
       "id": "wld_200",
       "question": "Which animal is a key pollinator of the Baobab tree?",
-      "options": ["Bees", "Fruit Bats", "Hummingbirds", "Monkeys"],
+      "options": [
+        "Bees",
+        "Fruit Bats",
+        "Hummingbirds",
+        "Monkeys"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_001",
       "question": "What is the collective noun for a group of crows?",
-      "options": ["A parliament", "A murder", "A gaggle", "A flock"],
+      "options": [
+        "A parliament",
+        "A murder",
+        "A gaggle",
+        "A flock"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_002",
       "question": "Which of these is the correct collective noun for a group of owls?",
-      "options": ["A wisdom", "A senate", "A parliament", "A vision"],
+      "options": [
+        "A wisdom",
+        "A senate",
+        "A parliament",
+        "A vision"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_003",
       "question": "A group of rhinoceroses is known by what aggressive-sounding term?",
-      "options": ["A crash", "A stampede", "A rumble", "A crush"],
+      "options": [
+        "A crash",
+        "A stampede",
+        "A rumble",
+        "A crush"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_004",
       "question": "What beautiful term is used to describe a group of flamingos?",
-      "options": ["A pinkness", "A flamboyance", "A dazzle", "A grace"],
+      "options": [
+        "A pinkness",
+        "A flamboyance",
+        "A dazzle",
+        "A grace"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_005",
       "question": "If you see a group of ferrets, you are looking at a...",
-      "options": ["Business", "Skulk", "Bandit", "Company"],
+      "options": [
+        "Business",
+        "Skulk",
+        "Bandit",
+        "Company"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_006",
       "question": "What is the collective noun for a group of jellyfish?",
-      "options": ["A sting", "A bloom", "A smack", "A wave"],
+      "options": [
+        "A sting",
+        "A bloom",
+        "A smack",
+        "A wave"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_007",
       "question": "A group of frogs is collectively known as an...",
-      "options": ["Army", "Amphibian", "Horde", "Legion"],
+      "options": [
+        "Army",
+        "Amphibian",
+        "Horde",
+        "Legion"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_008",
       "question": "What acrobatic term is used to describe a group of leopards?",
-      "options": ["A pounce", "A sprint", "A vault", "A leap"],
+      "options": [
+        "A pounce",
+        "A sprint",
+        "A vault",
+        "A leap"
+      ],
       "correct_index": 3
     },
     {
       "id": "cw_009",
       "question": "A group of peacocks is fittingly known as an...",
-      "options": ["Elegance", "Ostentation", "Arrogance", "Illusion"],
+      "options": [
+        "Elegance",
+        "Ostentation",
+        "Arrogance",
+        "Illusion"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_010",
       "question": "What dark and gloomy collective noun is used for a group of ravens?",
-      "options": ["A shadow", "A conspiracy", "An unkindness", "A doom"],
+      "options": [
+        "A shadow",
+        "A conspiracy",
+        "An unkindness",
+        "A doom"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_011",
       "question": "A group of stingrays is called a...",
-      "options": ["Fever", "Shock", "Current", "Glide"],
+      "options": [
+        "Fever",
+        "Shock",
+        "Current",
+        "Glide"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_012",
       "question": "What is the collective noun for a group of tigers?",
-      "options": ["A streak", "An ambush", "A prowl", "A roar"],
+      "options": [
+        "A streak",
+        "An ambush",
+        "A prowl",
+        "A roar"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_013",
       "question": "A group of toads is called a...",
-      "options": ["Wart", "Swamp", "Knot", "Lump"],
+      "options": [
+        "Wart",
+        "Swamp",
+        "Knot",
+        "Lump"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_014",
       "question": "What is the striking collective noun for a group of zebras?",
-      "options": ["A dazzle", "A stripe", "A confusion", "A sprint"],
+      "options": [
+        "A dazzle",
+        "A stripe",
+        "A confusion",
+        "A sprint"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_015",
       "question": "A group of apes is known as a...",
-      "options": ["Brawn", "Shrewdness", "Tribe", "Council"],
+      "options": [
+        "Brawn",
+        "Shrewdness",
+        "Tribe",
+        "Council"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_016",
       "question": "What is the collective noun for a group of badgers?",
-      "options": ["A cete", "A burrow", "A dig", "A clan"],
+      "options": [
+        "A cete",
+        "A burrow",
+        "A dig",
+        "A clan"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_017",
       "question": "A group of bats is appropriately called a...",
-      "options": ["Cloud", "Cauldron", "Cave", "Swoop"],
+      "options": [
+        "Cloud",
+        "Cauldron",
+        "Cave",
+        "Swoop"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_018",
       "question": "What is the collective term for a group of bears?",
-      "options": ["A lumber", "A sleuth", "A growl", "A force"],
+      "options": [
+        "A lumber",
+        "A sleuth",
+        "A growl",
+        "A force"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_019",
       "question": "A group of butterflies is called a...",
-      "options": ["Flutter", "Rainbow", "Kaleidoscope", "Canvas"],
+      "options": [
+        "Flutter",
+        "Rainbow",
+        "Kaleidoscope",
+        "Canvas"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_020",
       "question": "What is the collective noun for a group of cats?",
-      "options": ["A clowder", "A purr", "A pounce", "A scratch"],
+      "options": [
+        "A clowder",
+        "A purr",
+        "A pounce",
+        "A scratch"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_021",
       "question": "A group of cobras is known as a...",
-      "options": ["Strike", "Venom", "Quiver", "Slither"],
+      "options": [
+        "Strike",
+        "Venom",
+        "Quiver",
+        "Slither"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_022",
       "question": "What is the collective term for a group of crocodiles?",
-      "options": ["A snap", "A bask", "A float", "A crunch"],
+      "options": [
+        "A snap",
+        "A bask",
+        "A float",
+        "A crunch"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_023",
       "question": "A group of eagles is known as a...",
-      "options": ["Convocation", "Flight", "Majesty", "Soar"],
+      "options": [
+        "Convocation",
+        "Flight",
+        "Majesty",
+        "Soar"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_024",
       "question": "What musical term is used to describe a group of finches?",
-      "options": ["A song", "A chorus", "A charm", "A melody"],
+      "options": [
+        "A song",
+        "A chorus",
+        "A charm",
+        "A melody"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_025",
       "question": "A group of foxes is called a...",
-      "options": ["Trot", "Skulk", "Cunning", "Dash"],
+      "options": [
+        "Trot",
+        "Skulk",
+        "Cunning",
+        "Dash"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_026",
       "question": "What is the collective noun for a group of giraffes?",
-      "options": ["A height", "A reach", "A tower", "A stretch"],
+      "options": [
+        "A height",
+        "A reach",
+        "A tower",
+        "A stretch"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_027",
       "question": "A group of hippopotamuses is known as a...",
-      "options": ["Sink", "Bloat", "Wallow", "Splash"],
+      "options": [
+        "Sink",
+        "Bloat",
+        "Wallow",
+        "Splash"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_028",
       "question": "What is the collective term for a group of hyenas?",
-      "options": ["A laugh", "A cackle", "A sneer", "A howl"],
+      "options": [
+        "A laugh",
+        "A cackle",
+        "A sneer",
+        "A howl"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_029",
       "question": "A group of iguanas is called a...",
-      "options": ["Lounge", "Mess", "Crawl", "Scale"],
+      "options": [
+        "Lounge",
+        "Mess",
+        "Crawl",
+        "Scale"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_030",
       "question": "What is the collective noun for a group of kangaroos?",
-      "options": ["A mob", "A jump", "A bounce", "A pouch"],
+      "options": [
+        "A mob",
+        "A jump",
+        "A bounce",
+        "A pouch"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_031",
       "question": "A group of lemurs is known as a...",
-      "options": ["Secret", "Conspiracy", "Shadow", "Ring"],
+      "options": [
+        "Secret",
+        "Conspiracy",
+        "Shadow",
+        "Ring"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_032",
       "question": "What is the collective term for a group of mice?",
-      "options": ["A squeak", "A scurry", "A mischief", "A nibble"],
+      "options": [
+        "A squeak",
+        "A scurry",
+        "A mischief",
+        "A nibble"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_033",
       "question": "A group of moles is called a...",
-      "options": ["Dig", "Labor", "Tunnel", "Blind"],
+      "options": [
+        "Dig",
+        "Labor",
+        "Tunnel",
+        "Blind"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_034",
       "question": "What is the playful collective noun for a group of otters?",
-      "options": ["A romp", "A splash", "A slide", "A swim"],
+      "options": [
+        "A romp",
+        "A splash",
+        "A slide",
+        "A swim"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_035",
       "question": "A group of parrots is known as a...",
-      "options": ["Chatter", "Pandemonium", "Rainbow", "Squawk"],
+      "options": [
+        "Chatter",
+        "Pandemonium",
+        "Rainbow",
+        "Squawk"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_036",
       "question": "What sharp term is used for a group of porcupines?",
-      "options": ["A needle", "A prickle", "A spine", "A dart"],
+      "options": [
+        "A needle",
+        "A prickle",
+        "A spine",
+        "A dart"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_037",
       "question": "A group of domestic rabbits is sometimes called a...",
-      "options": ["Hop", "Fluffle", "Cotton", "Jump"],
+      "options": [
+        "Hop",
+        "Fluffle",
+        "Cotton",
+        "Jump"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_038",
       "question": "What is the collective noun for a group of raccoons?",
-      "options": ["A mask", "A gaze", "A bandit", "A rummage"],
+      "options": [
+        "A mask",
+        "A gaze",
+        "A bandit",
+        "A rummage"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_039",
       "question": "A group of rattlesnakes is known as a...",
-      "options": ["Shake", "Rhumba", "Rattle", "Coil"],
+      "options": [
+        "Shake",
+        "Rhumba",
+        "Rattle",
+        "Coil"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_040",
       "question": "What is the collective term for a group of sharks?",
-      "options": ["A shiver", "A tooth", "A terror", "A fin"],
+      "options": [
+        "A shiver",
+        "A tooth",
+        "A terror",
+        "A fin"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_041",
       "question": "A group of skunks is called a...",
-      "options": ["Stink", "Surfeit", "Stripe", "Cloud"],
+      "options": [
+        "Stink",
+        "Surfeit",
+        "Stripe",
+        "Cloud"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_042",
       "question": "What is the French-inspired collective noun for a group of snails?",
-      "options": ["A slime", "A trail", "An escargatoire", "A shell"],
+      "options": [
+        "A slime",
+        "A trail",
+        "An escargatoire",
+        "A shell"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_043",
       "question": "A large flock of starlings swooping in the sky is called a...",
-      "options": ["Swarm", "Murmuration", "Cloud", "Eclipse"],
+      "options": [
+        "Swarm",
+        "Murmuration",
+        "Cloud",
+        "Eclipse"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_044",
       "question": "What is the collective noun for a group of swans?",
-      "options": ["A bevy", "A grace", "A glide", "A white"],
+      "options": [
+        "A bevy",
+        "A grace",
+        "A glide",
+        "A white"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_045",
       "question": "A group of turkeys is known as a...",
-      "options": ["Gobble", "Rafter", "Feast", "Wattle"],
+      "options": [
+        "Gobble",
+        "Rafter",
+        "Feast",
+        "Wattle"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_046",
       "question": "What is the collective term for a group of turtles?",
-      "options": ["A shell", "A bale", "A crawl", "A snap"],
+      "options": [
+        "A shell",
+        "A bale",
+        "A crawl",
+        "A snap"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_047",
       "question": "A group of vultures in flight is called a...",
-      "options": ["Kettle", "Wake", "Committee", "Shadow"],
+      "options": [
+        "Kettle",
+        "Wake",
+        "Committee",
+        "Shadow"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_048",
       "question": "What is the collective noun for a group of experts?",
-      "options": ["A board", "A panel", "A brain", "A trust"],
+      "options": [
+        "A board",
+        "A panel",
+        "A brain",
+        "A trust"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_049",
       "question": "A group of actors is generally known as a...",
-      "options": ["Cast", "Stage", "Scene", "Play"],
+      "options": [
+        "Cast",
+        "Stage",
+        "Scene",
+        "Play"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_050",
       "question": "What is the collective term for a group of arrows?",
-      "options": ["A bow", "A flight", "A quiver", "A shaft"],
+      "options": [
+        "A bow",
+        "A flight",
+        "A quiver",
+        "A shaft"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_051",
       "question": "The Komodo Dragon, the world's largest lizard, is endemic to which country?",
-      "options": ["Australia", "Philippines", "Indonesia", "Malaysia"],
+      "options": [
+        "Australia",
+        "Philippines",
+        "Indonesia",
+        "Malaysia"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_052",
       "question": "Where is the Axolotl, a critically endangered amphibian, naturally found?",
-      "options": ["The Amazon River", "Lake Xochimilco, Mexico", "The Florida Everglades", "The Nile River"],
+      "options": [
+        "The Amazon River",
+        "Lake Xochimilco, Mexico",
+        "The Florida Everglades",
+        "The Nile River"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_053",
       "question": "What incredible biological feature is the Axolotl famous for?",
-      "options": ["Breathing fire", "Changing colors like a chameleon", "Regenerating entire lost limbs and organs", "Flying short distances"],
+      "options": [
+        "Breathing fire",
+        "Changing colors like a chameleon",
+        "Regenerating entire lost limbs and organs",
+        "Flying short distances"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_054",
       "question": "The Platypus is native to which country?",
-      "options": ["New Zealand", "Australia", "Madagascar", "Papua New Guinea"],
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Madagascar",
+        "Papua New Guinea"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_055",
       "question": "Which of these is a unique feature of the male Platypus?",
-      "options": ["It can fly", "It has venomous spurs on its hind legs", "It has a prehensile tail", "It changes gender"],
+      "options": [
+        "It can fly",
+        "It has venomous spurs on its hind legs",
+        "It has a prehensile tail",
+        "It changes gender"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_056",
       "question": "The Kiwi, a flightless bird with nostrils at the end of its beak, is native to...",
-      "options": ["Australia", "Fiji", "New Zealand", "Samoa"],
+      "options": [
+        "Australia",
+        "Fiji",
+        "New Zealand",
+        "Samoa"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_057",
       "question": "In which country is the Okapi, a forest-dwelling relative of the giraffe, found?",
-      "options": ["Democratic Republic of the Congo", "Kenya", "South Africa", "Nigeria"],
+      "options": [
+        "Democratic Republic of the Congo",
+        "Kenya",
+        "South Africa",
+        "Nigeria"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_058",
       "question": "What distinctive feature does the Okapi share with zebras?",
-      "options": ["A long mane", "Striped legs and hindquarters", "A powerful kick", "Herd behavior"],
+      "options": [
+        "A long mane",
+        "Striped legs and hindquarters",
+        "A powerful kick",
+        "Herd behavior"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_059",
       "question": "The Capybara, native to South America, holds what world record?",
-      "options": ["Fastest land mammal", "Largest living rodent", "Smallest primate", "Longest lifespan of any mammal"],
+      "options": [
+        "Fastest land mammal",
+        "Largest living rodent",
+        "Smallest primate",
+        "Longest lifespan of any mammal"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_060",
       "question": "Where is the Fossa, a carnivorous mammal that looks like a mix between a cat and a mongoose, found?",
-      "options": ["Borneo", "Sri Lanka", "Madagascar", "Tasmania"],
+      "options": [
+        "Borneo",
+        "Sri Lanka",
+        "Madagascar",
+        "Tasmania"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_061",
       "question": "In which mountain ranges would you find the elusive Snow Leopard?",
-      "options": ["The Andes", "The Alps", "The Himalayas and Central Asian mountains", "The Rockies"],
+      "options": [
+        "The Andes mountains in South America",
+        "The European Alps in Switzerland",
+        "The Himalayas and Central Asian mountains",
+        "The Rocky Mountains in North America"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_062",
       "question": "What physical adaptation helps the Snow Leopard maintain its balance and stay warm?",
-      "options": ["Extra-large ears", "A very long, thick tail", "Webbed feet", "A prehensile snout"],
+      "options": [
+        "Extra-large ears",
+        "A very long, thick tail",
+        "Webbed feet",
+        "A prehensile snout"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_063",
       "question": "The Quokka, often called 'the world's happiest animal' due to its facial expression, is found in...",
-      "options": ["Western Australia (Rottnest Island)", "New Zealand", "The Galapagos Islands", "Madagascar"],
+      "options": [
+        "Western Australia",
+        "New Zealand",
+        "The Galapagos Islands",
+        "Madagascar"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_064",
       "question": "What are the protective scales of a Pangolin made of?",
-      "options": ["Bone", "Cartilage", "Keratin", "Chitin"],
+      "options": [
+        "Bone",
+        "Cartilage",
+        "Keratin",
+        "Chitin"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_065",
       "question": "What organism often grows in the fur of wild sloths, giving them a greenish tint that aids in camouflage?",
-      "options": ["Moss", "Algae", "Fungus", "Lichen"],
+      "options": [
+        "Moss",
+        "Algae",
+        "Fungus",
+        "Lichen"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_066",
       "question": "The Cassowary, native to New Guinea and Australia, features what unique structure on its head?",
-      "options": ["A bony casque (helmet)", "A crown of feathers", "Antlers", "A fleshy wattle"],
+      "options": [
+        "A bony casque",
+        "A crown of feathers",
+        "Antlers",
+        "A fleshy wattle"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_067",
       "question": "The Gharial is a critically endangered crocodilian native to India and Nepal. What is its most distinctive feature?",
-      "options": ["A bright red underbelly", "A very long, thin snout", "A lack of teeth", "Armor-plated eyelids"],
+      "options": [
+        "A bright red underbelly",
+        "A very long, thin snout",
+        "A lack of teeth",
+        "Armor-plated eyelids"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_068",
       "question": "Where is the Hoatzin, a bizarre bird whose chicks have claws on their wings, found?",
-      "options": ["The Amazon Basin", "The Congo Rainforest", "The Australian Outback", "The Black Forest"],
+      "options": [
+        "The Amazon Basin",
+        "The Congo Rainforest",
+        "The Australian Outback",
+        "The Black Forest"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_069",
       "question": "The Marine Iguana, the only lizard that forages in the ocean, is endemic to...",
-      "options": ["The Caribbean", "The Galapagos Islands", "Hawaii", "The Maldives"],
+      "options": [
+        "The Caribbean",
+        "The Galapagos Islands",
+        "Hawaii",
+        "The Maldives"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_070",
       "question": "The Thorny Devil is a heavily armored lizard native to which country?",
-      "options": ["Mexico", "Egypt", "Australia", "South Africa"],
+      "options": [
+        "Mexico",
+        "Egypt",
+        "Australia",
+        "South Africa"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_071",
       "question": "How does the Thorny Devil ingeniously drink water in its arid habitat?",
-      "options": ["By eating water-rich cacti", "Through capillary action along its skin to its mouth", "By storing it in a hump like a camel", "By absorbing morning dew through its eyes"],
+      "options": [
+        "By eating water-rich cacti",
+        "Through capillary action along its skin to its mouth",
+        "By storing it in a hump like a camel",
+        "By absorbing morning dew through its eyes"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_072",
       "question": "The Aye-aye is a nocturnal primate found only in Madagascar. What is its most famous physical trait?",
-      "options": ["A prehensile tail", "A long, skeletal middle finger used for foraging", "Enormous, bat-like ears", "A glowing nose"],
+      "options": [
+        "A long, coiling prehensile tail for tree navigation",
+        "A long, skeletal middle finger used for foraging",
+        "Large bat-like ears that fold flat during the day",
+        "A bioluminescent nose for hunting in darkness"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_073",
       "question": "Where is the Narwhal, a medium-sized toothed whale, primarily found?",
-      "options": ["The Antarctic Ocean", "The Arctic Ocean", "The Indian Ocean", "The Pacific Ocean"],
+      "options": [
+        "The Antarctic Ocean",
+        "The Arctic Ocean",
+        "The Indian Ocean",
+        "The Pacific Ocean"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_074",
       "question": "What is the famous 'horn' of a male Narwhal actually made of?",
-      "options": ["Bone", "Keratin", "An elongated canine tooth", "Cartilage"],
+      "options": [
+        "Dense compact bone tissue",
+        "Compressed keratin fibers",
+        "An elongated canine tooth",
+        "Calcified flexible cartilage"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_075",
       "question": "The Proboscis Monkey, known for its unusually large, pendulous nose, is native to which island?",
-      "options": ["Sumatra", "Madagascar", "Borneo", "New Guinea"],
+      "options": [
+        "Sumatra",
+        "Madagascar",
+        "Borneo",
+        "New Guinea"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_076",
       "question": "Where would you find the Shoebill Stork, a massive, prehistoric-looking bird?",
-      "options": ["Swamps of East Africa", "The Amazon Rainforest", "The Florida Everglades", "The Mekong Delta"],
+      "options": [
+        "Swamps of East Africa",
+        "The Amazon Rainforest",
+        "The Florida Everglades",
+        "The Mekong Delta"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_077",
       "question": "The Emperor Penguin is native to which continent?",
-      "options": ["South America", "Australia", "Antarctica", "Africa"],
+      "options": [
+        "South America",
+        "Australia",
+        "Antarctica",
+        "Africa"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_078",
       "question": "How do male Emperor Penguins keep their eggs warm during the harsh winter?",
-      "options": ["By burying them in the snow", "By incubating them on their feet under a brood pouch", "By building elaborate rock nests", "By continuously rotating them with their beaks"],
+      "options": [
+        "By burying them in the snow",
+        "By incubating them on their feet under a brood pouch",
+        "By building elaborate rock nests",
+        "By continuously rotating them with their beaks"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_079",
       "question": "The Tarsier, found in Southeast Asia, has which extreme physical feature?",
-      "options": ["A tail longer than its body", "Eyes that are larger than its brain", "Ears that can rotate 360 degrees", "Venomous fangs"],
+      "options": [
+        "A tail longer than its body",
+        "Eyes that are larger than its brain",
+        "Ears that can rotate 360 degrees",
+        "Venomous fangs"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_080",
       "question": "The Wombat, a burrowing marsupial native to Australia, is famous for producing what?",
-      "options": ["Silk", "Cube-shaped feces", "A glowing sweat", "Pearl-like stones"],
+      "options": [
+        "Silk",
+        "Cube-shaped feces",
+        "A glowing sweat",
+        "Pearl-like stones"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_081",
       "question": "The Naked Mole-rat, native to East Africa, is biologically unique among mammals for what reason?",
-      "options": ["It is cold-blooded and highly resistant to cancer", "It can photosynthesize", "It lays eggs", "It has no teeth"],
+      "options": [
+        "It is cold-blooded and highly resistant to cancer",
+        "It can photosynthesize through its translucent skin",
+        "It lays leathery eggs similar to a reptile",
+        "It has no teeth or claws of any kind"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_082",
       "question": "Where is the Leafy Seadragon, a marine fish with leaf-like protrusions for camouflage, naturally found?",
-      "options": ["The Caribbean Sea", "The Mediterranean Sea", "Southern and western coasts of Australia", "The Red Sea"],
+      "options": [
+        "The Caribbean Sea",
+        "The Mediterranean Sea",
+        "Southern and western coasts of Australia",
+        "The Red Sea"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_083",
       "question": "The Tasmanian Devil, a carnivorous marsupial, holds what impressive biological record?",
-      "options": ["Fastest running marsupial", "Strongest bite force relative to body size of any mammalian carnivore", "Loudest vocalization of any land animal", "Longest lifespan of any marsupial"],
+      "options": [
+        "Fastest running marsupial",
+        "Strongest bite force relative to body size of any mammalian carnivore",
+        "Loudest vocalization of any land animal",
+        "Longest lifespan of any marsupial"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_084",
       "question": "The Galápagos Tortoise, known for its massive size and long lifespan, is native to islands belonging to which country?",
-      "options": ["Ecuador", "Peru", "Chile", "Colombia"],
+      "options": [
+        "Ecuador",
+        "Peru",
+        "Chile",
+        "Colombia"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_085",
       "question": "The Maned Wolf, the largest canid in South America, looks like a fox on stilts. What is its primary diet?",
-      "options": ["Exclusively large mammals", "Fish and amphibians", "Omnivorous, eating small animals and the 'lobeira' fruit", "Exclusively insects"],
+      "options": [
+        "Exclusively large mammals",
+        "Fish and amphibians",
+        "Omnivorous, eating small animals and the 'lobeira' fruit",
+        "Exclusively insects"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_086",
       "question": "Where is the Saiga Antelope, known for its bizarre, oversized, and flexible nose structure, found?",
-      "options": ["The Sahara Desert", "The Eurasian Steppe", "The Australian Outback", "The Patagonian Desert"],
+      "options": [
+        "The Sahara Desert",
+        "The Eurasian Steppe",
+        "The Australian Outback",
+        "The Patagonian Desert"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_087",
       "question": "The Kakapo, a critically endangered and flightless parrot, is native to which country?",
-      "options": ["New Zealand", "Australia", "Madagascar", "Brazil"],
+      "options": [
+        "New Zealand",
+        "Australia",
+        "Madagascar",
+        "Brazil"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_088",
       "question": "What is unique about the Binturong, also known as the bear-cat, native to South and Southeast Asia?",
-      "options": ["It can fly", "It smells like hot buttered popcorn", "It has no tail", "It is completely blind"],
+      "options": [
+        "It can fly",
+        "It smells like hot buttered popcorn",
+        "It has no tail",
+        "It is completely blind"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_089",
       "question": "The Blue-footed Booby, a marine bird famous for its bright blue feet used in mating rituals, is famously found in...",
-      "options": ["The Galapagos Islands", "The Falkland Islands", "The Hawaiian Islands", "The Canary Islands"],
+      "options": [
+        "The Galapagos Islands",
+        "The Falkland Islands",
+        "The Hawaiian Islands",
+        "The Canary Islands"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_090",
       "question": "Where is the Dugong, a marine mammal closely related to the manatee, primarily found?",
-      "options": ["Cold Arctic waters", "Warm coastal waters of the Indo-West Pacific", "Deep trenches of the Atlantic", "Freshwater rivers in South America"],
+      "options": [
+        "Cold Arctic waters",
+        "Warm coastal waters of the Indo-West Pacific",
+        "Deep trenches of the Atlantic",
+        "Freshwater rivers in South America"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_091",
       "question": "What is the primary food source for a Dugong?",
-      "options": ["Small fish", "Jellyfish", "Seagrass", "Crustaceans"],
+      "options": [
+        "Small fish",
+        "Jellyfish",
+        "Seagrass",
+        "Crustaceans"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_092",
       "question": "The Harpy Eagle, one of the largest and most powerful eagles in the world, inhabits the rainforests of...",
-      "options": ["Central and South America", "Southeast Asia", "Central Africa", "Northern Europe"],
+      "options": [
+        "Central and South America",
+        "Southeast Asia",
+        "Central Africa",
+        "Northern Europe"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_093",
       "question": "The Echidna, one of the only two living mammals that lay eggs, is found in Australia and...",
-      "options": ["New Zealand", "New Guinea", "Indonesia", "Fiji"],
+      "options": [
+        "New Zealand",
+        "New Guinea",
+        "Indonesia",
+        "Fiji"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_094",
       "question": "The Fennec Fox is the smallest of all the world's foxes. Where does it live?",
-      "options": ["The Gobi Desert", "The Sahara Desert", "The Mojave Desert", "The Atacama Desert"],
+      "options": [
+        "The Gobi Desert",
+        "The Sahara Desert",
+        "The Mojave Desert",
+        "The Atacama Desert"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_095",
       "question": "The Red Panda, which shares a name with the Giant Panda but is not closely related, is native to...",
-      "options": ["The eastern Himalayas and southwestern China", "The bamboo forests of Japan", "The rainforests of Vietnam", "The mountains of South Korea"],
+      "options": [
+        "The eastern Himalayas and southwestern China",
+        "The bamboo forests of Japan",
+        "The rainforests of Vietnam",
+        "The mountains of South Korea"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_096",
       "question": "Where is the Tuatara, a reptile that looks like a lizard but is the last survivor of an order that thrived in the age of dinosaurs, found?",
-      "options": ["Madagascar", "New Zealand", "Australia", "Papua New Guinea"],
+      "options": [
+        "Madagascar",
+        "New Zealand",
+        "Australia",
+        "Papua New Guinea"
+      ],
       "correct_index": 1
     },
     {
       "id": "cw_097",
       "question": "The Japanese Macaque is famous for a specific winter behavior. What is it?",
-      "options": ["Hibernating in deep caves", "Migrating to tropical islands", "Bathing in volcanic hot springs", "Building igloos from snow"],
+      "options": [
+        "Hibernating in deep caves",
+        "Migrating to tropical islands",
+        "Bathing in volcanic hot springs",
+        "Building igloos from snow"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_098",
       "question": "The Gila Monster, one of the few venomous lizards in the world, is native to...",
-      "options": ["The southwestern United States and northwestern Mexico", "The Australian Outback", "The Sahara Desert", "The Gobi Desert"],
+      "options": [
+        "The southwestern United States and northwestern Mexico",
+        "The Australian Outback",
+        "The Sahara Desert",
+        "The Gobi Desert"
+      ],
       "correct_index": 0
     },
     {
       "id": "cw_099",
       "question": "The Secretarybird, a large, terrestrial bird of prey, is endemic to which continent?",
-      "options": ["South America", "Australia", "Africa", "Asia"],
+      "options": [
+        "South America",
+        "Australia",
+        "Africa",
+        "Asia"
+      ],
       "correct_index": 2
     },
     {
       "id": "cw_100",
       "question": "The Sunda Flying Lemur (Colugo), which glides between trees and is not actually a lemur, is found in...",
-      "options": ["Madagascar", "Southeast Asia", "Central America", "West Africa"],
+      "options": [
+        "Madagascar",
+        "Southeast Asia",
+        "Central America",
+        "West Africa"
+      ],
       "correct_index": 1
     }
   ]

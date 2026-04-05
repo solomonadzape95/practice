@@ -7,1024 +7,1872 @@
     {
       "id": "afr_001",
       "question": "In what year did Nigeria gain independence?",
-      "options": ["1957", "1960", "1963", "1950"],
+      "options": [
+        "1957",
+        "1960",
+        "1963",
+        "1950"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_002",
       "question": "Nigeria gained independence from which country?",
-      "options": ["France", "Portugal", "United Kingdom", "Belgium"],
+      "options": [
+        "France",
+        "Portugal",
+        "United Kingdom",
+        "Belgium"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_003",
       "question": "Who was the first Prime Minister of Nigeria?",
-      "options": ["Nnamdi Azikiwe", "Abubakar Tafawa Balewa", "Yakubu Gowon", "Obafemi Awolowo"],
+      "options": [
+        "Nnamdi Azikiwe",
+        "Abubakar Tafawa Balewa",
+        "Yakubu Gowon",
+        "Obafemi Awolowo"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_004",
       "question": "In what year did Ghana gain independence?",
-      "options": ["1957", "1960", "1963", "1955"],
+      "options": [
+        "1957",
+        "1960",
+        "1963",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_005",
       "question": "Ghana gained independence from which country?",
-      "options": ["France", "United Kingdom", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_006",
       "question": "Who was the first president of Ghana?",
-      "options": ["Kwame Nkrumah", "Jerry Rawlings", "Kofi Annan", "Jomo Kenyatta"],
+      "options": [
+        "Kwame Nkrumah",
+        "Jerry Rawlings",
+        "Kofi Annan",
+        "Jomo Kenyatta"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_007",
       "question": "In what year did Kenya gain independence?",
-      "options": ["1960", "1963", "1965", "1958"],
+      "options": [
+        "1960",
+        "1963",
+        "1965",
+        "1958"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_008",
       "question": "Kenya gained independence from which country?",
-      "options": ["France", "Germany", "United Kingdom", "Italy"],
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Italy"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_009",
       "question": "Who was the first president of Kenya?",
-      "options": ["Daniel arap Moi", "Jomo Kenyatta", "Uhuru Kenyatta", "Mwai Kibaki"],
+      "options": [
+        "Daniel arap Moi",
+        "Jomo Kenyatta",
+        "Uhuru Kenyatta",
+        "Mwai Kibaki"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_010",
       "question": "In what year did South Africa become a republic?",
-      "options": ["1961", "1950", "1970", "1994"],
+      "options": [
+        "1961",
+        "1950",
+        "1970",
+        "1994"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_011",
       "question": "In what year did Algeria gain independence?",
-      "options": ["1956", "1962", "1960", "1958"],
+      "options": [
+        "1956",
+        "1962",
+        "1960",
+        "1958"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_012",
       "question": "Algeria gained independence from which country?",
-      "options": ["Spain", "France", "Italy", "Portugal"],
+      "options": [
+        "Spain",
+        "France",
+        "Italy",
+        "Portugal"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_013",
       "question": "Who was the first president of Algeria?",
-      "options": ["Ahmed Ben Bella", "Houari Boumédiène", "Abdelaziz Bouteflika", "Ferhat Abbas"],
+      "options": [
+        "Ahmed Ben Bella",
+        "Houari Boumédiène",
+        "Abdelaziz Bouteflika",
+        "Ferhat Abbas"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_014",
       "question": "In what year did Egypt gain independence from Britain (nominal)?",
-      "options": ["1922", "1952", "1945", "1918"],
+      "options": [
+        "1922",
+        "1952",
+        "1945",
+        "1918"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_015",
       "question": "What is the official language of Egypt?",
-      "options": ["French", "Arabic", "English", "Swahili"],
+      "options": [
+        "French",
+        "Arabic",
+        "English",
+        "Swahili"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_016",
       "question": "In what year did Tanzania gain independence?",
-      "options": ["1961", "1964", "1959", "1963"],
+      "options": [
+        "1961",
+        "1964",
+        "1959",
+        "1963"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_017",
       "question": "Tanzania gained independence from which country?",
-      "options": ["France", "Germany", "United Kingdom", "Belgium"],
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Belgium"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_018",
       "question": "Who was the first president of Tanzania?",
-      "options": ["Julius Nyerere", "John Magufuli", "Ali Hassan Mwinyi", "Jakaya Kikwete"],
+      "options": [
+        "Julius Nyerere",
+        "John Magufuli",
+        "Ali Hassan Mwinyi",
+        "Jakaya Kikwete"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_019",
       "question": "In what year did Uganda gain independence?",
-      "options": ["1962", "1960", "1964", "1958"],
+      "options": [
+        "1962",
+        "1960",
+        "1964",
+        "1958"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_020",
       "question": "Uganda gained independence from which country?",
-      "options": ["France", "United Kingdom", "Portugal", "Italy"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Portugal",
+        "Italy"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_021",
       "question": "Who was the first Prime Minister of Uganda?",
-      "options": ["Idi Amin", "Milton Obote", "Yoweri Museveni", "Apollo Milton Obote"],
+      "options": [
+        "Idi Amin",
+        "Milton Obote",
+        "Yoweri Museveni",
+        "Apollo Milton Obote"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_022",
       "question": "In what year did Angola gain independence?",
-      "options": ["1975", "1960", "1980", "1970"],
+      "options": [
+        "1975",
+        "1960",
+        "1980",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_023",
       "question": "Angola gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Belgium"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Belgium"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_024",
       "question": "What is the official language of Angola?",
-      "options": ["English", "French", "Portuguese", "Arabic"],
+      "options": [
+        "English",
+        "French",
+        "Portuguese",
+        "Arabic"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_025",
       "question": "In what year did Mozambique gain independence?",
-      "options": ["1975", "1960", "1985", "1970"],
+      "options": [
+        "1975",
+        "1960",
+        "1985",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_026",
       "question": "Mozambique gained independence from which country?",
-      "options": ["France", "Portugal", "Italy", "Spain"],
+      "options": [
+        "France",
+        "Portugal",
+        "Italy",
+        "Spain"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_027",
       "question": "What is the official language of Mozambique?",
-      "options": ["English", "Portuguese", "French", "Swahili"],
+      "options": [
+        "English",
+        "Portuguese",
+        "French",
+        "Swahili"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_028",
       "question": "In what year did Zimbabwe gain independence?",
-      "options": ["1980", "1975", "1965", "1990"],
+      "options": [
+        "1980",
+        "1975",
+        "1965",
+        "1990"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_029",
       "question": "Zimbabwe gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Germany"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Germany"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_030",
       "question": "Who was the first Prime Minister of Zimbabwe?",
-      "options": ["Robert Mugabe", "Emmerson Mnangagwa", "Joshua Nkomo", "Canaan Banana"],
+      "options": [
+        "Robert Mugabe",
+        "Emmerson Mnangagwa",
+        "Joshua Nkomo",
+        "Canaan Banana"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_031",
       "question": "In what year did Zambia gain independence?",
-      "options": ["1964", "1960", "1975", "1959"],
+      "options": [
+        "1964",
+        "1960",
+        "1975",
+        "1959"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_032",
       "question": "Zambia gained independence from which country?",
-      "options": ["France", "Portugal", "United Kingdom", "Belgium"],
+      "options": [
+        "France",
+        "Portugal",
+        "United Kingdom",
+        "Belgium"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_033",
       "question": "Who was the first president of Zambia?",
-      "options": ["Kenneth Kaunda", "Frederick Chiluba", "Levy Mwanawasa", "Edgar Lungu"],
+      "options": [
+        "Kenneth Kaunda",
+        "Frederick Chiluba",
+        "Levy Mwanawasa",
+        "Edgar Lungu"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_034",
       "question": "In what year did Malawi gain independence?",
-      "options": ["1964", "1960", "1970", "1955"],
+      "options": [
+        "1964",
+        "1960",
+        "1970",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_035",
       "question": "Malawi gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_036",
       "question": "Who was the first president of Malawi?",
-      "options": ["Hastings Banda", "Bakili Muluzi", "Joyce Banda", "Peter Mutharika"],
+      "options": [
+        "Hastings Banda",
+        "Bakili Muluzi",
+        "Joyce Banda",
+        "Peter Mutharika"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_037",
       "question": "In what year did Botswana gain independence?",
-      "options": ["1966", "1960", "1975", "1958"],
+      "options": [
+        "1966",
+        "1960",
+        "1975",
+        "1958"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_038",
       "question": "Botswana gained independence from which country?",
-      "options": ["France", "United Kingdom", "Germany", "Portugal"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Germany",
+        "Portugal"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_039",
       "question": "What is the official language of Botswana?",
-      "options": ["English", "French", "Portuguese", "Arabic"],
+      "options": [
+        "English",
+        "French",
+        "Portuguese",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_040",
       "question": "In what year did Namibia gain independence?",
-      "options": ["1990", "1980", "1975", "1965"],
+      "options": [
+        "1990",
+        "1980",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_041",
       "question": "Namibia gained independence from which country?",
-      "options": ["South Africa", "Germany", "France", "Portugal"],
+      "options": [
+        "South Africa",
+        "Germany",
+        "France",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_042",
       "question": "Who was the first president of Namibia?",
-      "options": ["Sam Nujoma", "Hage Geingob", "Hifikepunye Pohamba", "Jacob Zuma"],
+      "options": [
+        "Sam Nujoma",
+        "Hage Geingob",
+        "Hifikepunye Pohamba",
+        "Jacob Zuma"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_043",
       "question": "In what year did Cameroon gain independence?",
-      "options": ["1960", "1955", "1970", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_044",
       "question": "Cameroon gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_045",
       "question": "What are the official languages of Cameroon?",
-      "options": ["English and French", "Arabic and English", "Portuguese and French", "Swahili and English"],
+      "options": [
+        "English and French",
+        "Arabic and English",
+        "Portuguese and French",
+        "Swahili and English"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_046",
       "question": "In what year did Ivory Coast (Côte d'Ivoire) gain independence?",
-      "options": ["1960", "1958", "1975", "1965"],
+      "options": [
+        "1960",
+        "1958",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_047",
       "question": "Ivory Coast gained independence from which country?",
-      "options": ["France", "United Kingdom", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_048",
       "question": "Who was the first president of Ivory Coast?",
-      "options": ["Félix Houphouët-Boigny", "Laurent Gbagbo", "Alassane Ouattara", "Henri Konan Bédié"],
+      "options": [
+        "Félix Houphouët-Boigny",
+        "Laurent Gbagbo",
+        "Alassane Ouattara",
+        "Henri Konan Bédié"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_049",
       "question": "In what year did Senegal gain independence?",
-      "options": ["1960", "1956", "1970", "1965"],
+      "options": [
+        "1960",
+        "1956",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_050",
       "question": "Senegal gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_051",
       "question": "Who was the first president of Senegal?",
-      "options": ["Léopold Sédar Senghor", "Abdoulaye Wade", "Macky Sall", "Ousmane Sonko"],
+      "options": [
+        "Léopold Sédar Senghor",
+        "Abdoulaye Wade",
+        "Macky Sall",
+        "Ousmane Sonko"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_052",
       "question": "In what year did Mali gain independence?",
-      "options": ["1960", "1955", "1970", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_053",
       "question": "Mali gained independence from which country?",
-      "options": ["France", "United Kingdom", "Spain", "Portugal"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Spain",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_054",
       "question": "What is the official language of Mali?",
-      "options": ["English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_055",
       "question": "In what year did Niger gain independence?",
-      "options": ["1960", "1958", "1972", "1965"],
+      "options": [
+        "1960",
+        "1958",
+        "1972",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_056",
       "question": "Niger gained independence from which country?",
-      "options": ["France", "Italy", "Spain", "Portugal"],
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_057",
       "question": "What is the official language of Niger?",
-      "options": ["French", "English", "Arabic", "Swahili"],
+      "options": [
+        "French",
+        "English",
+        "Arabic",
+        "Swahili"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_058",
       "question": "In what year did Chad gain independence?",
-      "options": ["1960", "1959", "1970", "1965"],
+      "options": [
+        "1960",
+        "1959",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_059",
       "question": "Chad gained independence from which country?",
-      "options": ["France", "Portugal", "Italy", "Spain"],
+      "options": [
+        "France",
+        "Portugal",
+        "Italy",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_060",
       "question": "What is the capital of Chad?",
-      "options": ["N'Djamena", "Dakar", "Bamako", "Niamey"],
+      "options": [
+        "N'Djamena",
+        "Dakar",
+        "Bamako",
+        "Niamey"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_061",
       "question": "In what year did Gabon gain independence?",
-      "options": ["1960", "1955", "1975", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_062",
       "question": "Gabon gained independence from which country?",
-      "options": ["France", "Spain", "Portugal", "Belgium"],
+      "options": [
+        "France",
+        "Spain",
+        "Portugal",
+        "Belgium"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_063",
       "question": "What is the official language of Gabon?",
-      "options": ["French", "English", "Portuguese", "Arabic"],
+      "options": [
+        "French",
+        "English",
+        "Portuguese",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_064",
       "question": "In what year did Congo (Republic of the Congo) gain independence?",
-      "options": ["1960", "1956", "1970", "1965"],
+      "options": [
+        "1960",
+        "1956",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_065",
       "question": "Republic of the Congo gained independence from which country?",
-      "options": ["France", "Belgium", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "Belgium",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_066",
       "question": "In what year did DR Congo gain independence?",
-      "options": ["1960", "1955", "1975", "1968"],
+      "options": [
+        "1960",
+        "1955",
+        "1975",
+        "1968"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_067",
       "question": "DR Congo gained independence from which country?",
-      "options": ["France", "Belgium", "Portugal", "Italy"],
+      "options": [
+        "France",
+        "Belgium",
+        "Portugal",
+        "Italy"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_068",
       "question": "Who was the first Prime Minister of DR Congo?",
-      "options": ["Patrice Lumumba", "Joseph Mobutu", "Laurent Kabila", "Felix Tshisekedi"],
+      "options": [
+        "Patrice Lumumba",
+        "Joseph Mobutu",
+        "Laurent Kabila",
+        "Felix Tshisekedi"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_069",
       "question": "In what year did Somalia gain independence?",
-      "options": ["1960", "1950", "1975", "1965"],
+      "options": [
+        "1960",
+        "1950",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_070",
       "question": "Somalia gained independence from which countries?",
-      "options": ["France and Spain", "Britain and Italy", "Portugal and Belgium", "Germany and France"],
+      "options": [
+        "France and Spain",
+        "Britain and Italy",
+        "Portugal and Belgium",
+        "Germany and France"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_071",
       "question": "What is the official language of Somalia?",
-      "options": ["Arabic and Somali", "French and English", "Portuguese", "Swahili"],
+      "options": [
+        "Arabic and Somali",
+        "French and English",
+        "Portuguese",
+        "Swahili"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_072",
       "question": "In what year did Sudan gain independence?",
-      "options": ["1956", "1960", "1975", "1965"],
+      "options": [
+        "1956",
+        "1960",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_073",
       "question": "Sudan gained independence from which countries?",
-      "options": ["France and Spain", "Britain and Egypt", "Portugal and Italy", "Belgium and Germany"],
+      "options": [
+        "France and Spain",
+        "Britain and Egypt",
+        "Portugal and Italy",
+        "Belgium and Germany"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_074",
       "question": "What is the official language of Sudan?",
-      "options": ["Arabic", "French", "English", "Portuguese"],
+      "options": [
+        "Arabic",
+        "French",
+        "English",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_075",
       "question": "In what year did South Sudan gain independence?",
-      "options": ["2011", "2005", "1999", "2015"],
+      "options": [
+        "2011",
+        "2005",
+        "1999",
+        "2015"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_076",
       "question": "South Sudan gained independence from which country?",
-      "options": ["Sudan", "Ethiopia", "Kenya", "Uganda"],
+      "options": [
+        "Sudan",
+        "Ethiopia",
+        "Kenya",
+        "Uganda"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_077",
       "question": "Who was the first president of South Sudan?",
-      "options": ["Salva Kiir", "Riek Machar", "Omar al-Bashir", "John Garang"],
+      "options": [
+        "Salva Kiir",
+        "Riek Machar",
+        "Omar al-Bashir",
+        "John Garang"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_078",
       "question": "In what year did Ethiopia avoid colonization and maintain independence (Battle of Adwa)?",
-      "options": ["1896", "1910", "1885", "1905"],
+      "options": [
+        "1896",
+        "1910",
+        "1885",
+        "1905"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_079",
       "question": "What is the official language of Ethiopia?",
-      "options": ["Amharic", "Arabic", "French", "Swahili"],
+      "options": [
+        "Amharic",
+        "Arabic",
+        "French",
+        "Swahili"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_080",
       "question": "In what year did Eritrea gain independence?",
-      "options": ["1993", "1985", "2000", "1990"],
+      "options": [
+        "1993",
+        "1985",
+        "2000",
+        "1990"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_081",
       "question": "Eritrea gained independence from which country?",
-      "options": ["Sudan", "Ethiopia", "Italy", "Egypt"],
+      "options": [
+        "Sudan",
+        "Ethiopia",
+        "Italy",
+        "Egypt"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_082",
       "question": "What is the capital of Eritrea?",
-      "options": ["Asmara", "Addis Ababa", "Khartoum", "Djibouti"],
+      "options": [
+        "Asmara",
+        "Addis Ababa",
+        "Khartoum",
+        "Djibouti"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_083",
       "question": "In what year did Djibouti gain independence?",
-      "options": ["1977", "1960", "1985", "1970"],
+      "options": [
+        "1977",
+        "1960",
+        "1985",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_084",
       "question": "Djibouti gained independence from which country?",
-      "options": ["France", "Italy", "Spain", "Portugal"],
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_085",
       "question": "What are the official languages of Djibouti?",
-      "options": ["French and Arabic", "English and Swahili", "Portuguese and French", "Arabic only"],
+      "options": [
+        "French and Arabic",
+        "English and Swahili",
+        "Portuguese and French",
+        "Arabic only"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_086",
       "question": "In what year did Libya gain independence?",
-      "options": ["1951", "1960", "1975", "1945"],
+      "options": [
+        "1951",
+        "1960",
+        "1975",
+        "1945"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_087",
       "question": "Libya gained independence from which country?",
-      "options": ["Italy", "France", "Spain", "Portugal"],
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_088",
       "question": "What is the official language of Libya?",
-      "options": ["Arabic", "French", "English", "Italian"],
+      "options": [
+        "Arabic",
+        "French",
+        "English",
+        "Italian"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_089",
       "question": "In what year did Tunisia gain independence?",
-      "options": ["1956", "1960", "1975", "1950"],
+      "options": [
+        "1956",
+        "1960",
+        "1975",
+        "1950"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_090",
       "question": "Tunisia gained independence from which country?",
-      "options": ["France", "Italy", "Spain", "Portugal"],
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_091",
       "question": "Who was the first president of Tunisia?",
-      "options": ["Habib Bourguiba", "Zine El Abidine Ben Ali", "Kais Saied", "Beji Caid Essebsi"],
+      "options": [
+        "Habib Bourguiba",
+        "Zine El Abidine Ben Ali",
+        "Kais Saied",
+        "Beji Caid Essebsi"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_092",
       "question": "In what year did Morocco gain independence?",
-      "options": ["1956", "1960", "1975", "1950"],
+      "options": [
+        "1956",
+        "1960",
+        "1975",
+        "1950"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_093",
       "question": "Morocco gained independence from which countries?",
-      "options": ["France and Spain", "Italy and Portugal", "Britain and France", "Germany and Spain"],
+      "options": [
+        "France and Spain",
+        "Italy and Portugal",
+        "Britain and France",
+        "Germany and Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_094",
       "question": "What is the official language of Morocco?",
-      "options": ["Arabic and Berber", "French only", "English", "Portuguese"],
+      "options": [
+        "Arabic and Berber",
+        "French only",
+        "English",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_095",
       "question": "In what year did Madagascar gain independence?",
-      "options": ["1960", "1955", "1975", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_096",
       "question": "Madagascar gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_097",
       "question": "What is the official language of Madagascar?",
-      "options": ["Malagasy and French", "English", "Arabic", "Portuguese"],
+      "options": [
+        "Malagasy and French",
+        "English",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_098",
       "question": "In what year did Rwanda gain independence?",
-      "options": ["1962", "1960", "1975", "1955"],
+      "options": [
+        "1962",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_099",
       "question": "Rwanda gained independence from which country?",
-      "options": ["Belgium", "France", "Portugal", "Spain"],
+      "options": [
+        "Belgium",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_100",
       "question": "What is the official language of Rwanda?",
-      "options": ["Kinyarwanda, French, and English", "French only", "English only", "Arabic"],
+      "options": [
+        "Kinyarwanda, French, and English",
+        "French only",
+        "English only",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_101",
       "question": "In what year did Burundi gain independence?",
-      "options": ["1962", "1960", "1975", "1955"],
+      "options": [
+        "1962",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_102",
       "question": "Burundi gained independence from which country?",
-      "options": ["Belgium", "France", "Portugal", "Spain"],
+      "options": [
+        "Belgium",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_103",
       "question": "What is the official language of Burundi?",
-      "options": ["Kirundi and French", "English", "Arabic", "Portuguese"],
+      "options": [
+        "Kirundi and French",
+        "English",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_104",
       "question": "In what year did Lesotho gain independence?",
-      "options": ["1966", "1960", "1975", "1955"],
+      "options": [
+        "1966",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_105",
       "question": "Lesotho gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_106",
       "question": "What is the official language of Lesotho?",
-      "options": ["Sesotho and English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "Sesotho and English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_107",
       "question": "In what year did Eswatini (Swaziland) gain independence?",
-      "options": ["1968", "1960", "1975", "1955"],
+      "options": [
+        "1968",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_108",
       "question": "Eswatini gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_109",
       "question": "What is the official language of Eswatini?",
-      "options": ["Swati and English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "Swati and English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_110",
       "question": "In what year did Seychelles gain independence?",
-      "options": ["1976", "1960", "1980", "1970"],
+      "options": [
+        "1976",
+        "1960",
+        "1980",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_111",
       "question": "Seychelles gained independence from which country?",
-      "options": ["France", "United Kingdom", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_112",
       "question": "What is the official language of Seychelles?",
-      "options": ["French, English, and Seychellois Creole", "English only", "French only", "Arabic"],
+      "options": [
+        "French, English, and Seychellois Creole",
+        "English only",
+        "French and Arabic only",
+        "Arabic and English only"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_113",
       "question": "In what year did Cape Verde gain independence?",
-      "options": ["1975", "1960", "1980", "1970"],
+      "options": [
+        "1975",
+        "1960",
+        "1980",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_114",
       "question": "Cape Verde gained independence from which country?",
-      "options": ["Portugal", "France", "Spain", "Italy"],
+      "options": [
+        "Portugal",
+        "France",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_115",
       "question": "What is the official language of Cape Verde?",
-      "options": ["Portuguese", "French", "English", "Arabic"],
+      "options": [
+        "Portuguese",
+        "French",
+        "English",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_116",
       "question": "In what year did Guinea gain independence?",
-      "options": ["1958", "1960", "1975", "1955"],
+      "options": [
+        "1958",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_117",
       "question": "Guinea gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_118",
       "question": "Who was the first president of Guinea?",
-      "options": ["Ahmed Sékou Touré", "Alpha Condé", "Lansana Conté", "Mamadou Diallo"],
+      "options": [
+        "Ahmed Sékou Touré",
+        "Alpha Condé",
+        "Lansana Conté",
+        "Mamadou Diallo"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_119",
       "question": "In what year did Guinea-Bissau gain independence?",
-      "options": ["1973", "1960", "1980", "1975"],
+      "options": [
+        "1973",
+        "1960",
+        "1980",
+        "1975"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_120",
       "question": "Guinea-Bissau gained independence from which country?",
-      "options": ["Portugal", "France", "Spain", "Italy"],
+      "options": [
+        "Portugal",
+        "France",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_121",
       "question": "What is the official language of Guinea-Bissau?",
-      "options": ["Portuguese", "French", "English", "Arabic"],
+      "options": [
+        "Portuguese",
+        "French",
+        "English",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_122",
       "question": "In what year did The Gambia gain independence?",
-      "options": ["1965", "1960", "1975", "1955"],
+      "options": [
+        "1965",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_123",
       "question": "The Gambia gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_124",
       "question": "What is the official language of The Gambia?",
-      "options": ["English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_125",
       "question": "In what year did Sierra Leone gain independence?",
-      "options": ["1961", "1960", "1975", "1955"],
+      "options": [
+        "1961",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_126",
       "question": "Sierra Leone gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_127",
       "question": "Who was the first Prime Minister of Sierra Leone?",
-      "options": ["Milton Margai", "Siaka Stevens", "Ernest Bai Koroma", "Ahmad Tejan Kabbah"],
+      "options": [
+        "Milton Margai",
+        "Siaka Stevens",
+        "Ernest Bai Koroma",
+        "Ahmad Tejan Kabbah"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_128",
       "question": "In what year did Liberia gain independence?",
-      "options": ["1847", "1900", "1950", "1960"],
+      "options": [
+        "1847",
+        "1900",
+        "1950",
+        "1960"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_129",
       "question": "Liberia was founded by freed slaves from which country?",
-      "options": ["United States", "United Kingdom", "France", "Portugal"],
+      "options": [
+        "United States",
+        "United Kingdom",
+        "France",
+        "Portugal"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_130",
       "question": "What is the official language of Liberia?",
-      "options": ["English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_131",
       "question": "Who was the first president of Liberia?",
-      "options": ["Joseph Jenkins Roberts", "William Tubman", "Samuel Doe", "Charles Taylor"],
+      "options": [
+        "Joseph Jenkins Roberts",
+        "William Tubman",
+        "Samuel Doe",
+        "Charles Taylor"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_132",
       "question": "In what year did Togo gain independence?",
-      "options": ["1960", "1956", "1970", "1965"],
+      "options": [
+        "1960",
+        "1956",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_133",
       "question": "Togo gained independence from which country?",
-      "options": ["France", "Germany", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "Germany",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_134",
       "question": "What is the official language of Togo?",
-      "options": ["French", "English", "Portuguese", "Arabic"],
+      "options": [
+        "French",
+        "English",
+        "Portuguese",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_135",
       "question": "In what year did Benin gain independence?",
-      "options": ["1960", "1958", "1975", "1965"],
+      "options": [
+        "1960",
+        "1958",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_136",
       "question": "Benin gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_137",
       "question": "What is the official language of Benin?",
-      "options": ["French", "English", "Arabic", "Portuguese"],
+      "options": [
+        "French",
+        "English",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_138",
       "question": "In what year did Burkina Faso gain independence?",
-      "options": ["1960", "1955", "1975", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_139",
       "question": "Burkina Faso gained independence from which country?",
-      "options": ["France", "United Kingdom", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "United Kingdom",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_140",
       "question": "What was Burkina Faso formerly called?",
-      "options": ["Upper Volta", "French Sudan", "Dahomey", "Rhodesia"],
+      "options": [
+        "Upper Volta",
+        "French Sudan",
+        "Dahomey",
+        "Rhodesia"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_141",
       "question": "In what year did Central African Republic gain independence?",
-      "options": ["1960", "1955", "1970", "1965"],
+      "options": [
+        "1960",
+        "1955",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_142",
       "question": "Central African Republic gained independence from which country?",
-      "options": ["France", "Belgium", "Portugal", "Spain"],
+      "options": [
+        "France",
+        "Belgium",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_143",
       "question": "What is the official language of Central African Republic?",
-      "options": ["French and Sango", "English", "Arabic", "Portuguese"],
+      "options": [
+        "French and Sango",
+        "English",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_144",
       "question": "In what year did Equatorial Guinea gain independence?",
-      "options": ["1968", "1960", "1975", "1955"],
+      "options": [
+        "1968",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_145",
       "question": "Equatorial Guinea gained independence from which country?",
-      "options": ["Spain", "France", "Portugal", "Italy"],
+      "options": [
+        "Spain",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_146",
       "question": "What is the official language of Equatorial Guinea?",
-      "options": ["Spanish", "French", "English", "Arabic"],
+      "options": [
+        "Spanish",
+        "French",
+        "English",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_147",
       "question": "In what year did São Tomé and Príncipe gain independence?",
-      "options": ["1975", "1960", "1980", "1970"],
+      "options": [
+        "1975",
+        "1960",
+        "1980",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_148",
       "question": "São Tomé and Príncipe gained independence from which country?",
-      "options": ["Portugal", "France", "Spain", "Italy"],
+      "options": [
+        "Portugal",
+        "France",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_149",
       "question": "What is the official language of São Tomé and Príncipe?",
-      "options": ["Portuguese", "French", "English", "Arabic"],
+      "options": [
+        "Portuguese",
+        "French",
+        "English",
+        "Arabic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_150",
       "question": "In what year did Mauritania gain independence?",
-      "options": ["1960", "1958", "1975", "1965"],
+      "options": [
+        "1960",
+        "1958",
+        "1975",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_151",
       "question": "Mauritania gained independence from which country?",
-      "options": ["France", "Spain", "Portugal", "Italy"],
+      "options": [
+        "France",
+        "Spain",
+        "Portugal",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_152",
       "question": "What is the official language of Mauritania?",
-      "options": ["Arabic", "French", "English", "Portuguese"],
+      "options": [
+        "Arabic",
+        "French",
+        "English",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_153",
       "question": "In what year did Western Sahara declare independence (SADR)?",
-      "options": ["1976", "1960", "1985", "1970"],
+      "options": [
+        "1976",
+        "1960",
+        "1985",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_154",
       "question": "Western Sahara was formerly controlled by which country?",
-      "options": ["Spain", "France", "Portugal", "Italy"],
+      "options": [
+        "Spain",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_155",
       "question": "In what year did Comoros gain independence?",
-      "options": ["1975", "1960", "1980", "1970"],
+      "options": [
+        "1975",
+        "1960",
+        "1980",
+        "1970"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_156",
       "question": "Comoros gained independence from which country?",
-      "options": ["France", "Portugal", "Spain", "Italy"],
+      "options": [
+        "France",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_157",
       "question": "What is the official language of Comoros?",
-      "options": ["Arabic, French, and Comorian", "English", "Portuguese", "Swahili"],
+      "options": [
+        "Arabic, French, and Comorian",
+        "English and Portuguese only",
+        "Portuguese and French only",
+        "Swahili and English only"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_158",
       "question": "In what year did Mauritius gain independence?",
-      "options": ["1968", "1960", "1975", "1955"],
+      "options": [
+        "1968",
+        "1960",
+        "1975",
+        "1955"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_159",
       "question": "Mauritius gained independence from which country?",
-      "options": ["United Kingdom", "France", "Portugal", "Spain"],
+      "options": [
+        "United Kingdom",
+        "France",
+        "Portugal",
+        "Spain"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_160",
       "question": "What is the official language of Mauritius?",
-      "options": ["English", "French", "Arabic", "Portuguese"],
+      "options": [
+        "English",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_161",
       "question": "In what year did Algeria gain independence after a war?",
-      "options": ["1962", "1956", "1970", "1965"],
+      "options": [
+        "1962",
+        "1956",
+        "1970",
+        "1965"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_162",
       "question": "Which African country was never fully colonized except brief occupation?",
-      "options": ["Ethiopia", "Nigeria", "Kenya", "Ghana"],
+      "options": [
+        "Ethiopia",
+        "Nigeria",
+        "Kenya",
+        "Ghana"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_163",
       "question": "What is the most widely spoken language family in Africa?",
-      "options": ["Niger-Congo", "Romance", "Germanic", "Slavic"],
+      "options": [
+        "Niger-Congo",
+        "Romance",
+        "Germanic",
+        "Slavic"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_164",
       "question": "Which country has the largest population in Africa?",
-      "options": ["Nigeria", "Ethiopia", "Egypt", "DR Congo"],
+      "options": [
+        "Nigeria",
+        "Ethiopia",
+        "Egypt",
+        "DR Congo"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_165",
       "question": "Which African country was formerly known as Rhodesia?",
-      "options": ["Zimbabwe", "Zambia", "Malawi", "Botswana"],
+      "options": [
+        "Zimbabwe",
+        "Zambia",
+        "Malawi",
+        "Botswana"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_166",
       "question": "Which country changed its name from Dahomey?",
-      "options": ["Benin", "Togo", "Ghana", "Mali"],
+      "options": [
+        "Benin",
+        "Togo",
+        "Ghana",
+        "Mali"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_167",
       "question": "Which African country has the most official languages?",
-      "options": ["South Africa", "Nigeria", "Kenya", "Cameroon"],
+      "options": [
+        "South Africa",
+        "Nigeria",
+        "Kenya",
+        "Cameroon"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_168",
       "question": "What is the official language of South Africa (one of many)?",
-      "options": ["Zulu", "French", "Arabic", "Portuguese"],
+      "options": [
+        "Zulu",
+        "French",
+        "Arabic",
+        "Portuguese"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_169",
       "question": "In what year did South Africa end apartheid?",
-      "options": ["1994", "1980", "1975", "2000"],
+      "options": [
+        "1994",
+        "1980",
+        "1975",
+        "2000"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_170",
       "question": "Who was the first black president of South Africa?",
-      "options": ["Nelson Mandela", "Thabo Mbeki", "Jacob Zuma", "Cyril Ramaphosa"],
+      "options": [
+        "Nelson Mandela",
+        "Thabo Mbeki",
+        "Jacob Zuma",
+        "Cyril Ramaphosa"
+      ],
       "correct_index": 0
     }
   ]
-
 }
-

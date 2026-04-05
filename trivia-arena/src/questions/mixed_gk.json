@@ -7,49 +7,89 @@
     {
       "id": "mix_001",
       "question": "What is the astrological symbol for Aries?",
-      "options": ["The Bull", "The Ram", "The Twins", "The Crab"],
+      "options": [
+        "The Bull",
+        "The Ram",
+        "The Twins",
+        "The Crab"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_002",
       "question": "Which zodiac sign is represented by the Scales?",
-      "options": ["Virgo", "Libra", "Scorpio", "Sagittarius"],
+      "options": [
+        "Virgo",
+        "Libra",
+        "Scorpio",
+        "Sagittarius"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_003",
       "question": "Which of the following is a Water sign?",
-      "options": ["Aries", "Taurus", "Cancer", "Gemini"],
+      "options": [
+        "Aries",
+        "Taurus",
+        "Cancer",
+        "Gemini"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_004",
       "question": "What is the ruling planet of Leo?",
-      "options": ["Mars", "Venus", "The Sun", "Jupiter"],
+      "options": [
+        "Mars",
+        "Venus",
+        "The Sun",
+        "Jupiter"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_005",
       "question": "People born on October 31 fall under which zodiac sign?",
-      "options": ["Libra", "Scorpio", "Sagittarius", "Virgo"],
+      "options": [
+        "Libra",
+        "Scorpio",
+        "Sagittarius",
+        "Virgo"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_006",
       "question": "Which zodiac sign is symbolized by the Archer?",
-      "options": ["Capricorn", "Sagittarius", "Aquarius", "Pisces"],
+      "options": [
+        "Capricorn",
+        "Sagittarius",
+        "Aquarius",
+        "Pisces"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_007",
       "question": "What element is associated with Taurus, Virgo, and Capricorn?",
-      "options": ["Fire", "Water", "Air", "Earth"],
+      "options": [
+        "Fire",
+        "Water",
+        "Air",
+        "Earth"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_008",
       "question": "Which planet rules the sign of Gemini?",
-      "options": ["Mercury", "Venus", "Saturn", "Uranus"],
+      "options": [
+        "Mercury",
+        "Venus",
+        "Saturn",
+        "Uranus"
+      ],
       "correct_index": 0
     },
     {
@@ -66,79 +106,144 @@
     {
       "id": "mix_010",
       "question": "Which of these is considered a Mutable sign?",
-      "options": ["Taurus", "Leo", "Scorpio", "Gemini"],
+      "options": [
+        "Taurus",
+        "Leo",
+        "Scorpio",
+        "Gemini"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_011",
       "question": "Aquarius is represented by which symbol?",
-      "options": ["The Water Bearer", "The Twin", "The Crab", "The Lion"],
+      "options": [
+        "The Water Bearer",
+        "The Twin",
+        "The Crab",
+        "The Lion"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_012",
       "question": "Which zodiac sign starts the astrological new year in March?",
-      "options": ["Capricorn", "Aquarius", "Pisces", "Aries"],
+      "options": [
+        "Capricorn",
+        "Aquarius",
+        "Pisces",
+        "Aries"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_013",
       "question": "What element is associated with Aries, Leo, and Sagittarius?",
-      "options": ["Air", "Fire", "Earth", "Water"],
+      "options": [
+        "Air",
+        "Fire",
+        "Earth",
+        "Water"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_014",
       "question": "Which planet is considered the ruler of Taurus?",
-      "options": ["Mars", "Venus", "Jupiter", "Neptune"],
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Neptune"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_015",
       "question": "The symbol of the Twins belongs to which sign?",
-      "options": ["Gemini", "Libra", "Pisces", "Cancer"],
+      "options": [
+        "Gemini",
+        "Libra",
+        "Pisces",
+        "Cancer"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_016",
       "question": "Which of these signs is ruled by Mars (traditionally)?",
-      "options": ["Taurus", "Cancer", "Aries", "Libra"],
+      "options": [
+        "Taurus",
+        "Cancer",
+        "Aries",
+        "Libra"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_017",
       "question": "What is the symbol for the zodiac sign Cancer?",
-      "options": ["The Scorpion", "The Crab", "The Virgin", "The Ram"],
+      "options": [
+        "The Scorpion",
+        "The Crab",
+        "The Virgin",
+        "The Ram"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_018",
       "question": "Which sign spans from roughly August 23 to September 22?",
-      "options": ["Leo", "Virgo", "Libra", "Scorpio"],
+      "options": [
+        "Leo",
+        "Virgo",
+        "Libra",
+        "Scorpio"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_019",
       "question": "Saturn is the ruling planet of which earth sign?",
-      "options": ["Taurus", "Virgo", "Capricorn", "Gemini"],
+      "options": [
+        "Taurus",
+        "Virgo",
+        "Capricorn",
+        "Gemini"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_020",
       "question": "Which element do Gemini, Libra, and Aquarius share?",
-      "options": ["Earth", "Fire", "Water", "Air"],
+      "options": [
+        "Earth",
+        "Fire",
+        "Water",
+        "Air"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_021",
       "question": "What astrological symbol represents Capricorn?",
-      "options": ["The Sea-Goat", "The Ram", "The Bull", "The Scales"],
+      "options": [
+        "The Sea-Goat",
+        "The Ram",
+        "The Bull",
+        "The Scales"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_022",
       "question": "Which zodiac sign is considered the opposite of Aries?",
-      "options": ["Libra", "Cancer", "Capricorn", "Scorpio"],
+      "options": [
+        "Libra",
+        "Cancer",
+        "Capricorn",
+        "Scorpio"
+      ],
       "correct_index": 0
     },
     {
@@ -188,13 +293,23 @@
     {
       "id": "mix_027",
       "question": "Which Renaissance master sculpted 'David'?",
-      "options": ["Donatello", "Michelangelo", "Raphael", "Bernini"],
+      "options": [
+        "Donatello",
+        "Michelangelo",
+        "Raphael",
+        "Bernini"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_028",
       "question": "Who painted the ceiling of the Sistine Chapel?",
-      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+      "options": [
+        "Leonardo da Vinci",
+        "Raphael",
+        "Michelangelo",
+        "Titian"
+      ],
       "correct_index": 2
     },
     {
@@ -222,7 +337,12 @@
     {
       "id": "mix_031",
       "question": "Which Dutch artist painted 'Girl with a Pearl Earring'?",
-      "options": ["Rembrandt", "Johannes Vermeer", "Frans Hals", "Jan Steen"],
+      "options": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jan Steen"
+      ],
       "correct_index": 1
     },
     {
@@ -261,7 +381,12 @@
     {
       "id": "mix_035",
       "question": "Who painted 'The Birth of Venus'?",
-      "options": ["Titian", "Sandro Botticelli", "Caravaggio", "Giotto"],
+      "options": [
+        "Titian",
+        "Sandro Botticelli",
+        "Caravaggio",
+        "Giotto"
+      ],
       "correct_index": 1
     },
     {
@@ -344,7 +469,12 @@
     {
       "id": "mix_043",
       "question": "Where is the 'Mona Lisa' permanently displayed?",
-      "options": ["The Met", "The Prado", "The Louvre", "The Uffizi"],
+      "options": [
+        "The Met",
+        "The Prado",
+        "The Louvre",
+        "The Uffizi"
+      ],
       "correct_index": 2
     },
     {
@@ -427,43 +557,78 @@
     {
       "id": "mix_051",
       "question": "How many players are on the field for one team in a standard soccer match?",
-      "options": ["9", "10", "11", "12"],
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_052",
       "question": "In basketball, how many players per team are on the court at a time?",
-      "options": ["4", "5", "6", "7"],
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_053",
       "question": "How many Grand Slam tournaments are there in tennis each year?",
-      "options": ["3", "4", "5", "6"],
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_054",
       "question": "Which tennis Grand Slam is played on a clay court?",
-      "options": ["Australian Open", "Wimbledon", "US Open", "French Open"],
+      "options": [
+        "Australian Open",
+        "Wimbledon",
+        "US Open",
+        "French Open"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_055",
       "question": "Which country did the martial art of Judo originate in?",
-      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_056",
       "question": "In which sport would you use a 'shuttlecock'?",
-      "options": ["Table Tennis", "Squash", "Badminton", "Lacrosse"],
+      "options": [
+        "Table Tennis",
+        "Squash",
+        "Badminton",
+        "Lacrosse"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_057",
       "question": "How many holes are played in a standard round of golf?",
-      "options": ["9", "18", "21", "24"],
+      "options": [
+        "9",
+        "18",
+        "21",
+        "24"
+      ],
       "correct_index": 1
     },
     {
@@ -480,169 +645,309 @@
     {
       "id": "mix_059",
       "question": "How many points is a touchdown worth in American Football (before the extra point)?",
-      "options": ["3", "5", "6", "7"],
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_060",
       "question": "In which sport do teams compete for the Stanley Cup?",
-      "options": ["Baseball", "Basketball", "Ice Hockey", "Soccer"],
+      "options": [
+        "Baseball",
+        "Basketball",
+        "Ice Hockey",
+        "Soccer"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_061",
       "question": "How many players are on a standard indoor volleyball team on the court?",
-      "options": ["5", "6", "7", "8"],
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_062",
       "question": "Which country is considered the birthplace of modern Cricket?",
-      "options": ["India", "Australia", "South Africa", "England"],
+      "options": [
+        "India",
+        "Australia",
+        "South Africa",
+        "England"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_063",
       "question": "In Rugby Union, how many players are on the field for one team?",
-      "options": ["11", "13", "15", "18"],
+      "options": [
+        "11",
+        "13",
+        "15",
+        "18"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_064",
       "question": "What is the diameter of a standard basketball hoop in inches?",
-      "options": ["16", "18", "20", "22"],
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_065",
       "question": "Which sport features a 'scrum'?",
-      "options": ["Soccer", "American Football", "Rugby", "Water Polo"],
+      "options": [
+        "Soccer",
+        "American Football",
+        "Rugby",
+        "Water Polo"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_066",
       "question": "What color jacket is traditionally awarded to the winner of the Masters Golf Tournament?",
-      "options": ["Red", "Blue", "Green", "Yellow"],
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_067",
       "question": "Which country has won the most FIFA Men's World Cups?",
-      "options": ["Germany", "Italy", "Argentina", "Brazil"],
+      "options": [
+        "Germany",
+        "Italy",
+        "Argentina",
+        "Brazil"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_068",
       "question": "In baseball, how many outs does a team get per inning?",
-      "options": ["2", "3", "4", "5"],
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_069",
       "question": "What is the national sport of Canada (summer)?",
-      "options": ["Ice Hockey", "Curling", "Lacrosse", "Baseball"],
+      "options": [
+        "Ice Hockey",
+        "Curling",
+        "Lacrosse",
+        "Baseball"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_070",
       "question": "How long is a standard marathon?",
-      "options": ["13.1 miles", "26.2 miles", "30.5 miles", "42.5 miles"],
+      "options": [
+        "13.1 miles",
+        "26.2 miles",
+        "30.5 miles",
+        "42.5 miles"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_071",
       "question": "Which sport is known as 'The Sweet Science'?",
-      "options": ["Wrestling", "Fencing", "Boxing", "Judo"],
+      "options": [
+        "Wrestling",
+        "Fencing",
+        "Boxing",
+        "Judo"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_072",
       "question": "What is the maximum score you can achieve in a single game of ten-pin bowling?",
-      "options": ["200", "250", "300", "350"],
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_073",
       "question": "Which country originated the martial art of Taekwondo?",
-      "options": ["Japan", "China", "South Korea", "Vietnam"],
+      "options": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Vietnam"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_074",
       "question": "In which sport do you perform an 'Ollie'?",
-      "options": ["Surfing", "Snowboarding", "Skateboarding", "BMX"],
+      "options": [
+        "Surfing",
+        "Snowboarding",
+        "Skateboarding",
+        "BMX"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_075",
       "question": "What is the lightest weight class in professional men's boxing?",
-      "options": ["Bantamweight", "Flyweight", "Strawweight", "Featherweight"],
+      "options": [
+        "Bantamweight",
+        "Flyweight",
+        "Strawweight",
+        "Featherweight"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_076",
       "question": "How many players are on a water polo team in the water?",
-      "options": ["5", "6", "7", "8"],
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_077",
       "question": "Which sport features apparatuses like the pommel horse and uneven bars?",
-      "options": ["Track and Field", "Gymnastics", "Diving", "Weightlifting"],
+      "options": [
+        "Track and Field",
+        "Gymnastics",
+        "Diving",
+        "Weightlifting"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_078",
       "question": "What is the standard weight of a men's shot put?",
-      "options": ["12 lbs", "14 lbs", "16 lbs", "18 lbs"],
+      "options": [
+        "12 lbs",
+        "14 lbs",
+        "16 lbs",
+        "18 lbs"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_079",
       "question": "Which grand slam tennis tournament is played on grass?",
-      "options": ["US Open", "Australian Open", "French Open", "Wimbledon"],
+      "options": [
+        "US Open",
+        "Australian Open",
+        "French Open",
+        "Wimbledon"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_080",
       "question": "How many events make up a Decathlon?",
-      "options": ["7", "8", "9", "10"],
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_081",
       "question": "What shape is a standard Australian Rules Football field?",
-      "options": ["Rectangular", "Square", "Oval", "Circular"],
+      "options": [
+        "Rectangular",
+        "Square",
+        "Oval",
+        "Circular"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_082",
       "question": "In fencing, which of these is NOT a valid weapon?",
-      "options": ["Foil", "Épée", "Sabre", "Rapier"],
+      "options": [
+        "Foil",
+        "Épée",
+        "Sabre",
+        "Rapier"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_083",
       "question": "How many periods are in a standard professional ice hockey game?",
-      "options": ["2", "3", "4", "5"],
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_084",
       "question": "What is the object hit in the sport of curling called?",
-      "options": ["Puck", "Stone", "Ball", "Disk"],
+      "options": [
+        "Puck",
+        "Stone",
+        "Ball",
+        "Disk"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_085",
       "question": "Which sport uses a 'peloton'?",
-      "options": ["Sailing", "Rowing", "Cycling", "Horse Racing"],
+      "options": [
+        "Sailing",
+        "Rowing",
+        "Cycling",
+        "Horse Racing"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_086",
       "question": "Where is the cloth known as Kente originally from?",
-      "options": ["Nigeria", "Ghana", "Senegal", "Kenya"],
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Senegal",
+        "Kenya"
+      ],
       "correct_index": 1
     },
     {
@@ -659,31 +964,56 @@
     {
       "id": "mix_088",
       "question": "What is the colorful, loose-fitting pullover shirt common in West Africa called?",
-      "options": ["Dashiki", "Shuka", "Isiagu", "Kanga"],
+      "options": [
+        "Dashiki",
+        "Shuka",
+        "Isiagu",
+        "Kanga"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_089",
       "question": "Which East African ethnic group is known for wearing the red checked 'Shuka'?",
-      "options": ["Zulu", "Maasai", "Igbo", "Amhara"],
+      "options": [
+        "Zulu",
+        "Maasai",
+        "Igbo",
+        "Amhara"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_090",
       "question": "The grand, flowing wide-sleeved robe worn by men in West Africa, especially Nigeria, is called?",
-      "options": ["Boubou", "Agbada", "Kaftan", "Djellaba"],
+      "options": [
+        "Boubou",
+        "Agbada",
+        "Kaftan",
+        "Djellaba"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_091",
       "question": "What symbol is prominently featured on the traditional Igbo 'Isiagu' shirt?",
-      "options": ["Elephant", "Eagle", "Lion's head", "Sun"],
+      "options": [
+        "Elephant",
+        "Eagle",
+        "Lion's head",
+        "Sun"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_092",
       "question": "Which garment indicates chieftaincy or high status among the Igbo people?",
-      "options": ["Isiagu", "Kanga", "Shweshwe", "Gomesi"],
+      "options": [
+        "Isiagu",
+        "Kanga",
+        "Shweshwe",
+        "Gomesi"
+      ],
       "correct_index": 0
     },
     {
@@ -700,7 +1030,12 @@
     {
       "id": "mix_094",
       "question": "Bògòlanfini, a handmade cotton fabric dyed with fermented mud, originates from which country?",
-      "options": ["Mali", "Ethiopia", "South Africa", "Morocco"],
+      "options": [
+        "Mali",
+        "Ethiopia",
+        "South Africa",
+        "Morocco"
+      ],
       "correct_index": 0
     },
     {
@@ -717,7 +1052,12 @@
     {
       "id": "mix_096",
       "question": "What is the traditional white dress worn by Ethiopian and Eritrean women called?",
-      "options": ["Diraco", "Habesha Kemis", "Gomesi", "Boubou"],
+      "options": [
+        "Diraco",
+        "Habesha Kemis",
+        "Gomesi",
+        "Boubou"
+      ],
       "correct_index": 1
     },
     {
@@ -734,31 +1074,56 @@
     {
       "id": "mix_098",
       "question": "What is the wide, flared hat worn by married Zulu women to show respect called?",
-      "options": ["Isicholo", "Gele", "Fez", "Kufi"],
+      "options": [
+        "Isicholo",
+        "Gele",
+        "Fez",
+        "Kufi"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_099",
       "question": "The 'Gele' is an elaborate traditional head tie worn by women from which country?",
-      "options": ["Kenya", "Egypt", "Nigeria", "Senegal"],
+      "options": [
+        "Kenya",
+        "Egypt",
+        "Nigeria",
+        "Senegal"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_100",
       "question": "What is the traditional printed cotton fabric widely worn in South Africa called?",
-      "options": ["Shweshwe", "Kente", "Aso-oke", "Faso Dan Fani"],
+      "options": [
+        "Shweshwe",
+        "Kente",
+        "Aso-oke",
+        "Faso Dan Fani"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_101",
       "question": "Which Ugandan dress features a square neckline and a sash tied below the waist?",
-      "options": ["Habesha Kemis", "Gomesi", "Kikoi", "Dashiki"],
+      "options": [
+        "Habesha Kemis",
+        "Gomesi",
+        "Kikoi",
+        "Dashiki"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_102",
       "question": "Aso-oke is a hand-loomed cloth created by which Nigerian ethnic group?",
-      "options": ["Hausa", "Igbo", "Yoruba", "Fulani"],
+      "options": [
+        "Hausa",
+        "Igbo",
+        "Yoruba",
+        "Fulani"
+      ],
       "correct_index": 2
     },
     {
@@ -775,13 +1140,23 @@
     {
       "id": "mix_104",
       "question": "Which North African headwear is a brimless felt hat, usually red with a tassel?",
-      "options": ["Gele", "Fez", "Kufi", "Tagelmust"],
+      "options": [
+        "Gele",
+        "Fez",
+        "Kufi",
+        "Tagelmust"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_105",
       "question": "What is the indigo-dyed cotton garment worn as a veil by Tuareg men called?",
-      "options": ["Tagelmust", "Djellaba", "Boubou", "Kente"],
+      "options": [
+        "Tagelmust",
+        "Djellaba",
+        "Boubou",
+        "Kente"
+      ],
       "correct_index": 0
     },
     {
@@ -798,49 +1173,89 @@
     {
       "id": "mix_107",
       "question": "Which iconic African tree is known as the 'Tree of Life' due to its ability to store water?",
-      "options": ["Acacia", "Baobab", "Mahogany", "Marula"],
+      "options": [
+        "Acacia",
+        "Baobab",
+        "Mahogany",
+        "Marula"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_108",
       "question": "What succulent plant has been used for centuries by the San people to suppress hunger and thirst?",
-      "options": ["Aloe Vera", "Hoodia Gordonii", "Agave", "Lithops"],
+      "options": [
+        "Aloe Vera",
+        "Hoodia Gordonii",
+        "Agave",
+        "Lithops"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_109",
       "question": "Which plant, native to South Africa's Cederberg region, is used to make a popular caffeine-free red tea?",
-      "options": ["Honeybush", "Rooibos", "Khat", "Buchu"],
+      "options": [
+        "Honeybush",
+        "Rooibos",
+        "Khat",
+        "Buchu"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_110",
       "question": "The fruit of which African tree is loved by elephants and used to make the Amarula liqueur?",
-      "options": ["Baobab", "Mango", "Marula", "Tamarind"],
+      "options": [
+        "Baobab",
+        "Mango",
+        "Marula",
+        "Tamarind"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_111",
       "question": "Which desert plant is traditionally used in Southern Africa to treat joint pain and arthritis?",
-      "options": ["Devil's Claw", "African Potato", "Moringa", "Artemisia"],
+      "options": [
+        "Devil's Claw",
+        "African Potato",
+        "Moringa",
+        "Artemisia"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_112",
       "question": "What fat is extracted from the nut of the Vitellaria paradoxa tree and widely used in cosmetics?",
-      "options": ["Cocoa Butter", "Shea Butter", "Palm Oil", "Argan Oil"],
+      "options": [
+        "Cocoa Butter",
+        "Shea Butter",
+        "Palm Oil",
+        "Argan Oil"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_113",
       "question": "Which fast-growing tree is often called the 'miracle tree' because its leaves are highly nutritious?",
-      "options": ["Neem", "Moringa", "Eucalyptus", "Baobab"],
+      "options": [
+        "Neem",
+        "Moringa",
+        "Eucalyptus",
+        "Baobab"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_114",
       "question": "Which plant is heavily used in Nigerian cuisine for soups and has medicinal properties for digestion?",
-      "options": ["Bitter Leaf", "Scent Leaf", "Waterleaf", "Uziza"],
+      "options": [
+        "Bitter Leaf",
+        "Scent Leaf",
+        "Waterleaf",
+        "Uziza"
+      ],
       "correct_index": 0
     },
     {
@@ -879,61 +1294,111 @@
     {
       "id": "mix_118",
       "question": "Which plant is chewed in the Horn of Africa for its mild stimulant effects?",
-      "options": ["Khat", "Cola Nut", "Iboga", "Guarana"],
+      "options": [
+        "Khat",
+        "Cola Nut",
+        "Iboga",
+        "Guarana"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_119",
       "question": "Which West African nut is naturally caffeinated and historically used as a gesture of hospitality?",
-      "options": ["Macadamia Nut", "Cola Nut", "Shea Nut", "Cashew"],
+      "options": [
+        "Macadamia Nut",
+        "Cola Nut",
+        "Shea Nut",
+        "Cashew"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_120",
       "question": "Which central African shrub root is used in traditional spiritual ceremonies and contains the psychedelic ibogaine?",
-      "options": ["Iboga", "Ayahuasca", "Peyote", "Kava"],
+      "options": [
+        "Iboga",
+        "Ayahuasca",
+        "Peyote",
+        "Kava"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_121",
       "question": "Which aromatic herb is traditionally used by the Khoisan people as a smudge to cleanse energy?",
-      "options": ["Sage", "Imphepho", "Frankincense", "Myrrh"],
+      "options": [
+        "Sage",
+        "Imphepho",
+        "Frankincense",
+        "Myrrh"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_122",
       "question": "Oil from which Moroccan tree is highly prized globally for hair and skin care?",
-      "options": ["Olive Tree", "Argan Tree", "Shea Tree", "Jojoba Plant"],
+      "options": [
+        "Olive Tree",
+        "Argan Tree",
+        "Shea Tree",
+        "Jojoba Plant"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_123",
       "question": "Which plant's bark is historically used in Africa to treat malaria fevers before modern quinine?",
-      "options": ["Cinchona", "Baobab", "Artemisia afra", "Willow"],
+      "options": [
+        "Cinchona",
+        "Baobab",
+        "Artemisia afra",
+        "Willow"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_124",
       "question": "Which tree produces pods that contain a sweet-sour pulp used in African drinks and global cuisines?",
-      "options": ["Tamarind", "Marula", "Jackfruit", "Guava"],
+      "options": [
+        "Tamarind",
+        "Marula",
+        "Jackfruit",
+        "Guava"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_125",
       "question": "What fiber plant is native to Egypt and was historically used to make ancient paper?",
-      "options": ["Flax", "Hemp", "Papyrus", "Cotton"],
+      "options": [
+        "Flax",
+        "Hemp",
+        "Papyrus",
+        "Cotton"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_126",
       "question": "Which tree's wood is famously dark, dense, and historically used for fine carvings in East Africa?",
-      "options": ["African Blackwood", "Mahogany", "Teak", "Ebony"],
+      "options": [
+        "African Blackwood",
+        "Mahogany",
+        "Teak",
+        "Ebony"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_127",
       "question": "Who painted 'The Son of Man', featuring a man in a bowler hat with an apple obscuring his face?",
-      "options": ["Salvador Dalí", "René Magritte", "Joan Miró", "Max Ernst"],
+      "options": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ],
       "correct_index": 1
     },
     {
@@ -1038,7 +1503,12 @@
     {
       "id": "mix_137",
       "question": "Who painted the surrealist piece 'The Treachery of Images' (This is not a pipe)?",
-      "options": ["Salvador Dalí", "René Magritte", "Max Ernst", "Yves Tanguy"],
+      "options": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Max Ernst",
+        "Yves Tanguy"
+      ],
       "correct_index": 1
     },
     {
@@ -1055,133 +1525,243 @@
     {
       "id": "mix_139",
       "question": "Who created the 'Balloon Dog' sculptures?",
-      "options": ["Damien Hirst", "Jeff Koons", "Takashi Murakami", "Kaws"],
+      "options": [
+        "Damien Hirst",
+        "Jeff Koons",
+        "Takashi Murakami",
+        "Kaws"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_140",
       "question": "Which artist preserved a shark in formaldehyde in 'The Physical Impossibility of Death in the Mind of Someone Living'?",
-      "options": ["Tracey Emin", "Damien Hirst", "Marc Quinn", "Sarah Lucas"],
+      "options": [
+        "Tracey Emin",
+        "Damien Hirst",
+        "Marc Quinn",
+        "Sarah Lucas"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_141",
       "question": "What is the length of a standard Olympic swimming pool?",
-      "options": ["25 meters", "50 meters", "75 meters", "100 meters"],
+      "options": [
+        "25 meters",
+        "50 meters",
+        "75 meters",
+        "100 meters"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_142",
       "question": "In bowling, what is it called when you knock down all pins on the first roll?",
-      "options": ["Spare", "Strike", "Split", "Turkey"],
+      "options": [
+        "Spare",
+        "Strike",
+        "Split",
+        "Turkey"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_143",
       "question": "Which sport is played at Wimbledon?",
-      "options": ["Croquet", "Cricket", "Tennis", "Badminton"],
+      "options": [
+        "Croquet",
+        "Cricket",
+        "Tennis",
+        "Badminton"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_144",
       "question": "How many players are on a team in field hockey?",
-      "options": ["9", "10", "11", "12"],
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_145",
       "question": "Which country is the origin of the martial art Muay Thai?",
-      "options": ["Vietnam", "Thailand", "Cambodia", "Laos"],
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Cambodia",
+        "Laos"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_146",
       "question": "What is the maximum number of clubs a golfer is allowed to carry in their bag during a round?",
-      "options": ["12", "14", "16", "18"],
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_147",
       "question": "In which sport do competitors use a 'foil'?",
-      "options": ["Javelin", "Archery", "Fencing", "Pole Vault"],
+      "options": [
+        "Javelin",
+        "Archery",
+        "Fencing",
+        "Pole Vault"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_148",
       "question": "What is the term for a zero score in tennis?",
-      "options": ["Nil", "Zero", "Duck", "Love"],
+      "options": [
+        "Nil",
+        "Zero",
+        "Duck",
+        "Love"
+      ],
       "correct_index": 3
     },
     {
       "id": "mix_149",
       "question": "Which sport features a 'libero'?",
-      "options": ["Soccer", "Volleyball", "Basketball", "Water Polo"],
+      "options": [
+        "Soccer",
+        "Volleyball",
+        "Basketball",
+        "Water Polo"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_150",
       "question": "How many bases are there on a baseball field (including home plate)?",
-      "options": ["3", "4", "5", "6"],
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_151",
       "question": "What African clothing item is a small, round skullcap worn by men in many West African countries?",
-      "options": ["Fez", "Kufi", "Gele", "Taqiyah"],
+      "options": [
+        "Fez",
+        "Kufi",
+        "Gele",
+        "Taqiyah"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_152",
       "question": "Which North African ethnic group is known for wearing indigo-dyed clothing that stains their skin?",
-      "options": ["Berbers", "Tuareg", "Bedouins", "Nubians"],
+      "options": [
+        "Berbers",
+        "Tuareg",
+        "Bedouins",
+        "Nubians"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_153",
       "question": "The 'Agbada' is traditionally associated with which Nigerian ethnic group?",
-      "options": ["Igbo", "Hausa", "Yoruba", "Kanuri"],
+      "options": [
+        "Igbo",
+        "Hausa",
+        "Yoruba",
+        "Kanuri"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_154",
       "question": "What is the traditional Southern African loincloth or apron worn by men called?",
-      "options": ["Shuka", "Beshu", "Kikoi", "Dashiki"],
+      "options": [
+        "Shuka",
+        "Beshu",
+        "Kikoi",
+        "Dashiki"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_155",
       "question": "Which garment is a two-piece outfit consisting of a tunic and pants, popular in West Africa?",
-      "options": ["Buba and Sokoto", "Agbada", "Kente", "Boubou"],
+      "options": [
+        "Buba and Sokoto",
+        "Agbada",
+        "Kente",
+        "Boubou"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_156",
       "question": "What material was traditionally used to make the African Zulu shield (Ihlangu)?",
-      "options": ["Wood", "Woven grass", "Cowhide", "Metal"],
+      "options": [
+        "Wood",
+        "Woven grass",
+        "Cowhide",
+        "Metal"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_157",
       "question": "The Herero women of Namibia are known for wearing dresses inspired by which era?",
-      "options": ["Victorian", "Renaissance", "Ancient Egypt", "1920s Flapper"],
+      "options": [
+        "Victorian",
+        "Renaissance",
+        "Ancient Egypt",
+        "1920s Flapper"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_158",
       "question": "Which West African fabric uses a resist-dyeing technique often with indigo?",
-      "options": ["Kente", "Adire", "Mudcloth", "Kanga"],
+      "options": [
+        "Kente",
+        "Adire",
+        "Mudcloth",
+        "Kanga"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_159",
       "question": "What is the traditional wrap skirt worn by women in Central and West Africa called?",
-      "options": ["Pagne", "Shuka", "Gomesi", "Habesha"],
+      "options": [
+        "Pagne",
+        "Shuka",
+        "Gomesi",
+        "Habesha"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_160",
       "question": "What do the colors in Kente cloth symbolize? (e.g., Gold)",
-      "options": ["Death", "Royalty and wealth", "War", "Harvest"],
+      "options": [
+        "Death and mourning",
+        "Royalty and wealth",
+        "Warfare and conflict",
+        "Harvest and fertility"
+      ],
       "correct_index": 1
     },
     {
@@ -1190,7 +1770,7 @@
       "options": [
         "Marula",
         "Baobab",
-        "Caesalpinia bonduc (Nickernut)",
+        "Caesalpinia bonduc",
         "Cola Nut"
       ],
       "correct_index": 2
@@ -1198,13 +1778,23 @@
     {
       "id": "mix_162",
       "question": "What toxic plant is traditionally used by African hunters to poison arrow tips?",
-      "options": ["Acokanthera", "Moringa", "Baobab", "Rooibos"],
+      "options": [
+        "Acokanthera",
+        "Moringa",
+        "Baobab",
+        "Rooibos"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_163",
       "question": "Which African fruit tree is often planted near graves and used in ancestral ceremonies by the Shona?",
-      "options": ["Mobola Plum", "Marula", "Baobab", "Sausage Tree"],
+      "options": [
+        "Mobola Plum",
+        "Marula",
+        "Baobab",
+        "Sausage Tree"
+      ],
       "correct_index": 0
     },
     {
@@ -1221,25 +1811,45 @@
     {
       "id": "mix_165",
       "question": "Which plant is used by the Maasai to create a reddish dye for their hair and body?",
-      "options": ["Ochre (Mineral)", "Henna", "Red Sorghum", "Madder root"],
+      "options": [
+        "Ochre",
+        "Henna",
+        "Red Sorghum",
+        "Madder root"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_166",
       "question": "Which Ethiopian grain is the smallest in the world and used to make injera?",
-      "options": ["Sorghum", "Millet", "Teff", "Fonio"],
+      "options": [
+        "Sorghum",
+        "Millet",
+        "Teff",
+        "Fonio"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_167",
       "question": "Which resilient West African grain is known as the 'seed of the universe' by the Dogon people?",
-      "options": ["Teff", "Fonio", "Millet", "Sorghum"],
+      "options": [
+        "Teff",
+        "Fonio",
+        "Millet",
+        "Sorghum"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_168",
       "question": "What popular houseplant, known for filtering air, is native to West Africa and called 'Mother-in-Law's Tongue'?",
-      "options": ["Spider Plant", "Snake Plant", "Pothos", "Peace Lily"],
+      "options": [
+        "Spider Plant",
+        "Snake Plant",
+        "Pothos",
+        "Peace Lily"
+      ],
       "correct_index": 1
     },
     {
@@ -1256,25 +1866,45 @@
     {
       "id": "mix_170",
       "question": "Which tree's resin is tapped in the Horn of Africa to produce Frankincense?",
-      "options": ["Boswellia", "Commiphora", "Acacia", "Baobab"],
+      "options": [
+        "Boswellia",
+        "Commiphora",
+        "Acacia",
+        "Baobab"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_171",
       "question": "What astrological sign is represented by the Virgin?",
-      "options": ["Gemini", "Virgo", "Libra", "Pisces"],
+      "options": [
+        "Gemini",
+        "Virgo",
+        "Libra",
+        "Pisces"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_172",
       "question": "What element is the sign of Cancer?",
-      "options": ["Earth", "Air", "Water", "Fire"],
+      "options": [
+        "Earth",
+        "Air",
+        "Water",
+        "Fire"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_173",
       "question": "Who painted the mural 'The Last Supper'?",
-      "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Titian"],
+      "options": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Titian"
+      ],
       "correct_index": 2
     },
     {
@@ -1291,49 +1921,89 @@
     {
       "id": "mix_175",
       "question": "How many periods are there in a standard basketball game (NBA)?",
-      "options": ["2", "3", "4", "5"],
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_176",
       "question": "In which sport is the 'Ryder Cup' contested?",
-      "options": ["Tennis", "Golf", "Polo", "Sailing"],
+      "options": [
+        "Tennis",
+        "Golf",
+        "Polo",
+        "Sailing"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_177",
       "question": "What African clothing piece means 'shirt' in Yoruba and is a popular loose pullover?",
-      "options": ["Dashiki", "Buba", "Agbada", "Kente"],
+      "options": [
+        "Dashiki",
+        "Buba",
+        "Agbada",
+        "Kente"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_178",
       "question": "What is the traditional symbol of the Ashanti kingdom often woven into Kente?",
-      "options": ["Golden Stool", "Lion", "Eagle", "Spear"],
+      "options": [
+        "Golden Stool",
+        "Lion",
+        "Eagle",
+        "Spear"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_179",
       "question": "Which African tree provides a bark that is used to make a potent traditional male aphrodisiac?",
-      "options": ["Yohimbe", "Moringa", "Baobab", "Acacia"],
+      "options": [
+        "Yohimbe",
+        "Moringa",
+        "Baobab",
+        "Acacia"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_180",
       "question": "Which plant is known as 'African Wormwood' and used for respiratory ailments?",
-      "options": ["Artemisia afra", "Devil's Claw", "Hoodia", "Buchu"],
+      "options": [
+        "Artemisia afra",
+        "Devil's Claw",
+        "Hoodia",
+        "Buchu"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_181",
       "question": "What is the ruling planet of Pisces (in modern astrology)?",
-      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_182",
       "question": "Which sign is known as the Scorpion?",
-      "options": ["Cancer", "Scorpio", "Capricorn", "Aries"],
+      "options": [
+        "Cancer",
+        "Scorpio",
+        "Capricorn",
+        "Aries"
+      ],
       "correct_index": 1
     },
     {
@@ -1361,26 +2031,41 @@
     {
       "id": "mix_185",
       "question": "What sport uses a 'shuttlecock'?",
-      "options": ["Tennis", "Badminton", "Squash", "Pickleball"],
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Squash",
+        "Pickleball"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_186",
       "question": "In cricket, how many runs are scored for hitting the ball over the boundary without bouncing?",
-      "options": ["4", "5", "6", "10"],
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_187",
       "question": "What color is the traditional wedding dress (Kanga or Shweshwe often) in South Africa?",
-      "options": ["White", "Black", "Varies, highly colorful", "Only Red"],
+      "options": [
+        "Predominantly white",
+        "Primarily black with gold trim",
+        "Varies, highly colorful",
+        "Solid red only"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_188",
       "question": "The 'Kofia' is a brimless cylindrical cap worn by men primarily in which region?",
       "options": [
-        "Swahili Coast (East Africa)",
+        "Swahili Coast",
         "Sahara Desert",
         "Southern Africa",
         "West African Coast"
@@ -1390,30 +2075,45 @@
     {
       "id": "mix_189",
       "question": "Which medicinal leaf is commonly used in West Africa to wrap foods like Moi Moi?",
-      "options": ["Banana Leaf", "Uma Leaf", "Bitter Leaf", "Palm Leaf"],
+      "options": [
+        "Banana Leaf",
+        "Uma Leaf",
+        "Bitter Leaf",
+        "Palm Leaf"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_190",
       "question": "Which African plant's seeds are crushed to make a traditional black soap?",
       "options": [
-        "Shea",
+        "Shea butter and argan oil",
         "Cocoa pod ash and Plantain skin",
-        "Baobab",
-        "Marula"
+        "Baobab and moringa extract",
+        "Marula oil and rooibos blend"
       ],
       "correct_index": 1
     },
     {
       "id": "mix_191",
       "question": "Which zodiac sign is symbolized by the Scorpion?",
-      "options": ["Cancer", "Scorpio", "Capricorn", "Sagittarius"],
+      "options": [
+        "Cancer",
+        "Scorpio",
+        "Capricorn",
+        "Sagittarius"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_192",
       "question": "What is the ruling planet of Aquarius (modern)?",
-      "options": ["Saturn", "Uranus", "Neptune", "Pluto"],
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto"
+      ],
       "correct_index": 1
     },
     {
@@ -1430,49 +2130,89 @@
     {
       "id": "mix_194",
       "question": "Who sculpted the 'Pieta'?",
-      "options": ["Donatello", "Michelangelo", "Bernini", "Rodin"],
+      "options": [
+        "Donatello",
+        "Michelangelo",
+        "Bernini",
+        "Rodin"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_195",
       "question": "How many players are on a rugby league team?",
-      "options": ["11", "13", "15", "18"],
+      "options": [
+        "11",
+        "13",
+        "15",
+        "18"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_196",
       "question": "Which country invented table tennis?",
-      "options": ["China", "Japan", "England", "USA"],
+      "options": [
+        "China",
+        "Japan",
+        "England",
+        "USA"
+      ],
       "correct_index": 2
     },
     {
       "id": "mix_197",
       "question": "What is the traditional striped fabric from Burkina Faso called?",
-      "options": ["Faso Dan Fani", "Kente", "Adire", "Bogolan"],
+      "options": [
+        "Faso Dan Fani",
+        "Kente",
+        "Adire",
+        "Bogolan"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_198",
       "question": "Which West African fabric features elaborate stamped adinkra symbols?",
-      "options": ["Adinkra Cloth", "Shweshwe", "Isiagu", "Kanga"],
+      "options": [
+        "Adinkra Cloth",
+        "Shweshwe",
+        "Isiagu",
+        "Kanga"
+      ],
       "correct_index": 0
     },
     {
       "id": "mix_199",
       "question": "What resin is tapped from the Commiphora tree, famously used as incense and medicine?",
-      "options": ["Frankincense", "Myrrh", "Copal", "Amber"],
+      "options": [
+        "Frankincense",
+        "Myrrh",
+        "Copal",
+        "Amber"
+      ],
       "correct_index": 1
     },
     {
       "id": "mix_200",
       "question": "Which African fruit is famously known as 'Monkey Bread'?",
-      "options": ["Marula", "Baobab fruit", "Tamarind", "Jackfruit"],
+      "options": [
+        "Marula",
+        "Baobab fruit",
+        "Tamarind",
+        "Jackfruit"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_001",
       "question": "Which country is the origin of the car manufacturer Volvo?",
-      "options": ["Germany", "Sweden", "Switzerland", "Norway"],
+      "options": [
+        "Germany",
+        "Sweden",
+        "Switzerland",
+        "Norway"
+      ],
       "correct_index": 1
     },
     {
@@ -1489,7 +2229,12 @@
     {
       "id": "car_003",
       "question": "Who is the parent company of the luxury car brand Lexus?",
-      "options": ["Honda", "Toyota", "Nissan", "Hyundai"],
+      "options": [
+        "Honda",
+        "Toyota",
+        "Nissan",
+        "Hyundai"
+      ],
       "correct_index": 1
     },
     {
@@ -1517,7 +2262,12 @@
     {
       "id": "car_006",
       "question": "Which Italian sports car manufacturer features a 'Prancing Horse' on its logo?",
-      "options": ["Maserati", "Lamborghini", "Alfa Romeo", "Ferrari"],
+      "options": [
+        "Maserati",
+        "Lamborghini",
+        "Alfa Romeo",
+        "Ferrari"
+      ],
       "correct_index": 3
     },
     {
@@ -1534,55 +2284,100 @@
     {
       "id": "car_008",
       "question": "Which car company produces the Mustang, a famous American muscle car?",
-      "options": ["Chevrolet", "Dodge", "Ford", "Pontiac"],
+      "options": [
+        "Chevrolet",
+        "Dodge",
+        "Ford",
+        "Pontiac"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_009",
       "question": "The luxury brand Infiniti is the premium division of which Japanese automaker?",
-      "options": ["Toyota", "Nissan", "Honda", "Subaru"],
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Subaru"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_010",
       "question": "Which South Korean car company owns a controlling stake in Kia Motors?",
-      "options": ["Daewoo", "SsangYong", "Genesis", "Hyundai"],
+      "options": [
+        "Daewoo",
+        "SsangYong",
+        "Genesis",
+        "Hyundai"
+      ],
       "correct_index": 3
     },
     {
       "id": "car_011",
       "question": "What is the origin country of the car brand Škoda?",
-      "options": ["Poland", "Hungary", "Czech Republic", "Slovakia"],
+      "options": [
+        "Poland",
+        "Hungary",
+        "Czech Republic",
+        "Slovakia"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_012",
       "question": "Which German automaker produces the iconic 911 sports car?",
-      "options": ["Mercedes-Benz", "Porsche", "Audi", "BMW"],
+      "options": [
+        "Mercedes-Benz",
+        "Porsche",
+        "Audi",
+        "BMW"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_013",
       "question": "The Mini brand is currently owned by which automotive company?",
-      "options": ["Volkswagen", "Ford", "BMW", "General Motors"],
+      "options": [
+        "Volkswagen",
+        "Ford",
+        "BMW",
+        "General Motors"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_014",
       "question": "Which car manufacturer was founded by Enzo Ferrari in 1939?",
-      "options": ["Pagani", "Ferrari", "Maserati", "Lamborghini"],
+      "options": [
+        "Pagani",
+        "Ferrari",
+        "Maserati",
+        "Lamborghini"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_015",
       "question": "What company produces the electric vehicles Model S, Model 3, and Model X?",
-      "options": ["Rivian", "Lucid Motors", "Tesla", "Polestar"],
+      "options": [
+        "Rivian",
+        "Lucid Motors",
+        "Tesla",
+        "Polestar"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_016",
       "question": "Which brand is known for its legendary 'Quattro' all-wheel-drive system?",
-      "options": ["Subaru", "Audi", "Volvo", "Jeep"],
+      "options": [
+        "Subaru",
+        "Audi",
+        "Volvo",
+        "Jeep"
+      ],
       "correct_index": 1
     },
     {
@@ -1621,13 +2416,23 @@
     {
       "id": "car_020",
       "question": "Which automaker produces the Corolla, historically the best-selling nameplate in the world?",
-      "options": ["Honda", "Ford", "Toyota", "Volkswagen"],
+      "options": [
+        "Honda",
+        "Ford",
+        "Toyota",
+        "Volkswagen"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_021",
       "question": "Which luxury car brand is known for the 'Spirit of Ecstasy' hood ornament?",
-      "options": ["Bentley", "Maybach", "Aston Martin", "Rolls-Royce"],
+      "options": [
+        "Bentley",
+        "Maybach",
+        "Aston Martin",
+        "Rolls-Royce"
+      ],
       "correct_index": 3
     },
     {
@@ -1644,7 +2449,12 @@
     {
       "id": "car_023",
       "question": "Which Italian brand is famous for models like the Aventador and Huracán?",
-      "options": ["Ferrari", "Pagani", "Maserati", "Lamborghini"],
+      "options": [
+        "Ferrari",
+        "Pagani",
+        "Maserati",
+        "Lamborghini"
+      ],
       "correct_index": 3
     },
     {
@@ -1661,97 +2471,177 @@
     {
       "id": "car_025",
       "question": "Which car manufacturer produces the Civic and the Accord?",
-      "options": ["Toyota", "Nissan", "Honda", "Mazda"],
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Mazda"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_026",
       "question": "The luxury division Acura belongs to which Japanese automaker?",
-      "options": ["Toyota", "Nissan", "Honda", "Subaru"],
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Subaru"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_027",
       "question": "Which British brand is famous for being the car of choice for James Bond?",
-      "options": ["Jaguar", "Aston Martin", "Bentley", "Lotus"],
+      "options": [
+        "Jaguar",
+        "Aston Martin",
+        "Bentley",
+        "Lotus"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_028",
       "question": "What is the origin country of the hypercar manufacturer Koenigsegg?",
-      "options": ["Germany", "Italy", "Sweden", "Denmark"],
+      "options": [
+        "Germany",
+        "Italy",
+        "Sweden",
+        "Denmark"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_029",
       "question": "Which French hypercar brand produced the legendary Veyron and Chiron?",
-      "options": ["Bugatti", "Alpine", "Peugeot", "Renault"],
+      "options": [
+        "Bugatti",
+        "Alpine",
+        "Peugeot",
+        "Renault"
+      ],
       "correct_index": 0
     },
     {
       "id": "car_030",
       "question": "Which car brand uses a logo consisting of three overlapping red diamonds?",
-      "options": ["Subaru", "Mitsubishi", "Mazda", "Suzuki"],
+      "options": [
+        "Subaru",
+        "Mitsubishi",
+        "Mazda",
+        "Suzuki"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_031",
       "question": "Which automaker's logo features a circle with a stylized 'H' that represents two people shaking hands?",
-      "options": ["Honda", "Holden", "Hyundai", "Haval"],
+      "options": [
+        "Honda",
+        "Holden",
+        "Hyundai",
+        "Haval"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_032",
       "question": "Which car company was founded by Soichiro Honda?",
-      "options": ["Nissan", "Toyota", "Honda", "Mazda"],
+      "options": [
+        "Nissan",
+        "Toyota",
+        "Honda",
+        "Mazda"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_033",
       "question": "What is the premium luxury brand of the Nissan Motor Company?",
-      "options": ["Acura", "Lexus", "Genesis", "Infiniti"],
+      "options": [
+        "Acura",
+        "Lexus",
+        "Genesis",
+        "Infiniti"
+      ],
       "correct_index": 3
     },
     {
       "id": "car_034",
       "question": "The brand Dacia, known for affordable cars like the Duster, originates from which country?",
-      "options": ["Romania", "Bulgaria", "Czech Republic", "Poland"],
+      "options": [
+        "Romania",
+        "Bulgaria",
+        "Czech Republic",
+        "Poland"
+      ],
       "correct_index": 0
     },
     {
       "id": "car_035",
       "question": "Dacia is a subsidiary of which French car manufacturer?",
-      "options": ["Peugeot", "Citroën", "Renault", "Alpine"],
+      "options": [
+        "Peugeot",
+        "Citroën",
+        "Renault",
+        "Alpine"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_036",
       "question": "Which car brand produces the Outback, Forester, and Crosstrek models?",
-      "options": ["Volvo", "Subaru", "Mitsubishi", "Suzuki"],
+      "options": [
+        "Volvo",
+        "Subaru",
+        "Mitsubishi",
+        "Suzuki"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_037",
       "question": "Which Swedish electric performance car brand is jointly owned by Volvo and Geely?",
-      "options": ["Koenigsegg", "Polestar", "Saab", "Lynk & Co"],
+      "options": [
+        "Koenigsegg",
+        "Polestar",
+        "Saab",
+        "Lynk & Co"
+      ],
       "correct_index": 1
     },
     {
       "id": "car_038",
       "question": "Which American startup focuses exclusively on electric adventure vehicles like the R1T pickup?",
-      "options": ["Lucid Motors", "Fisker", "Rivian", "Faraday Future"],
+      "options": [
+        "Lucid Motors",
+        "Fisker",
+        "Rivian",
+        "Faraday Future"
+      ],
       "correct_index": 2
     },
     {
       "id": "car_039",
       "question": "Which German luxury brand features a four-ring logo representing the merger of four distinct companies?",
-      "options": ["Mercedes-Benz", "BMW", "Porsche", "Audi"],
+      "options": [
+        "Mercedes-Benz",
+        "BMW",
+        "Porsche",
+        "Audi"
+      ],
       "correct_index": 3
     },
     {
       "id": "car_040",
       "question": "Which automaker is famous for the rotary engine historically featured in the RX-7 and RX-8?",
-      "options": ["Mazda", "Toyota", "Nissan", "Subaru"],
+      "options": [
+        "Mazda",
+        "Toyota",
+        "Nissan",
+        "Subaru"
+      ],
       "correct_index": 0
     },
     {
@@ -1779,13 +2669,23 @@
     {
       "id": "spo_043",
       "question": "Who holds the world record for the 100-meter dash in men's track and field?",
-      "options": ["Tyson Gay", "Yohan Blake", "Usain Bolt", "Justin Gatlin"],
+      "options": [
+        "Tyson Gay",
+        "Yohan Blake",
+        "Usain Bolt",
+        "Justin Gatlin"
+      ],
       "correct_index": 2
     },
     {
       "id": "spo_044",
       "question": "Which American swimmer holds the record for the most Olympic gold medals of all time?",
-      "options": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Ian Thorpe"],
+      "options": [
+        "Mark Spitz",
+        "Michael Phelps",
+        "Ryan Lochte",
+        "Ian Thorpe"
+      ],
       "correct_index": 1
     },
     {
@@ -1846,7 +2746,12 @@
     {
       "id": "spo_050",
       "question": "Who is the Canadian former ice hockey player affectionately nicknamed 'The Great One'?",
-      "options": ["Mario Lemieux", "Wayne Gretzky", "Gordie Howe", "Bobby Orr"],
+      "options": [
+        "Mario Lemieux",
+        "Wayne Gretzky",
+        "Gordie Howe",
+        "Bobby Orr"
+      ],
       "correct_index": 1
     },
     {
@@ -1863,19 +2768,34 @@
     {
       "id": "spo_052",
       "question": "Who holds the record for the most major championships in professional golf with 18 titles?",
-      "options": ["Tiger Woods", "Ben Hogan", "Jack Nicklaus", "Gary Player"],
+      "options": [
+        "Tiger Woods",
+        "Ben Hogan",
+        "Jack Nicklaus",
+        "Gary Player"
+      ],
       "correct_index": 2
     },
     {
       "id": "spo_053",
       "question": "Which Brazilian football legend won three FIFA World Cups in 1958, 1962, and 1970?",
-      "options": ["Ronaldo", "Ronaldinho", "Pelé", "Zico"],
+      "options": [
+        "Ronaldo",
+        "Ronaldinho",
+        "Pelé",
+        "Zico"
+      ],
       "correct_index": 2
     },
     {
       "id": "spo_054",
       "question": "Which NFL quarterback won seven Super Bowl rings during his career with the Patriots and Buccaneers?",
-      "options": ["Peyton Manning", "Joe Montana", "Tom Brady", "Drew Brees"],
+      "options": [
+        "Peyton Manning",
+        "Joe Montana",
+        "Tom Brady",
+        "Drew Brees"
+      ],
       "correct_index": 2
     },
     {
@@ -2002,13 +2922,23 @@
     {
       "id": "spo_066",
       "question": "Who is the all-time leading goalscorer in NBA history, surpassing Kareem Abdul-Jabbar in 2023?",
-      "options": ["Kobe Bryant", "Karl Malone", "LeBron James", "Kevin Durant"],
+      "options": [
+        "Kobe Bryant",
+        "Karl Malone",
+        "LeBron James",
+        "Kevin Durant"
+      ],
       "correct_index": 2
     },
     {
       "id": "spo_067",
       "question": "Which legendary baseball player was known as 'The Bambino' and 'The Sultan of Swat'?",
-      "options": ["Lou Gehrig", "Joe DiMaggio", "Babe Ruth", "Mickey Mantle"],
+      "options": [
+        "Lou Gehrig",
+        "Joe DiMaggio",
+        "Babe Ruth",
+        "Mickey Mantle"
+      ],
       "correct_index": 2
     },
     {
@@ -2047,7 +2977,12 @@
     {
       "id": "shoe_071",
       "question": "Which global sportswear brand was founded by Phil Knight and Bill Bowerman in 1964?",
-      "options": ["Adidas", "Nike", "Reebok", "Puma"],
+      "options": [
+        "Adidas",
+        "Nike",
+        "Reebok",
+        "Puma"
+      ],
       "correct_index": 1
     },
     {
@@ -2064,133 +2999,243 @@
     {
       "id": "shoe_073",
       "question": "Which German sportswear brand was founded by Adolf Dassler?",
-      "options": ["Puma", "Adidas", "Under Armour", "Fila"],
+      "options": [
+        "Puma",
+        "Adidas",
+        "Under Armour",
+        "Fila"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_074",
       "question": "Rudolf Dassler, the brother of Adidas's founder, started which rival shoe company?",
-      "options": ["Diadora", "Asics", "Brooks", "Puma"],
+      "options": [
+        "Diadora",
+        "Asics",
+        "Brooks",
+        "Puma"
+      ],
       "correct_index": 3
     },
     {
       "id": "shoe_075",
       "question": "Which American shoe company is famous for its canvas Chuck Taylor All-Star sneakers?",
-      "options": ["Vans", "Keds", "Converse", "PF Flyers"],
+      "options": [
+        "Vans",
+        "Keds",
+        "Converse",
+        "PF Flyers"
+      ],
       "correct_index": 2
     },
     {
       "id": "shoe_076",
       "question": "Converse has been a subsidiary of which major shoe brand since 2003?",
-      "options": ["Nike", "Adidas", "VF Corp", "Puma"],
+      "options": [
+        "Nike",
+        "Adidas",
+        "VF Corp",
+        "Puma"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_077",
       "question": "Which skateboarding shoe brand was founded in 1966 by Paul and Jim Van Doren in California?",
-      "options": ["DC Shoes", "Vans", "Etnies", "Globe"],
+      "options": [
+        "DC Shoes",
+        "Vans",
+        "Etnies",
+        "Globe"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_078",
       "question": "Which sportswear brand was founded in Bolton, England, in 1958 by Joe and Jeff Foster?",
-      "options": ["Umbro", "Reebok", "Lonsdale", "Slazenger"],
+      "options": [
+        "Umbro",
+        "Reebok",
+        "Lonsdale",
+        "Slazenger"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_079",
       "question": "Which Boston-based brand was founded by William J. Riley in 1906, originally selling arch supports?",
-      "options": ["Saucony", "Brooks", "New Balance", "Converse"],
+      "options": [
+        "Saucony",
+        "Brooks",
+        "New Balance",
+        "Converse"
+      ],
       "correct_index": 2
     },
     {
       "id": "shoe_080",
       "question": "What Japanese athletic equipment company was founded by Kihachiro Onitsuka in 1949?",
-      "options": ["Mizuno", "ASICS", "Yonex", "Descente"],
+      "options": [
+        "Mizuno",
+        "ASICS",
+        "Yonex",
+        "Descente"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_081",
       "question": "Which brand, known for its moisture-wicking apparel and shoes, was founded by Kevin Plank in 1996?",
-      "options": ["Under Armour", "Lululemon", "Columbia", "Patagonia"],
+      "options": [
+        "Under Armour",
+        "Lululemon",
+        "Columbia",
+        "Patagonia"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_082",
       "question": "Which American lifestyle footwear brand was founded by Robert Greenberg in 1992 after he left LA Gear?",
-      "options": ["Skechers", "Steve Madden", "Nine West", "Aldo"],
+      "options": [
+        "Skechers",
+        "Steve Madden",
+        "Nine West",
+        "Aldo"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_083",
       "question": "Which iconic boot brand features a famous yellow waterproof work boot introduced in 1973?",
-      "options": ["Caterpillar", "Wolverine", "Red Wing", "Timberland"],
+      "options": [
+        "Caterpillar",
+        "Wolverine",
+        "Red Wing",
+        "Timberland"
+      ],
       "correct_index": 3
     },
     {
       "id": "shoe_084",
       "question": "Which British footwear brand is famous for its air-cushioned sole boots with yellow stitching, originally designed by Klaus Märtens?",
-      "options": ["Clarks", "Dr. Martens", "Blundstone", "Hunter"],
+      "options": [
+        "Clarks",
+        "Dr. Martens",
+        "Blundstone",
+        "Hunter"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_085",
       "question": "Which brand is known for its distinctive foam clog shoes and was founded in 2002?",
-      "options": ["Keen", "Teva", "Crocs", "Vibram"],
+      "options": [
+        "Keen",
+        "Teva",
+        "Crocs",
+        "Vibram"
+      ],
       "correct_index": 2
     },
     {
       "id": "shoe_086",
       "question": "Which German shoe brand is famous for its contoured cork footbeds?",
-      "options": ["Birkenstock", "Rieker", "Meindl", "Puma"],
+      "options": [
+        "Birkenstock",
+        "Rieker",
+        "Meindl",
+        "Puma"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_087",
       "question": "Which British international shoe manufacturer was founded in 1825 by brothers Cyrus and James?",
-      "options": ["Church's", "Grenson", "Clarks", "Loake"],
+      "options": [
+        "Church's",
+        "Grenson",
+        "Clarks",
+        "Loake"
+      ],
       "correct_index": 2
     },
     {
       "id": "shoe_088",
       "question": "Which American brand introduced the first mass-marketed canvas-top 'sneaker', the Champion, in 1916?",
-      "options": ["Keds", "Converse", "Vans", "PF Flyers"],
+      "options": [
+        "Keds",
+        "Converse",
+        "Vans",
+        "PF Flyers"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_089",
       "question": "Which Swiss running shoe brand is known for its patented CloudTec cushioning technology?",
-      "options": ["Hoka", "On Running", "Salomon", "Altra"],
+      "options": [
+        "Hoka",
+        "On Running",
+        "Salomon",
+        "Altra"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_090",
       "question": "Which brand, originally founded in France and known for trail running and winter sports shoes, is now owned by Amer Sports?",
-      "options": ["Salomon", "La Sportiva", "Merrell", "Oboz"],
+      "options": [
+        "Salomon",
+        "La Sportiva",
+        "Merrell",
+        "Oboz"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_091",
       "question": "Which running shoe company, known for its maximalist oversized midsoles, was founded in France but is now based in California?",
-      "options": ["Brooks", "Altra", "Hoka One One", "Newton"],
+      "options": [
+        "Brooks",
+        "Altra",
+        "Hoka One One",
+        "Newton"
+      ],
       "correct_index": 2
     },
     {
       "id": "shoe_092",
       "question": "Which American footwear company is highly regarded for its hiking boots and outdoor shoes, founded by a man named Randy?",
-      "options": ["Merrell", "Keen", "Vasque", "Danner"],
+      "options": [
+        "Merrell",
+        "Keen",
+        "Vasque",
+        "Danner"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_093",
       "question": "Which brand pioneered the 'One for One' business model, giving a pair of shoes to a child in need for every pair sold?",
-      "options": ["Warby Parker", "TOMS", "Bobs", "Sanuk"],
+      "options": [
+        "Warby Parker",
+        "TOMS",
+        "Bobs",
+        "Sanuk"
+      ],
       "correct_index": 1
     },
     {
       "id": "shoe_094",
       "question": "Which American brand is credited with creating the first boat shoe in 1935?",
-      "options": ["Sebago", "Sperry", "Bass", "L.L.Bean"],
+      "options": [
+        "Sebago",
+        "Sperry",
+        "Bass",
+        "L.L.Bean"
+      ],
       "correct_index": 1
     },
     {
@@ -2207,13 +3252,23 @@
     {
       "id": "shoe_096",
       "question": "Which Malaysian-born fashion designer is famous for his luxury handmade women's shoes and has a brand headquartered in London?",
-      "options": ["Alexander Wang", "Jason Wu", "Vera Wang", "Jimmy Choo"],
+      "options": [
+        "Alexander Wang",
+        "Jason Wu",
+        "Vera Wang",
+        "Jimmy Choo"
+      ],
       "correct_index": 3
     },
     {
       "id": "shoe_097",
       "question": "Which Canadian retail shoe brand was founded by Aldo Bensadoun in Montreal in 1972?",
-      "options": ["Call It Spring", "ALDO", "Browns", "Bata"],
+      "options": [
+        "Call It Spring",
+        "ALDO",
+        "Browns",
+        "Bata"
+      ],
       "correct_index": 1
     },
     {
@@ -2230,25 +3285,45 @@
     {
       "id": "shoe_099",
       "question": "Which running shoe company was founded in Pennsylvania in 1898 and is now known for models like the Kinvara?",
-      "options": ["Saucony", "Brooks", "Newton", "Karhu"],
+      "options": [
+        "Saucony",
+        "Brooks",
+        "Newton",
+        "Karhu"
+      ],
       "correct_index": 0
     },
     {
       "id": "shoe_100",
       "question": "Which athletic apparel and footwear company was founded in Biella, Italy, in 1911?",
-      "options": ["Kappa", "Diadora", "Lotto", "Fila"],
+      "options": [
+        "Kappa",
+        "Diadora",
+        "Lotto",
+        "Fila"
+      ],
       "correct_index": 3
     },
     {
       "id": "fash_101",
       "question": "Which luxury Italian fashion house was founded by Guccio in Florence in 1921?",
-      "options": ["Prada", "Armani", "Gucci", "Versace"],
+      "options": [
+        "Prada",
+        "Armani",
+        "Gucci",
+        "Versace"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_102",
       "question": "Which luxury French fashion house was founded in 1854 and is known for its LV monogram?",
-      "options": ["Louis Vuitton", "Hermès", "Dior", "Chanel"],
+      "options": [
+        "Louis Vuitton",
+        "Hermès",
+        "Dior",
+        "Chanel"
+      ],
       "correct_index": 0
     },
     {
@@ -2265,13 +3340,23 @@
     {
       "id": "fash_104",
       "question": "Which Italian luxury fashion house was founded by Mario Prada in 1913?",
-      "options": ["Miu Miu", "Prada", "Fendi", "Bottega Veneta"],
+      "options": [
+        "Miu Miu",
+        "Prada",
+        "Fendi",
+        "Bottega Veneta"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_105",
       "question": "Which French luxury brand was founded by Thierry Hermès in 1837, originally as a harness workshop?",
-      "options": ["Goyard", "Cartier", "Hermès", "Celine"],
+      "options": [
+        "Goyard",
+        "Cartier",
+        "Hermès",
+        "Celine"
+      ],
       "correct_index": 2
     },
     {
@@ -2288,7 +3373,12 @@
     {
       "id": "fash_107",
       "question": "Which Italian fashion house was founded by Giorgio Armani in 1975?",
-      "options": ["Brioni", "Ermenegildo Zegna", "Armani", "Valentino"],
+      "options": [
+        "Brioni",
+        "Ermenegildo Zegna",
+        "Armani",
+        "Valentino"
+      ],
       "correct_index": 2
     },
     {
@@ -2305,25 +3395,45 @@
     {
       "id": "fash_109",
       "question": "Which Italian luxury house, known for its fur and leather goods, uses a double-F logo created by Karl Lagerfeld?",
-      "options": ["Furla", "Ferragamo", "Fendi", "Fila"],
+      "options": [
+        "Furla",
+        "Ferragamo",
+        "Fendi",
+        "Fila"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_110",
       "question": "Which French luxury house was founded by Hubert de Givenchy in 1952?",
-      "options": ["Balmain", "Givenchy", "Lanvin", "Rochas"],
+      "options": [
+        "Balmain",
+        "Givenchy",
+        "Lanvin",
+        "Rochas"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_111",
       "question": "Which luxury fashion house was founded by Spanish designer Cristóbal in 1919?",
-      "options": ["Balenciaga", "Loewe", "Paco Rabanne", "Manolo Blahnik"],
+      "options": [
+        "Balenciaga",
+        "Loewe",
+        "Paco Rabanne",
+        "Manolo Blahnik"
+      ],
       "correct_index": 0
     },
     {
       "id": "fash_112",
       "question": "Which French fashion house was founded by Yves Saint Laurent and his partner Pierre Bergé in 1961?",
-      "options": ["Givenchy", "Dior", "Yves Saint Laurent (YSL)", "Mugler"],
+      "options": [
+        "Givenchy",
+        "Dior",
+        "Yves Saint Laurent",
+        "Mugler"
+      ],
       "correct_index": 2
     },
     {
@@ -2340,7 +3450,12 @@
     {
       "id": "fash_114",
       "question": "Which British luxury fashion house is famous for its trench coats and distinctive tartan check pattern?",
-      "options": ["Mulberry", "Barbour", "Aquascutum", "Burberry"],
+      "options": [
+        "Mulberry",
+        "Barbour",
+        "Aquascutum",
+        "Burberry"
+      ],
       "correct_index": 3
     },
     {
@@ -2368,7 +3483,12 @@
     {
       "id": "fash_117",
       "question": "Which American fashion designer founded his minimalist brand in 1968, known for designer underwear and denim?",
-      "options": ["Marc Jacobs", "Calvin Klein", "Tom Ford", "Donna Karan"],
+      "options": [
+        "Marc Jacobs",
+        "Calvin Klein",
+        "Tom Ford",
+        "Donna Karan"
+      ],
       "correct_index": 1
     },
     {
@@ -2385,49 +3505,89 @@
     {
       "id": "fash_119",
       "question": "Which American designer served as the creative director of Gucci and YSL before launching his own luxury brand in 2005?",
-      "options": ["Marc Jacobs", "Virgil Abloh", "Tom Ford", "Alexander Wang"],
+      "options": [
+        "Marc Jacobs",
+        "Virgil Abloh",
+        "Tom Ford",
+        "Alexander Wang"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_120",
       "question": "Which German luxury fashion house was founded in Metzingen in 1924?",
-      "options": ["Hugo Boss", "Jil Sander", "Escada", "Philipp Plein"],
+      "options": [
+        "Hugo Boss",
+        "Jil Sander",
+        "Escada",
+        "Philipp Plein"
+      ],
       "correct_index": 0
     },
     {
       "id": "fash_121",
       "question": "Which French clothing company is famous for its polo shirts featuring a crocodile logo?",
-      "options": ["Le Coq Sportif", "Façonnable", "Lacoste", "Aigle"],
+      "options": [
+        "Le Coq Sportif",
+        "Façonnable",
+        "Lacoste",
+        "Aigle"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_122",
       "question": "Which American clothing company, founded in 1853, is famous for its denim jeans, particularly the 501s?",
-      "options": ["Wrangler", "Lee", "Guess", "Levi Strauss & Co."],
+      "options": [
+        "Wrangler",
+        "Lee",
+        "Guess",
+        "Levi Strauss & Co."
+      ],
       "correct_index": 3
     },
     {
       "id": "fash_123",
       "question": "Which Spanish fast-fashion retailer is the flagship chain of the Inditex group?",
-      "options": ["Mango", "Zara", "Desigual", "Bershka"],
+      "options": [
+        "Mango",
+        "Zara",
+        "Desigual",
+        "Bershka"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_124",
       "question": "Which Swedish multinational clothing-retail company is known for its fast-fashion clothing?",
-      "options": ["H&M", "COS", "Acne Studios", "Fjällräven"],
+      "options": [
+        "H&M",
+        "COS",
+        "Acne Studios",
+        "Fjällräven"
+      ],
       "correct_index": 0
     },
     {
       "id": "fash_125",
       "question": "Which Japanese casual wear designer, manufacturer, and retailer is a wholly owned subsidiary of Fast Retailing?",
-      "options": ["Muji", "Comme des Garçons", "Uniqlo", "Issey Miyake"],
+      "options": [
+        "Muji",
+        "Comme des Garçons",
+        "Uniqlo",
+        "Issey Miyake"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_126",
       "question": "Which American clothing and accessories retailer was founded in 1969 by Donald and Doris Fisher in San Francisco?",
-      "options": ["Old Navy", "Banana Republic", "The Gap", "J.Crew"],
+      "options": [
+        "Old Navy",
+        "Banana Republic",
+        "The Gap",
+        "J.Crew"
+      ],
       "correct_index": 2
     },
     {
@@ -2444,13 +3604,23 @@
     {
       "id": "fash_128",
       "question": "Which American skateboarding lifestyle brand was established in NYC in 1994, famous for its red box logo?",
-      "options": ["Stüssy", "Supreme", "Palace", "Thrasher"],
+      "options": [
+        "Stüssy",
+        "Supreme",
+        "Palace",
+        "Thrasher"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_129",
       "question": "Which Italian luxury fashion label was founded by American designer Virgil Abloh in 2012?",
-      "options": ["Fear of God", "Heron Preston", "Off-White", "Palm Angels"],
+      "options": [
+        "Fear of God",
+        "Heron Preston",
+        "Off-White",
+        "Palm Angels"
+      ],
       "correct_index": 2
     },
     {
@@ -2460,14 +3630,19 @@
         "Undercover",
         "Neighborhood",
         "Visvim",
-        "A Bathing Ape (BAPE)"
+        "A Bathing Ape"
       ],
       "correct_index": 3
     },
     {
       "id": "fash_131",
       "question": "Which Swiss luxury watch manufacturer was founded by Hans Wilsdorf and Alfred Davis in London in 1905?",
-      "options": ["Omega", "Tag Heuer", "Rolex", "Breitling"],
+      "options": [
+        "Omega",
+        "Tag Heuer",
+        "Rolex",
+        "Breitling"
+      ],
       "correct_index": 2
     },
     {
@@ -2484,73 +3659,133 @@
     {
       "id": "fash_133",
       "question": "Which French luxury goods conglomerate is the world's largest, owning brands like Louis Vuitton, Dior, and Givenchy?",
-      "options": ["Kering", "LVMH", "Richemont", "Hermès International"],
+      "options": [
+        "Kering",
+        "LVMH",
+        "Richemont",
+        "Hermès International"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_134",
       "question": "Which multinational corporation, founded by François Pinault, owns luxury brands like Gucci, Saint Laurent, and Balenciaga?",
-      "options": ["Prada Group", "LVMH", "Richemont", "Kering"],
+      "options": [
+        "Prada Group",
+        "LVMH",
+        "Richemont",
+        "Kering"
+      ],
       "correct_index": 3
     },
     {
       "id": "fash_135",
       "question": "Which Swiss luxury goods holding company owns brands like Cartier, Van Cleef & Arpels, and Montblanc?",
-      "options": ["Swatch Group", "Richemont", "Rolex SA", "LVMH"],
+      "options": [
+        "Swatch Group",
+        "Richemont",
+        "Rolex SA",
+        "LVMH"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_136",
       "question": "Which French luxury brand is famous for its 'Panthère' motif and high jewelry?",
-      "options": ["Boucheron", "Chaumet", "Cartier", "Van Cleef & Arpels"],
+      "options": [
+        "Boucheron",
+        "Chaumet",
+        "Cartier",
+        "Van Cleef & Arpels"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_137",
       "question": "Which American luxury jewelry and specialty retailer is famous for its signature 'robin's-egg blue' boxes?",
-      "options": ["Harry Winston", "Tiffany & Co.", "David Yurman", "Zales"],
+      "options": [
+        "Harry Winston",
+        "Tiffany & Co.",
+        "David Yurman",
+        "Zales"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_138",
       "question": "Which Swiss watchmaker introduced a line of colorful, affordable plastic watches in 1983 to save the Swiss watch industry?",
-      "options": ["Tissot", "Swatch", "Longines", "Mondaine"],
+      "options": [
+        "Tissot",
+        "Swatch",
+        "Longines",
+        "Mondaine"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_139",
       "question": "Which brand is famous for its Wayfarer and Aviator styles of sunglasses?",
-      "options": ["Oakley", "Persol", "Maui Jim", "Ray-Ban"],
+      "options": [
+        "Oakley",
+        "Persol",
+        "Maui Jim",
+        "Ray-Ban"
+      ],
       "correct_index": 3
     },
     {
       "id": "fash_140",
       "question": "Which American sports equipment and eyewear company is known for its high-performance sunglasses with an 'O' logo?",
-      "options": ["Smith Optics", "Costa Del Mar", "Oakley", "Spy Optic"],
+      "options": [
+        "Smith Optics",
+        "Costa Del Mar",
+        "Oakley",
+        "Spy Optic"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_141",
       "question": "Which American outdoor recreation products company is named after the coldest, most unforgiving side of a mountain?",
-      "options": ["The North Face", "Marmot", "Arc'teryx", "Mammut"],
+      "options": [
+        "The North Face",
+        "Marmot",
+        "Arc'teryx",
+        "Mammut"
+      ],
       "correct_index": 0
     },
     {
       "id": "fash_142",
       "question": "Which American outdoor clothing company was founded by Yvon Chouinard in 1973 and is known for its environmental activism?",
-      "options": ["REI", "Patagonia", "L.L.Bean", "Cotopaxi"],
+      "options": [
+        "REI",
+        "Patagonia",
+        "L.L.Bean",
+        "Cotopaxi"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_143",
       "question": "Which American company manufactures outerwear, sportswear, and footwear, founded in Portland, Oregon in 1938?",
-      "options": ["Eddie Bauer", "Columbia Sportswear", "Burton", "Carhartt"],
+      "options": [
+        "Eddie Bauer",
+        "Columbia Sportswear",
+        "Burton",
+        "Carhartt"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_144",
       "question": "Which Canadian-American multinational athletic apparel retailer is known for its yoga pants and activewear?",
-      "options": ["Athleta", "Gymshark", "Lululemon", "Fabletics"],
+      "options": [
+        "Athleta",
+        "Gymshark",
+        "Lululemon",
+        "Fabletics"
+      ],
       "correct_index": 2
     },
     {
@@ -2578,19 +3813,34 @@
     {
       "id": "fash_147",
       "question": "What is the parent company of the luxury brands Coach, Kate Spade, and Stuart Weitzman?",
-      "options": ["Capri Holdings", "Tapestry, Inc.", "LVMH", "Kering"],
+      "options": [
+        "Capri Holdings",
+        "Tapestry, Inc.",
+        "LVMH",
+        "Kering"
+      ],
       "correct_index": 1
     },
     {
       "id": "fash_148",
       "question": "Which Spanish multinational clothing company is the biggest fast fashion group in the world, owning Zara, Pull&Bear, and Massimo Dutti?",
-      "options": ["Mango", "Cortefiel", "Inditex", "Tendam"],
+      "options": [
+        "Mango",
+        "Cortefiel",
+        "Inditex",
+        "Tendam"
+      ],
       "correct_index": 2
     },
     {
       "id": "fash_149",
       "question": "Which luxury brand is famous for its iconic, highly sought-after 'Birkin' and 'Kelly' bags?",
-      "options": ["Chanel", "Louis Vuitton", "Hermès", "Dior"],
+      "options": [
+        "Chanel",
+        "Louis Vuitton",
+        "Hermès",
+        "Dior"
+      ],
       "correct_index": 2
     },
     {
@@ -2610,7 +3860,7 @@
       "options": [
         "Nigeria",
         "Ghana",
-        "Ivory Coast (Côte d'Ivoire)",
+        "Ivory Coast",
         "Cameroon"
       ],
       "correct_index": 2
@@ -2618,13 +3868,23 @@
     {
       "id": "afr_152",
       "question": "Which country is the second-largest producer of cocoa beans globally?",
-      "options": ["Togo", "Ghana", "Senegal", "Liberia"],
+      "options": [
+        "Togo",
+        "Ghana",
+        "Senegal",
+        "Liberia"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_153",
       "question": "Which African country is the continent's largest producer of palm oil, historically a major global exporter?",
-      "options": ["Angola", "Kenya", "South Africa", "Nigeria"],
+      "options": [
+        "Angola",
+        "Kenya",
+        "South Africa",
+        "Nigeria"
+      ],
       "correct_index": 3
     },
     {
@@ -2641,31 +3901,56 @@
     {
       "id": "afr_155",
       "question": "Which West African country, founded by freed American slaves, has historically been a major producer of natural rubber via Firestone plantations?",
-      "options": ["Sierra Leone", "Liberia", "Guinea", "Gambia"],
+      "options": [
+        "Sierra Leone",
+        "Liberia",
+        "Guinea",
+        "Gambia"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_156",
       "question": "Which country in southern Africa is the continent's leading producer of gold and platinum?",
-      "options": ["Zimbabwe", "Namibia", "South Africa", "Zambia"],
+      "options": [
+        "Zimbabwe",
+        "Namibia",
+        "South Africa",
+        "Zambia"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_157",
       "question": "Which landlocked southern African country is the world's leading producer of gem-quality diamonds by value?",
-      "options": ["Lesotho", "Eswatini", "Botswana", "Malawi"],
+      "options": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Malawi"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_158",
       "question": "Which African nation is the largest producer of oil in sub-Saharan Africa?",
-      "options": ["Equatorial Guinea", "Nigeria", "Gabon", "Chad"],
+      "options": [
+        "Equatorial Guinea",
+        "Nigeria",
+        "Gabon",
+        "Chad"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_159",
       "question": "Which central African country is Africa's second-largest oil producer and a member of OPEC?",
-      "options": ["Cameroon", "Sudan", "Angola", "Republic of the Congo"],
+      "options": [
+        "Cameroon",
+        "Sudan",
+        "Angola",
+        "Republic of the Congo"
+      ],
       "correct_index": 2
     },
     {
@@ -2682,7 +3967,12 @@
     {
       "id": "afr_161",
       "question": "Which African country is a major global producer of uranium, with significant mines in the Arlit region?",
-      "options": ["Mali", "Niger", "Chad", "Mauritania"],
+      "options": [
+        "Mali",
+        "Niger",
+        "Chad",
+        "Mauritania"
+      ],
       "correct_index": 1
     },
     {
@@ -2691,7 +3981,7 @@
       "options": [
         "Stellenbosch University",
         "University of Pretoria",
-        "University of Cape Town (UCT)",
+        "University of Cape Town",
         "University of KwaZulu-Natal"
       ],
       "correct_index": 2
@@ -2701,7 +3991,7 @@
       "question": "Which historic university in Johannesburg was originally founded as the South African School of Mines?",
       "options": [
         "University of Johannesburg",
-        "University of the Witwatersrand (Wits)",
+        "University of the Witwatersrand",
         "Rhodes University",
         "Nelson Mandela University"
       ],
@@ -2745,7 +4035,7 @@
       "question": "Which major public research university in Ghana is located in Accra and is the oldest in the country?",
       "options": [
         "Kwame Nkrumah University of Science and Technology",
-        "University of Ghana (Legon)",
+        "University of Ghana",
         "University of Cape Coast",
         "Ashesi University"
       ],
@@ -2767,7 +4057,7 @@
       "question": "Which massive hydroelectric dam on the Blue Nile is currently under construction in Ethiopia?",
       "options": [
         "Tekeze Dam",
-        "Grand Ethiopian Renaissance Dam (GERD)",
+        "Grand Ethiopian Renaissance Dam",
         "Gilgel Gibe III Dam",
         "Koka Dam"
       ],
@@ -2776,14 +4066,19 @@
     {
       "id": "afr_170",
       "question": "Which historic dam in Egypt controls the flooding of the Nile River and generates significant hydroelectric power?",
-      "options": ["Aswan High Dam", "Merowe Dam", "Roseires Dam", "Sennar Dam"],
+      "options": [
+        "Aswan High Dam",
+        "Merowe Dam",
+        "Roseires Dam",
+        "Sennar Dam"
+      ],
       "correct_index": 0
     },
     {
       "id": "afr_171",
       "question": "Which dam project on the Congo River has the potential to become the largest hydroelectric power station in the world?",
       "options": [
-        "Inga Dams (Grand Inga)",
+        "Inga Dams",
         "Zongo II",
         "Kafue Gorge",
         "Bujagali"
@@ -2793,7 +4088,12 @@
     {
       "id": "afr_172",
       "question": "Which major dam in Ghana created Lake Volta, the largest man-made lake in the world by surface area?",
-      "options": ["Bui Dam", "Kpong Dam", "Akosombo Dam", "Baredekese Dam"],
+      "options": [
+        "Bui Dam",
+        "Kpong Dam",
+        "Akosombo Dam",
+        "Baredekese Dam"
+      ],
       "correct_index": 2
     },
     {
@@ -2843,13 +4143,23 @@
     {
       "id": "afr_177",
       "question": "Which country hosts the Lake Turkana Wind Power Project, the largest wind farm in Africa?",
-      "options": ["Ethiopia", "Tanzania", "Uganda", "Kenya"],
+      "options": [
+        "Ethiopia",
+        "Tanzania",
+        "Uganda",
+        "Kenya"
+      ],
       "correct_index": 3
     },
     {
       "id": "afr_178",
       "question": "What is the name of the modern rapid transit railway system linking Johannesburg, Pretoria, and O.R. Tambo Airport?",
-      "options": ["Metrorail", "Blue Train", "Gautrain", "Shosholoza Meyl"],
+      "options": [
+        "Metrorail",
+        "Blue Train",
+        "Gautrain",
+        "Shosholoza Meyl"
+      ],
       "correct_index": 2
     },
     {
@@ -2869,7 +4179,7 @@
       "options": [
         "Tanzania SGR",
         "Ethiopia-Djibouti Railway",
-        "Standard Gauge Railway (SGR)",
+        "Standard Gauge Railway",
         "Lunatic Express"
       ],
       "correct_index": 2
@@ -2910,19 +4220,34 @@
     {
       "id": "afr_184",
       "question": "Kusile and Medupi are two massive new coal-fired power stations built in which country?",
-      "options": ["Nigeria", "Egypt", "South Africa", "Morocco"],
+      "options": [
+        "Nigeria",
+        "Egypt",
+        "South Africa",
+        "Morocco"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_185",
       "question": "What is the name of the regional economic union of 15 countries located in West Africa?",
-      "options": ["EAC", "ECOWAS", "SADC", "COMESA"],
+      "options": [
+        "EAC",
+        "ECOWAS",
+        "SADC",
+        "COMESA"
+      ],
       "correct_index": 1
     },
     {
       "id": "afr_186",
       "question": "Which regional organization consists of 16 Member States in the southern part of Africa?",
-      "options": ["SADC", "ECOWAS", "IGAD", "ECCAS"],
+      "options": [
+        "SADC",
+        "ECOWAS",
+        "IGAD",
+        "ECCAS"
+      ],
       "correct_index": 0
     },
     {
@@ -2942,7 +4267,7 @@
       "options": [
         "Qasr El Nil Bridge",
         "6th October Bridge",
-        "Rod El Farag Axis (Tahya Misr Bridge)",
+        "Rod El Farag Axis Bridge",
         "Suez Canal Bridge"
       ],
       "correct_index": 2
@@ -2994,7 +4319,12 @@
     {
       "id": "afr_193",
       "question": "Which country is the newest internationally recognized nation in Africa, gaining independence in 2011?",
-      "options": ["Eritrea", "South Sudan", "Namibia", "Djibouti"],
+      "options": [
+        "Eritrea",
+        "South Sudan",
+        "Namibia",
+        "Djibouti"
+      ],
       "correct_index": 1
     },
     {
@@ -3011,13 +4341,23 @@
     {
       "id": "afr_195",
       "question": "Which African country recently inaugurated a massive new administrative capital city east of its current capital?",
-      "options": ["Nigeria", "Tanzania", "Egypt", "Ivory Coast"],
+      "options": [
+        "Nigeria",
+        "Tanzania",
+        "Egypt",
+        "Ivory Coast"
+      ],
       "correct_index": 2
     },
     {
       "id": "afr_196",
       "question": "The Mambilla Hydroelectric Power Station is a major planned infrastructure project in which country?",
-      "options": ["Kenya", "Angola", "Nigeria", "Ghana"],
+      "options": [
+        "Kenya",
+        "Angola",
+        "Nigeria",
+        "Ghana"
+      ],
       "correct_index": 2
     },
     {
@@ -3034,7 +4374,12 @@
     {
       "id": "afr_198",
       "question": "Which East African country is recognized as the headquarters of the East African Community (EAC)?",
-      "options": ["Kenya", "Uganda", "Rwanda", "Tanzania"],
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Rwanda",
+        "Tanzania"
+      ],
       "correct_index": 3
     },
     {

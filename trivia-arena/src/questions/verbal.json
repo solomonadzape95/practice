@@ -7,1203 +7,2202 @@
     {
       "id": "vr_001",
       "question": "Oasis is to Sand as Island is to?",
-      "options": ["River", "Sea", "Water", "Waves"],
+      "options": [
+        "River",
+        "Sea",
+        "Water",
+        "Waves"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_002",
       "question": "Safe is to Secure as Protect is to?",
-      "options": ["Lock", "Guard", "Sure", "Conserve"],
+      "options": [
+        "Lock",
+        "Guard",
+        "Sure",
+        "Conserve"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_003",
       "question": "Melt is to Liquid as Freeze is to?",
-      "options": ["Ice", "Solid", "Condense", "Push"],
+      "options": [
+        "Ice",
+        "Solid",
+        "Condense",
+        "Push"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_004",
       "question": "Architect is to Building as Sculptor is to?",
-      "options": ["Museum", "Stone", "Chisel", "Statue"],
+      "options": [
+        "Museum",
+        "Stone",
+        "Chisel",
+        "Statue"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_005",
       "question": "Pen is to Poet as Needle is to?",
-      "options": ["Thread", "Button", "Tailor", "Sewing"],
+      "options": [
+        "Thread",
+        "Button",
+        "Tailor",
+        "Sewing"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_006",
       "question": "Eye is to Myopia as Teeth is to?",
-      "options": ["Pyorrhea", "Cataract", "Trachoma", "Eczema"],
+      "options": [
+        "Pyorrhea",
+        "Cataract",
+        "Trachoma",
+        "Eczema"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_007",
       "question": "Tractor is to Trailer as Horse is to?",
-      "options": ["Stable", "Cart", "Saddle", "Engine"],
+      "options": [
+        "Stable",
+        "Cart",
+        "Saddle",
+        "Engine"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_008",
       "question": "Reading is to Knowledge as Work is to?",
-      "options": ["Experience", "Engagement", "Employment", "Experiment"],
+      "options": [
+        "Experience",
+        "Engagement",
+        "Employment",
+        "Experiment"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_009",
       "question": "Conference is to Chairman as Newspaper is to?",
-      "options": ["Reporter", "Distributor", "Printer", "Editor"],
+      "options": [
+        "Reporter",
+        "Distributor",
+        "Printer",
+        "Editor"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_010",
       "question": "Pigeon is to Peace as White Flag is to?",
-      "options": ["Friendship", "Victory", "Surrender", "War"],
+      "options": [
+        "Friendship",
+        "Victory",
+        "Surrender",
+        "War"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_011",
       "question": "Pointing to a photograph of a boy Suresh said, 'He is the son of the only son of my mother.' How is Suresh related to that boy?",
-      "options": ["Brother", "Uncle", "Cousin", "Father"],
+      "options": [
+        "Brother",
+        "Uncle",
+        "Cousin",
+        "Father"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_012",
       "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-      "options": ["Brother", "Sister", "Nephew", "Cannot be determined"],
+      "options": [
+        "Brother",
+        "Sister",
+        "Nephew",
+        "Cannot be determined"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_013",
       "question": "Pointing to a photograph, a woman says, 'This man's son's sister is my mother-in-law.' How is the woman's husband related to the man in the photograph?",
-      "options": ["Grandson", "Son", "Nephew", "Son-in-law"],
+      "options": [
+        "Grandson",
+        "Son",
+        "Nephew",
+        "Son-in-law"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_014",
       "question": "A is the mother of B and C. If D is the husband of C, what is A to D?",
-      "options": ["Mother", "Sister", "Aunt", "Mother-in-law"],
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Mother-in-law"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_015",
       "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
-      "options": ["Mother", "Grandmother", "Sister", "Aunt"],
+      "options": [
+        "Mother",
+        "Grandmother",
+        "Sister",
+        "Aunt"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_016",
       "question": "X and Y are brothers. R is the father of Y. S is the brother of T and maternal uncle of X. What is T to R?",
-      "options": ["Mother", "Wife", "Sister", "Brother"],
+      "options": [
+        "Mother",
+        "Wife",
+        "Sister",
+        "Brother"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_017",
       "question": "A girl introduced a boy as the son of the daughter of the father of her uncle. The boy is girl's:",
-      "options": ["Brother", "Son", "Uncle", "Son-in-law"],
+      "options": [
+        "Brother",
+        "Son",
+        "Uncle",
+        "Son-in-law"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_018",
       "question": "Pointing to a gentleman, Deepak said, 'His only brother is the father of my daughter's father.' How is the gentleman related to Deepak?",
-      "options": ["Grandfather", "Father", "Brother-in-law", "Uncle"],
+      "options": [
+        "Grandfather",
+        "Father",
+        "Brother-in-law",
+        "Uncle"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_019",
       "question": "If 'P + Q' means P is the brother of Q; 'P x Q' means P is the father of Q; 'P - Q' means P is the sister of Q, which of the following represents 'S is the niece of T'?",
-      "options": ["T x M + S - K", "K - S x M + T", "T + M x S - K", "T x S + M - K"],
+      "options": [
+        "T x M + S - K",
+        "K - S x M + T",
+        "T + M x S - K",
+        "T x S + M - K"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_020",
       "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
-      "options": ["West", "South", "North-East", "South-West"],
+      "options": [
+        "West",
+        "South",
+        "North-East",
+        "South-West"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_021",
       "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M.?",
-      "options": ["South-East", "South", "North", "West"],
+      "options": [
+        "South-East",
+        "South",
+        "North",
+        "West"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_022",
       "question": "A boy rode his bicycle Northward, then turned left and rode 1 km and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride northward initially?",
-      "options": ["1 km", "2 km", "3 km", "5 km"],
+      "options": [
+        "1 km",
+        "2 km",
+        "3 km",
+        "5 km"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_023",
       "question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
-      "options": ["East", "West", "North-East", "South"],
+      "options": [
+        "East",
+        "West",
+        "North-East",
+        "South"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_024",
       "question": "A man walks 2 km towards North. Then he turns to East and walks 10 km. After this he turns to North and walks 3 km. Again he turns towards East and walks 2 km. How far is he from the starting point?",
-      "options": ["10 km", "13 km", "15 km", "17 km"],
+      "options": [
+        "10 km",
+        "13 km",
+        "15 km",
+        "17 km"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_025",
       "question": "One morning after sunrise, Vimal started to walk. During this walking he met Stephen who was coming from opposite direction. Vimal watch that the shadow of Stephen to the right of him (Vimal). To Which direction Vimal was facing?",
-      "options": ["East", "West", "South", "North"],
+      "options": [
+        "East",
+        "West",
+        "South",
+        "North"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_026",
       "question": "Choose the word which is least like the other words in the group.",
-      "options": ["Zebra", "Lion", "Tiger", "Horse"],
+      "options": [
+        "Zebra",
+        "Lion",
+        "Tiger",
+        "Horse"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_027",
       "question": "Find the odd one out.",
-      "options": ["Apple", "Marigold", "Rose", "Lily"],
+      "options": [
+        "Apple",
+        "Marigold",
+        "Rose",
+        "Lily"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_028",
       "question": "Which of the following does not belong to the group?",
-      "options": ["Copper", "Zinc", "Brass", "Aluminum"],
+      "options": [
+        "Copper",
+        "Zinc",
+        "Brass",
+        "Aluminum"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_029",
       "question": "Identify the odd word out.",
-      "options": ["January", "May", "July", "November"],
+      "options": [
+        "January",
+        "May",
+        "July",
+        "November"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_030",
       "question": "Choose the word which is different from the rest.",
-      "options": ["Guitar", "Flute", "Violin", "Cello"],
+      "options": [
+        "Guitar",
+        "Flute",
+        "Violin",
+        "Cello"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_031",
       "question": "Find the odd one out.",
-      "options": ["Triangle", "Circle", "Sphere", "Square"],
+      "options": [
+        "Triangle",
+        "Circle",
+        "Sphere",
+        "Square"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_032",
       "question": "Which of the following does not belong?",
-      "options": ["Bake", "Peel", "Fry", "Boil"],
+      "options": [
+        "Bake",
+        "Peel",
+        "Fry",
+        "Boil"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_033",
       "question": "If the alphabet is written in reverse order, which will be the 8th letter to the right of the 14th letter from the left?",
-      "options": ["F", "H", "E", "G"],
+      "options": [
+        "F",
+        "H",
+        "E",
+        "G"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_034",
       "question": "If it is possible to make a meaningful word with the 1st, 4th, 7th and 11th letters of the word 'SUPERFLUOUS', write the first letter of that word.",
-      "options": ["S", "L", "E", "R"],
+      "options": [
+        "S",
+        "L",
+        "E",
+        "R"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_035",
       "question": "How many such pairs of letters are there in the word 'CORPORATE' each of which has as many letters between them in the word as in the English alphabet?",
-      "options": ["One", "Two", "Three", "More than three"],
+      "options": [
+        "Exactly one",
+        "Exactly two",
+        "Exactly three",
+        "More than three"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_036",
       "question": "Arrange the given words in alphabetical order and choose the one that comes first.",
-      "options": ["Science", "Scrutiny", "Scripture", "Scramble"],
+      "options": [
+        "Science",
+        "Scrutiny",
+        "Scripture",
+        "Scramble"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_037",
       "question": "If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code?",
-      "options": ["CPNCBX", "CPNCBZ", "CPOCBZ", "CQOCBZ"],
+      "options": [
+        "CPNCBX",
+        "CPNCBZ",
+        "CPOCBZ",
+        "CQOCBZ"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_038",
       "question": "In a certain code, TRIPPLE is written as SQHOOKD. How is DISPOSE written in that code?",
-      "options": ["CHRONRD", "DSOESPI", "CHONRSD", "ESJTPTF"],
+      "options": [
+        "CHRONRD",
+        "DSOESPI",
+        "CHONRSD",
+        "ESJTPTF"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_039",
       "question": "If FRIEND is coded as HUMJTK, how is CANDLE written in that code?",
-      "options": ["EDRIRL", "DCQHQK", "ESJFME", "FYOBOC"],
+      "options": [
+        "EDRIRL",
+        "DCQHQK",
+        "ESJFME",
+        "FYOBOC"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_040",
       "question": "Statement: All dogs are cats. Some cats are rats. Conclusion 1: Some dogs are rats. Conclusion 2: Some rats are cats.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_041",
       "question": "Statement: All pens are pencils. No pencil is an eraser. Conclusion 1: No pen is an eraser. Conclusion 2: Some pencils are pens.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
-      "correct_index": 2
+      "options": [
+        "Both 1 and 2 follow",
+        "Only 1 follows",
+        "Only 2 follows",
+        "Neither 1 nor 2 follows"
+      ],
+      "correct_index": 0
     },
     {
       "id": "vr_042",
       "question": "Statement: Some books are magazines. Some magazines are novels. Conclusion 1: Some books are novels. Conclusion 2: No book is a novel.",
-      "options": ["Only 1 follows", "Only 2 follows", "Either 1 or 2 follows", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Either 1 or 2 follows",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_043",
       "question": "Statement: All birds are trees. All trees are papers. Conclusion 1: All birds are papers. Conclusion 2: Some papers are birds.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
-      "correct_index": 2
+      "options": [
+        "Only 1 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows",
+        "Only 2 follows"
+      ],
+      "correct_index": 1
     },
     {
       "id": "vr_044",
       "question": "Statement: No man is a monkey. John is a man. Conclusion 1: John is not a monkey. Conclusion 2: John may or may not be a monkey.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_045",
       "question": "Find the next number in the series: 2, 5, 10, 17, 26, ...",
-      "options": ["35", "36", "37", "39"],
+      "options": [
+        "35",
+        "36",
+        "37",
+        "39"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_046",
       "question": "Find the missing number: 8, 27, 64, 125, ?",
-      "options": ["216", "225", "256", "343"],
+      "options": [
+        "216",
+        "225",
+        "256",
+        "343"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_047",
       "question": "If Z = 52 and ACT = 48, then BAT will be equal to",
-      "options": ["39", "41", "44", "46"],
+      "options": [
+        "39",
+        "41",
+        "44",
+        "46"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_048",
       "question": "Choose the word which is least like the other words in the group.",
-      "options": ["Curd", "Butter", "Oil", "Cheese"],
+      "options": [
+        "Curd",
+        "Butter",
+        "Oil",
+        "Cheese"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_049",
       "question": "Tree is to Root as Smoke is to?",
-      "options": ["Cigarette", "Fire", "Heat", "Chimney"],
+      "options": [
+        "Cigarette",
+        "Fire",
+        "Heat",
+        "Chimney"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_050",
       "question": "Good is to Bad as Roof is to?",
-      "options": ["Window", "Floor", "Walls", "Pillar"],
+      "options": [
+        "Window",
+        "Floor",
+        "Walls",
+        "Pillar"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_051",
       "question": "Clock is to Time as Thermometer is to?",
-      "options": ["Heat", "Radiation", "Energy", "Temperature"],
+      "options": [
+        "Heat",
+        "Radiation",
+        "Energy",
+        "Temperature"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_052",
       "question": "Illness is to Cure as Grief is to?",
-      "options": ["Consolation", "Sorrow", "Happiness", "Joy"],
+      "options": [
+        "Consolation",
+        "Sorrow",
+        "Happiness",
+        "Joy"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_053",
       "question": "Menu is to Food as Catalogue is to?",
-      "options": ["Rack", "Newspaper", "Library", "Books"],
+      "options": [
+        "Rack",
+        "Newspaper",
+        "Library",
+        "Books"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_054",
       "question": "Pulp is to Paper as Hemp is to?",
-      "options": ["Basket", "Yarn", "Rope", "Cotton"],
+      "options": [
+        "Basket",
+        "Yarn",
+        "Rope",
+        "Cotton"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_055",
       "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
-      "options": ["Grandmother", "Grandfather", "Daughter", "Granddaughter"],
+      "options": [
+        "Grandmother",
+        "Grandfather",
+        "Daughter",
+        "Granddaughter"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_056",
       "question": "Pointing to a person, a man said to a woman, 'His mother is the only daughter of your father.' How was the woman related to the person?",
-      "options": ["Aunt", "Mother", "Wife", "Daughter"],
+      "options": [
+        "Aunt",
+        "Mother",
+        "Wife",
+        "Daughter"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_057",
       "question": "Pointing to a photograph, a lady tells Ram, 'I am the only daughter of this lady and her son is your maternal uncle.' How is the speaker related to Ram's father?",
-      "options": ["Sister-in-law", "Wife", "Either of the two", "Neither of the two"],
+      "options": [
+        "Sister-in-law",
+        "Wife",
+        "Either of the two",
+        "Neither of the two"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_058",
       "question": "A man said to a lady, 'Your mother's husband's sister is my aunt.' How is the lady related to the man?",
-      "options": ["Daughter", "Granddaughter", "Mother", "Sister"],
+      "options": [
+        "Daughter",
+        "Granddaughter",
+        "Mother",
+        "Sister"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_059",
       "question": "If 'A $ B' means A is the father of B; 'A # B' means A is the sister of B; 'A * B' means A is the daughter of B, then how is P related to Q in P # R $ Q?",
-      "options": ["Aunt", "Sister", "Mother", "Niece"],
+      "options": [
+        "Aunt",
+        "Sister",
+        "Mother",
+        "Niece"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_060",
       "question": "A rat run 20 towards East and turns to right runs 10 and turns to right runs 9 and again turns to left runs 5 and then turns to left runs 12 and finally turns to left and runs 6. Now which direction is the rat facing?",
-      "options": ["East", "North", "West", "South"],
+      "options": [
+        "East",
+        "North",
+        "West",
+        "South"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_061",
       "question": "You go North, turn right, then right again and then go to the left. In which direction are you now?",
-      "options": ["North", "South", "East", "West"],
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_062",
       "question": "I am facing East. I turn 100 degrees in the clockwise direction and then 145 degrees in the anticlockwise direction. Which direction am I facing now?",
-      "options": ["East", "North-East", "North", "South-West"],
+      "options": [
+        "East",
+        "North-East",
+        "North",
+        "South-West"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_063",
       "question": "A river flows west to east and on the way turns left and goes in a semi-circle round a hillock, and then turns left at right angles. In which direction is the river finally flowing?",
-      "options": ["West", "East", "North", "South"],
+      "options": [
+        "West",
+        "East",
+        "North",
+        "South"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_064",
       "question": "Ravi is walking in the East direction. After covering a distance of 1 km, he turns 45 degrees left and then 90 degrees right. In which direction is he now?",
-      "options": ["North-East", "North-West", "South-East", "South-West"],
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_065",
       "question": "Find the odd one out.",
-      "options": ["Lake", "Sea", "River", "Pool"],
+      "options": [
+        "Lake",
+        "Sea",
+        "River",
+        "Pool"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_066",
       "question": "Which of the following does not belong?",
-      "options": ["Arrow", "Axe", "Knife", "Dagger"],
+      "options": [
+        "Arrow",
+        "Axe",
+        "Knife",
+        "Dagger"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_067",
       "question": "Choose the word which is different from the rest.",
-      "options": ["Rigveda", "Yajurveda", "Atharvaveda", "Ayurveda"],
+      "options": [
+        "Rigveda",
+        "Yajurveda",
+        "Atharvaveda",
+        "Ayurveda"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_068",
       "question": "Find the odd one out.",
-      "options": ["Centimeter", "Decimeter", "Kilometer", "Ounce"],
+      "options": [
+        "Centimeter",
+        "Decimeter",
+        "Kilometer",
+        "Ounce"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_069",
       "question": "Identify the odd word out.",
-      "options": ["Tortoise", "Duck", "Snake", "Whale"],
+      "options": [
+        "Tortoise",
+        "Duck",
+        "Snake",
+        "Whale"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_070",
       "question": "If the letters of the word 'CREATION' are rearranged as they appear in the English alphabet, the position of how many letters will remain unchanged?",
-      "options": ["None", "One", "Two", "Three"],
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_071",
       "question": "In the word 'PARADISE', how many pairs of letters have as many letters between them as in the alphabet?",
-      "options": ["One", "Two", "Three", "Four"],
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_072",
       "question": "If the first half of the English alphabet is reversed and then the second half is reversed, which letter will be 7th to the right of the 12th letter from the left?",
-      "options": ["U", "V", "W", "X"],
+      "options": [
+        "U",
+        "V",
+        "W",
+        "X"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_073",
       "question": "Which word cannot be formed using the letters of the word 'RECREATION'?",
-      "options": ["RATION", "ACTION", "TORN", "REFER"],
+      "options": [
+        "RATION",
+        "ACTION",
+        "TORN",
+        "REFER"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_074",
       "question": "If E = 5 and HOTEL = 60, how will you code LAMB?",
-      "options": ["28", "26", "24", "30"],
+      "options": [
+        "28",
+        "26",
+        "24",
+        "30"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_075",
       "question": "Statement: Some actors are singers. All the singers are dancers. Conclusion 1: Some actors are dancers. Conclusion 2: No singer is actor.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_076",
       "question": "Statement: All harmoniums are instruments. All instruments are flutes. Conclusion 1: All flutes are instruments. Conclusion 2: All harmoniums are flutes.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_077",
       "question": "Statement: Some ants are parrots. All the parrots are apples. Conclusion 1: All the apples are parrots. Conclusion 2: Some ants are apples.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_078",
       "question": "Statement: Some papers are pens. All the pencils are pens. Conclusion 1: Some pens are pencils. Conclusion 2: Some pens are papers.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
-      "correct_index": 2
+      "options": [
+        "Only 2 follows",
+        "Only 1 follows",
+        "Neither 1 nor 2 follows",
+        "Both 1 and 2 follow"
+      ],
+      "correct_index": 3
     },
     {
       "id": "vr_079",
       "question": "Statement: No door is dog. All the dogs are cats. Conclusion 1: No door is cat. Conclusion 2: No cat is door. Conclusion 3: Some cats are dogs.",
-      "options": ["Only 1 and 2 follow", "Only 3 follows", "All follow", "None follows"],
+      "options": [
+        "Only 1 and 2 follow",
+        "Only 3 follows",
+        "All follow",
+        "None follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_080",
       "question": "Choose the correct alternative: BDF, CFI, DHL, _______",
-      "options": ["EIM", "EJO", "CJL", "EMI"],
+      "options": [
+        "EIM",
+        "EJO",
+        "CJL",
+        "EMI"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_081",
       "question": "Find the missing term: 1, 9, 25, 49, ?, 121",
-      "options": ["64", "81", "91", "100"],
+      "options": [
+        "64",
+        "81",
+        "91",
+        "100"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_082",
       "question": "Which word is the odd man out?",
-      "options": ["Trivial", "Insignificant", "Important", "Unimportant"],
+      "options": [
+        "Trivial",
+        "Insignificant",
+        "Important",
+        "Unimportant"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_083",
       "question": "Cobbler is to Shoe as Contractor is to?",
-      "options": ["Building", "Brick", "Money", "Work"],
+      "options": [
+        "Building",
+        "Brick",
+        "Money",
+        "Work"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_084",
       "question": "Heart is to Cardiologist as Kidney is to?",
-      "options": ["Endocrinologist", "Orthopedist", "Nephrologist", "Neurologist"],
+      "options": [
+        "Endocrinologist",
+        "Orthopedist",
+        "Nephrologist",
+        "Neurologist"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_085",
       "question": "Breeze is to Cyclone as Drizzle is to?",
-      "options": ["Earthquake", "Storm", "Flood", "Downpour"],
+      "options": [
+        "Earthquake",
+        "Storm",
+        "Flood",
+        "Downpour"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_086",
       "question": "Palaeontology is to Fossil as Phrenology is to?",
-      "options": ["Pancreas", "Thyroid", "Lungs", "Skull"],
+      "options": [
+        "Pancreas",
+        "Thyroid",
+        "Lungs",
+        "Skull"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_087",
       "question": "A is the uncle of B, who is the daughter of C. How is A related to C?",
-      "options": ["Brother", "Son", "Father", "Nephew"],
+      "options": [
+        "Brother",
+        "Son",
+        "Father",
+        "Nephew"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_088",
       "question": "Pointing to a lady, a man said, 'The son of her only brother is the brother of my wife.' How is the lady related to the man?",
-      "options": ["Mother's sister", "Grandmother", "Mother-in-law", "Sister of father-in-law"],
+      "options": [
+        "Mother's sister",
+        "Grandmother",
+        "Mother-in-law",
+        "Sister of father-in-law"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_089",
       "question": "Q's mother is sister of P and daughter of M. S is daughter of P and sister of T. How is M related to T?",
-      "options": ["Grandmother", "Father", "Grandfather", "Grandmother or Grandfather"],
+      "options": [
+        "Grandmother",
+        "Father",
+        "Grandfather",
+        "Grandmother or Grandfather"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_090",
       "question": "If P is the husband of Q and R is the mother of S and Q, what is R to P?",
-      "options": ["Mother", "Sister", "Aunt", "Mother-in-law"],
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Mother-in-law"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_091",
       "question": "A watch reads 4.30. If the minute hand points East, in what direction will the hour hand point?",
-      "options": ["North", "North-West", "South-East", "North-East"],
+      "options": [
+        "North",
+        "North-West",
+        "South-East",
+        "North-East"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_092",
       "question": "A man leaves for his office from his house. He walks towards East. After moving a distance of 20 m, he turns South and walks 10 m. Then he walks 35 m towards the West and further 5 m towards the North. He then turns towards East and walks 15 m. What is the straight distance in meters between his initial and final positions?",
-      "options": ["0 m", "5 m", "10 m", "Cannot be determined"],
+      "options": [
+        "0 m",
+        "5 m",
+        "10 m",
+        "Cannot be determined"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_093",
       "question": "Village Q is to the North of village P. Village R is in the East of Village Q. Village S is to the left of village P. In which direction is village S with respect to village R?",
-      "options": ["West", "South-West", "South", "North-West"],
+      "options": [
+        "West",
+        "South-West",
+        "South",
+        "North-West"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_094",
       "question": "Identify the odd one.",
-      "options": ["Hangar", "Platform", "Dock", "Park"],
+      "options": [
+        "Hangar",
+        "Platform",
+        "Dock",
+        "Park"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_095",
       "question": "Find the odd one out.",
-      "options": ["Square", "Rectangle", "Cylinder", "Triangle"],
+      "options": [
+        "Square",
+        "Rectangle",
+        "Cylinder",
+        "Triangle"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_096",
       "question": "Which of the following does not belong to the group?",
-      "options": ["Gallon", "Ton", "Quintal", "Kilogram"],
+      "options": [
+        "Gallon",
+        "Ton",
+        "Quintal",
+        "Kilogram"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_097",
       "question": "If the letters of the word 'OBSCURE' are arranged alphabetically, which letter will be in the middle?",
-      "options": ["R", "O", "S", "C"],
+      "options": [
+        "R",
+        "O",
+        "S",
+        "C"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_098",
       "question": "In a certain code language, '123' means 'hot filtered coffee', '356' means 'very hot day' and '589' means 'day and night'. Which digit stands for 'very'?",
-      "options": ["5", "6", "8", "9"],
+      "options": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_099",
       "question": "Statement: All water is liquid. All liquid is solid. Conclusion 1: All water is solid. Conclusion 2: Some solid is water.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Neither 1 nor 2 follows",
+        "Both 1 and 2 follow",
+        "Only 2 follows"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_100",
       "question": "Statement: Some phones are computers. No computer is a television. Conclusion 1: Some phones are not televisions. Conclusion 2: No phone is a television.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_101",
       "question": "Cattle is to Herd as Sheep is to?",
-      "options": ["Flock", "Swarm", "Shoal", "Mob"],
+      "options": [
+        "Flock",
+        "Swarm",
+        "Shoal",
+        "Mob"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_102",
       "question": "Moon is to Satellite as Earth is to?",
-      "options": ["Sun", "Planet", "Solar System", "Asteroid"],
+      "options": [
+        "Sun",
+        "Planet",
+        "Solar System",
+        "Asteroid"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_103",
       "question": "Pointing to a man in a photograph, a woman said, 'His brother's father is the only son of my grandfather.' How is the woman related to the man in the photograph?",
-      "options": ["Mother", "Aunt", "Sister", "Daughter"],
+      "options": [
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Daughter"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_104",
       "question": "X says to Y, 'You are the son of my grandfather's only son.' How is X related to Y?",
-      "options": ["Brother", "Sister", "Brother or Sister", "Cousin"],
+      "options": [
+        "Brother",
+        "Sister",
+        "Brother or Sister",
+        "Cousin"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_105",
       "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
-      "options": ["North-East", "North-West", "South-East", "South-West"],
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_106",
       "question": "A person starts from his house and travels 8 m towards West; then he travels 6 m towards his left, then 8 m towards West and then 4 m towards South. Finally, he turns right and travels 5 m. What is the horizontal distance travelled by him?",
-      "options": ["10 m", "21 m", "16 m", "20 m"],
+      "options": [
+        "10 m",
+        "21 m",
+        "16 m",
+        "20 m"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_107",
       "question": "Choose the odd one out.",
-      "options": ["Tomato", "Potato", "Onion", "Carrot"],
+      "options": [
+        "Tomato",
+        "Potato",
+        "Onion",
+        "Carrot"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_108",
       "question": "Which word does not belong?",
-      "options": ["Physics", "Chemistry", "Biology", "Geography"],
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Geography"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_109",
       "question": "If ACNE is coded as 3, 7, 29, 11, then BOIL will be coded as:",
-      "options": ["5, 29, 19, 25", "5, 31, 21, 25", "5, 31, 19, 25", "5, 29, 19, 27"],
+      "options": [
+        "5, 29, 19, 25",
+        "5, 31, 21, 25",
+        "5, 31, 19, 25",
+        "5, 29, 19, 27"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_110",
       "question": "Statement: No women teacher can play. Some women teachers are athletes. Conclusion 1: Male athletes can play. Conclusion 2: Some athletes can play.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_111",
       "question": "Glove is to Hand as Shoe is to?",
-      "options": ["Socks", "Foot", "Leg", "Tie"],
+      "options": [
+        "Socks",
+        "Foot",
+        "Leg",
+        "Tie"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_112",
       "question": "Day is to Night as White is to?",
-      "options": ["Color", "Black", "Grey", "Bright"],
+      "options": [
+        "Color",
+        "Black",
+        "Grey",
+        "Bright"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_113",
       "question": "Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son. Brothers and sisters I have none.' At whose portrait was Harsh looking?",
-      "options": ["His son", "His cousin", "His uncle", "His nephew"],
+      "options": [
+        "His son",
+        "His cousin",
+        "His uncle",
+        "His nephew"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_114",
       "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
-      "options": ["Nephew", "Son", "Cousin", "Uncle"],
+      "options": [
+        "Nephew",
+        "Son",
+        "Cousin",
+        "Uncle"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_115",
       "question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
-      "options": ["North", "South", "South-East", "South-West"],
+      "options": [
+        "North",
+        "South",
+        "South-East",
+        "South-West"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_116",
       "question": "Rohit walked 25 metres towards South. Then he turned to his left and walked 20 metres. He then turned to his left and walked 25 metres. He again turned to his right and walked 15 metres. At what distance is he from the starting point and in which direction?",
-      "options": ["35 metres East", "35 metres North", "40 metres East", "60 metres East"],
+      "options": [
+        "35 metres East",
+        "35 metres North",
+        "40 metres East",
+        "60 metres East"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_117",
       "question": "Find the odd word.",
-      "options": ["Ear", "Lung", "Eye", "Heart"],
+      "options": [
+        "Ear",
+        "Lung",
+        "Eye",
+        "Heart"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_118",
       "question": "Find the odd one out.",
-      "options": ["Rigid", "Firm", "Stiff", "Flexible"],
+      "options": [
+        "Rigid",
+        "Firm",
+        "Stiff",
+        "Flexible"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_119",
       "question": "If MENTAL is written as LNDOMSUZBK, then how would TEST be written?",
-      "options": ["SUVFTDUS", "RSFQRSSU", "SUDFQRSU", "SUDQRSFU"],
+      "options": [
+        "SUVFTDUS",
+        "RSFQRSSU",
+        "SUDFQRSU",
+        "SUDQRSFU"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_120",
       "question": "Statement: Some bags are pockets. No pocket is a pouch. Conclusion 1: No bag is a pouch. Conclusion 2: Some bags are not pouches.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_121",
       "question": "Ice is to Coldness as Earth is to?",
-      "options": ["Weight", "Jungle", "Gravity", "Sea"],
+      "options": [
+        "Weight",
+        "Jungle",
+        "Gravity",
+        "Sea"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_122",
       "question": "Parts is to Strap as Wolf is to?",
-      "options": ["Flow", "Animal", "Wood", "Fox"],
+      "options": [
+        "Flow",
+        "Animal",
+        "Wood",
+        "Fox"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_123",
       "question": "Pointing to a boy in the photograph, Reena said, 'He is the only son of the only child of my grandfather.' How is Reena related to that boy?",
-      "options": ["Mother", "Sister", "Aunt", "Cannot be determined"],
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Cannot be determined"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_124",
       "question": "Given that 1. A is the brother of B, 2. C is the father of A, 3. D is the brother of E, 4. E is the daughter of B. Then, the uncle of D is?",
-      "options": ["A", "B", "C", "E"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_125",
       "question": "From his house, Lokesh went 15 km to the North. Then he turned west and covered 10 km. Then he turned south and covered 5 km. Finally turning to the east, he covered 10 km. In which direction is he from his house?",
-      "options": ["East", "West", "North", "South"],
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_126",
       "question": "A child is looking for his father. He went 90 meters in the east before turning to his right. He went 20 meters before turning to his right again to look for his father at his uncle's place 30 meters from this point. His father was not there. From there, he went 100 meters to his north before meeting his father in a street. How far did the son meet his father from the starting point?",
-      "options": ["80 m", "100 m", "140 m", "260 m"],
+      "options": [
+        "80 m",
+        "100 m",
+        "140 m",
+        "260 m"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_127",
       "question": "Identify the odd word.",
-      "options": ["Ring", "Tyre", "Plate", "Bangle"],
+      "options": [
+        "Ring",
+        "Tyre",
+        "Plate",
+        "Bangle"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_128",
       "question": "Which is the odd one out?",
-      "options": ["Steal", "Rob", "Extort", "Kidnap"],
+      "options": [
+        "Steal",
+        "Rob",
+        "Extort",
+        "Kidnap"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_129",
       "question": "If C = 3 and FEAR = 30, then what will be the code number for HAIR?",
-      "options": ["35", "36", "30", "33"],
+      "options": [
+        "35",
+        "36",
+        "30",
+        "33"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_130",
       "question": "Statement: All politicians are honest. All honest are fair. Conclusion 1: Some honest are politicians. Conclusion 2: No honest is politician.",
-      "options": ["Only 1 follows", "Only 2 follows", "Either 1 or 2 follows", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Either 1 or 2 follows",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_131",
       "question": "Car is to Garage as Aeroplane is to?",
-      "options": ["Port", "Depot", "Hangar", "Harbour"],
+      "options": [
+        "Port",
+        "Depot",
+        "Hangar",
+        "Harbour"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_132",
       "question": "Race is to Fatigue as Fast is to?",
-      "options": ["Food", "Appetite", "Hunger", "Weakness"],
+      "options": [
+        "Food",
+        "Appetite",
+        "Hunger",
+        "Weakness"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_133",
       "question": "Pointing towards a person, a man said to a woman, 'His mother is the only daughter of your father.' How is the woman related to that person?",
-      "options": ["Daughter", "Sister", "Mother", "Wife"],
+      "options": [
+        "Daughter",
+        "Sister",
+        "Mother",
+        "Wife"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_134",
       "question": "A man pointing to a photograph says, 'The lady in the photograph is my nephew's maternal grandmother.' How is the lady in the photograph related to the man's sister who has no other sister?",
-      "options": ["Mother", "Cousin", "Mother-in-law", "Sister-in-law"],
+      "options": [
+        "Mother",
+        "Cousin",
+        "Mother-in-law",
+        "Sister-in-law"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_135",
       "question": "A directional post is erected on a crossing. Due to heavy rain, the post turned such that the pointer which was showing East is now showing South. A traveler went in the wrong direction thinking it to be West. In what direction is he actually travelling?",
-      "options": ["North", "South", "East", "West"],
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_136",
       "question": "A goes on a picnic and meets a woman B who is the sister of A's wife. How is B related to A?",
-      "options": ["Sister", "Sister-in-law", "Brother", "Brother-in-law"],
+      "options": [
+        "Sister",
+        "Sister-in-law",
+        "Brother",
+        "Brother-in-law"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_137",
       "question": "Choose the odd one out.",
-      "options": ["Meter", "Yard", "Acre", "Mile"],
+      "options": [
+        "Meter",
+        "Yard",
+        "Acre",
+        "Mile"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_138",
       "question": "Find the odd word.",
-      "options": ["Violin", "Sitar", "Guitar", "Flute"],
+      "options": [
+        "Violin",
+        "Sitar",
+        "Guitar",
+        "Flute"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_139",
       "question": "If BOMBAY is written as MYMYMY, how will TAMIL NADU be written in that code?",
-      "options": ["TIATIATIA", "MNUMNUMNU", "IATIATIAT", "ALDALDALD"],
+      "options": [
+        "TIATIATIA",
+        "MNUMNUMNU",
+        "IATIATIAT",
+        "ALDALDALD"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_140",
       "question": "Statement: Some tigers are cats. All cats are rats. Conclusion 1: All rats are cats. Conclusion 2: Some tigers are rats.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_141",
       "question": "Lion is to Den as Rabbit is to?",
-      "options": ["Trench", "Hole", "Pit", "Burrow"],
+      "options": [
+        "Trench",
+        "Hole",
+        "Pit",
+        "Burrow"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_142",
       "question": "Book is to Publisher as Film is to?",
-      "options": ["Producer", "Director", "Editor", "Writer"],
+      "options": [
+        "Producer",
+        "Director",
+        "Editor",
+        "Writer"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_143",
       "question": "If A is the brother of B; C is the father of A; D is the brother of E; E is the daughter of B. Then who is the uncle of D?",
-      "options": ["A", "B", "C", "E"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_144",
       "question": "P is the brother of Q and R. S is R's mother. T is P's father. Which of the following statements cannot be definitely true?",
-      "options": ["T is Q's father", "S is P's mother", "P is S's son", "Q is T's son"],
+      "options": [
+        "T is Q's father",
+        "S is P's mother",
+        "P is S's son",
+        "Q is T's son"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_145",
       "question": "One evening before sunset Rekha and Hema were talking to each other face to face. If Hema's shadow was exactly to the right of Hema, which direction was Rekha facing?",
-      "options": ["North", "South", "East", "Data is inadequate"],
+      "options": [
+        "North",
+        "South",
+        "East",
+        "Data is inadequate"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_146",
       "question": "A boy rides his bicycle 10 km towards North, then turns left and rides 5 km, then turns left and rides 10 km. How far is he from his starting point?",
-      "options": ["5 km", "10 km", "15 km", "20 km"],
+      "options": [
+        "5 km",
+        "10 km",
+        "15 km",
+        "20 km"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_147",
       "question": "Find the odd one out.",
-      "options": ["Carrot", "Radish", "Potato", "Brinjal"],
+      "options": [
+        "Carrot",
+        "Radish",
+        "Potato",
+        "Brinjal"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_148",
       "question": "Identify the odd word out.",
-      "options": ["Iron", "Mercury", "Copper", "Zinc"],
+      "options": [
+        "Iron",
+        "Mercury",
+        "Copper",
+        "Zinc"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_149",
       "question": "If in a code language, COULD is written as BNTKC and MARGIN is written as LZQFHM, how will MOULDING be written in that code?",
-      "options": ["CHMFINTK", "LNKTCHMF", "LNTKCHMF", "NITKHCMF"],
+      "options": [
+        "CHMFINTK",
+        "LNKTCHMF",
+        "LNTKCHMF",
+        "NITKHCMF"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_150",
       "question": "Statement: All flowers are trees. No tree is a house. Conclusion 1: No flower is a house. Conclusion 2: Some trees are flowers.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
-      "correct_index": 2
+      "options": [
+        "Neither 1 nor 2 follows",
+        "Both 1 and 2 follow",
+        "Only 2 follows",
+        "Only 1 follows"
+      ],
+      "correct_index": 1
     },
     {
       "id": "vr_151",
       "question": "Mirror is to Reflection as Water is to?",
-      "options": ["Conduction", "Dispersion", "Immersion", "Refraction"],
+      "options": [
+        "Conduction",
+        "Dispersion",
+        "Immersion",
+        "Refraction"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_152",
       "question": "Water is to Oxygen as Salt is to?",
-      "options": ["Sodium", "Calcium", "Iron", "Iodine"],
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Iron",
+        "Iodine"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_153",
       "question": "Pointing to a man, a woman said, 'He is the brother of my uncle's daughter.' How is the man related to the woman?",
-      "options": ["Cousin", "Brother", "Nephew", "Uncle"],
+      "options": [
+        "Cousin",
+        "Brother",
+        "Nephew",
+        "Uncle"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_154",
       "question": "If 'P 3 Q' means 'P is daughter of Q', 'P 5 Q' means 'P is father of Q', 'P 7 Q' means 'P is mother of Q', and 'P 9 Q' means 'P is sister of Q', then how is J related to K in 'J 3 L 9 N 3 O 5 K'?",
-      "options": ["Niece", "Sister", "Mother", "Wife"],
+      "options": [
+        "Niece",
+        "Sister",
+        "Mother",
+        "Wife"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_155",
       "question": "I am facing South. I turn right and walk 20 m. Then I turn right again and walk 10 m. Then I turn left and walk 10 m and then turning right walk 20 m. Then I turn right again and walk 60 m. In which direction am I from the starting point?",
-      "options": ["North", "North-West", "North-East", "East"],
+      "options": [
+        "North",
+        "North-West",
+        "North-East",
+        "East"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_156",
       "question": "A man walks 30 metres towards South. Then, turning to his right, he walks 30 metres. Then, turning to his left, he walks 20 metres. Again, he turns to his left and walks 30 metres. How far is he from his initial position?",
-      "options": ["20 metres", "30 metres", "50 metres", "60 metres"],
+      "options": [
+        "20 metres",
+        "30 metres",
+        "50 metres",
+        "60 metres"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_157",
       "question": "Choose the odd one out.",
-      "options": ["Triangle", "Square", "Hexagon", "Circle"],
+      "options": [
+        "Triangle",
+        "Square",
+        "Hexagon",
+        "Circle"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_158",
       "question": "Find the odd word.",
-      "options": ["Listen", "Feel", "Think", "Sing"],
+      "options": [
+        "Listen",
+        "Feel",
+        "Think",
+        "Sing"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_159",
       "question": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
-      "options": ["QDFHS", "SDFHS", "SHFDQ", "UJHFS"],
+      "options": [
+        "QDFHS",
+        "SDFHS",
+        "SHFDQ",
+        "UJHFS"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_160",
       "question": "Statement: Some dogs are bats. Some bats are cats. Conclusion 1: Some dogs are cats. Conclusion 2: Some cats are dogs.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_161",
       "question": "Doctor is to Patient as Lawyer is to?",
-      "options": ["Customer", "Client", "Accused", "Magistrate"],
+      "options": [
+        "Customer",
+        "Client",
+        "Accused",
+        "Magistrate"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_162",
       "question": "Ignorance is to Education as Disease is to?",
-      "options": ["Hospital", "Medicine", "Doctor", "Nurse"],
+      "options": [
+        "Hospital",
+        "Medicine",
+        "Doctor",
+        "Nurse"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_163",
       "question": "A man said to a lady, 'The son of your only brother is the brother of my wife.' What is the lady to the man?",
-      "options": ["Mother", "Sister", "Sister of father-in-law", "Grandmother"],
+      "options": [
+        "Mother",
+        "Sister",
+        "Sister of father-in-law",
+        "Grandmother"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_164",
       "question": "C is wife of B, E is the son of C, A is the brother of B and father of D. What is the relationship of E to D?",
-      "options": ["Mother", "Sister", "Cousin", "Brother"],
+      "options": [
+        "Mother",
+        "Sister",
+        "Cousin",
+        "Brother"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_165",
       "question": "From a point, Rajneesh started walking towards East and walked 35 m. He then turned to his right and walked 20 m and he again turned to right and walked 35 m. Finally, he turned to his left and walked 20 m and reached his destination. Now, how far is he from the starting point?",
-      "options": ["20 m", "50 m", "55 m", "40 m"],
+      "options": [
+        "20 m",
+        "50 m",
+        "55 m",
+        "40 m"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_166",
       "question": "A rat run 20 towards East and turns to right runs 10 and turns to right runs 9 and again turns to left runs 5 and then turns to left runs 12 and finally turns to left and runs 6. Now what direction is the rat facing?",
-      "options": ["East", "West", "North", "South"],
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_167",
       "question": "Find the odd one out.",
-      "options": ["Gold", "Silver", "Diamond", "Platinum"],
+      "options": [
+        "Gold",
+        "Silver",
+        "Diamond",
+        "Platinum"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_168",
       "question": "Which word is the odd one out?",
-      "options": ["Eye", "Ear", "Nose", "Brain"],
+      "options": [
+        "Eye",
+        "Ear",
+        "Nose",
+        "Brain"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_169",
       "question": "If NOIDA is written as OPJEB, then what will be the code for DELHI?",
-      "options": ["EFMIJ", "EFMIK", "EFMHJ", "EFMIJ"],
+      "options": [
+        "EFMIJ",
+        "EFMIK",
+        "EFMHJ",
+        "EFMIJ"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_170",
       "question": "Statement: All cars are cats. All fans are cats. Conclusion 1: All cars are fans. Conclusion 2: Some fans are cars.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_171",
       "question": "Poverty is to Prosperity as Intelligence is to?",
-      "options": ["Stupidity", "Knowledge", "Sorrow", "Power"],
+      "options": [
+        "Stupidity",
+        "Knowledge",
+        "Sorrow",
+        "Power"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_172",
       "question": "Horse is to Jockey as Car is to?",
-      "options": ["Mechanic", "Chauffeur", "Steering", "Brake"],
+      "options": [
+        "Mechanic",
+        "Chauffeur",
+        "Steering",
+        "Brake"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_173",
       "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
-      "options": ["Grandmother", "Mother", "Sister", "Aunt"],
+      "options": [
+        "Grandmother",
+        "Mother",
+        "Sister",
+        "Aunt"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_174",
       "question": "A is the father of B, but B is not his son. How is B related to A?",
-      "options": ["Niece", "Daughter", "Nephew", "Wife"],
+      "options": [
+        "Niece",
+        "Daughter",
+        "Nephew",
+        "Wife"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_175",
       "question": "X walked 35m towards South, then turned left and walked 25m, and again turned left and walked 35m. He then turned to his right and walked 20m. At what distance and direction from the starting point is X now?",
-      "options": ["45m East", "45m West", "55m East", "55m West"],
+      "options": [
+        "45m East",
+        "45m West",
+        "55m East",
+        "55m West"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_176",
       "question": "If you start from point A and walk 5 miles towards the West, then turn left and walk 3 miles, then turn left again and walk 5 miles, how far are you from the starting point?",
-      "options": ["3 miles", "5 miles", "8 miles", "13 miles"],
+      "options": [
+        "3 miles",
+        "5 miles",
+        "8 miles",
+        "13 miles"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_177",
       "question": "Find the odd one out.",
-      "options": ["Snake", "Lizard", "Turtle", "Whale"],
+      "options": [
+        "Snake",
+        "Lizard",
+        "Turtle",
+        "Whale"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_178",
       "question": "Choose the word which is different from the rest.",
-      "options": ["Tea", "Cinchona", "Rubber", "Chalk"],
+      "options": [
+        "Tea",
+        "Cinchona",
+        "Rubber",
+        "Chalk"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_179",
       "question": "If MACHINE is coded as 19-7-9-14-15-20-11, how will you code DANGER?",
-      "options": ["10-7-20-13-11-24", "11-7-20-16-11-24", "13-7-20-9-11-25", "10-7-20-14-11-24"],
+      "options": [
+        "10-7-20-13-11-24",
+        "11-7-20-16-11-24",
+        "13-7-20-9-11-25",
+        "10-7-20-14-11-24"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_180",
       "question": "Statement: Some tables are glasses. All trees are tables. Conclusion 1: Some trees are glasses. Conclusion 2: Some glasses are trees.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Both 1 and 2 follow",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_181",
       "question": "Bank is to Money as Transport is to?",
-      "options": ["Goods", "Road", "Movement", "Traffic"],
+      "options": [
+        "Goods",
+        "Road",
+        "Movement",
+        "Traffic"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_182",
       "question": "Ocean is to Water as Glacier is to?",
-      "options": ["Cooling", "Cave", "Ice", "Mountain"],
+      "options": [
+        "Cooling",
+        "Cave",
+        "Ice",
+        "Mountain"
+      ],
       "correct_index": 2
     },
     {
       "id": "vr_183",
       "question": "Introducing a boy, a girl said, 'He is the son of the daughter of the father of my uncle.' How is the boy related to the girl?",
-      "options": ["Brother", "Nephew", "Uncle", "Son-in-law"],
+      "options": [
+        "Brother",
+        "Nephew",
+        "Uncle",
+        "Son-in-law"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_184",
       "question": "Pointing to a photograph, a person tells his friend, 'She is the granddaughter of the elder brother of my father.' How is the girl in the photograph related to this man?",
-      "options": ["Niece", "Sister", "Aunt", "Sister-in-law"],
+      "options": [
+        "Niece",
+        "Sister",
+        "Aunt",
+        "Sister-in-law"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_185",
       "question": "A watch reads 9:00. If the minute hand points North, in what direction will the hour hand point?",
-      "options": ["South", "West", "East", "North-West"],
+      "options": [
+        "South",
+        "West",
+        "East",
+        "North-West"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_186",
       "question": "A man is facing West. He turns 45 degrees in the clockwise direction and then another 180 degrees in the same direction and then 270 degrees in the anticlockwise direction. Which direction is he facing now?",
-      "options": ["South", "North-West", "West", "South-West"],
+      "options": [
+        "South",
+        "North-West",
+        "West",
+        "South-West"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_187",
       "question": "Find the odd word.",
-      "options": ["Sorrow", "Joy", "Anxiety", "Anger"],
+      "options": [
+        "Sorrow",
+        "Joy",
+        "Anxiety",
+        "Anger"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_188",
       "question": "Identify the odd one.",
-      "options": ["Volcano", "Earthquake", "Tsunami", "Global Warming"],
+      "options": [
+        "Volcano",
+        "Earthquake",
+        "Tsunami",
+        "Global Warming"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_189",
       "question": "In a code, CORNER is written as GSVRIV. How can CENTRAL be written in that code?",
-      "options": ["DFOUSBM", "GIRXVEP", "GJRYVEP", "GIRXWEP"],
+      "options": [
+        "DFOUSBM",
+        "GIRXVEP",
+        "GJRYVEP",
+        "GIRXWEP"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_190",
       "question": "Statement: All windows are doors. No door is a wall. Conclusion 1: No window is a wall. Conclusion 2: No wall is a door.",
-      "options": ["Only 1 follows", "Only 2 follows", "Both 1 and 2 follow", "Neither 1 nor 2 follows"],
-      "correct_index": 2
+      "options": [
+        "Only 2 follows",
+        "Neither 1 nor 2 follows",
+        "Only 1 follows",
+        "Both 1 and 2 follow"
+      ],
+      "correct_index": 3
     },
     {
       "id": "vr_191",
       "question": "Needle is to Thread as Pen is to?",
-      "options": ["Ink", "Cap", "Paper", "Word"],
+      "options": [
+        "Ink",
+        "Cap",
+        "Paper",
+        "Word"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_192",
       "question": "Import is to Export as Expenditure is to?",
-      "options": ["Deficit", "Revenue", "Debt", "Tax"],
+      "options": [
+        "Deficit",
+        "Revenue",
+        "Debt",
+        "Tax"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_193",
       "question": "A is the mother of B, B is the sister of C, C is the father of D. How is A related to D?",
-      "options": ["Grandmother", "Aunt", "Sister", "Mother"],
+      "options": [
+        "Grandmother",
+        "Aunt",
+        "Sister",
+        "Mother"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_194",
-      "question": "P is the brother of Q and R. S is R's mother. T is P's father. Which of the following is absolutely true?",
-      "options": ["T is Q's father", "S is P's mother", "P is S's son", "All of the above"],
-      "correct_index": 3
+      "question": "P is the brother of Q and R. S is R's mother. T is P's father. Which single statement is definitely true?",
+      "options": [
+        "T is Q's father",
+        "S is P's mother",
+        "P is S's son",
+        "T is P's brother"
+      ],
+      "correct_index": 0
     },
     {
       "id": "vr_195",
       "question": "Raju is facing North. He goes 30 metres ahead and turns left and goes for 15 metres. Now he turns right and goes for 50 metres, and finally turns to his right and walks. In which direction is he heading?",
-      "options": ["North", "East", "South", "West"],
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_196",
       "question": "A person goes 2 km towards North, then turns right and goes 1 km, then turns right again and goes 2 km. In which direction is he from his starting point?",
-      "options": ["East", "West", "North", "South"],
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_197",
       "question": "Choose the word which is different.",
-      "options": ["Bake", "Peel", "Boil", "Roast"],
+      "options": [
+        "Bake",
+        "Peel",
+        "Boil",
+        "Roast"
+      ],
       "correct_index": 1
     },
     {
       "id": "vr_198",
       "question": "Find the odd one out.",
-      "options": ["Square", "Rhombus", "Rectangle", "Circle"],
+      "options": [
+        "Square",
+        "Rhombus",
+        "Rectangle",
+        "Circle"
+      ],
       "correct_index": 3
     },
     {
       "id": "vr_199",
       "question": "If FISH is written as EHRG in a certain code, how would JUNGLE be written in that code?",
-      "options": ["ITMFKD", "KVOHMF", "ITNFKD", "KTMDKF"],
+      "options": [
+        "ITMFKD",
+        "KVOHMF",
+        "ITNFKD",
+        "KTMDKF"
+      ],
       "correct_index": 0
     },
     {
       "id": "vr_200",
       "question": "Statement: Some pins are clips. Some clips are pens. Conclusion 1: Some pins are pens. Conclusion 2: No pin is a pen.",
-      "options": ["Only 1 follows", "Only 2 follows", "Either 1 or 2 follows", "Neither 1 nor 2 follows"],
+      "options": [
+        "Only 1 follows",
+        "Only 2 follows",
+        "Either 1 or 2 follows",
+        "Neither 1 nor 2 follows"
+      ],
       "correct_index": 2
     }
   ]
 }
-

@@ -8,1225 +8,2100 @@
       "id": "gk_001",
       "category": "Music",
       "question": "The first gold record ever awarded was given to which artist in 1942?",
-      "options": ["Frank Sinatra", "Glenn Miller", "Bing Crosby", "Elvis Presley"],
+      "options": [
+        "Frank Sinatra",
+        "Glenn Miller",
+        "Bing Crosby",
+        "Elvis Presley"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_002",
       "category": "Music",
       "question": "Mariah Carey has had a Billboard No. 1 hit in each of the last how many decades?",
-      "options": ["4", "5", "3", "2"],
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_003",
       "category": "Music",
       "question": "Which singer holds the record for the most Grammy Awards won by any artist?",
-      "options": ["Adele", "Taylor Swift", "Beyoncé", "Quincy Jones"],
+      "options": [
+        "Adele",
+        "Taylor Swift",
+        "Beyoncé",
+        "Quincy Jones"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_004",
       "category": "Music",
       "question": "The Beatles were originally from which city in England?",
-      "options": ["London", "Manchester", "Liverpool", "Birmingham"],
+      "options": [
+        "London",
+        "Manchester",
+        "Liverpool",
+        "Birmingham"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_005",
       "category": "Music",
       "question": "What instrument does a 'luthier' make or repair?",
-      "options": ["Pianos", "Drums", "Stringed instruments", "Wind instruments"],
+      "options": [
+        "Pianos",
+        "Drums",
+        "Stringed instruments",
+        "Wind instruments"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_006",
       "category": "Music",
       "question": "Which artist's 'Thriller' is the best-selling album of all time?",
-      "options": ["Prince", "Michael Jackson", "Madonna", "Whitney Houston"],
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "Madonna",
+        "Whitney Houston"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_007",
       "category": "Music",
       "question": "Which country does the music genre 'Afrobeats' primarily originate from?",
-      "options": ["Ghana", "South Africa", "Nigeria", "Senegal"],
+      "options": [
+        "Ghana",
+        "South Africa",
+        "Nigeria",
+        "Senegal"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_008",
       "category": "Music",
       "question": "Bob Marley was a pioneer of which music genre?",
-      "options": ["Calypso", "Dancehall", "Soca", "Reggae"],
+      "options": [
+        "Calypso",
+        "Dancehall",
+        "Soca",
+        "Reggae"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_009",
       "category": "Music",
       "question": "How many strings does a standard guitar have?",
-      "options": ["4", "5", "6", "7"],
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_010",
       "category": "Music",
       "question": "Which musician is known as the 'King of Blues'?",
-      "options": ["B.B. King", "Robert Johnson", "Muddy Waters", "John Lee Hooker"],
+      "options": [
+        "B.B. King",
+        "Robert Johnson",
+        "Muddy Waters",
+        "John Lee Hooker"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_011",
       "category": "Music",
       "question": "The famous music venue 'Carnegie Hall' is located in which city?",
-      "options": ["Chicago", "Los Angeles", "New York City", "Boston"],
+      "options": [
+        "Chicago",
+        "Los Angeles",
+        "New York City",
+        "Boston"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_012",
       "category": "Music",
       "question": "Which musical term means to gradually get louder?",
-      "options": ["Diminuendo", "Fortissimo", "Crescendo", "Pianissimo"],
+      "options": [
+        "Diminuendo",
+        "Fortissimo",
+        "Crescendo",
+        "Pianissimo"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_013",
       "category": "Music",
       "question": "Which female artist released the album 'Lemonade' in 2016?",
-      "options": ["Rihanna", "Beyoncé", "Adele", "Cardi B"],
+      "options": [
+        "Rihanna",
+        "Beyoncé",
+        "Adele",
+        "Cardi B"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_014",
       "category": "Music",
       "question": "The genre 'K-pop' originates from which country?",
-      "options": ["Japan", "China", "Taiwan", "South Korea"],
+      "options": [
+        "Japan",
+        "China",
+        "Taiwan",
+        "South Korea"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_015",
       "category": "Music",
       "question": "Which rock band was Freddie Mercury the lead singer of?",
-      "options": ["Led Zeppelin", "The Rolling Stones", "Queen", "Aerosmith"],
+      "options": [
+        "Led Zeppelin",
+        "The Rolling Stones",
+        "Queen",
+        "Aerosmith"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_016",
       "category": "Music",
       "question": "What does 'BPM' stand for in music production?",
-      "options": ["Bass Per Measure", "Beats Per Minute", "Bars Per Mix", "Beat Pulse Mode"],
+      "options": [
+        "Bass Per Measure",
+        "Beats Per Minute",
+        "Bars Per Mix",
+        "Beat Pulse Mode"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_017",
       "category": "Music",
       "question": "Which African musical icon is known as the 'King of Highlife'?",
-      "options": ["Fela Kuti", "E.T. Mensah", "King Sunny Ade", "Oliver De Coque"],
+      "options": [
+        "Fela Kuti",
+        "E.T. Mensah",
+        "King Sunny Ade",
+        "Oliver De Coque"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_018",
       "category": "Music",
       "question": "How many keys does a standard piano have?",
-      "options": ["72", "76", "88", "100"],
+      "options": [
+        "72",
+        "76",
+        "88",
+        "100"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_019",
       "category": "Music",
       "question": "Which artist is known as the 'Queen of Pop'?",
-      "options": ["Celine Dion", "Madonna", "Whitney Houston", "Mariah Carey"],
+      "options": [
+        "Celine Dion",
+        "Madonna",
+        "Whitney Houston",
+        "Mariah Carey"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_020",
       "category": "Music",
       "question": "Fela Kuti, pioneer of Afrobeat (not Afrobeats), was from which country?",
-      "options": ["Ghana", "Senegal", "Nigeria", "Ivory Coast"],
+      "options": [
+        "Ghana",
+        "Senegal",
+        "Nigeria",
+        "Ivory Coast"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_021",
       "category": "Music",
       "question": "What is the name of the annual music festival held in Glastonbury, England?",
-      "options": ["Isle of Wight Festival", "Reading Festival", "Glastonbury Festival", "V Festival"],
+      "options": [
+        "Isle of Wight Festival",
+        "Reading Festival",
+        "Glastonbury Festival",
+        "V Festival"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_022",
       "category": "Music",
       "question": "Which instrument is Yo-Yo Ma famous for playing?",
-      "options": ["Violin", "Cello", "Double bass", "Viola"],
+      "options": [
+        "Violin",
+        "Cello",
+        "Double bass",
+        "Viola"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_023",
       "category": "Music",
       "question": "In music, what does the Italian word 'allegro' mean?",
-      "options": ["Slow and steady", "Fast and lively", "Soft and gentle", "Loud and forceful"],
+      "options": [
+        "Slow and steady",
+        "Fast and lively",
+        "Soft and gentle",
+        "Loud and forceful"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_024",
       "category": "Music",
       "question": "Burna Boy, the Afrofusion star, is from which Nigerian city?",
-      "options": ["Lagos", "Abuja", "Port Harcourt", "Kano"],
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Port Harcourt",
+        "Kano"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_025",
       "category": "Music",
       "question": "The first musical instrument ever invented is believed to be which of these?",
-      "options": ["Drum", "Flute", "Lyre", "Horn"],
+      "options": [
+        "Drum",
+        "Flute",
+        "Lyre",
+        "Horn"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_026",
       "category": "Movies",
       "question": "In Thor: Ragnarok, who does Thor fight in the arena while stuck on Sakaar?",
-      "options": ["Captain America", "Sandman", "Iron Man", "Hulk"],
+      "options": [
+        "Captain America",
+        "Sandman",
+        "Iron Man",
+        "Hulk"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_027",
       "category": "Movies",
       "question": "Which film won the first Academy Award for Best Picture in 1929?",
-      "options": ["Sunrise", "Wings", "Seventh Heaven", "The Jazz Singer"],
+      "options": [
+        "Sunrise",
+        "Wings",
+        "Seventh Heaven",
+        "The Jazz Singer"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_028",
       "category": "Movies",
       "question": "Which actor has won the most Academy Awards for Best Actor?",
-      "options": ["Jack Nicholson", "Dustin Hoffman", "Daniel Day-Lewis", "Spencer Tracy"],
+      "options": [
+        "Jack Nicholson",
+        "Dustin Hoffman",
+        "Daniel Day-Lewis",
+        "Spencer Tracy"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_029",
       "category": "Movies",
       "question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
-      "options": ["Avengers: Endgame", "Titanic", "Avatar", "Star Wars: The Force Awakens"],
+      "options": [
+        "Avengers: Endgame",
+        "Titanic",
+        "Avatar",
+        "Star Wars: The Force Awakens"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_030",
       "category": "Movies",
       "question": "Who directed 'Schindler's List' (1993)?",
-      "options": ["Martin Scorsese", "Francis Ford Coppola", "Steven Spielberg", "Stanley Kubrick"],
+      "options": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "Stanley Kubrick"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_031",
       "category": "Movies",
       "question": "In 'The Lion King', what is the name of Simba's father?",
-      "options": ["Rafiki", "Mufasa", "Scar", "Zazu"],
+      "options": [
+        "Rafiki",
+        "Mufasa",
+        "Scar",
+        "Zazu"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_032",
       "category": "Movies",
       "question": "Which movie features the line 'You can't handle the truth!'?",
-      "options": ["The Firm", "A Few Good Men", "Philadelphia", "The Pelican Brief"],
+      "options": [
+        "The Firm",
+        "A Few Good Men",
+        "Philadelphia",
+        "The Pelican Brief"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_033",
       "category": "Movies",
       "question": "The movie 'Black Panther' is set in which fictional African country?",
-      "options": ["Zamunda", "Genovia", "Wakanda", "Narnia"],
+      "options": [
+        "Zamunda",
+        "Genovia",
+        "Wakanda",
+        "Narnia"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_034",
       "category": "Movies",
       "question": "Which actress played Katniss Everdeen in 'The Hunger Games'?",
-      "options": ["Emma Stone", "Shailene Woodley", "Jennifer Lawrence", "Kristen Stewart"],
+      "options": [
+        "Emma Stone",
+        "Shailene Woodley",
+        "Jennifer Lawrence",
+        "Kristen Stewart"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_035",
       "category": "Movies",
       "question": "How many Oscars did 'Titanic' (1997) win?",
-      "options": ["9", "11", "13", "14"],
+      "options": [
+        "9",
+        "11",
+        "13",
+        "14"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_036",
       "category": "Movies",
       "question": "Which studio produced the 'Toy Story' franchise?",
-      "options": ["DreamWorks", "Warner Bros", "Pixar", "Sony Pictures"],
+      "options": [
+        "DreamWorks",
+        "Warner Bros",
+        "Pixar",
+        "Sony Pictures"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_037",
       "category": "Movies",
       "question": "In which movie does a character say 'I'll be back'?",
-      "options": ["RoboCop", "Die Hard", "The Terminator", "Predator"],
+      "options": [
+        "RoboCop",
+        "Die Hard",
+        "The Terminator",
+        "Predator"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_038",
       "category": "Movies",
       "question": "Who played James Bond in 'Casino Royale' (2006)?",
-      "options": ["Pierce Brosnan", "Timothy Dalton", "Daniel Craig", "Roger Moore"],
+      "options": [
+        "Pierce Brosnan",
+        "Timothy Dalton",
+        "Daniel Craig",
+        "Roger Moore"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_039",
       "category": "Movies",
       "question": "In 'Inception', what is the name of the spinning top used as a totem?",
-      "options": ["A spinner", "A dreidel", "A gyro", "A top"],
+      "options": [
+        "A spinner",
+        "A dreidel",
+        "A gyro",
+        "A top"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_040",
       "category": "Movies",
       "question": "Which Nollywood film was Nigeria's first submission for the Academy Award for Best International Feature Film?",
-      "options": ["The Wedding Party", "October 1", "Lionheart", "King of Boys"],
+      "options": [
+        "The Wedding Party",
+        "October 1",
+        "Lionheart",
+        "King of Boys"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_041",
       "category": "Movies",
       "question": "Who voiced Shrek in the animated film 'Shrek'?",
-      "options": ["Jim Carrey", "Mike Myers", "Eddie Murphy", "Will Smith"],
+      "options": [
+        "Jim Carrey",
+        "Mike Myers",
+        "Eddie Murphy",
+        "Will Smith"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_042",
       "category": "Movies",
       "question": "Which film features the fictional language 'Na'vi'?",
-      "options": ["Dune", "Avatar", "Star Wars", "Guardians of the Galaxy"],
+      "options": [
+        "Dune",
+        "Avatar",
+        "Star Wars",
+        "Guardians of the Galaxy"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_043",
       "category": "Movies",
       "question": "In 'Home Alone', what is the name of the family that leaves Kevin behind?",
-      "options": ["Bennett", "McAllister", "Parker", "Sullivan"],
+      "options": [
+        "Bennett",
+        "McAllister",
+        "Parker",
+        "Sullivan"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_044",
       "category": "Movies",
       "question": "Which director made the film '12 Years a Slave'?",
-      "options": ["Ava DuVernay", "Spike Lee", "Steve McQueen", "Jordan Peele"],
+      "options": [
+        "Ava DuVernay",
+        "Spike Lee",
+        "Steve McQueen",
+        "Jordan Peele"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_045",
       "category": "Movies",
       "question": "What is the name of the coffee shop in the TV show 'Friends' that is often confused for a cinema cafe?",
-      "options": ["Central Perk", "The Grind", "Java Joe's", "Morning Blend"],
+      "options": [
+        "Central Perk",
+        "The Grind",
+        "Java Joe's",
+        "Morning Blend"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_046",
       "category": "Movies",
       "question": "Who played the role of T'Challa in the film 'Black Panther'?",
-      "options": ["Idris Elba", "Michael B. Jordan", "Chadwick Boseman", "Daniel Kaluuya"],
+      "options": [
+        "Idris Elba",
+        "Michael B. Jordan",
+        "Chadwick Boseman",
+        "Daniel Kaluuya"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_047",
       "category": "Movies",
       "question": "The movie 'Parasite' (2019), the first non-English film to win Best Picture at the Oscars, is from which country?",
-      "options": ["Japan", "China", "South Korea", "Vietnam"],
+      "options": [
+        "Japan",
+        "China",
+        "South Korea",
+        "Vietnam"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_048",
       "category": "Movies",
       "question": "Which actor played Iron Man / Tony Stark in the Marvel Cinematic Universe?",
-      "options": ["Chris Evans", "Chris Pratt", "Robert Downey Jr.", "Mark Ruffalo"],
+      "options": [
+        "Chris Evans",
+        "Chris Pratt",
+        "Robert Downey Jr.",
+        "Mark Ruffalo"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_049",
       "category": "Movies",
       "question": "In 'Frozen', what are the names of the two royal sisters?",
-      "options": ["Anna and Elsa", "Elsa and Bella", "Anna and Aurora", "Clara and Elsa"],
+      "options": [
+        "Anna and Elsa",
+        "Elsa and Bella",
+        "Anna and Aurora",
+        "Clara and Elsa"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_050",
       "category": "Movies",
       "question": "Which African actor won an Academy Award for Best Supporting Actor for the film 'Blood Diamond'?",
-      "options": ["Idris Elba", "Djimon Hounsou", "Chiwetel Ejiofor", "Lupita Nyong'o"],
+      "options": [
+        "Idris Elba",
+        "Djimon Hounsou",
+        "Chiwetel Ejiofor",
+        "Lupita Nyong'o"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_051",
       "category": "Sports",
       "question": "The first golf ball was made from which material?",
-      "options": ["Fur", "Leather", "Sand", "Ceramic"],
+      "options": [
+        "Fur",
+        "Leather",
+        "Sand",
+        "Ceramic"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_052",
       "category": "Sports",
       "question": "How many players are on the field for each team in a standard football (soccer) match?",
-      "options": ["9", "10", "11", "12"],
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_053",
       "category": "Sports",
       "question": "In which year were the first modern Olympic Games held?",
-      "options": ["1886", "1896", "1906", "1916"],
+      "options": [
+        "1886",
+        "1896",
+        "1906",
+        "1916"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_054",
       "category": "Sports",
       "question": "Which country has won the most FIFA World Cup titles?",
-      "options": ["Germany", "Argentina", "Italy", "Brazil"],
+      "options": [
+        "Germany",
+        "Argentina",
+        "Italy",
+        "Brazil"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_055",
       "category": "Sports",
       "question": "In tennis, what is the term for a score of 40-40?",
-      "options": ["Tie", "Deuce", "Advantage", "Break point"],
+      "options": [
+        "Tie",
+        "Deuce",
+        "Advantage",
+        "Break point"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_056",
       "category": "Sports",
       "question": "Which country invented the sport of basketball?",
-      "options": ["USA", "Canada", "UK", "Australia"],
+      "options": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_057",
       "category": "Sports",
       "question": "How many Grand Slam titles did Serena Williams win in her career?",
-      "options": ["19", "21", "23", "25"],
+      "options": [
+        "19",
+        "21",
+        "23",
+        "25"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_058",
       "category": "Sports",
       "question": "The sport of cricket originated in which country?",
-      "options": ["India", "Australia", "South Africa", "England"],
+      "options": [
+        "India",
+        "Australia",
+        "South Africa",
+        "England"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_059",
       "category": "Sports",
       "question": "Which Nigerian-born athlete won the 100m sprint at the 1996 Atlanta Olympics?",
-      "options": ["Frank Fredericks", "Donovan Bailey", "Linford Christie", "Frankie Fredericks"],
+      "options": [
+        "Frank Fredericks",
+        "Donovan Bailey",
+        "Linford Christie",
+        "Frankie Fredericks"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_060",
       "category": "Sports",
       "question": "In boxing, how many rounds are in a standard World Championship fight?",
-      "options": ["10", "12", "15", "8"],
+      "options": [
+        "10",
+        "12",
+        "15",
+        "8"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_061",
       "category": "Sports",
       "question": "Which African country won the FIFA World Cup in 2010?",
-      "options": ["Brazil", "Germany", "Spain", "Argentina"],
+      "options": [
+        "Brazil",
+        "Germany",
+        "Spain",
+        "Argentina"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_062",
       "category": "Sports",
       "question": "Usain Bolt, the world's fastest man, is from which country?",
-      "options": ["Trinidad and Tobago", "Barbados", "Jamaica", "Bahamas"],
+      "options": [
+        "Trinidad and Tobago",
+        "Barbados",
+        "Jamaica",
+        "Bahamas"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_063",
       "category": "Sports",
       "question": "How many players are on a basketball team on the court at one time?",
-      "options": ["4", "5", "6", "7"],
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_064",
       "category": "Sports",
       "question": "Which African country has won the most Africa Cup of Nations (AFCON) titles?",
-      "options": ["Nigeria", "Cameroon", "Ghana", "Egypt"],
+      "options": [
+        "Nigeria",
+        "Cameroon",
+        "Ghana",
+        "Egypt"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_065",
       "category": "Sports",
       "question": "What is the maximum score achievable in a single frame of bowling?",
-      "options": ["100", "200", "300", "400"],
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_066",
       "category": "Sports",
       "question": "The 'All Blacks' is the national rugby team of which country?",
-      "options": ["South Africa", "Australia", "New Zealand", "Fiji"],
+      "options": [
+        "South Africa",
+        "Australia",
+        "New Zealand",
+        "Fiji"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_067",
       "category": "Sports",
       "question": "Which chess piece can only move diagonally?",
-      "options": ["Rook", "Knight", "Bishop", "Queen"],
+      "options": [
+        "Rook",
+        "Knight",
+        "Bishop",
+        "Queen"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_068",
       "category": "Sports",
       "question": "How many holes are in a standard round of golf?",
-      "options": ["9", "12", "18", "24"],
+      "options": [
+        "9",
+        "12",
+        "18",
+        "24"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_069",
       "category": "Sports",
       "question": "Which Nigerian football club is the most successful in the CAF Champions League?",
-      "options": ["Kano Pillars", "Enyimba FC", "Rangers International", "Shooting Stars"],
+      "options": [
+        "Kano Pillars",
+        "Enyimba FC",
+        "Rangers International",
+        "Shooting Stars"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_070",
       "category": "Sports",
       "question": "In swimming, what is the fastest stroke?",
-      "options": ["Breaststroke", "Backstroke", "Butterfly", "Freestyle (front crawl)"],
+      "options": [
+        "Breaststroke",
+        "Backstroke",
+        "Butterfly",
+        "Freestyle"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_071",
       "category": "Sports",
       "question": "What is the diameter of a basketball hoop in inches?",
-      "options": ["14 inches", "16 inches", "18 inches", "20 inches"],
+      "options": [
+        "14 inches",
+        "16 inches",
+        "18 inches",
+        "20 inches"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_072",
       "category": "Sports",
       "question": "Which sport uses the terms 'love', 'deuce', and 'advantage'?",
-      "options": ["Badminton", "Squash", "Tennis", "Ping Pong"],
+      "options": [
+        "Badminton",
+        "Squash",
+        "Tennis",
+        "Ping Pong"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_073",
       "category": "Sports",
       "question": "Didier Drogba is a legendary footballer from which African country?",
-      "options": ["Ghana", "Senegal", "Ivory Coast", "Cameroon"],
+      "options": [
+        "Ghana",
+        "Senegal",
+        "Ivory Coast",
+        "Cameroon"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_074",
       "category": "Sports",
       "question": "The Wimbledon tennis tournament is played on which surface?",
-      "options": ["Clay", "Hard court", "Carpet", "Grass"],
+      "options": [
+        "Clay",
+        "Hard court",
+        "Carpet",
+        "Grass"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_075",
       "category": "Sports",
       "question": "Which country hosted the 2022 FIFA World Cup?",
-      "options": ["UAE", "Saudi Arabia", "Bahrain", "Qatar"],
+      "options": [
+        "UAE",
+        "Saudi Arabia",
+        "Bahrain",
+        "Qatar"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_076",
       "category": "Climate",
       "question": "The Koppen-Geiger climate classification system divides climates into how many major groups?",
-      "options": ["2", "7", "9", "5"],
+      "options": [
+        "2",
+        "7",
+        "9",
+        "5"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_077",
       "category": "Climate",
       "question": "The Chernobyl nuclear power plant, which is now closed, is located in which country?",
-      "options": ["Georgia", "Belarus", "Russia", "Ukraine"],
+      "options": [
+        "Georgia",
+        "Belarus",
+        "Russia",
+        "Ukraine"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_078",
       "category": "Climate",
       "question": "What is the primary greenhouse gas responsible for climate change?",
-      "options": ["Methane", "Nitrous oxide", "Carbon dioxide", "Water vapor"],
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "Carbon dioxide",
+        "Water vapor"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_079",
       "category": "Climate",
       "question": "The Paris Agreement aims to limit global warming to how many degrees Celsius above pre-industrial levels?",
-      "options": ["1 degree", "1.5 degrees", "2 degrees", "2.5 degrees"],
+      "options": [
+        "1 degree",
+        "1.5 degrees",
+        "2 degrees",
+        "2.5 degrees"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_080",
       "category": "Climate",
       "question": "Which ocean current significantly warms the climate of Western Europe?",
-      "options": ["Labrador Current", "Gulf Stream", "California Current", "Humboldt Current"],
+      "options": [
+        "Labrador Current",
+        "Gulf Stream",
+        "California Current",
+        "Humboldt Current"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_081",
       "category": "Climate",
       "question": "What weather phenomenon is characterized by warmer than average sea surface temperatures in the Pacific Ocean?",
-      "options": ["La Niña", "Monsoon", "El Niño", "Trade winds"],
+      "options": [
+        "La Niña",
+        "Monsoon",
+        "El Niño",
+        "Trade winds"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_082",
       "category": "Climate",
       "question": "Which layer of Earth's atmosphere contains the ozone layer?",
-      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_083",
       "category": "Climate",
       "question": "The Sahel region of Africa is experiencing what major climate challenge?",
-      "options": ["Flooding", "Glacial expansion", "Desertification", "Sea level rise"],
+      "options": [
+        "Flooding",
+        "Glacial expansion",
+        "Desertification",
+        "Sea level rise"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_084",
       "category": "Climate",
       "question": "Which gas is primarily responsible for the depletion of the ozone layer?",
-      "options": ["Carbon dioxide", "Methane", "Chlorofluorocarbons (CFCs)", "Nitrous oxide"],
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Chlorofluorocarbons",
+        "Nitrous oxide"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_085",
       "category": "Climate",
       "question": "The term 'carbon footprint' refers to what?",
-      "options": ["Physical footprints left on carbon surfaces", "Total greenhouse gas emissions by an entity", "Carbon content in soil", "Fossil fuel reserves underground"],
+      "options": [
+        "Physical footprints left on carbon surfaces",
+        "Total greenhouse gas emissions by an entity",
+        "Carbon content in soil",
+        "Fossil fuel reserves underground"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_086",
       "category": "Climate",
       "question": "Which African country is considered most vulnerable to climate change impacts?",
-      "options": ["Egypt", "South Africa", "Somalia", "Nigeria"],
+      "options": [
+        "Egypt",
+        "South Africa",
+        "Somalia",
+        "Nigeria"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_087",
       "category": "Climate",
       "question": "The phenomenon of islands and coastal areas disappearing due to rising seas is linked to which process?",
-      "options": ["Erosion only", "Glacial retreat and thermal expansion", "Earthquakes", "Volcanic activity"],
+      "options": [
+        "Erosion only",
+        "Glacial retreat and thermal expansion",
+        "Earthquakes",
+        "Volcanic activity"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_088",
       "category": "Climate",
       "question": "What is 'albedo' in climate science?",
-      "options": ["A type of cloud formation", "The reflectivity of a surface", "Wind speed measurement", "Ocean temperature depth"],
+      "options": [
+        "A type of cloud formation",
+        "The reflectivity of a surface",
+        "Wind speed measurement",
+        "Ocean temperature depth"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_089",
       "category": "Climate",
       "question": "Which year is considered the baseline for measuring global temperature rise?",
-      "options": ["1750", "1850", "1950", "1990"],
+      "options": [
+        "1750",
+        "1850",
+        "1950",
+        "1990"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_090",
       "category": "Climate",
       "question": "The monsoon season brings heavy rainfall primarily to which region of the world?",
-      "options": ["Europe", "South and Southeast Asia", "North America", "Southern Africa"],
+      "options": [
+        "Europe",
+        "South and Southeast Asia",
+        "North America",
+        "Southern Africa"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_091",
       "category": "Climate",
       "question": "Which country emits the most carbon dioxide globally?",
-      "options": ["USA", "India", "Russia", "China"],
+      "options": [
+        "USA",
+        "India",
+        "Russia",
+        "China"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_092",
       "category": "Climate",
       "question": "What is the name of the climate agreement that preceded the Paris Agreement?",
-      "options": ["Kyoto Protocol", "Montreal Protocol", "Copenhagen Accord", "Geneva Convention"],
+      "options": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Copenhagen Accord",
+        "Geneva Convention"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_093",
       "category": "Climate",
       "question": "Which African country is the largest emitter of greenhouse gases on the continent?",
-      "options": ["Nigeria", "Egypt", "South Africa", "Angola"],
+      "options": [
+        "Nigeria",
+        "Egypt",
+        "South Africa",
+        "Angola"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_094",
       "category": "Climate",
       "question": "What is the greenhouse effect?",
-      "options": ["The warming of greenhouses by solar energy", "Trapping of heat in the atmosphere by gases", "Carbon absorbed by forests", "Sunlight reflected from ice caps"],
+      "options": [
+        "The warming of greenhouses by solar energy",
+        "Trapping of heat in the atmosphere by gases",
+        "Carbon absorbed by forests",
+        "Sunlight reflected from ice caps"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_095",
       "category": "Climate",
       "question": "Lake Chad in Africa has shrunk by approximately what percentage since the 1960s?",
-      "options": ["30%", "50%", "70%", "90%"],
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "90%"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_096",
       "category": "Climate",
       "question": "Which type of climate is characterized by hot, dry summers and mild, wet winters?",
-      "options": ["Tropical climate", "Mediterranean climate", "Continental climate", "Tundra climate"],
+      "options": [
+        "Tropical climate",
+        "Mediterranean climate",
+        "Continental climate",
+        "Tundra climate"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_097",
       "category": "Climate",
       "question": "Deforestation contributes to climate change primarily by doing what?",
-      "options": ["Increasing wind speeds", "Releasing stored carbon into the atmosphere", "Reducing rainfall", "Cooling the land surface"],
+      "options": [
+        "Increasing wind speeds",
+        "Releasing stored carbon into the atmosphere",
+        "Reducing rainfall",
+        "Cooling the land surface"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_098",
       "category": "Climate",
       "question": "What is a 'heat island' effect?",
-      "options": ["A tropical island with extreme heat", "Higher temperatures in urban areas than surrounding rural areas", "Heat generated by volcanic islands", "Subtropical ocean warming zones"],
+      "options": [
+        "A tropical island with extreme heat",
+        "Higher temperatures in urban areas than surrounding rural areas",
+        "Heat generated by volcanic islands",
+        "Subtropical ocean warming zones"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_099",
       "category": "Climate",
       "question": "Which climate zone is Nigeria's Niger Delta region classified under?",
-      "options": ["Arid", "Semi-arid", "Tropical rainforest", "Mediterranean"],
+      "options": [
+        "Arid",
+        "Semi-arid",
+        "Tropical rainforest",
+        "Mediterranean"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_100",
       "category": "Climate",
       "question": "The 'Coriolis effect' influences the direction of what?",
-      "options": ["Ocean tides", "Winds and ocean currents", "Rainfall intensity", "Temperature gradients"],
+      "options": [
+        "Ocean tides",
+        "Winds and ocean currents",
+        "Rainfall intensity",
+        "Temperature gradients"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_101",
       "category": "Renewable Energy",
       "question": "Which renewable energy source generates the most electricity globally?",
-      "options": ["Solar power", "Wind power", "Hydropower", "Geothermal"],
+      "options": [
+        "Solar power",
+        "Wind power",
+        "Hydropower",
+        "Geothermal"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_102",
       "category": "Renewable Energy",
       "question": "What does 'photovoltaic' mean in solar energy?",
-      "options": ["Heating water using sunlight", "Converting light into electricity", "Storing solar power in batteries", "Reflecting sunlight to turbines"],
+      "options": [
+        "Heating water using sunlight",
+        "Converting light into electricity",
+        "Storing solar power in batteries",
+        "Reflecting sunlight to turbines"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_103",
       "category": "Renewable Energy",
       "question": "Which country produces the most solar energy in the world?",
-      "options": ["Germany", "USA", "India", "China"],
+      "options": [
+        "Germany",
+        "USA",
+        "India",
+        "China"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_104",
       "category": "Renewable Energy",
       "question": "Geothermal energy is primarily generated by heat from what source?",
-      "options": ["The sun", "The ocean", "The Earth's interior", "Burning biomass"],
+      "options": [
+        "The sun",
+        "The ocean",
+        "The Earth's interior",
+        "Burning biomass"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_105",
       "category": "Renewable Energy",
       "question": "Which African country is the continent's leader in installed wind power capacity?",
-      "options": ["Nigeria", "Morocco", "South Africa", "Egypt"],
+      "options": [
+        "Nigeria",
+        "Morocco",
+        "South Africa",
+        "Egypt"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_106",
       "category": "Renewable Energy",
       "question": "What is biomass energy?",
-      "options": ["Energy from ocean waves", "Energy derived from organic materials", "Energy from underground steam", "Energy from tidal movements"],
+      "options": [
+        "Energy from ocean waves",
+        "Energy derived from organic materials",
+        "Energy from underground steam",
+        "Energy from tidal movements"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_107",
       "category": "Renewable Energy",
       "question": "The world's largest solar power plant is located in which country?",
-      "options": ["USA", "Saudi Arabia", "India", "China"],
+      "options": [
+        "USA",
+        "Saudi Arabia",
+        "India",
+        "China"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_108",
       "category": "Renewable Energy",
       "question": "Which African country generates almost all of its electricity from renewable sources?",
-      "options": ["South Africa", "Egypt", "Ethiopia", "Kenya"],
+      "options": [
+        "South Africa",
+        "Egypt",
+        "Ethiopia",
+        "Kenya"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_109",
       "category": "Renewable Energy",
       "question": "What is the term for hydrogen produced using renewable electricity through electrolysis?",
-      "options": ["Blue hydrogen", "Grey hydrogen", "Brown hydrogen", "Green hydrogen"],
+      "options": [
+        "Blue hydrogen",
+        "Grey hydrogen",
+        "Brown hydrogen",
+        "Green hydrogen"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_110",
       "category": "Renewable Energy",
       "question": "Which element is primarily used to make solar panels?",
-      "options": ["Carbon", "Silicon", "Aluminium", "Titanium"],
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Aluminium",
+        "Titanium"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_111",
       "category": "Renewable Energy",
       "question": "What is tidal energy?",
-      "options": ["Energy from underwater volcanoes", "Energy generated from the rise and fall of tides", "Energy stored in ocean temperature differences", "Energy from offshore wind turbines"],
+      "options": [
+        "Energy from underwater volcanoes",
+        "Energy generated from the rise and fall of tides",
+        "Energy stored in ocean temperature differences",
+        "Energy from offshore wind turbines"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_112",
       "category": "Renewable Energy",
       "question": "Which country leads the world in wind power generation?",
-      "options": ["USA", "Germany", "Denmark", "China"],
+      "options": [
+        "USA",
+        "Germany",
+        "Denmark",
+        "China"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_113",
       "category": "Renewable Energy",
       "question": "The Grand Inga Dam project in DRC, if completed, would be the world's largest what?",
-      "options": ["Solar farm", "Wind farm", "Hydropower plant", "Geothermal plant"],
+      "options": [
+        "Solar farm",
+        "Wind farm",
+        "Hydropower plant",
+        "Geothermal plant"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_114",
       "category": "Renewable Energy",
       "question": "What does 'kWh' stand for?",
-      "options": ["Kilowatt-hour", "Kilowatt per hour", "Kiloweight-hour", "Kinetic watt-hour"],
+      "options": [
+        "Kilowatt-hour",
+        "Kilowatt per hour",
+        "Kiloweight-hour",
+        "Kinetic watt-hour"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_115",
       "category": "Renewable Energy",
       "question": "Iceland generates nearly 100% of its electricity from which two renewable sources?",
-      "options": ["Solar and wind", "Wind and tidal", "Hydropower and geothermal", "Biomass and solar"],
+      "options": [
+        "Solar and wind",
+        "Wind and tidal",
+        "Hydropower and geothermal",
+        "Biomass and solar"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_116",
       "category": "Renewable Energy",
       "question": "What is the lifespan of a typical onshore wind turbine?",
-      "options": ["5-10 years", "10-15 years", "20-25 years", "50-60 years"],
+      "options": [
+        "5-10 years",
+        "10-15 years",
+        "20-25 years",
+        "50-60 years"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_117",
       "category": "Renewable Energy",
       "question": "Nigeria's Kainji Dam is a source of which type of renewable energy?",
-      "options": ["Solar", "Wind", "Hydropower", "Geothermal"],
+      "options": [
+        "Solar",
+        "Wind",
+        "Hydropower",
+        "Geothermal"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_118",
       "category": "Renewable Energy",
       "question": "Which renewable energy technology uses mirrors to concentrate sunlight to generate heat and electricity?",
-      "options": ["Photovoltaic solar", "Concentrated solar power (CSP)", "Passive solar", "Solar thermal heating"],
+      "options": [
+        "Photovoltaic solar",
+        "Concentrated solar power",
+        "Passive solar",
+        "Solar thermal heating"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_119",
       "category": "Renewable Energy",
       "question": "What percentage of Africa's population still lacks access to electricity?",
-      "options": ["10%", "25%", "43%", "60%"],
+      "options": [
+        "10%",
+        "25%",
+        "43%",
+        "60%"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_120",
       "category": "Renewable Energy",
       "question": "Which country has the highest percentage of renewable electricity in Europe?",
-      "options": ["Germany", "Norway", "Sweden", "Denmark"],
+      "options": [
+        "Germany",
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_121",
       "category": "Renewable Energy",
       "question": "Wave energy converters harvest energy from what?",
-      "options": ["Wind above the ocean", "Deep ocean currents", "Surface ocean waves", "Underwater pressure"],
+      "options": [
+        "Wind above the ocean",
+        "Deep ocean currents",
+        "Surface ocean waves",
+        "Underwater pressure"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_122",
       "category": "Renewable Energy",
       "question": "The Noor Solar Complex, one of the world's largest solar farms, is in which African country?",
-      "options": ["Egypt", "Algeria", "Tunisia", "Morocco"],
+      "options": [
+        "Egypt",
+        "Algeria",
+        "Tunisia",
+        "Morocco"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_123",
       "category": "Renewable Energy",
       "question": "What is 'net metering' in solar energy?",
-      "options": ["Measuring solar panel efficiency", "A billing mechanism where excess solar power is fed back to the grid", "Net weight of solar panels", "Solar output measured at night"],
+      "options": [
+        "Measuring solar panel efficiency",
+        "A billing mechanism where excess solar power is fed back to the grid",
+        "Net weight of solar panels",
+        "Solar output measured at night"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_124",
       "category": "Renewable Energy",
       "question": "Which animal is sometimes used as a symbol of opposition to wind turbines due to collision risk?",
-      "options": ["Eagle", "Bat", "Owl", "Falcon"],
+      "options": [
+        "Eagle",
+        "Bat",
+        "Owl",
+        "Falcon"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_125",
       "category": "Renewable Energy",
       "question": "What is the most abundant renewable resource on Earth?",
-      "options": ["Wind", "Geothermal heat", "Solar radiation", "Tidal energy"],
+      "options": [
+        "Wind",
+        "Geothermal heat",
+        "Solar radiation",
+        "Tidal energy"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_126",
       "category": "Fashion",
       "question": "Which French fashion designer replaced Christian Dior as the head of the House of Dior in 1957 aged just 21?",
-      "options": ["Pierre Cardin", "Hubert de Givenchy", "Yves Saint Laurent", "Cristóbal Balenciaga"],
+      "options": [
+        "Pierre Cardin",
+        "Hubert de Givenchy",
+        "Yves Saint Laurent",
+        "Cristóbal Balenciaga"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_127",
       "category": "Fashion",
       "question": "In Indian culture, what type of garment is a kurta?",
-      "options": ["A blouse", "A trouser", "A gown", "A shirt"],
+      "options": [
+        "A blouse",
+        "A trouser",
+        "A gown",
+        "A shirt"
+      ],
       "correct_index": 3
     },
     {
       "id": "gk_128",
       "category": "Fashion",
       "question": "What is the name of the traditional West African woven cloth with interlocking patterns, often associated with Ghana?",
-      "options": ["Dashiki", "Ankara", "Kente", "Aso-oke"],
+      "options": [
+        "Dashiki",
+        "Ankara",
+        "Kente",
+        "Aso-oke"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_129",
       "category": "Fashion",
       "question": "The fashion house 'Chanel' was founded by which designer?",
-      "options": ["Christian Dior", "Gianni Versace", "Coco Chanel", "Hubert de Givenchy"],
+      "options": [
+        "Christian Dior",
+        "Gianni Versace",
+        "Coco Chanel",
+        "Hubert de Givenchy"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_130",
       "category": "Fashion",
       "question": "Which fabric is produced from the cocoon of silkworms?",
-      "options": ["Cotton", "Silk", "Linen", "Wool"],
+      "options": [
+        "Cotton",
+        "Silk",
+        "Linen",
+        "Wool"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_131",
       "category": "Fashion",
       "question": "What is 'haute couture'?",
-      "options": ["Ready-to-wear fashion", "High-end, custom-made fashion", "Vintage clothing restoration", "Designer sportswear"],
+      "options": [
+        "Ready-to-wear fashion",
+        "High-end, custom-made fashion",
+        "Vintage clothing restoration",
+        "Designer sportswear"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_132",
       "category": "Fashion",
       "question": "Which city is NOT considered one of the 'Big Four' fashion capitals of the world?",
-      "options": ["Milan", "Tokyo", "Paris", "New York"],
+      "options": [
+        "Milan",
+        "Tokyo",
+        "Paris",
+        "New York"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_133",
       "category": "Fashion",
       "question": "What is 'Ankara' fabric known as in West Africa?",
-      "options": ["Traditional silk weave", "African wax print fabric", "Hand-embroidered cotton", "Tie-dye fabric"],
+      "options": [
+        "Traditional silk weave",
+        "African wax print fabric",
+        "Hand-embroidered cotton",
+        "Tie-dye fabric"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_134",
       "category": "Fashion",
       "question": "The luxury brand 'Louis Vuitton' originated in which country?",
-      "options": ["Italy", "USA", "France", "England"],
+      "options": [
+        "Italy",
+        "USA",
+        "France",
+        "England"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_135",
       "category": "Fashion",
       "question": "What is a 'kimono'?",
-      "options": ["An Indian wrap skirt", "A Chinese silk jacket", "A traditional Japanese garment", "A Korean formal robe"],
+      "options": [
+        "An Indian wrap skirt",
+        "A Chinese silk jacket",
+        "A traditional Japanese garment",
+        "A Korean formal robe"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_136",
       "category": "Fashion",
       "question": "Which Nigerian designer is known for the 'Lisa Folawiyo' luxury label?",
-      "options": ["Deola Sagoe", "Lisa Folawiyo", "Mai Atafo", "Kenneth Ize"],
+      "options": [
+        "Deola Sagoe",
+        "Lisa Folawiyo",
+        "Mai Atafo",
+        "Kenneth Ize"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_137",
       "category": "Fashion",
       "question": "Which material is denim fabric primarily made from?",
-      "options": ["Polyester", "Cotton", "Linen", "Wool"],
+      "options": [
+        "Polyester",
+        "Cotton",
+        "Linen",
+        "Wool"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_138",
       "category": "Fashion",
       "question": "What is the name of the annual Met Gala fundraiser's official host institution?",
-      "options": ["Museum of Modern Art", "The Guggenheim", "Metropolitan Museum of Art", "Smithsonian Institution"],
+      "options": [
+        "Museum of Modern Art",
+        "The Guggenheim",
+        "Metropolitan Museum of Art",
+        "Smithsonian Institution"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_139",
       "category": "Fashion",
       "question": "The 'little black dress' (LBD) was popularized by which iconic fashion designer?",
-      "options": ["Christian Dior", "Coco Chanel", "Elsa Schiaparelli", "Cristóbal Balenciaga"],
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Cristóbal Balenciaga"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_140",
       "category": "Fashion",
       "question": "What type of clothing is a 'dashiki'?",
-      "options": ["An East African wrap skirt", "A colorful West African shirt", "A North African headwrap", "A Southern African beaded robe"],
+      "options": [
+        "An East African wrap skirt",
+        "A colorful West African shirt",
+        "A North African headwrap",
+        "A Southern African beaded robe"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_141",
       "category": "Fashion",
       "question": "Which luxury brand is famous for its red-soled shoes?",
-      "options": ["Gucci", "Prada", "Christian Louboutin", "Jimmy Choo"],
+      "options": [
+        "Gucci",
+        "Prada",
+        "Christian Louboutin",
+        "Jimmy Choo"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_142",
       "category": "Fashion",
       "question": "What is 'fast fashion'?",
-      "options": ["Sportswear produced quickly", "Low-cost clothing produced rapidly to keep up with trends", "Couture made in under a week", "Fashion shows held at high speed"],
+      "options": [
+        "Sportswear produced quickly",
+        "Low-cost clothing produced rapidly to keep up with trends",
+        "Couture made in under a week",
+        "Fashion shows held at high speed"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_143",
       "category": "Fashion",
       "question": "What is the traditional name for the Nigerian women's two-piece wrapper outfit?",
-      "options": ["Agbada", "Buba and Iro", "Babban riga", "Kaftan"],
+      "options": [
+        "Agbada",
+        "Buba and Iro",
+        "Babban riga",
+        "Kaftan"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_144",
       "category": "Fashion",
       "question": "Which iconic fashion magazine was founded in 1892?",
-      "options": ["Elle", "Harper's Bazaar", "Vogue", "InStyle"],
+      "options": [
+        "Elle",
+        "Harper's Bazaar",
+        "Vogue",
+        "InStyle"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_145",
       "category": "Fashion",
       "question": "What is 'sustainable fashion'?",
-      "options": ["Clothing made to last forever", "Clothing produced with minimal environmental and social impact", "Fashion trends that stay popular forever", "Natural fiber-only clothing"],
+      "options": [
+        "Clothing made to last forever",
+        "Clothing produced with minimal environmental and social impact",
+        "Fashion trends that stay popular forever",
+        "Natural fiber-only clothing"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_146",
       "category": "Fashion",
       "question": "The 'agbada' is a flowing wide-sleeved robe associated with which West African group?",
-      "options": ["Igbo", "Yoruba", "Hausa", "Ashanti"],
+      "options": [
+        "Igbo",
+        "Yoruba",
+        "Hausa",
+        "Ashanti"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_147",
       "category": "Fashion",
       "question": "Which fashion designer introduced the 'New Look' silhouette in 1947?",
-      "options": ["Yves Saint Laurent", "Hubert de Givenchy", "Christian Dior", "Cristóbal Balenciaga"],
+      "options": [
+        "Yves Saint Laurent",
+        "Hubert de Givenchy",
+        "Christian Dior",
+        "Cristóbal Balenciaga"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_148",
       "category": "Fashion",
       "question": "What is a 'trencher' hat also commonly known as?",
-      "options": ["Top hat", "Mortarboard", "Bowler hat", "Fedora"],
+      "options": [
+        "Top hat",
+        "Mortarboard",
+        "Bowler hat",
+        "Fedora"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_149",
       "category": "Fashion",
       "question": "Which luxury brand is associated with the interlocking 'GG' logo?",
-      "options": ["Givenchy", "Giorgio Armani", "Gucci", "Gianfranco Ferré"],
+      "options": [
+        "Givenchy",
+        "Giorgio Armani",
+        "Gucci",
+        "Gianfranco Ferré"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_150",
       "category": "Fashion",
       "question": "What does 'RTW' stand for in fashion?",
-      "options": ["Runway to Wardrobe", "Ready-to-Wear", "Retail to Wholesale", "Registered Textile Work"],
+      "options": [
+        "Runway to Wardrobe",
+        "Ready-to-Wear",
+        "Retail to Wholesale",
+        "Registered Textile Work"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_151",
       "category": "Lifestyle",
       "question": "The profession of the inventor of the electric chair was which of these?",
-      "options": ["Dentist", "Teacher", "Lawyer", "Boxer"],
+      "options": [
+        "Dentist",
+        "Teacher",
+        "Lawyer",
+        "Boxer"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_152",
       "category": "Lifestyle",
       "question": "What is the recommended daily water intake for an average adult?",
-      "options": ["1 litre", "2 litres", "3 litres", "4 litres"],
+      "options": [
+        "1 litre",
+        "2 litres",
+        "3 litres",
+        "4 litres"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_153",
       "category": "Lifestyle",
       "question": "Which vitamin is produced by the human body when exposed to sunlight?",
-      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_154",
       "category": "Lifestyle",
       "question": "What is the most consumed beverage in the world after water?",
-      "options": ["Coffee", "Beer", "Tea", "Coca-Cola"],
+      "options": [
+        "Coffee",
+        "Beer",
+        "Tea",
+        "Coca-Cola"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_155",
       "category": "Lifestyle",
       "question": "The term 'vegan' diet excludes which of the following?",
-      "options": ["All meat only", "Meat and fish only", "All animal products", "Only red meat and dairy"],
+      "options": [
+        "All meat only",
+        "Meat and fish only",
+        "All animal products",
+        "Only red meat and dairy"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_156",
       "category": "Lifestyle",
       "question": "Which country has the highest life expectancy in the world?",
-      "options": ["Switzerland", "Japan", "Singapore", "Australia"],
+      "options": [
+        "Switzerland",
+        "Japan",
+        "Singapore",
+        "Australia"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_157",
       "category": "Lifestyle",
       "question": "How many hours of sleep does the WHO recommend for adults per night?",
-      "options": ["5-6 hours", "6-7 hours", "7-9 hours", "9-11 hours"],
+      "options": [
+        "5-6 hours",
+        "6-7 hours",
+        "7-9 hours",
+        "9-11 hours"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_158",
       "category": "Lifestyle",
       "question": "Jollof rice is a popular dish in West Africa. Which country claims to make the best version?",
-      "options": ["Ghana and Senegal", "Nigeria and Ghana", "Ivory Coast and Senegal", "Nigeria and Liberia"],
+      "options": [
+        "Ghana and Senegal",
+        "Nigeria and Ghana",
+        "Ivory Coast and Senegal",
+        "Nigeria and Liberia"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_159",
       "category": "Lifestyle",
       "question": "What does 'mindfulness' mean in wellness culture?",
-      "options": ["Having a sharp memory", "Being fully present and aware in the current moment", "Thinking about the future carefully", "Solving complex mental puzzles"],
+      "options": [
+        "Having a sharp memory",
+        "Being fully present and aware in the current moment",
+        "Thinking about the future carefully",
+        "Solving complex mental puzzles"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_160",
       "category": "Lifestyle",
       "question": "Which country is considered the birthplace of yoga?",
-      "options": ["Nepal", "Sri Lanka", "India", "Thailand"],
+      "options": [
+        "Nepal",
+        "Sri Lanka",
+        "India",
+        "Thailand"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_161",
       "category": "Lifestyle",
       "question": "The Mediterranean diet is widely regarded as one of the world's healthiest. Which food group forms its foundation?",
-      "options": ["Dairy products", "Red meat", "Plant-based foods, olive oil, and fish", "Whole grains and legumes only"],
+      "options": [
+        "Dairy products",
+        "Red meat",
+        "Plant-based foods, olive oil, and fish",
+        "Whole grains and legumes only"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_162",
       "category": "Lifestyle",
       "question": "What is the term for the Japanese concept of finding purpose and reason for living?",
-      "options": ["Wabi-sabi", "Ikigai", "Kaizen", "Kintsugi"],
+      "options": [
+        "Wabi-sabi",
+        "Ikigai",
+        "Kaizen",
+        "Kintsugi"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_163",
       "category": "Lifestyle",
       "question": "Which African country is famous for its Hammam (steam bath) wellness tradition?",
-      "options": ["Nigeria", "Egypt", "Morocco", "South Africa"],
+      "options": [
+        "Nigeria",
+        "Egypt",
+        "Morocco",
+        "South Africa"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_164",
       "category": "Lifestyle",
       "question": "What is 'intermittent fasting'?",
-      "options": ["Fasting for religious purposes", "A dietary plan cycling between fasting and eating windows", "Only eating at specific mealtimes", "A starvation diet"],
+      "options": [
+        "Fasting for religious purposes",
+        "A dietary plan cycling between fasting and eating windows",
+        "Only eating at specific mealtimes",
+        "A starvation diet"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_165",
       "category": "Lifestyle",
       "question": "According to the World Health Organization, how many minutes of moderate physical activity should adults do weekly?",
-      "options": ["75 minutes", "100 minutes", "150 minutes", "200 minutes"],
+      "options": [
+        "75 minutes",
+        "100 minutes",
+        "150 minutes",
+        "200 minutes"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_166",
       "category": "Lifestyle",
       "question": "The concept of 'hygge', a cozy contented lifestyle, originates from which country?",
-      "options": ["Sweden", "Norway", "Denmark", "Finland"],
+      "options": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_167",
       "category": "Lifestyle",
       "question": "What ingredient gives turmeric its yellow color and anti-inflammatory properties?",
-      "options": ["Capsaicin", "Quercetin", "Curcumin", "Allicin"],
+      "options": [
+        "Capsaicin",
+        "Quercetin",
+        "Curcumin",
+        "Allicin"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_168",
       "category": "Lifestyle",
       "question": "Which Nigerian fermented locust bean condiment is used widely in West African cooking?",
-      "options": ["Ogiri", "Iru (dawadawa)", "Ugwu", "Uziza"],
+      "options": [
+        "Ogiri",
+        "Iru",
+        "Ugwu",
+        "Uziza"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_169",
       "category": "Lifestyle",
       "question": "The concept of 'digital detox' refers to what?",
-      "options": ["Cleaning viruses from a computer", "A period of refraining from using digital devices", "Detoxifying the body using tech apps", "Switching to eco-friendly electronics"],
+      "options": [
+        "Cleaning viruses from a computer",
+        "A period of refraining from using digital devices",
+        "Detoxifying the body using tech apps",
+        "Switching to eco-friendly electronics"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_170",
       "category": "Lifestyle",
       "question": "Which oil, extracted from a West African tree nut, is widely used in cooking and cosmetics?",
-      "options": ["Palm kernel oil", "Coconut oil", "Shea butter", "Moringa oil"],
+      "options": [
+        "Palm kernel oil",
+        "Coconut oil",
+        "Shea butter",
+        "Moringa oil"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_171",
       "category": "Lifestyle",
       "question": "What does the acronym 'BMI' stand for in health and wellness?",
-      "options": ["Body Mass Index", "Basal Metabolic Input", "Bone Muscle Integrity", "Blood Measurement Indicator"],
+      "options": [
+        "Body Mass Index",
+        "Basal Metabolic Input",
+        "Bone Muscle Integrity",
+        "Blood Measurement Indicator"
+      ],
       "correct_index": 0
     },
     {
       "id": "gk_172",
       "category": "Lifestyle",
       "question": "Which ancient African board game is one of the oldest strategy games in the world?",
-      "options": ["Senet", "Mankala (Oware)", "Ayo", "Bao"],
+      "options": [
+        "Senet",
+        "Mankala",
+        "Ayo",
+        "Bao"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_173",
       "category": "Lifestyle",
       "question": "What is the approximate number of taste buds on the human tongue?",
-      "options": ["1,000", "5,000", "10,000", "50,000"],
+      "options": [
+        "1,000",
+        "5,000",
+        "10,000",
+        "50,000"
+      ],
       "correct_index": 2
     },
     {
       "id": "gk_174",
       "category": "Lifestyle",
       "question": "The Blue Zone regions of the world are areas where people do what?",
-      "options": ["Experience the coldest climates", "Live significantly longer than average", "Have the highest IQ scores", "Consume the most calories"],
+      "options": [
+        "Experience the coldest climates",
+        "Live significantly longer than average",
+        "Have the highest IQ scores",
+        "Consume the most calories"
+      ],
       "correct_index": 1
     },
     {
       "id": "gk_175",
       "category": "Lifestyle",
       "question": "What is the Danish term 'friluftsliv' associated with?",
-      "options": ["A type of diet", "An outdoor, nature-connected way of life", "A meditation technique", "A communal living philosophy"],
+      "options": [
+        "A type of diet",
+        "An outdoor, nature-connected way of life",
+        "A meditation technique",
+        "A communal living philosophy"
+      ],
       "correct_index": 1
     }
   ]

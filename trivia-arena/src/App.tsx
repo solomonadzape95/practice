@@ -5,6 +5,10 @@ import { Home } from './pages/Home'
 import { Quiz } from './pages/Quiz'
 import { Results } from './pages/Results'
 import { Upload } from './pages/Upload'
+import { BuzzerLobby } from './pages/BuzzerLobby'
+import { BuzzerGame } from './pages/BuzzerGame'
+import { BuzzerResults } from './pages/BuzzerResults'
+import { BuzzerStats } from './pages/BuzzerStats'
 
 function App() {
   return (
@@ -28,6 +32,10 @@ function App() {
             <Route path="/quiz" element={<Quiz />} />
             <Route path="/results" element={<Results />} />
             <Route path="/upload" element={<Upload />} />
+            <Route path="/buzzer" element={<BuzzerLobby />} />
+            <Route path="/buzzer/game" element={<BuzzerGame />} />
+            <Route path="/buzzer/results" element={<BuzzerResults />} />
+            <Route path="/buzzer/stats" element={<BuzzerStats />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </main>
