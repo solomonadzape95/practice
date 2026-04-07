@@ -8124,5 +8124,305 @@
       ],
       "correct_index": 2
     }
+,
+    {
+      "id": "hyp_001",
+      "question": "How many vertices does a 4-dimensional hypercube (tesseract) have?",
+      "options": ["8", "16", "24", "32"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_002",
+      "question": "What is the general formula for the number of vertices in an n-dimensional hypercube?",
+      "options": ["2n", "n^2", "2^n", "4n"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_003",
+      "question": "How many edges does a tesseract (4D hypercube) have?",
+      "options": ["16", "24", "32", "64"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_004",
+      "question": "How many 3-dimensional cubical cells make up the boundary of a 4-dimensional tesseract?",
+      "options": ["4", "6", "8", "16"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_005",
+      "question": "A 5-dimensional hypercube is commonly referred to as a:",
+      "options": ["Tesseract", "Penteract", "Hexeract", "Hyper-square"],
+      "correct_index": 1
+    },
+    {
+      "id": "hyp_006",
+      "question": "In geometry, a 0-dimensional hypercube is a:",
+      "options": ["Line segment", "Square", "Point", "Empty set"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_007",
+      "question": "How many 2D square faces does a tesseract have?",
+      "options": ["12", "16", "24", "32"],
+      "correct_index": 2
+    },
+    {
+      "id": "hyp_008",
+      "question": "If a 3D cube is created by translating a 2D square along a new axis, what is translated to create a 4D tesseract?",
+      "options": ["A point", "A line", "A square", "A 3D cube"],
+      "correct_index": 3
+    },
+    {
+      "id": "geo_009",
+      "question": "What is the sum of the interior angles of a nonagon (9-sided polygon)?",
+      "options": ["1080 degrees", "1260 degrees", "1440 degrees", "1620 degrees"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_010",
+      "question": "What is the measure of a single interior angle in a regular dodecagon (12-sided polygon)?",
+      "options": ["144 degrees", "150 degrees", "160 degrees", "180 degrees"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_011",
+      "question": "How many diagonals can be drawn in a regular octagon?",
+      "options": ["14", "20", "24", "28"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_012",
+      "question": "What is the sum of the exterior angles of any convex polygon?",
+      "options": ["180 degrees", "360 degrees", "540 degrees", "Depends on the number of sides"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_013",
+      "question": "What is the measure of a single exterior angle of a regular hexagon?",
+      "options": ["45 degrees", "60 degrees", "72 degrees", "90 degrees"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_014",
+      "question": "By definition, a regular polygon must be both equilateral and:",
+      "options": ["Concentric", "Concave", "Equiangular", "Asymmetrical"],
+      "correct_index": 2
+    },
+    {
+      "id": "geo_015",
+      "question": "How many non-overlapping triangles are formed by drawing all diagonals from a single vertex of a 10-sided polygon?",
+      "options": ["7", "8", "9", "10"],
+      "correct_index": 1
+    },
+    {
+      "id": "geo_016",
+      "question": "What is the formula for the area of a trapezoid with parallel bases 'a' and 'b' and height 'h'?",
+      "options": ["(a*b)*h", "((a+b)/2)*h", "(a+b)*h", "1/2(a*b*h)"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_017",
+      "question": "What is the simple interest earned on a principal of $2000 at an annual interest rate of 5% over 3 years?",
+      "options": ["$150", "$200", "$300", "$350"],
+      "correct_index": 2
+    },
+    {
+      "id": "int_018",
+      "question": "If you invest $1000 at a simple interest rate of 10% per year, what is the total amount (principal + interest) after 2 years?",
+      "options": ["$1100", "$1200", "$1210", "$1300"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_019",
+      "question": "Which of the following is the standard formula for compound interest?",
+      "options": ["A = P(1 + rt)", "A = P(1 + r/n)^(nt)", "A = P e^(rt)", "A = P + rt"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_020",
+      "question": "If $1000 is invested at an annual interest rate of 10% compounded annually, what is the total amount after 2 years?",
+      "options": ["$1200", "$1210", "$1221", "$1250"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_021",
+      "question": "Which formula is used to calculate continuous compound interest?",
+      "options": ["A = P(1 + r)^t", "A = P e^(rt)", "A = I / (Pt)", "A = P(1 + r/n)^(nt)"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_022",
+      "question": "Using the Rule of 72, approximately how long will it take for an investment to double at a 6% annual compound interest rate?",
+      "options": ["6 years", "9 years", "10 years", "12 years"],
+      "correct_index": 3
+    },
+    {
+      "id": "int_023",
+      "question": "If the simple interest on a loan is $100, the rate is 5% annually, and the time is 2 years, what was the principal?",
+      "options": ["$500", "$1000", "$1500", "$2000"],
+      "correct_index": 1
+    },
+    {
+      "id": "int_024",
+      "question": "What is the difference between simple and compound interest over exactly one compounding period?",
+      "options": ["Compound interest is higher", "Simple interest is higher", "They are exactly the same", "It depends on the principal"],
+      "correct_index": 2
+    },
+    {
+      "id": "mol_025",
+      "question": "What is the definition of Molarity (M)?", "options": ["Grams of solute per liter of solution", "Moles of solute per liter of solution", "Moles of solute per kilogram of solvent", "Grams of solute per kilogram of solvent"],
+      "correct_index": 1
+    },
+    {
+      "id": "mol_026",
+      "question": "What is the molarity of a solution containing 3 moles of NaCl dissolved in 6 liters of water?",
+      "options": ["0.5 M", "1.0 M", "2.0 M", "18.0 M"],
+      "correct_index": 0
+    },
+    {
+      "id": "mol_027",
+      "question": "How many moles of solute are present in 2 liters of a 0.25 M solution?",
+      "options": ["0.125 moles", "0.25 moles", "0.5 moles", "1.0 moles"],
+      "correct_index": 2
+    },
+    {
+      "id": "mol_028",
+      "question": "Which equation is used for calculating the dilution of a solution?",
+      "options": ["M1/V1 = M2/V2", "M1V1 = M2V2", "M1+V1 = M2+V2", "M = n/V"],
+      "correct_index": 1
+    },
+    {
+      "id": "mol_029",
+      "question": "If you dilute 100 mL of a 2.0 M HCl solution to a final concentration of 0.5 M, what must the final volume be?",
+      "options": ["200 mL", "250 mL", "300 mL", "400 mL"],
+      "correct_index": 3
+    },
+    {
+      "id": "mol_030",
+      "question": "What volume of a 1.5 M NaOH solution contains exactly 3 moles of NaOH?",
+      "options": ["0.5 L", "1.5 L", "2.0 L", "4.5 L"],
+      "correct_index": 2
+    },
+    {
+      "id": "mol_031",
+      "question": "What is the difference between molarity and molality?",
+      "options": ["Molarity uses liters of solution, molality uses kilograms of solvent", "Molarity uses kilograms of solvent, molality uses liters of solution", "They are two names for the exact same measurement", "Molarity is for solids, molality is for liquids"],
+      "correct_index": 0
+    },
+    {
+      "id": "mol_032",
+      "question": "How many grams of NaCl (molar mass approx. 58.5 g/mol) are required to make 1 Liter of a 1.0 M solution?",
+      "options": ["1.0 g", "29.25 g", "58.5 g", "117.0 g"],
+      "correct_index": 2
+    },
+    {
+      "id": "elec_033",
+      "question": "Which equation represents Ohm's Law?",
+      "options": ["P = IV", "V = IR", "I = VR", "R = VI"],
+      "correct_index": 1
+    },
+    {
+      "id": "elec_034",
+      "question": "If a circuit has a current of 4 Amps and a resistance of 12 Ohms, what is the voltage?",
+      "options": ["3 Volts", "8 Volts", "16 Volts", "48 Volts"],
+      "correct_index": 3
+    },
+    {
+      "id": "elec_035",
+      "question": "What is the formula for calculating electrical power using voltage and current?",
+      "options": ["P = I/V", "P = V/I", "P = I^2*V", "P = IV"],
+      "correct_index": 3
+    },
+    {
+      "id": "elec_036",
+      "question": "How much power is consumed by a device operating on 120 Volts and drawing 2 Amps of current?",
+      "options": ["60 Watts", "122 Watts", "240 Watts", "480 Watts"],
+      "correct_index": 2
+    },
+    {
+      "id": "elec_037",
+      "question": "By substituting Ohm's Law into the power equation, which of the following is a valid formula for power?",
+      "options": ["P = I^2 * R", "P = V^2 * I", "P = R / I^2", "P = V * R"],
+      "correct_index": 0
+    },
+    {
+      "id": "elec_038",
+      "question": "If a 24-Volt battery produces a current of 3 Amps in a circuit, what is the total resistance?",
+      "options": ["8 Ohms", "21 Ohms", "27 Ohms", "72 Ohms"],
+      "correct_index": 0
+    },
+    {
+      "id": "elec_039",
+      "question": "If a lightbulb consumes 100 Watts of power when connected to a 50 Volt source, what is the current flowing through it?",
+      "options": ["0.5 Amps", "2.0 Amps", "50 Amps", "5000 Amps"],
+      "correct_index": 1
+    },
+    {
+      "id": "elec_040",
+      "question": "If a 1000-Watt appliance runs continuously for 2 hours, how much electrical energy has it used?",
+      "options": ["500 Wh", "1 kWh", "2 kWh", "2000 kWh"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_041",
+      "question": "What is the formula for calculating percentage change?",
+      "options": ["(Old - New) / New * 100", "(New - Old) / Old * 100", "(New / Old) * 100", "(Old / New) * 100"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_042",
+      "question": "If the price of a stock goes from $40 to $50, what is the percentage increase?",
+      "options": ["10%", "20%", "25%", "80%"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_043",
+      "question": "A sample of bacteria doubles every hour. If you start with 100 bacteria, how many will there be after exactly 4 hours?",
+      "options": ["400", "800", "1600", "3200"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_044",
+      "question": "A radioactive isotope has a half-life of 5 days. What fraction of the original sample remains after 15 days?",
+      "options": ["1/3", "1/4", "1/6", "1/8"],
+      "correct_index": 3
+    },
+    {
+      "id": "pct_045",
+      "question": "A $50 shirt is discounted by 20%. What is the new price of the shirt?",
+      "options": ["$10", "$30", "$40", "$45"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_046",
+      "question": "If a price increases by 10% and then the new price is discounted by 10%, what is the net percentage change from the original price?",
+      "options": ["0% (No change)", "1% decrease", "1% increase", "10% decrease"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_047",
+      "question": "If a population grows by 20% each year, what is the annual growth multiplier (factor)?",
+      "options": ["0.2", "0.8", "1.2", "1.25"],
+      "correct_index": 2
+    },
+    {
+      "id": "pct_048",
+      "question": "What is 150% of 60?",
+      "options": ["30", "90", "110", "150"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_049",
+      "question": "If a quantity triples in size, what is its percentage increase?",
+      "options": ["100%", "200%", "300%", "400%"],
+      "correct_index": 1
+    },
+    {
+      "id": "pct_050",
+      "question": "A car loses 10% of its value each year. What percentage of its original value remains after 2 full years?",
+      "options": ["80%", "81%", "82%", "90%"],
+      "correct_index": 1
+    }
   ]
 }
